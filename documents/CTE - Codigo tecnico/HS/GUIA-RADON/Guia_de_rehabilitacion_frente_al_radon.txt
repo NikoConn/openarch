@@ -62,7 +62,8 @@ Solución A1. Barrera frente al radón
 Solución A1-1. Barrera frente al radón. Encuentros
 Solución A2. Sellado de fisuras, grietas, encuentros y juntas
 Solución A3. Puertas estancas
-Solución A4. Creación de sobrepresión
+Solución A4. C
+ reación de sobrepresión
 
 B: De reducción del radón antes de que penetre en los locales
 a proteger
@@ -115,11 +116,14 @@ Fichas de ejemplos:
 ■
 ■
 
-Ejemplo A1+B3. Barrera frente al radón + despresurización
+Ejemplo A1+B3. B
+ arrera frente al radón + despresurización
 con red de tubos
-Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B1. S
+ ellado + ventilación de la cámara sanitaria
 Ejemplo A2+B3. Sellado + despresurización con red de tubos
-Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+Ejemplo A2+C1. S
+ ellado + ventilación mecánica de los locales habitables
 
 Página web del Código Técnico de la Edificación:
 www.codigotecnico.org
@@ -164,21 +168,21 @@ Introducción ..................................................................
 
 O
 
-Objetivo y contenido de la Guía. ...................................................................................
+Objetivo y contenido de la Guía.....................................................................................
 
 6
 
 1
 
-El radón en el interior de los edificios . ...................................................................
+El radón en el interior de los edificios .....................................................................
 
 7
 
-¿Qué es el radón?. ......................................................................................................................
+¿Qué es el radón?........................................................................................................................
 
 7
 
-¿Cómo llega el radón a los edificios?. ......................................................................
+¿Cómo llega el radón a los edificios?........................................................................
 
 7
 
@@ -187,7 +191,7 @@ entrada y acumulación de radón proveniente del terreno?.................
 
 9
 
-Diagnóstico de la existencia de radón . .................................................................
+Diagnóstico de la existencia de radón ...................................................................
 
 12
 
@@ -203,12 +207,12 @@ Medición de la concentración de radón........................................
 
 12
 
-Soluciones de protección más habituales . .......................................................
+Soluciones de protección más habituales .........................................................
 
 15
 
 Mecanismos de entrada del radón procedente
-del terreno en los edificios. ................................................................................................
+del terreno en los edificios..................................................................................................
 
 15
 

@@ -1,212 +1,212 @@
 CTE - Codigo tecnico:
   SE:
-    - name: DBSE
-      url: "https://www.codigotecnico.org/pdf/Documentos/SE/DBSE.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-    - name: DBSE-A
-      url: "https://www.codigotecnico.org/pdf/Documentos/SE/DBSE-A.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-    - name: DBSE-AE
-      url: "https://www.codigotecnico.org/pdf/Documentos/SE/DBSE-AE.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-    - name: DBSE-C
-      url: "https://www.codigotecnico.org/pdf/Documentos/SE/DBSE-C.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-    - name: DBSE-F
-      url: "https://www.codigotecnico.org/pdf/Documentos/SE/DBSE-F.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-    - name: DBSE-M
-      url: "https://www.codigotecnico.org/pdf/Documentos/SE/DBSE-M.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-    - name: GuiaCE
-      url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaCE.pdf"
-      last_modified: null
-    - name: AvanceGuiaCE
-      url: "https://www.codigotecnico.org/pdf/GuiasyOtros/AvanceGuiaCE.pdf"
-      last_modified: null
-    - name: Conceptos_basicos_RD_732_2019
-      url: "https://www.codigotecnico.org/pdf/GuiasyOtros/Conceptos_basicos_RD_732_2019.pdf"
-      last_modified: null
+  - name: DBSE
+    url: https://www.codigotecnico.org/pdf/Documentos/SE/DBSE.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DBSE-A
+    url: https://www.codigotecnico.org/pdf/Documentos/SE/DBSE-A.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DBSE-AE
+    url: https://www.codigotecnico.org/pdf/Documentos/SE/DBSE-AE.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DBSE-C
+    url: https://www.codigotecnico.org/pdf/Documentos/SE/DBSE-C.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DBSE-F
+    url: https://www.codigotecnico.org/pdf/Documentos/SE/DBSE-F.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DBSE-M
+    url: https://www.codigotecnico.org/pdf/Documentos/SE/DBSE-M.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: GuiaCE
+    url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaCE.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:20 GMT
+  - name: AvanceGuiaCE
+    url: https://www.codigotecnico.org/pdf/GuiasyOtros/AvanceGuiaCE.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:20 GMT
+  - name: Conceptos_basicos_RD_732_2019
+    url: https://www.codigotecnico.org/pdf/GuiasyOtros/Conceptos_basicos_RD_732_2019.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:20 GMT
   SI:
-    - name: DBSI
-      url: "https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-    - name: DcmSI
-      url: "https://www.codigotecnico.org/pdf/Documentos/SI/DcmSI.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-    - name: DccSI
-      url: "https://www.codigotecnico.org/pdf/Documentos/SI/DccSI.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-    - name: Conceptos_basicos_RD_732_2019
-      url: "https://www.codigotecnico.org/pdf/GuiasyOtros/Conceptos_basicos_RD_732_2019.pdf"
-      last_modified: null
-    - name: "DA_DB-SI_1_Justficación_documental_productos_de_construcción_12-2022"
-      url: "https://www.codigotecnico.org/pdf/Documentos/SI/DA_DB-SI_1_Justficación_documental_productos_de_construcción_12-2022.pdf"
-      last_modified: null
-    - name: "DA DB-SI 2 - Normas puertas y mecanismos 4-2016"
-      url: "https://www.codigotecnico.org/pdf/Documentos/SI/DA%20DB-SI%202%20-%20Normas%20puertas%20y%20mecanismos%204-2016.pdf"
-      last_modified: null
-    - name: DA_DB-SI_3_-_Mantenimiento_puertas_peatonales_6-2011
-      url: "https://www.codigotecnico.org/pdf/Documentos/SI/DA_DB-SI_3_-_Mantenimiento_puertas_peatonales_6-2011.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-    - name: DA_DB-SI_4_Espacio_exterior_seguro_7-2016
-      url: "https://www.codigotecnico.org/pdf/Documentos/SI/DA_DB-SI_4_Espacio_exterior_seguro_7-2016.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-    - name: boe
-      url: "https://www.boe.es/eli/es/rd/2006/03/17/314/con"
-      last_modified: null
+  - name: DBSI
+    url: https://www.codigotecnico.org/pdf/Documentos/SI/DBSI.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DcmSI
+    url: https://www.codigotecnico.org/pdf/Documentos/SI/DcmSI.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DccSI
+    url: https://www.codigotecnico.org/pdf/Documentos/SI/DccSI.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: Conceptos_basicos_RD_732_2019
+    url: https://www.codigotecnico.org/pdf/GuiasyOtros/Conceptos_basicos_RD_732_2019.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:20 GMT
+  - name: DA_DB-SI_1_Justficación_documental_productos_de_construcción_12-2022
+    url: https://www.codigotecnico.org/pdf/Documentos/SI/DA_DB-SI_1_Justficación_documental_productos_de_construcción_12-2022.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DA DB-SI 2 - Normas puertas y mecanismos 4-2016
+    url: https://www.codigotecnico.org/pdf/Documentos/SI/DA%20DB-SI%202%20-%20Normas%20puertas%20y%20mecanismos%204-2016.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DA_DB-SI_3_-_Mantenimiento_puertas_peatonales_6-2011
+    url: https://www.codigotecnico.org/pdf/Documentos/SI/DA_DB-SI_3_-_Mantenimiento_puertas_peatonales_6-2011.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DA_DB-SI_4_Espacio_exterior_seguro_7-2016
+    url: https://www.codigotecnico.org/pdf/Documentos/SI/DA_DB-SI_4_Espacio_exterior_seguro_7-2016.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: boe
+    url: https://www.boe.es/eli/es/rd/2006/03/17/314/con
+    last_modified: null
   SUA:
-    - name: DBSUA
-      url: "https://www.codigotecnico.org/pdf/Documentos/SUA/DBSUA.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:20 GMT
-    - name: DcmSUA
-      url: "https://www.codigotecnico.org/pdf/Documentos/SUA/DcmSUA.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:20 GMT
-    - name: DccSUA
-      url: "https://www.codigotecnico.org/pdf/Documentos/SUA/DccSUA.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:20 GMT
-    - name: Conceptos_basicos_RD_732_2019
-      url: "https://www.codigotecnico.org/pdf/GuiasyOtros/Conceptos_basicos_RD_732_2019.pdf"
-      last_modified: null
-    - name: DA_SUA_1_-_Clasificacixn_de_los_vidrios_a_impacto_6-2011
-      url: "https://www.codigotecnico.org/pdf/Documentos/SUA/DA_SUA_1_-_Clasificacixn_de_los_vidrios_a_impacto_6-2011.pdf"
-      last_modified: null
-    - name: DA_SUA_2_Adecuacion
-      url: "https://www.codigotecnico.org/pdf/Documentos/SUA/DA_SUA_2_Adecuacion.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-    - name: DA_SUA_3_Resbaladicidad
-      url: "https://www.codigotecnico.org/pdf/Documentos/SUA/DA_SUA_3_Resbaladicidad.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DBSUA
+    url: https://www.codigotecnico.org/pdf/Documentos/SUA/DBSUA.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:20 GMT
+  - name: DcmSUA
+    url: https://www.codigotecnico.org/pdf/Documentos/SUA/DcmSUA.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:20 GMT
+  - name: DccSUA
+    url: https://www.codigotecnico.org/pdf/Documentos/SUA/DccSUA.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:20 GMT
+  - name: Conceptos_basicos_RD_732_2019
+    url: https://www.codigotecnico.org/pdf/GuiasyOtros/Conceptos_basicos_RD_732_2019.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:20 GMT
+  - name: DA_SUA_1_-_Clasificacixn_de_los_vidrios_a_impacto_6-2011
+    url: https://www.codigotecnico.org/pdf/Documentos/SUA/DA_SUA_1_-_Clasificacixn_de_los_vidrios_a_impacto_6-2011.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DA_SUA_2_Adecuacion
+    url: https://www.codigotecnico.org/pdf/Documentos/SUA/DA_SUA_2_Adecuacion.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+  - name: DA_SUA_3_Resbaladicidad
+    url: https://www.codigotecnico.org/pdf/Documentos/SUA/DA_SUA_3_Resbaladicidad.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:19 GMT
   HE:
-    - name: DBHE
-      url: "https://www.codigotecnico.org/pdf/Documentos/HE/DBHE.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:16 GMT
-    - name: DcmHE
-      url: "https://www.codigotecnico.org/pdf/Documentos/HE/DcmHE.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:17 GMT
-    - name: DccHE
-      url: "https://www.codigotecnico.org/pdf/Documentos/HE/DccHE.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:17 GMT
-    - name: Conceptos_basicos_RD_732_2019
-      url: "https://www.codigotecnico.org/pdf/GuiasyOtros/Conceptos_basicos_RD_732_2019.pdf"
-      last_modified: null
-    - name: Guia_aplicacion_DBHE2019
-      url: "https://www.codigotecnico.org/pdf/GuiasyOtros/Guia_aplicacion_DBHE2019.pdf"
-      last_modified: null
-    - name: Guia_aplicacion_DBHE2019_Ejemplos_I
-      url: "https://www.codigotecnico.org/pdf/GuiasyOtros/Guia_aplicacion_DBHE2019_Ejemplos_I.pdf"
-      last_modified: null
-    - name: Guia_aplicacion_DBHE2019_Ejemplos_II
-      url: "https://www.codigotecnico.org/pdf/GuiasyOtros/Guia_aplicacion_DBHE2019_Ejemplos_II.pdf"
-      last_modified: null
-    - name: Guia_aplicacion_DBHE2019_Ejemplos_III
-      url: "https://www.codigotecnico.org/pdf/GuiasyOtros/Guia_aplicacion_DBHE2019_Ejemplos_III.pdf"
-      last_modified: null
-    - name: Guia_aplicacion_DBHE2019_Ejemplos_IV
-      url: "https://www.codigotecnico.org/pdf/GuiasyOtros/Guia_aplicacion_DBHE2019_Ejemplos_IV.pdf"
-      last_modified: null
-    - name: DA_DB-HE-1_Calculo_de_parametros_caracteristicos_de_la_envolvente
-      url: "https://www.codigotecnico.org/pdf/Documentos/HE/DA_DB-HE-1_Calculo_de_parametros_caracteristicos_de_la_envolvente.pdf"
-      last_modified: null
-    - name: DA-DB-HE-2_-_Condensaciones
-      url: "https://www.codigotecnico.org/pdf/Documentos/HE/DA-DB-HE-2_-_Condensaciones.pdf"
-      last_modified: null
-    - name: DA-DB-HE-3_Puentes_termicos
-      url: "https://www.codigotecnico.org/pdf/Documentos/HE/DA-DB-HE-3_Puentes_termicos.pdf"
-      last_modified: null
-    - name: "20170202-DOC-DB-HE-0-Climas de referencia"
-      url: "https://www.codigotecnico.org/pdf/Documentos/HE/20170202-DOC-DB-HE-0-Climas%20de%20referencia.pdf"
-      last_modified: null
-    - name: boe
-      url: "https://www.boe.es/eli/es/rd/2006/03/17/314/con"
-      last_modified: null
+  - name: DBHE
+    url: https://www.codigotecnico.org/pdf/Documentos/HE/DBHE.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:16 GMT
+  - name: DcmHE
+    url: https://www.codigotecnico.org/pdf/Documentos/HE/DcmHE.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:17 GMT
+  - name: DccHE
+    url: https://www.codigotecnico.org/pdf/Documentos/HE/DccHE.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:17 GMT
+  - name: Conceptos_basicos_RD_732_2019
+    url: https://www.codigotecnico.org/pdf/GuiasyOtros/Conceptos_basicos_RD_732_2019.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:20 GMT
+  - name: Guia_aplicacion_DBHE2019
+    url: https://www.codigotecnico.org/pdf/GuiasyOtros/Guia_aplicacion_DBHE2019.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+  - name: Guia_aplicacion_DBHE2019_Ejemplos_I
+    url: https://www.codigotecnico.org/pdf/GuiasyOtros/Guia_aplicacion_DBHE2019_Ejemplos_I.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+  - name: Guia_aplicacion_DBHE2019_Ejemplos_II
+    url: https://www.codigotecnico.org/pdf/GuiasyOtros/Guia_aplicacion_DBHE2019_Ejemplos_II.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+  - name: Guia_aplicacion_DBHE2019_Ejemplos_III
+    url: https://www.codigotecnico.org/pdf/GuiasyOtros/Guia_aplicacion_DBHE2019_Ejemplos_III.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:22 GMT
+  - name: Guia_aplicacion_DBHE2019_Ejemplos_IV
+    url: https://www.codigotecnico.org/pdf/GuiasyOtros/Guia_aplicacion_DBHE2019_Ejemplos_IV.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:22 GMT
+  - name: DA_DB-HE-1_Calculo_de_parametros_caracteristicos_de_la_envolvente
+    url: https://www.codigotecnico.org/pdf/Documentos/HE/DA_DB-HE-1_Calculo_de_parametros_caracteristicos_de_la_envolvente.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:16 GMT
+  - name: DA-DB-HE-2_-_Condensaciones
+    url: https://www.codigotecnico.org/pdf/Documentos/HE/DA-DB-HE-2_-_Condensaciones.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:16 GMT
+  - name: DA-DB-HE-3_Puentes_termicos
+    url: https://www.codigotecnico.org/pdf/Documentos/HE/DA-DB-HE-3_Puentes_termicos.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:16 GMT
+  - name: 20170202-DOC-DB-HE-0-Climas de referencia
+    url: https://www.codigotecnico.org/pdf/Documentos/HE/20170202-DOC-DB-HE-0-Climas%20de%20referencia.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:16 GMT
+  - name: boe
+    url: https://www.boe.es/eli/es/rd/2006/03/17/314/con
+    last_modified: null
   HR:
-    - name: DBHR
-      url: "https://www.codigotecnico.org/pdf/Documentos/HR/DBHR.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:17 GMT
-    - name: DccHR
-      url: "https://www.codigotecnico.org/pdf/Documentos/HR/DccHR.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:17 GMT
-    - name: Conceptos_basicos_RD_732_2019
-      url: "https://www.codigotecnico.org/pdf/GuiasyOtros/Conceptos_basicos_RD_732_2019.pdf"
-      last_modified: null
-    - name: GUIA_DBHR_201612
-      url: "https://www.codigotecnico.org/pdf/Documentos/HR/GUIA_DBHR_201612.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:17 GMT
-    - name: DA-DBHR-1
-      url: "https://www.codigotecnico.org/pdf/Documentos/HR/DA-DBHR-1.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:17 GMT
-    - name: DA-DBHR-2
-      url: "https://www.codigotecnico.org/pdf/Documentos/HR/DA-DBHR-2.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:17 GMT
-    - name: IEE_2016
-      url: "https://www.codigotecnico.org/pdf/Documentos/HR/IEE_2016.pdf"
-      last_modified: Thu, 19 Feb 2026 08:50:17 GMT
+  - name: DBHR
+    url: https://www.codigotecnico.org/pdf/Documentos/HR/DBHR.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:17 GMT
+  - name: DccHR
+    url: https://www.codigotecnico.org/pdf/Documentos/HR/DccHR.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:17 GMT
+  - name: Conceptos_basicos_RD_732_2019
+    url: https://www.codigotecnico.org/pdf/GuiasyOtros/Conceptos_basicos_RD_732_2019.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:20 GMT
+  - name: GUIA_DBHR_201612
+    url: https://www.codigotecnico.org/pdf/Documentos/HR/GUIA_DBHR_201612.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:17 GMT
+  - name: DA-DBHR-1
+    url: https://www.codigotecnico.org/pdf/Documentos/HR/DA-DBHR-1.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:17 GMT
+  - name: DA-DBHR-2
+    url: https://www.codigotecnico.org/pdf/Documentos/HR/DA-DBHR-2.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:17 GMT
+  - name: IEE_2016
+    url: https://www.codigotecnico.org/pdf/Documentos/HR/IEE_2016.pdf
+    last_modified: Thu, 19 Feb 2026 08:50:17 GMT
   HS:
     _root:
-      - name: DBHS
-        url: "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf"
-        last_modified: Thu, 19 Feb 2026 08:50:18 GMT
-      - name: DcmHS
-        url: "https://www.codigotecnico.org/pdf/Documentos/HS/DcmHS.pdf"
-        last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-      - name: DccHS
-        url: "https://www.codigotecnico.org/pdf/Documentos/HS/DccHS.pdf"
-        last_modified: Thu, 19 Feb 2026 08:50:19 GMT
-      - name: Conceptos_basicos_RD_732_2019
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/Conceptos_basicos_RD_732_2019.pdf"
-        last_modified: null
+    - name: DBHS
+      url: https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:18 GMT
+    - name: DcmHS
+      url: https://www.codigotecnico.org/pdf/Documentos/HS/DcmHS.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+    - name: DccHS
+      url: https://www.codigotecnico.org/pdf/Documentos/HS/DccHS.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:19 GMT
+    - name: Conceptos_basicos_RD_732_2019
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/Conceptos_basicos_RD_732_2019.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:20 GMT
     GUIA-RADON:
-      - name: Guia_de_rehabilitacion_frente_al_radon
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Guia_de_rehabilitacion_frente_al_radon.pdf"
-        last_modified: null
-      - name: "Guia_de_rehabilitacion_frente_al_radon+Fichas"
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Guia_de_rehabilitacion_frente_al_radon+Fichas.pdf"
-        last_modified: null
-      - name: Solucion_A1_Barrera_frente_al_radon
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_A1_Barrera_frente_al_radon.pdf"
-        last_modified: null
-      - name: Solucion_A1-1_Barrera_frente_al_radon._Encuentros
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_A1-1_Barrera_frente_al_radon._Encuentros.pdf"
-        last_modified: null
-      - name: Solucion_A2_Sellado_de_fisuras_grietas_encuentros_y_juntas
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_A2_Sellado_de_fisuras_grietas_encuentros_y_juntas.pdf"
-        last_modified: null
-      - name: Solucion_A3_Puertas_estancas
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_A3_Puertas_estancas.pdf"
-        last_modified: null
-      - name: Solucion_A4_Creacion_de_sobrepresion
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_A4_Creacion_de_sobrepresion.pdf"
-        last_modified: null
-      - name: Solucion_B1_Ventilacion_del_espacio_de_contencion_camara_de_aire
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_B1_Ventilacion_del_espacio_de_contencion_camara_de_aire.pdf"
-        last_modified: null
-      - name: Solucion_B2_Ventilacion_del_espacio_de_contencion_locales_no_habitables
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_B2_Ventilacion_del_espacio_de_contencion_locales_no_habitables.pdf"
-        last_modified: null
-      - name: Solucion_B3_Despresurizacion_del_terreno
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_B3_Despresurizacion_del_terreno.pdf"
-        last_modified: null
-      - name: Solucion_C1_Ventilacion_de_los_locales_habitables
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_C1_Ventilacion_de_los_locales_habitables.pdf"
-        last_modified: null
-      - name: Ejemplo_A1+B3_Barrera_frente_al_radon+despresurizacion_con_red_de_tubos
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Ejemplo_A1+B3_Barrera_frente_al_radon+despresurizacion_con_red_de_tubos.pdf"
-        last_modified: null
-      - name: Ejemplo_A2+B1_Sellado+ventilacion_de_la_camara_sanitaria
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Ejemplo_A2+B1_Sellado+ventilacion_de_la_camara_sanitaria.pdf"
-        last_modified: null
-      - name: Ejemplo_A2+B3_Sellado+despresurizacion_con_red_de_tubos
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Ejemplo_A2+B3_Sellado+despresurizacion_con_red_de_tubos.pdf"
-        last_modified: null
-      - name: Ejemplo_A2+C1_Sellado+ventilacion_mecanica_de_los_locales_habitables
-        url: "https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Ejemplo_A2+C1_Sellado+ventilacion_mecanica_de_los_locales_habitables.pdf"
-        last_modified: null
+    - name: Guia_de_rehabilitacion_frente_al_radon
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Guia_de_rehabilitacion_frente_al_radon.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Guia_de_rehabilitacion_frente_al_radon+Fichas
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Guia_de_rehabilitacion_frente_al_radon+Fichas.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Solucion_A1_Barrera_frente_al_radon
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_A1_Barrera_frente_al_radon.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Solucion_A1-1_Barrera_frente_al_radon._Encuentros
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_A1-1_Barrera_frente_al_radon._Encuentros.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Solucion_A2_Sellado_de_fisuras_grietas_encuentros_y_juntas
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_A2_Sellado_de_fisuras_grietas_encuentros_y_juntas.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Solucion_A3_Puertas_estancas
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_A3_Puertas_estancas.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Solucion_A4_Creacion_de_sobrepresion
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_A4_Creacion_de_sobrepresion.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Solucion_B1_Ventilacion_del_espacio_de_contencion_camara_de_aire
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_B1_Ventilacion_del_espacio_de_contencion_camara_de_aire.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Solucion_B2_Ventilacion_del_espacio_de_contencion_locales_no_habitables
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_B2_Ventilacion_del_espacio_de_contencion_locales_no_habitables.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Solucion_B3_Despresurizacion_del_terreno
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_B3_Despresurizacion_del_terreno.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Solucion_C1_Ventilacion_de_los_locales_habitables
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Solucion_C1_Ventilacion_de_los_locales_habitables.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Ejemplo_A1+B3_Barrera_frente_al_radon+despresurizacion_con_red_de_tubos
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Ejemplo_A1+B3_Barrera_frente_al_radon+despresurizacion_con_red_de_tubos.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Ejemplo_A2+B1_Sellado+ventilacion_de_la_camara_sanitaria
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Ejemplo_A2+B1_Sellado+ventilacion_de_la_camara_sanitaria.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Ejemplo_A2+B3_Sellado+despresurizacion_con_red_de_tubos
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Ejemplo_A2+B3_Sellado+despresurizacion_con_red_de_tubos.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
+    - name: Ejemplo_A2+C1_Sellado+ventilacion_mecanica_de_los_locales_habitables
+      url: https://www.codigotecnico.org/pdf/GuiasyOtros/GuiaRadon/Ejemplo_A2+C1_Sellado+ventilacion_mecanica_de_los_locales_habitables.pdf
+      last_modified: Thu, 19 Feb 2026 08:50:21 GMT
 GVA:
   _root:
-    - name: plan-general-ordenacion-urbana
-      url: null
-      last_modified: null
-    - name: "DECRETO 65-2019"
-      url: null
-      last_modified: null
+  - name: plan-general-ordenacion-urbana
+    url: null
+    last_modified: null
+  - name: DECRETO 65-2019
+    url: null
+    last_modified: null

@@ -175,8 +175,8 @@ Esta ventilación se considera insuficiente. Existen malos olores en los aseos q
 climatológicas adversas el resto de locales tampoco
 se ventilan adecuadamente.
 
-2
 A2+C1 2
+2
 
 Ejemplo A2 + C1 • Sellado + ventilación mecánica de los locales habitables
 
@@ -258,8 +258,8 @@ equipo de ventilación
 
 Figura 3 - Esquema en planta de la solución propuesta
 
-3
 A2+C1 3
+3
 
 Ejemplo A2 + C1 • Sellado + ventilación mecánica de los locales habitables
 
@@ -284,10 +284,11 @@ Figura 5 - Equipo de ventilación
 
 Figura 7 - Abertura de extracción de aire en un aseo
 
-Figura 8 - Red de conductos de impulsión y expulsión
+Figura 8 - R
+ ed de conductos de impulsión y expulsión
 
-4
 A2+C1 4
+4
 
 Ejemplo A2 + C1 • Sellado + ventilación mecánica de los locales habitables
 
@@ -350,7 +351,8 @@ Solución A1. Barrera frente al radón
 Solución A1-1. Barrera frente al radón. Encuentros
 Solución A2. Sellado de fisuras, grietas, encuentros y juntas
 Solución A3. Puertas estancas
-Solución A4. Creación de sobrepresión
+Solución A4. C
+ reación de sobrepresión
 
 B: De reducción del radón antes de que penetre en los locales
 a proteger
@@ -391,7 +393,8 @@ Fichas de ejemplos:
 ■
 ■
 
-Ejemplo A1+B3. Barrera frente al radón + despresurización
+Ejemplo A1+B3. B
+ arrera frente al radón + despresurización
 con red de tubos
 Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
 Ejemplo A2+B3. Sellado + despresurización con red de tubos
@@ -419,7 +422,7 @@ Edición actual: septiembre 2020
 
 Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
 
-5
 A2+C1 5
+5
 
 

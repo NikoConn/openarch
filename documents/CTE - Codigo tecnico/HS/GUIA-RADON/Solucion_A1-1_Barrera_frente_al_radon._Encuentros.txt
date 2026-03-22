@@ -283,7 +283,8 @@ Solución A1. Barrera frente al radón
 Solución A1-1. Barrera frente al radón. Encuentros
 Solución A2. Sellado de fisuras, grietas, encuentros y juntas
 Solución A3. Puertas estancas
-Solución A4. Creación de sobrepresión
+Solución A4. C
+ reación de sobrepresión
 
 B: De reducción del radón antes de que penetre en los locales
 a proteger

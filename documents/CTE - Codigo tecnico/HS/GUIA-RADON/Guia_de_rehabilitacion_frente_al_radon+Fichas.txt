@@ -122,7 +122,8 @@ Solución A1. Barrera frente al radón
 Solución A1-1. Barrera frente al radón. Encuentros
 Solución A2. Sellado de fisuras, grietas, encuentros y juntas
 Solución A3. Puertas estancas
-Solución A4. Creación de sobrepresión
+Solución A4. C
+ reación de sobrepresión
 
 B: De reducción del radón antes de que penetre en los locales
 a proteger
@@ -145,11 +146,14 @@ Fichas de ejemplos:
 ■
 ■
 
-Ejemplo A1+B3. Barrera frente al radón + despresurización
+Ejemplo A1+B3. B
+ arrera frente al radón + despresurización
 con red de tubos
-Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B1. S
+ ellado + ventilación de la cámara sanitaria
 Ejemplo A2+B3. Sellado + despresurización con red de tubos
-Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+Ejemplo A2+C1. S
+ ellado + ventilación mecánica de los locales habitables
 
 ISBN: 978-84-498-1045-9
 NIPO: 796-20-136-5
@@ -217,21 +221,21 @@ Introducción ..................................................................
 
 O
 
-Objetivo y contenido de la Guía. ...................................................................................
+Objetivo y contenido de la Guía.....................................................................................
 
 8
 
 1
 
-El radón en el interior de los edificios . ...................................................................
+El radón en el interior de los edificios .....................................................................
 
 9
 
-¿Qué es el radón?. ......................................................................................................................
+¿Qué es el radón?........................................................................................................................
 
 9
 
-¿Cómo llega el radón a los edificios?. ......................................................................
+¿Cómo llega el radón a los edificios?........................................................................
 
 9
 
@@ -240,7 +244,7 @@ entrada y acumulación de radón proveniente del terreno?.................
 
 11
 
-Diagnóstico de la existencia de radón . .................................................................
+Diagnóstico de la existencia de radón ...................................................................
 
 14
 
@@ -267,12 +271,12 @@ Medición de la concentración de radón........................................
 
 3
 
-Soluciones de protección más habituales . .......................................................
+Soluciones de protección más habituales .........................................................
 
 17
 
 Mecanismos de entrada del radón procedente
-del terreno en los edificios. ................................................................................................
+del terreno en los edificios..................................................................................................
 
 17
 
@@ -1789,11 +1793,13 @@ común.
 OBSERVACIONES
 Disposición de la barrera sobre un
 muro de sótano
-En el caso de que la barrera frente al radón se
+ n el caso de que la barrera frente al radón se
+E
 vaya a instalar cubriendo un muro de sótano, la
 barrera tendrá que adherirse a la superficie.
 
-Mejora de la protección frente a la
+ ejora de la protección frente a la
+M
 humedad
 En el caso de que se quiera mejorar la protección
 frente a la humedad disponiendo una barrera impermeabilizante en el cerramiento en contacto
@@ -3655,7 +3661,7 @@ hueco de comunicación
 3
 2
 
-Figura 9 - Instalación de elementos de captación (izda.) y apertura de
+Figura 9 - Instalación de elementos de captación (izda.) y apertura de
 huecos (drcha.) en caso de obstáculos
 Figura 8 - Disposición de barrera para un correcto funcionamiento
 
@@ -4013,8 +4019,9 @@ tradicional descrita anteriormente.
 La ventilación
 tradicional de las
 2000
-viviendas 1800
-como método para eliminar
+viviendas como
+método para eliminar
+1800
 el radón 1600
 1400
 
@@ -4046,10 +4053,14 @@ y que reforzaban la ventilación puntual. Tras una
 ventilación puntual
 comienzan a acumularse los
 1400
-distintosBq/m 1200
-contaminantes que proceden del pro1000
+1200
+distintosBq/m
+contaminantes
+que proceden del pro1000
 pio edificio y su
-uso, así como los provenientes
+uso,
+así
+como los provenientes
 800
 600
 del terreno como el radón (Figura 7). La apertura
@@ -4057,7 +4068,9 @@ del terreno como el radón (Figura 7). La apertura
 puntual de ventanas,
 por tanto, ayuda a eliminar
 200
-el radón en ese 0período de tiempo pero, por regla
+0
+el radón en ese período
+de tiempo pero, por regla
 general, no es suficiente para mantener una concentración de radón adecuada a lo largo del día
 
 Sin embargo, es importante señalar que en casos de niveles de radón altos es probable que
@@ -4456,8 +4469,8 @@ rehabilitación frente al radón.
 Se diseña un sistema de despresurización siguiendo
 las directrices indicadas en la Solución B3 que consta
 
-2
 A1+B3 2
+2
 
 Ejemplo A1+B3 • Barrera frente al radón + despresurización con red de tubos
 
@@ -4550,8 +4563,8 @@ Figura 2 - Sección de la solución
 
 Figura 3 - Distribución de la red de tubos perforados
 
-3
 A1+B3 3
+3
 
 Ejemplo A1+B3 • Barrera frente al radón + despresurización con red de tubos
 
@@ -4608,8 +4621,8 @@ Figura 9 - Colocación de la capa antipunzonante sobre la grava
 
 Figura 5 - Demolición de la solera existente
 
-4
 A1+B3 4
+4
 
 Ejemplo A1+B3 • Barrera frente al radón + despresurización con red de tubos
 
@@ -4636,8 +4649,8 @@ Figura 12 - Sellado de la lámina en la junta perimetral
 
 Figura 13 - Lámina colocada
 
-5
 A1+B3 5
+5
 
 EJEMPLO
 
@@ -4769,8 +4782,8 @@ dimensión aproximada de 15 x 20 cm cada una (Figura
 4). Sin embargo, la zona este de la cámara no presenta
 ventilación.
 
-2
 A2+B1 2
+2
 
 Ejemplo A2 + B1 • Sellado + ventilación de la cámara sanitaria
 1
@@ -4820,8 +4833,8 @@ la Solución A2.
 
 Figura 7 - Aberturas de ventilación finalizadas con rejillas
 
-3
 A2+B1 3
+3
 
 Ejemplo A2 + B1 • Sellado + ventilación de la cámara sanitaria
 
@@ -4838,8 +4851,8 @@ el promedio de concentración de radón se reduce de
 Reducción de la concentración promedio de un 47%
 frente a la concentración previa a la intervención.
 
-4
 A2+B1 4
+4
 
 EJEMPLO
 
@@ -5020,8 +5033,8 @@ punto.
 solera en función de la concentración de radón existente de la Guía de
 rehabilitación frente al radón.
 
-2
 A2+B3 2
+2
 
 Ejemplo A2+B3 • Sellado + despresurización con red de tubos
 
@@ -5114,8 +5127,8 @@ boca de expulsión
 Figura 3 - Sección de la solución
 (2) E. Muñoz, B. Frutos, M. Olaya, J. Sanchez “A finite element mode development for simulation of the impact of slab thickness, joints, and membranes on indoor radon concentration” Journal of Environmental Radioactivity 177 (2017) 280e289.
 
-3
 A2+B3 3
+3
 
 Ejemplo A2+B3 • Sellado + despresurización con red de tubos
 
@@ -5185,8 +5198,8 @@ encuentro con el pilar siguiendo las directrices indicadas en la Solución A2.
 Figura 5 - Zanja para la instalación del tubo perforado y la capa de
 grava
 
-4
 A2+B3 4
+4
 
 Ejemplo A2+B3 • Sellado + despresurización con red de tubos
 
@@ -5201,8 +5214,8 @@ concentración previa a la intervención.
 
 Figura 7 - Conducto de extracción, extractor y expulsión en cubierta
 
-5
 A2+B3 5
+5
 
 EJEMPLO
 
@@ -5381,8 +5394,8 @@ Esta ventilación se considera insuficiente. Existen malos olores en los aseos q
 climatológicas adversas el resto de locales tampoco
 se ventilan adecuadamente.
 
-2
 A2+C1 2
+2
 
 Ejemplo A2 + C1 • Sellado + ventilación mecánica de los locales habitables
 
@@ -5464,8 +5477,8 @@ equipo de ventilación
 
 Figura 3 - Esquema en planta de la solución propuesta
 
-3
 A2+C1 3
+3
 
 Ejemplo A2 + C1 • Sellado + ventilación mecánica de los locales habitables
 
@@ -5490,10 +5503,11 @@ Figura 5 - Equipo de ventilación
 
 Figura 7 - Abertura de extracción de aire en un aseo
 
-Figura 8 - Red de conductos de impulsión y expulsión
+Figura 8 - R
+ ed de conductos de impulsión y expulsión
 
-4
 A2+C1 4
+4
 
 GOBIERNO
 DE ESPAÑA

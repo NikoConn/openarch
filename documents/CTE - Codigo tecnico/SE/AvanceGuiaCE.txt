@@ -567,8 +567,8 @@ estadístico
 
 Criterio de aceptación
 
-f(x̅ ) = ̅x (1-1.66δ*) ≥ f ck
-f(x̅ ) = ̅x -1.66s *) ≥ f ck
+f(x̅ ) = x̅ (1-1.66δ*) ≥ f ck
+f(x̅ ) = x̅ -1.66s *) ≥ f ck
 
 Se han controlado más de 36
 amasadas
@@ -949,9 +949,8 @@ Con un mínimo de:
 
 (v
 
-VRd
-=
-,c
+V=
+Rd , c
 
 min
 
@@ -1123,9 +1122,8 @@ Se establece un método general para el coeficiente
 No hay método general.
 M
 u
-β 1
-=
-+ k Ed ⋅ 1
+β=
+1 + k Ed ⋅ 1
 VEd W1
 
 A19 6.4.3 (6)
@@ -1169,32 +1167,7 @@ Limitación de la resistencia a punzonamiento con Limitación de la resistencia 
 armadura de cortante
 armadura de cortante
 =
-v
-0,
-75
-v
-+
-1,5
-d
-/
-s
-A
-f
-1/
-u
-d
-sen
-α
-(
-)
-(
-)
-)
-Rd , cs
-Rd , c
-r
-sw ywd , ef (
-1
+vRd ,cs 0, 75vRd ,c + 1,5 ( d / sr ) Asw f ywd ,ef (1/ ( u1d ) ) senα
 No existe esa limitación.
 vRd ,cs ≤ kmáx ⋅ vRd ,c
 
@@ -1328,16 +1301,14 @@ ffcd 
 0,40 fcd
 
 f 
-Fuente: Fuente:
-Montoya
+
+Fuente: Montoya
 esencial,
-16ª
-ed,0,61
-Cinter
-− ck  f cd
-Montoya
-esencial, 16ª ed.
-Cinter
+ed,0,Cinter
+61 − ck  f cd
+Fuente: Montoya
+esencial, 16ª16ª
+ed. Cinter
 
 A19 6.5.4
 Nudos
@@ -1394,8 +1365,8 @@ f ck 
 
 f 
 
-0, 3
-85·11−− ck  f cd
+3·11−− ck  ffcd
+0,85
 cd
  250 
 
@@ -1410,9 +1381,8 @@ f 
 250 
 
 Fuente: Montoya esencial,0,70
-16ª f
-ed.
-cd Cinter
+16ª ed.
+fcd Cinter
 
 f 
 
@@ -1420,13 +1390,12 @@ f 
 250 
 
 
-Fuente: Fuente:
-Montoya
+Fuente: Montoya
 esencial,
-16ªCinter
 ed, Cinter
-Montoya
-esencial, 16ª ed.
+Fuente: Montoya
+esencial, 16ª16ª
+ed. Cinter
 20
 
 COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
@@ -1700,8 +1669,9 @@ k1 = 0,125
 k4 = 0, 425
 Para estructuras de hormigón armado, a flexión.
 
-S r ,máx
-= 3, 4c + 0,17φ / ρ
+S r=
+3, 4c + 0,17φ / ρ
+, máx
 
 Comentarios
 En la fórmula del CE desaparece la influencia de la separación entre barras y se le da más importancia al recubrimiento
@@ -2139,9 +2109,7 @@ A19 9.2.2 (6)
 Separación longitudinal máxima de armadura de
 cortante
 =
-s
-0, 75d (1 + cot α )
-l , máx
+sl ,máx 0, 75d (1 + cot α )
 
 44.2.3.4.1
 Separación longitudinal máxima de armadura de
@@ -2168,9 +2136,7 @@ verticales
 st ,máx= d < 500mm
 
 =
-s
-0, 75d < 600mm
-t , máx
+st ,máx 0, 75d < 600mm
 
 de armadura de cortante
 

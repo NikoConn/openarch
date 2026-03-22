@@ -177,8 +177,8 @@ punto.
 solera en función de la concentración de radón existente de la Guía de
 rehabilitación frente al radón.
 
-2
 A2+B3 2
+2
 
 Ejemplo A2+B3 • Sellado + despresurización con red de tubos
 
@@ -271,8 +271,8 @@ boca de expulsión
 Figura 3 - Sección de la solución
 (2) E. Muñoz, B. Frutos, M. Olaya, J. Sanchez “A finite element mode development for simulation of the impact of slab thickness, joints, and membranes on indoor radon concentration” Journal of Environmental Radioactivity 177 (2017) 280e289.
 
-3
 A2+B3 3
+3
 
 Ejemplo A2+B3 • Sellado + despresurización con red de tubos
 
@@ -342,8 +342,8 @@ encuentro con el pilar siguiendo las directrices indicadas en la Solución A2.
 Figura 5 - Zanja para la instalación del tubo perforado y la capa de
 grava
 
-4
 A2+B3 4
+4
 
 Ejemplo A2+B3 • Sellado + despresurización con red de tubos
 
@@ -358,8 +358,8 @@ concentración previa a la intervención.
 
 Figura 7 - Conducto de extracción, extractor y expulsión en cubierta
 
-5
 A2+B3 5
+5
 
 Ejemplo A2+B3 • Sellado + despresurización con red de tubos
 
@@ -406,7 +406,8 @@ Solución A1. Barrera frente al radón
 Solución A1-1. Barrera frente al radón. Encuentros
 Solución A2. Sellado de fisuras, grietas, encuentros y juntas
 Solución A3. Puertas estancas
-Solución A4. Creación de sobrepresión
+Solución A4. C
+ reación de sobrepresión
 
 B: De reducción del radón antes de que penetre en los locales
 a proteger
@@ -493,7 +494,7 @@ Edición actual: septiembre 2020
 
 Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
 
-6
 A2+B3 6
+6
 
 

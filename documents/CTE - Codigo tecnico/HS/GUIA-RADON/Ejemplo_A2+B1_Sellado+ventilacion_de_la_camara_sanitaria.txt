@@ -128,8 +128,8 @@ dimensión aproximada de 15 x 20 cm cada una (Figura
 4). Sin embargo, la zona este de la cámara no presenta
 ventilación.
 
-2
 A2+B1 2
+2
 
 Ejemplo A2 + B1 • Sellado + ventilación de la cámara sanitaria
 1
@@ -179,8 +179,8 @@ la Solución A2.
 
 Figura 7 - Aberturas de ventilación finalizadas con rejillas
 
-3
 A2+B1 3
+3
 
 Ejemplo A2 + B1 • Sellado + ventilación de la cámara sanitaria
 
@@ -197,8 +197,8 @@ el promedio de concentración de radón se reduce de
 Reducción de la concentración promedio de un 47%
 frente a la concentración previa a la intervención.
 
-4
 A2+B1 4
+4
 
 Ejemplo A2 + B1 • Sellado + ventilación de la cámara sanitaria
 
@@ -263,7 +263,8 @@ Solución A1. Barrera frente al radón
 Solución A1-1. Barrera frente al radón. Encuentros
 Solución A2. Sellado de fisuras, grietas, encuentros y juntas
 Solución A3. Puertas estancas
-Solución A4. Creación de sobrepresión
+Solución A4. C
+ reación de sobrepresión
 
 B: De reducción del radón antes de que penetre en los locales
 a proteger
@@ -303,11 +304,14 @@ Fichas de ejemplos:
 ■
 ■
 
-Ejemplo A1+B3. Barrera frente al radón + despresurización
+Ejemplo A1+B3. B
+ arrera frente al radón + despresurización
 con red de tubos
-Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B1. S
+ ellado + ventilación de la cámara sanitaria
 Ejemplo A2+B3. Sellado + despresurización con red de tubos
-Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+Ejemplo A2+C1. S
+ ellado + ventilación mecánica de los locales habitables
 
 Página web del Código Técnico de la Edificación:
 www.codigotecnico.org
@@ -331,7 +335,7 @@ Edición actual: septiembre 2020
 
 Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
 
-5
 A2+B1 5
+5
 
 

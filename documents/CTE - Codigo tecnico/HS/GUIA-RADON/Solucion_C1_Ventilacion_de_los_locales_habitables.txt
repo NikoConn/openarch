@@ -312,8 +312,9 @@ tradicional descrita anteriormente.
 La ventilación
 tradicional de las
 2000
-viviendas 1800
-como método para eliminar
+viviendas como
+método para eliminar
+1800
 el radón 1600
 1400
 
@@ -345,10 +346,14 @@ y que reforzaban la ventilación puntual. Tras una
 ventilación puntual
 comienzan a acumularse los
 1400
-distintosBq/m 1200
-contaminantes que proceden del pro1000
+1200
+distintosBq/m
+contaminantes
+que proceden del pro1000
 pio edificio y su
-uso, así como los provenientes
+uso,
+así
+como los provenientes
 800
 600
 del terreno como el radón (Figura 7). La apertura
@@ -356,7 +361,9 @@ del terreno como el radón (Figura 7). La apertura
 puntual de ventanas,
 por tanto, ayuda a eliminar
 200
-el radón en ese 0período de tiempo pero, por regla
+0
+el radón en ese período
+de tiempo pero, por regla
 general, no es suficiente para mantener una concentración de radón adecuada a lo largo del día
 
 Sin embargo, es importante señalar que en casos de niveles de radón altos es probable que
@@ -633,7 +640,8 @@ Solución A1. Barrera frente al radón
 Solución A1-1. Barrera frente al radón. Encuentros
 Solución A2. Sellado de fisuras, grietas, encuentros y juntas
 Solución A3. Puertas estancas
-Solución A4. Creación de sobrepresión
+Solución A4. C
+ reación de sobrepresión
 
 B: De reducción del radón antes de que penetre en los locales
 a proteger
@@ -688,9 +696,11 @@ Fichas de ejemplos:
 
 Ejemplo A1+B3. Barrera frente al radón + despresurización
 con red de tubos
-Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B1. S
+ ellado + ventilación de la cámara sanitaria
 Ejemplo A2+B3. Sellado + despresurización con red de tubos
-Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+Ejemplo A2+C1. S
+ ellado + ventilación mecánica de los locales habitables
 
 Página web del Código Técnico de la Edificación:
 www.codigotecnico.org
