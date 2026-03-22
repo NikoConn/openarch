@@ -1,0 +1,5517 @@
+Fichas incluidas
+
+guía
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+Este documento ha sido elaborado por el Instituto de ciencias
+de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+de la Dirección General de Agenda Urbana y Arquitectura del
+Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+El IETcc, perteneciente al Consejo Superior de Investigaciones
+Científicas (CSIC), es el centro de investigación en edificación
+de referencia en España. La Unidad de Calidad en la Construcción del IETcc asesora al MITMA en la elaboración del Código
+Técnico de la Edificación que, desde el año 2019, cuenta con la
+sección HS6 Protección frente a la exposición al radón.
+Dirección y Coordinación:
+Ministerio de Transportes, Movilidad y Agenda Urbana
+Isabel Marcos Anasagasti
+Raquel Lara Campos
+Eduardo González de Prado
+Instituto de ciencias de la construcción Eduardo Torroja CSIC
+Pilar Linares Alemparte
+Autoras:
+Pilar Linares Alemparte
+Sonia García Ortega
+Colaboradoras:
+Virginia Sánchez Ramos
+Karina Angélica García Pardo
+Edita:
+Centro de Publicaciones Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda Urbana©
+Entidad colaboradora:
+Consejo Superior de Investigaciones Científicas · CSIC
+Ministerio de Ciencia e Innovación
+Catálogo de publicaciones de la Administración General
+del Estado: publicacionesoficiales.boe.es
+Centro virtual de publicaciones del Ministerio de Transportes, Movilidad y Agenda Urbana: www.mitma.gob.es
+Página web del Código Técnico de la Edificación:
+www.codigotecnico.org
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+Maquetación y diseño gráfico:
+Lapizmente. Estrategia • Diseño Gráfico
+Fotografía portada:
+Sonia García Ortega
+Los contenidos o ideas recogidas en este documento pertenecen a
+sus autores. Este documento está basado en el conocimiento disponible en el momento de su publicación. No se aceptará por las instituciones ni los autores implicados responsabilidad de ningún tipo por el
+uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+y no deben interpretarse como detalles constructivos.
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+Se permite la reproducción total o parcial del contenido de este
+documento siempre y cuando se cite la fuente original y a sus
+autores.
+
+Otras colaboraciones:
+Mª Teresa Carrascal García · Mª Belén Casla Herguedas ·
+Elena Frías López · Virginia Gallego Guinea ·
+Daniel Jiménez González · Enrique Larrumbide
+Gómez-Rubiera · Mariana Llinares Cervera ·
+Juan Queipo de Llano Moya · Amelia Romero Fernández ·
+Marta Sorribes Gil · Carlos Villagrá Fernández ·
+Rafael Villar Burke
+Solución B1 y Solución B3:
+Autora adicional:
+Virginia Sanchez Ramos
+Ejemplo A1+B3:
+Diagnóstico y diseño de la solución:
+Ángel Sánchez Malo · Geomnia Natural Resources SLNE
+Ejecución material de la obra:
+Geomnia Natural Resources SLNE
+
+Esta publicación está formada por una serie de documentos cuyo
+objetivo es constituir una herramienta de ayuda para el diseño de
+soluciones de protección frente al radón:
+■
+
+Guía de rehabilitación frente al radón
+
+Fichas de soluciones:
+A: De aislamiento del edificio
+■
+■
+■
+■
+■
+
+Solución A1. Barrera frente al radón
+Solución A1-1. Barrera frente al radón. Encuentros
+Solución A2. Sellado de fisuras, grietas, encuentros y juntas
+Solución A3. Puertas estancas
+Solución A4. Creación de sobrepresión
+
+B: De reducción del radón antes de que penetre en los locales
+a proteger
+■
+■
+■
+
+Solución B1. Ventilación del espacio de contención: cámara de aire
+Solución B2. Ventilación del espacio de contención: locales no habitables
+Solución B3. Despresurización del terreno
+
+C: De reducción del radón tras penetrar en los locales a proteger
+■
+
+Solución C1. Ventilación de los locales habitables
+
+Fichas de ejemplos:
+■
+■
+■
+■
+
+Ejemplo A1+B3. Barrera frente al radón + despresurización
+con red de tubos
+Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B3. Sellado + despresurización con red de tubos
+Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+
+ISBN: 978-84-498-1045-9
+NIPO: 796-20-136-5
+1ª edición: septiembre 2020
+Edición actual: septiembre 2020
+
+Ejemplo A2+B1:
+Diagnóstico y diseño de la solución:
+Tania Zapata Viñuelas · CIEMAT
+Jesús Díaz García · CIEMAT
+Asesoría técnica:
+Pilar Linares Alemparte
+Ejecución material de la obra:
+Centro de Investigaciones Energéticas, Medioambientales y
+Tecnológicas · CIEMAT
+Ejemplo A2+B3:
+Autores adicionales:
+Carmen Alonso Ruiz de Rivas
+Borja Frutos Vázquez
+Diagnóstico y diseño de la solución:
+Borja Frutos Vázquez
+Eduardo Muñoz Lorenzo
+Ángel Sánchez Malo · Geomnia Natural Resources SLNE
+Ejecución material de la obra:
+Geomnia Natural Resources SLNE
+Ejemplo A2+C1:
+Diagnóstico y diseño de la solución:
+Sonia García Ortega
+Pilar Linares Alemparte
+Ejecución material de la obra:
+Ayuntamiento de Torrelodones
+Agradecimientos:
+Subcomisión Administrativa para la Calidad de la Edificación,
+Grupo de trabajo de apoyo a la Guía:
+Francisco Javier Jubera Pérez · Gobierno de Canarias
+Enrique Antonio Alonso Moreno · Gobierno de Cantabria
+Verónica Díaz Valle · Gobierno de Cantabria
+María del Mar Domínguez Sierra · Junta de Castilla y León
+Joan Teixidó Vidal · Generalitat de Cataluña
+Eva María París Sánchez · Generalitat de Cataluña
+José Ángel Rena Sánchez · Junta de Extremadura
+María José Paniagua Mateos · Xunta de Galicia
+Ricardo Valencia Hetschel · Xunta de Galicia
+Salud García López · Comunidad de Madrid.
+
+guía
+
+5
+
+Índice
+
+I
+
+P
+
+Prólogo...................................................................................................................................................
+
+6
+
+I
+
+Introducción .....................................................................................................................................
+
+7
+
+O
+
+Objetivo y contenido de la Guía. ...................................................................................
+
+8
+
+1
+
+El radón en el interior de los edificios . ...................................................................
+
+9
+
+¿Qué es el radón?. ......................................................................................................................
+
+9
+
+¿Cómo llega el radón a los edificios?. ......................................................................
+
+9
+
+¿Cuáles son los principales factores influyentes en la
+entrada y acumulación de radón proveniente del terreno?.................
+
+11
+
+Diagnóstico de la existencia de radón . .................................................................
+
+14
+
+Introducción.....................................................................................................................................
+
+14
+
+1.1
+1.2
+1.3
+
+2
+2.1
+2.2
+2.3
+
+Consideraciones previas a la medición..................................................................
+
+14
+
+Medición de la concentración de radón................................................................
+
+14
+
+3
+
+Soluciones de protección más habituales . .......................................................
+
+17
+
+Mecanismos de entrada del radón procedente
+del terreno en los edificios. ................................................................................................
+
+17
+
+Objetivo de las soluciones de protección............................................................
+
+17
+
+Clasificación de las soluciones según su forma de
+actuación............................................................................................................................................
+
+17
+
+Guía de elección ..........................................................................................................................
+
+20
+
+Bibliografía ........................................................................................................................................
+
+25
+
+3.1
+3.2
+3.3
+
+4
+B
+
+6
+
+Prólogo
+La publicación de esta Guía de Rehabilitación frente al
+radón tiene como objetivo contribuir a que los edificios
+que habitamos sean más saludables. Este objetivo ha
+adquirido una especial trascendencia en este año 2020,
+en el que hemos pasado más tiempo que nunca en el
+interior de nuestras viviendas, y en el que la salud ha
+pasado al primer puesto de nuestras preocupaciones.
+Hemos sido más conscientes de la importancia que
+tiene la arquitectura y el entorno construido en nuestro
+desarrollo social y bienestar. El objeto de esta Guía, la
+divulgación de soluciones en edificios existentes para
+la protección frente al gas radón, un peligro invisible
+pero cierto, es una constatación directa de la influencia
+que tiene la calidad de la edificación sobre la salud de
+las personas.
+Es necesario recordar que ya en Ley de Ordenación
+de la Edificación se recogía, en el año 99, la constatación de que “la sociedad demandaba cada vez mayor calidad a los edificios” así mismo, se señalaba que
+“el proceso de la edificación, por su directa incidencia
+en la configuración de los espacios, implicaba siempre
+un compromiso de funcionalidad, economía, armonía
+y equilibrio medioambiental.” Desde aquel año hasta
+hoy, la sociedad ha evolucionado, pidiendo cada vez
+mayores prestaciones a los edificios, de forma que la
+reglamentación técnica, concretamente el Código Técnico de la Edificación (CTE) ha tenido que adaptarse
+a estas demandas y, responder, al mismo tiempo, a
+los objetivos que desde la Comisión Europea se han
+ido marcando con incidencia directa en la edificación,
+como son la lucha contra el cambio climático que busca, en última instancia, la seguridad y la salud de todos
+los europeos. Así en diciembre de 2019 se incorporó en
+el CTE una nueva exigencia básica de calidad en los
+edificios relativa a la protección frente al gas radón, con
+la que además se transponía la normativa europea en
+la materia.
+
+P
+
+Además, desde la Dirección General de Agenda Urbana y Arquitectura, queremos aportar al sector de la edificación herramientas que les permitan tanto conocer
+la normativa técnica de aplicación como ir más allá de
+las obligaciones impuestas en la norma y las situaciones tasadas por ésta. En relación con el problema del
+radón en el interior de las edificaciones no se nos puede escapar el hecho de que el mayor peligro de exposición se puede encontrar en la edificación existente, y
+hallarse fuera del ámbito de aplicación de las obligaciones impuestas por el CTE a las nuevas edificaciones
+y ciertas intervenciones. Por ello, este documento Guía
+que ahora se publica no es un desarrollo reglamentario
+de la nueva exigencia del CTE, sino que el objetivo que
+persigue es contribuir a ampliar el conocimiento de los
+técnicos a la hora de enfrentarse a este problema con
+incidencia sobre la salud de la población.  
+Deseo que este documento cumpla con el objetivo
+con el que se redactó y sirva para facilitar el trabajo
+de los distintos agentes de la edificación, un sector en
+constante evolución y que cada día se enfrenta a nuevos retos para mejorar la calidad de los edificios en que
+vivimos y contribuir con ello a la mejor calidad de vida
+de las personas que los habitamos.
+
+Iñaqui Carnicero Alonso-Colmenares
+Director General de Agenda Urbana y Arquitectura
+Ministerio de Transportes, Movilidad y Agenda Urbana
+
+>> volver al índice >
+
+7
+
+Introducción
+Son numerosos los organismos relacionados con la
+protección de la salud de las personas que consideran
+probada la relación entre la exposición prolongada al
+gas radón y el cáncer de pulmón. Bajo determinadas
+circunstancias pueden producirse concentraciones
+elevadas de radón en el interior de los edificios, siendo
+esta constatación lo que motiva la redacción de esta
+Guía. Este documento de carácter orientativo está enfocado especialmente hacia la rehabilitación de aquellos edificios en los que se ha detectado la existencia
+de concentraciones elevadas de gas radón, buscando
+facilitar la comprensión del comportamiento del mismo y su manera de penetrar en los edificios, para así
+ayudar en la realización de un correcto diagnóstico de
+cada caso y en la elección de las soluciones de remedio a implantar frente a este problema.
+El radón es un gas que procede de la desintegración
+radiactiva del uranio presente de forma natural en determinados suelos y rocas. Este gas procedente del
+terreno puede emanar a través del mismo, en mayor
+o menor medida, en función de distintos factores, pudiendo llegar a penetrar en las edificaciones. Su entrada en el interior de las edificaciones dependerá, en gran
+parte, de las características constructivas de los elementos de separación entre la edificación y el terreno.
+En el supuesto de que este gas llegue a acumularse en
+los espacios interiores de los edificios puede suponer
+un riesgo para las personas que se encuentren en los
+mismos durante periodos prolongados de tiempo, por
+los efectos nocivos que presenta para la salud.
+Dentro del marco normativo de la edificación, debemos indicar que el Real Decreto 732/2019, de 20 de
+diciembre por el que se modifica el Código Técnico de
+Edificación (CTE) introduce una nueva exigencia sobre protección frente a la exposición al radón y, consecuentemente, incorpora en el documento básico de
+salubridad una nueva sección HS6: Protección frente a
+
+I
+
+la exposición al radón. En esta sección se establecen
+los requisitos que deberán cumplir los edificios para
+la protección de las personas frente a la exposición al
+radón, un nivel de referencia del promedio anual de
+concentración de radón de 300 Bq/m3(i), y se recoge
+un listado de municipios en los que se considera que
+hay una probabilidad significativa de que los edificios
+allí construidos sin soluciones específicas presenten
+concentraciones de radón superiores al nivel de referencia. En la nueva exigencia del CTE, el ámbito de aplicación se refiere a edificios de nueva construcción y a
+determinados casos de rehabilitación. Tal y como ya se
+ha mencionado el gas radón es un problema de salud,
+por lo que habrá edificios en los que, aun encontrándose fuera del ámbito de aplicación del CTE, los propios
+usuarios estarán interesados en conocer, primero, cuál
+es su situación y, posteriormente, posibles soluciones
+de remedio, debiendo estar asesorados en todo el proceso por un técnico con conocimiento en la materia.
+Por lo tanto, esta Guía de rehabilitación tiene como objetivo el de constituir una herramienta práctica de ayuda enfocada tanto al usuario de la vivienda como a los
+agentes que puedan participar en el proceso técnico
+de protección frente al radón de edificios existentes. La
+Guía se complementa con una serie de fichas independientes que profundizan en las intervenciones concretas que se pueden llevar a cabo o ilustran casos reales.
+
+(i) Bq/m3 unidad de la concentración de radón en el aire. Se cuantifica en
+becquerel por metro cúbico, que corresponde con el número de desintegraciones por segundo por metro cúbico de aire
+>> volver al índice >
+
+8
+
+Objetivo y contenido
+de la Guía
+Esta Guía, junto con las fichas que la acompañan, proporciona los conceptos fundamentales necesarios que
+apoyan el correcto diagnóstico de las vías de entrada
+del radón, ilustra el proceso de realización de las mediciones de radón, así como presenta las soluciones de
+protección y proporciona criterios para la elección de
+las soluciones más adecuadas a cada caso.
+Sin embargo, debe hacerse hincapié en que ni la Guía
+ni las fichas sustituyen en ningún caso la experiencia y
+el conocimiento de los técnicos expertos en construcción y en protección frente al radón de los edificios.
+Es necesario señalar que no se consideran objeto de
+esta Guía ni de las fichas otro tipo de radiaciones que
+puedan incidir en el ambiente interior de los edificios.
+La Guía se articula en torno a cuatro capítulos.
+El capítulo primero presenta qué es el gas radón, cuál
+es su origen, dónde se encuentra, qué riesgo conlleva
+para la salud, cómo llega hasta el interior de los edificios
+y qué factores influyen en su entrada y acumulación.
+El capítulo segundo establece las pautas generales
+para determinar el promedio anual de concentración
+de radón en el aire en lo relativo a las condiciones de
+realización de la medición, qué tipos de detectores se
+pueden utilizar, qué duración debe tener la medición,
+dónde colocar los detectores, etc.
+El capítulo tercero introduce las soluciones más habituales agrupadas según su forma de funcionamiento.
+
+O
+
+En la Bibliografía se incluyen las referencias que se han
+tenido en cuenta para la redacción de la Guía, así como
+referencias a otra documentación de utilidad.
+Las fichas son de dos tipos: de soluciones y de ejemplos; y están concebidas de forma que se pueda ampliar su número según se progrese en el conocimiento
+de esta problemática y en la implementación de sus
+soluciones.
+Las fichas de soluciones describen cada una de las
+soluciones de protección frente al radón presentadas
+en la Guía, detallando su adecuado diseño y ejecución
+para la obtención de un resultado efectivo. Se clasifican
+según la forma de actuación de las soluciones e ilustran con figuras aclaratorias los conceptos trasmitidos.
+Las fichas de ejemplos describen distintas intervenciones de protección frente al radón en casos reales en
+los que se ha logrado reducir los niveles de radón de
+partida a valores menos significativos.
+La Guía y las fichas pretenden ser, por un lado, una
+herramienta fundamental para los proyectistas ante
+el reto de diseñar soluciones de protección frente al
+radón y, por otro, una fuente de información para los
+usuarios de edificios afectados, para que conozcan de
+forma aproximada el alcance de las soluciones posibles así como las distintas vías de entrada del radón
+en el edificio y la influencia que puede llegar a tener el
+comportamiento de los propios usuarios en la concentración de este gas.
+
+El capítulo cuarto se presenta como una ayuda para
+la elección de la solución más adecuada incluyendo
+una serie de criterios para la toma de decisión sobre las
+soluciones a elegir en cada caso y cuándo, en líneas
+generales, resultarían convenientes.
+>> volver al índice >
+
+9
+
+Capítulo
+El radón en el interior
+de los edificios
+1.1 ¿Qué es el radón?
+El radón es un gas noble, incoloro, inodoro e insípido
+que se genera en la cadena de desintegración radiactiva del radio que, a su vez, procede del uranio que de
+forma natural está presente en la corteza terrestre en
+cantidades variables, dependiendo de la composición
+de rocas y suelo. Por su parte, el radón en su proceso
+de desintegración también produce partículas radioactivas.
+Al ser gaseoso (a diferencia de sus predecesores sólidos) puede moverse por la corteza terrestre e incluso diluirse en agua. Debido a esta capacidad de movimiento puede llegar a los edificios procedente del
+subsuelo y acumularse en sus espacios interiores. En
+el interior del edificio el radón puede ser inhalado por
+las personas y, de esta forma, las partículas radioactivas producto de su desintegración, ionizar la materia
+celular de los epitelios pulmonares y causar cáncer.
+Son numerosos los organismos relacionados con la
+protección o el estudio de la salud de las personas que
+consideran probada la influencia del radón en el cáncer de pulmón. Existe acuerdo científico sobre el riesgo
+para la salud de las personas que supone la exposición
+durante grandes períodos de tiempo a altas concentraciones de actividad de radón. El radón se identifica
+como la primera causa de cáncer de pulmón entre los
+no fumadores.
+La Organización Mundial de la Salud (OMS) afirma que
+no existe un nivel seguro de concentración de radón
+(excepto la ausencia de radón) por debajo del cual no
+corramos ningún tipo de riesgo.
+Las situaciones más problemáticas se presentan en
+espacios cerrados, debido a la acumulación en los
+edificios de radón procedente fundamentalmente del
+
+1
+
+terreno. En los espacios abiertos se considera que el
+riesgo es despreciable al diluirse el radón rápidamente
+en el ambiente. Los edificios considerados con mayor
+riesgo son las viviendas y los lugares de trabajo, por ser
+en ellos el tiempo de exposición más alto.
+
+1.2 ¿Cómo llega el radón a los
+edificios?
+Cuando el radón llega al ambiente exterior se diluye rápidamente en el aire, pero cuando lo hace a un espacio
+cerrado y poco ventilado, como puede ser el interior de
+un edificio, tiende a acumularse convirtiéndose entonces en un problema. El radón presente en el interior de
+los edificios puede proceder directamente del terreno,
+de los materiales de construcción realizados con materias primas que contengan alguno de sus precursores,
+o del agua de consumo en el que previamente se haya
+diluido.
+
+Radón procedente del terreno
+El radón puede penetrar al interior de los edificios por
+convección a través de las grietas o zonas de la envolvente del edificio en contacto con el terreno (muros de
+sótano, soleras, etc.) que presentan una discontinuidad,
+y por difusión a través de la masa de los materiales porosos que forman la envolvente (Figura 1). Los principales puntos que pueden presentar una discontinuidad
+son las juntas o los encuentros no sellados (juntas perimetrales, encuentros con elementos pasantes como
+conductos de evacuación de aguas, etc.)
+Habitualmente el terreno es la principal fuente de radón, por lo que las mayores concentraciones de radón
+en un edificio se localizan en las plantas inferiores en
+contacto con el terreno, como son los sótanos y las
+plantas bajas, ya que, además, la densidad del radón es
+>> volver al índice >
+
+El radón en el interior de los edificios
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+cámara de aire
+encuentro con fachada o muro
+materiales de la envolvente
+junta de dilatación
+grieta
+encuentro con pilar
+encuentro con elemento pasante
+escalera abierta
+
+1
+8
+3
+
+4
+
+5
+
+6
+
+7
+
+2
+
+Figura 1 - Vías más usuales de entrada de radón procedente del terreno y de comunicación con otras plantas
+
+¯
+P90 (Bq/m3)
+> 400
+301-400
+201-300
+101-200
+< 100
+
+0
+
+25
+
+50
+
+100
+
+150
+
+200
+Kilómetros
+
+Mapa del potencial de
+radón de España
+Actualización enero de 2017
+
+LOGO CSN
+Copyright (c) Consejo de Seguridad Nuclear, 2017
+
+Figura 2 - Mapa del potencial de radón de España (CSN)
+>> volver al índice >
+
+10
+
+El radón en el interior de los edificios
+
+superior a la del aire. En algunos casos, se pueden dar
+valores altos de concentración de radón en zonas más
+elevadas del edificio cuando existe una comunicación
+entre las plantas bajas y estas zonas más elevadas de
+forma que el aire puede ascender fácilmente por procesos convectivos y de tiro térmico. Esto puede darse,
+por ejemplo, cuando los cerramientos de la fachada
+estén compuestos por una cámara de aire o cuando
+las distintas plantas estén comunicadas por escaleras
+abiertas (Figura 1).
+El Consejo de Seguridad Nuclear (CSN) ha plasmado
+en el Mapa del potencial de radón en España (Figura 2)
+las zonas que presentan un porcentaje significativo de
+edificios, mayor del 10%, en los que la concentración de
+radón puede superar determinados valores. Para elaborar este mapa, el CSN ha empleado, entre otros datos,
+medidas de radón tomadas en la planta baja de los edificios o, cuando ésta no está habitada, en la primera planta.
+Por tanto, no representa directamente la exposición de
+la población. En general, el riesgo asociado a las plantas
+subterráneas es mayor que el que refleja el mapa, mientras que es inferior en las plantas altas. La información que
+proporciona debe considerarse orientativa.
+El HS6 del CTE fija un nivel de referencia del promedio
+anual de concentración de radón de 300 Bq/m3 a nivel
+nacional en el ya mencionado Real Decreto 732/2019,
+de 20 de diciembre en el CTE, en concordancia con la
+Directiva 2013/59/EURATOM, y que será establecido
+también por el Real Decreto sobre protección frente a
+radiaciones ionizantes que prepara el Ministerio para la
+Transición Energética y el Reto Demográfico.
+Así mismo, el CTE recoge un listado de municipios
+clasificados en función del potencial de radón en los
+que se considera que hay una probabilidad significativa de que los edificios allí construidos, sin soluciones
+específicas de protección, presenten concentraciones
+superiores al nivel de referencia. Sin embargo, para conocer la concentración de radón real en un edificio es
+necesario realizar mediciones de radón, tal y como se
+describen en el capítulo 2.
+
+Radón proveniente del agua
+La presencia de radón en el agua se debe a que las rocas que contienen uranio natural liberan radón al agua
+subterránea con la que entran en contacto. Como el
+radón se disipa rápidamente en contacto con el aire, si
+se utilizan aguas superficiales para el consumo no hay
+riesgo de que contengan radón ni de que lo liberen
+en el interior de las edificaciones. Sin embargo, si se
+utilizan para el consumo aguas subterráneas (de manantiales o pozos) sin que se aireen y el terreno tiene
+una elevada concentración de radón, sí existe riesgo
+de que se libere el radón contenido en el agua al ambiente interior hasta alcanzar concentraciones significativas.
+En los sistemas públicos de abastecimiento de agua
+procedente de aguas superficiales la concentración
+media de radón suele ser menor que 0,4 Bq/l y si el
+agua procede de fuentes subterráneas el valor ronda
+los 20 Bq/l. El valor máximo recomendado por la OMS
+y la Comisión Europea por debajo del cual no es necesario realizar controles en abastecimientos públicos es
+de 100 Bq/l. Por este motivo, el radón procedente del
+agua de consumo no se considera en esta Guía.
+
+1.3 ¿Cuáles son los principales
+factores influyentes en la
+entrada y acumulación de radón
+proveniente del terreno?
+La cantidad de radón que se acumula en el interior de
+los edificios depende de numerosos factores, entre los
+que se pueden destacar los relacionados con el terreno, las características constructivas del edificio, la climatología y el comportamiento de los usuarios.
+
+El terreno
+El terreno es un factor fundamental, al ser la fuente de  
+radón. La exhalación de radón del terreno depende:
+■
+
+Radón procedente de los materiales
+de construcción
+En general, se estima que los materiales de construcción contribuyen a la concentración media de radón en
+el interior de las viviendas con un valor de entre 10 y
+20 Bq/m3 que, si no existieran aportaciones de radón
+provenientes del terreno, estaría muy alejada del nivel
+de referencia de 300 Bq/m3. Por este motivo, el radón
+procedente de los materiales de construcción no se
+considera en esta Guía.
+
+por un lado, de su composición geológica. Hay tipos de terreno que producen una gran cantidad de
+radón, por ejemplo, los terrenos con alto contenido
+en uranio como son los procedentes de rocas ígneas
+(granito) y metamórficas (pizarras y esquistos); y,
+
+■ por otro, al ser el radón gaseoso, de la capacidad
+
+de movimiento del radón en el terreno. Cuando se
+genera el radón en el terreno no permanece en
+el punto en el que se forma, sino que puede moverse. Este movimiento se ve influido por factores
+como:
+>> volver al índice >
+
+11
+
+El radón en el interior de los edificios
+
+- la permeabilidad al aire del terreno: a mayor permeabilidad, mayor facilidad de movimiento (Figura
+3). Así, por ejemplo, en macizos rocosos sin fracturar, aunque la concentración de radón sea alta,
+será difícil que escape de la roca, mientras que en
+terrenos fracturados el radón se moverá más rápidamente alcanzando el exterior o la envolvente de
+los edificios con mayor facilidad;
+
+Figura 3 – Permeabilidad al aire según el terreno
+
+- el grado de saturación de agua del terreno: a mayor
+saturación, menor facilidad de movimiento pues el
+agua contenida en el terreno presenta un coeficiente de difusión inferior al del aire y retiene los gases
+(Figura 4). Si todo el terreno debajo de un edificio
+tiene un grado de saturación de agua similar, el
+efecto es favorable para la protección frente al radón. Sin embargo, si el grado de saturación es heterogéneo, por ejemplo, cuando la capa superficial
+del terreno circundante de un edificio está saturada
+de agua por la lluvia, pero debajo de la edificación
+el terreno permanece seco, el efecto es desfavorable al dificultarse la salida de radón al exterior por lo
+que tiende a aumentar su entrada al edificio.
+
+Figura 4 - Influencia del grado de saturación de agua del terreno
+
+■
+
+la permeabilidad a los gases de la envolvente: cuanto más permeable sea el cerramiento, por
+ejemplo, por encontrarse deteriorado con fisuras o
+grietas o porque esté constituido por un forjado de
+madera, más sencillo será para el gas radón atravesarlo y penetrar en el edificio;
+
+■
+
+el tipo de solución constructiva de las distintas
+componentes de la envolvente: cuantos más obstáculos haya en el camino de entrada del gas, más
+difícil será que penetre en el edificio (Figura 6). Por
+ejemplo, si el edificio cuenta con una cámara sanitaria, supondrá un obstáculo al paso del gas;
+
+■
+
+las instalaciones u otros elementos que pasen a
+través de la envolvente y rompan su homogeneidad
+permitiendo así el paso del gas en estos puntos, por
+ejemplo, la presencia de una bajante que atraviese
+la solera;
+
+■
+
+la comunicación entre los sótanos y las plantas
+habitables pueden posibilitar el desplazamiento del
+gas de las zonas bajas por donde penetra y su acumulación en las zonas altas habitables. En estos casos, por ejemplo, la existencia de puertas estancas
+dificultará el paso del gas;
+
+■
+
+el sistema de ventilación, que puede tener un efecto beneficioso o perjudicial. En la mayoría de casos
+
+Las características constructivas del edificio
+Las características constructivas del edificio son otro
+factor importante, puesto que pueden ser determinantes en el nivel de concentración de radón, incluso para
+tipos de terrenos desfavorables. Entre las características del edificio que afectan al contenido de radón de
+su interior proveniente del terreno destacan:
+■
+
+la proporción de la envolvente del edificio en contacto con el terreno: cuanto mayor sea la superficie
+en contacto con el terreno mayor será la posibilidad de que el radón penetre en el interior (Figura 5).
+Por ejemplo, un edificio con la planta baja abierta
+situado sobre pilotes no tiene casi contacto con el
+terreno, sólo en los puntos de acceso, por lo que el
+riesgo sería muy bajo, y uno que cuente con sótano
+estaría en el caso opuesto con una mayor superficie
+de contacto con el terreno.
+
+>> volver al índice >
+
+12
+
+El radón en el interior de los edificios
+
+puede contribuir a la dilución del radón permitiendo que baje su concentración, pero en otros puede
+producir una depresión en el interior del edificio que
+arrastre el radón del terreno hacia el interior.
+
+modifican la saturación de agua del terreno circundante al edificio, pudiendo facilitarse así la entrada de radón en los edificios.
+
+Figura 6 - Influencia del tipo de solución constructiva de la envolvente
+
+El comportamiento de los usuarios
+Los usuarios pueden influir en la entrada y acumulación de radón en los locales habitables, por ejemplo
+con sus hábitos de ventilación. Por regla general, la
+ventilación de los locales habitables disminuirá su concentración de radón por dilución.
+
+Figura 5 – Influencia de la proporción de envolvente en contacto con el
+terreno
+
+La climatología
+Resulta complejo prever la influencia de la climatología y formular reglas generales, pero se puede afirmar
+que las bajas presiones atmosféricas (a grandes rasgos más habituales del invierno) favorecen la salida del
+gas radón del terreno, y las altas lo dificultan. Además,
+como se ha indicado anteriormente, las precipitaciones
+>> volver al índice >
+
+13
+
+14
+
+Capítulo
+Diagnóstico de la
+existencia de radón
+
+2.2 Consideraciones previas a la
+medición
+
+2.1 Introducción
+El primer paso para la elección de la solución de protección más adecuada para un edificio concreto es la
+realización de mediciones de la concentración de radón, para obtener un diagnóstico de la existencia de
+concentraciones elevadas de radón.
+Si el promedio anual de la concentración de radón es
+superior a 300 Bq/m3, será conveniente emplear soluciones de protección, incluso cuando el municipio en
+el que se localice nuestro edificio no se encuentre en
+el listado de la sección HS6 Protección frente a la exposición al radón del CTE.
+Si, en caso contrario, el promedio anual de la concentración de radón es inferior a 300 Bq/m3, no se considerará imprescindible introducir soluciones de protección, incluso cuando el municipio en el que se localice
+nuestro edificio se encuentre en el listado citado anteriormente.
+En cualquier caso, se podrán implementar soluciones
+para reducir la concentración de radón aunque los valores sean inferiores a 300 Bq/m3.
+Es conveniente realizar una medición después de haber implementado las soluciones de protección para
+comprobar la efectividad de las mismas.
+En este capítulo se establecen las pautas generales
+para determinar el promedio anual de concentración
+de radón. Asimismo, la Sección HS6 del CTE, en su
+Apéndice C “Determinación del promedio anual de
+concentración de radón en el aire de los locales habitables de un edificio” recoge una serie de especificaciones básicas a tener en cuenta.
+
+2
+
+Previamente a realizar las mediciones deberá procederse a una toma de datos de todos aquellos elementos y circunstancias que puedan ofrecer un adecuado
+conocimiento del edificio y su interacción con el radón
+procedente del terreno, al menos de:
+■
+
+la distribución del edifico y sus plantas (es muy importante conocer la existencia de sótano);
+
+■
+
+los cerramientos que constituyen la envolvente en
+contacto con el terreno (solera, forjado sanitario,
+muro de sótano) y su estado de conservación (si presentan grietas, fisuras, estado de las juntas, etc.);
+
+■
+
+el paso de instalaciones y su encuentro con la envolvente (su sellado);
+
+■
+
+la existencia de sistemas de ventilación y su régimen
+de funcionamiento;
+
+■
+
+si el edificio está en uso o deshabitado.
+
+2.3 Medición de la concentración de
+radón
+Las condiciones de medición antes y después de la intervención de protección deberán ser las mismas o lo
+más similares posible, para que sean comparables. Estas condiciones, así como los tipos de detectores que
+se pueden utilizar, se describen a continuación.
+
+>> volver al índice >
+
+Diagnóstico de la existencia de radón
+
+¿Qué tipos de detectores se pueden utilizar?
+
+a)
+
+b)
+
+En el mercado existen distintos tipos de detectores que
+pueden ser empleados (Figura 7). La elección del tipo
+de detector dependerá del objetivo de la medición.
+Para obtener el promedio anual de concentración de
+radón los más adecuados son los que emplean un método de medición:
+■
+
+integrada (de trazas, carbón activo y electretes) que
+proporcionan el promedio; o
+
+■
+
+en continuo (aparatos electrónicos) que además del
+promedio proporcionan la evolución de la concentración de radón a lo largo del tiempo, permitiendo
+de esta forma observar las alteraciones en la concentración de radón producidas por los cambios climatológicos y otras variables.
+
+Los detectores más comúnmente utilizados para determinar el promedio anual son los que siguen el método de medición integrada, debido a su bajo coste. Habitualmente el laboratorio envía el detector por correo
+a los usuarios y estos lo devuelven por correo al laboratorio que obtendrá el resultado de la medida.
+El uso de los detectores que siguen el método de medición en continuo no está tan extendido por motivos
+económicos, aunque tiene la ventaja frente a los que
+siguen el método integrado que, al ofrecer una visión
+de la evolución de la concentración de radón, se puede utilizar para observar la influencia de distintos parámetros en la efectividad de la solución, optimizar una
+solución, etc.
+
+c)
+
+d)
+
+Figura 7 - Detectores más habituales: a) detector de trazas; b) electrete;
+c) dispositivos electrónicos; d) detector de carbón activo
+
+¿Cuánto tiempo medir?
+Si se quiere realizar un rápido diagnóstico que permita
+identificar los puntos de entrada de radón, se pueden
+emplear detectores con método de medición puntual
+(aparatos electrónicos). Estos puntos de entrada suelen ser grietas, huecos o discontinuidades en los cerramientos en contacto con el terreno que se hayan
+identificado en la inspección visual del edificio. Sin embargo, este tipo de medición no se puede utilizar para
+la determinación del promedio anual.
+Además, los detectores se pueden clasificar en activos
+o pasivos dependiendo, respectivamente, de si requieren o no una fuente de alimentación para registro o visualización de datos, bombas, etc. Los detectores con
+método de medición en continuo suelen ser activos.
+Los resultados obtenidos con los detectores tienen una
+incertidumbre que oscila entre el 10% y el 30%.
+
+Las concentraciones de radón pueden variar incluso un
+orden de magnitud en poco tiempo, por lo que las mediciones cortas (solo unos días) no son representativas
+para determinar la exposición de las personas. El valor
+que debería considerarse es la media anual.
+Sin embargo, como medir durante un año no suele ser
+viable, se considera suficiente medir al menos durante
+dos meses de forma continuada. Pueden hacerse mediciones con una duración inferior, de días o semanas,
+pero sólo como medición orientativa y sin perder de
+vista su baja representatividad.
+
+¿En qué condiciones medir?
+Lo más adecuado es continuar con las actividades habituales de uso y de ventilación del edificio durante la
+medición para que el resultado sea representativo.
+>> volver al índice >
+
+15
+
+Diagnóstico de la existencia de radón
+
+Si el edificio se encuentra desocupado, deberá medirse con las ventanas y puertas de acceso cerradas, y
+las puertas de paso interiores abiertas, para permitir el
+movimiento de radón interiormente con un flujo similar
+al de la ocupación normal. En el caso de un edificio de
+viviendas, las puertas de acceso a cada vivienda permanecerán cerradas durante la medida.
+
+En el caso de un edificio desocupado en el que alguna
+ventana o puerta al exterior haya podido permanecer
+abierta, se tendrá que multiplicar el valor medio obtenido por 1,4, para tener en cuenta la reducción de radón
+producida por la ventilación circunstancial.
+
+¿Dónde colocar los detectores y cuántos?
+El peligro de la exposición al radón depende del tiempo
+de permanencia en un local y de la concentración de
+radón. Por ello, en viviendas se recomienda emplear, al
+menos, dos detectores y situarlos en las habitaciones
+en las que se suele permanecer más tiempo como los
+dormitorios y la sala de estar, primando las habitaciones situadas en las plantas más bajas.
+Por ejemplo:
+■
+
+si hay varias viviendas en un edificio, se deberían colocar en las viviendas de las plantas inferiores;
+
+■
+
+dentro de una misma vivienda, si hay salas de estar
+o dormitorios en distintas plantas, se recomienda
+colocarlos en las habitaciones que se encuentren
+en las plantas inferiores.
+
+¿Cómo colocar los detectores?
+Los detectores deben situarse alejados de corrientes
+de aire y de fuentes de calor y al menos a 30 cm de las
+paredes. Una posible ubicación de los detectores podría ser sobre el mobiliario existente, como una mesa o
+una estantería.
+
+¿Cómo interpretar los resultados obtenidos?
+El resultado de la medición debe ser la media de la
+concentración a lo largo del tiempo total de exposición,
+pese a que puntualmente se registren valores bajos o
+muy elevados.
+La variación de las condiciones meteorológicas y de
+los hábitos de ventilación influye en la concentración
+medida. Generalmente, los resultados en verano (entendido como época de no calefacción) son menores
+que la correspondiente media anual, y en invierno mayores. Por ello, si se mide en verano en las zonas de
+inviernos fríos, debe multiplicarse el valor medio obtenido por 1,4(ii) para obtener así un dato más representativo. Si se ha medido en cualquier otra época del año,
+puede considerarse que el valor medio obtenido es lo
+suficientemente representativo.
+
+(ii) El factor de corrección de 1,4 se establece en el Apéndice C
+Determinación del promedio anual de concentración de radón en el aire
+de los locales habitables de un edificio, del DB HS6 del CTE.
+>> volver al índice >
+
+16
+
+17
+
+Capítulo
+Soluciones de protección
+más habituales
+Para poder elegir la solución de protección más adecuada, se debe conocer tanto el mecanismo de entrada del radón procedente del terreno en los edificios
+como el objetivo de las soluciones de protección y el
+funcionamiento de las mismas. En este capítulo se desarrollan estos conceptos y se presentan las soluciones
+de protección más habituales.
+
+3
+
+tiempo: los locales habitables (dormitorios, salones,
+cocinas, baños, etc.). Este objetivo se puede conseguir
+protegiendo los locales habitables de forma directa o
+de forma indirecta protegiendo los locales no habitables (garajes, trasteros, etc.) que se encuentren en la
+ruta de entrada del radón hacia los locales habitables.
+
+Particularidad de los edificios existentes
+Junto a las soluciones, se referencian las fichas que
+describen de forma detallada cada una de las soluciones de protección presentadas.
+
+3.1 Mecanismos de entrada del radón
+procedente del terreno en los
+edificios
+Los mecanismos por los que el radón penetra de forma
+natural en el edificio son fundamentalmente:
+■
+
+convección, debido al gradiente de presión entre
+los gases del terreno y el aire del interior del edificio,
+que se produce de forma puntual en grietas, juntas
+o pasos de instalaciones;
+
+■
+
+difusión, debido al gradiente de concentración de radón entre los gases del terreno y el aire del interior del
+edificio, que se produce a través de la masa de la propia envolvente del edificio en contacto con el terreno.
+
+3.2 Objetivo de las soluciones de
+protección
+Las soluciones de protección frente al radón procedente del terreno tienen como objetivo disminuir la exposición al radón de las personas en el interior de los edificios, reduciendo la concentración de radón al menos en
+aquellos espacios en los que las personas pasen más
+
+En los edificios existentes las soluciones de protección
+son similares a las utilizadas en el caso de los edificios
+de nueva planta, pero con las limitaciones que suele suponer la presencia de elementos constructivos
+preexistentes, el alcance de la actuación, los recursos
+económicos disponibles, etc. Las soluciones que se
+presentan en esta Guía tienen en cuenta dichos condicionantes. Además, puesto que el objetivo de una
+intervención de protección en un edificio existente es
+mejorar la situación inicial en la medida de lo posible,
+se presentan otras soluciones alternativas o complementarias a las propias de un edificio de nueva planta y
+que se suelen utilizar como refuerzo o cuando las soluciones para edificios nuevos no se pueden implementar o no ofrecen la efectividad deseada.
+
+3.3 Clasificación de las soluciones
+según su forma de actuación
+Las soluciones de protección se pueden agrupar según su forma de actuación en tres grandes grupos:
+■
+
+soluciones de aislamiento del edificio o los locales
+a proteger frente al radón procedente del terreno;
+
+■
+
+soluciones de reducción de la concentración de
+radón antes de que penetre en el edificio, o en
+todo caso, antes de que penetre en los locales a
+proteger;
+>> volver al índice >
+
+Soluciones de protección más habituales
+
+■
+
+soluciones de reducción de la concentración de
+radón que ya ha penetrado en los locales que se
+quieren proteger.
+
+Soluciones de aislamiento del edificio
+Para aumentar el aislamiento de la envolvente (o cerramiento) en contacto con el terreno y evitar que el
+radón fluya al interior de los edificios existen cuatro soluciones básicas cuya implementación dependerá de
+las posibilidades concretas de actuación en el edificio
+existente (Figuras 8 y 9):
+■
+
+Disposición de una barrera de protección frente al radón (Solución A1 + Solución A1-1).
+
+■
+
+Sellado de fisuras, grietas, encuentros y juntas (Solución A2).
+
+■
+
+Empleo de puertas estancas (Solución A3).
+
+■
+
+Creación de sobrepresión en los locales a proteger
+(Solución A4).
+
+Figura 9 – Puerta estanca (arriba) y sobrepresión (abajo)
+
+Soluciones de reducción del radón antes de
+que penetre en los locales a proteger
+El funcionamiento de estas soluciones consiste en reducir la concentración de radón al que los locales a
+proteger se encuentran expuestos disminuyendo así el
+gradiente de concentración de radón entre el exterior y
+el interior de los locales.
+Existen dos soluciones básicas cuya implementación
+dependerá de las posibilidades concretas de actuación
+en el edificio existente (Figura 10):
+
+Figura 8 – Barrera de protección frente al radón (arriba) y sellado de
+fisuras, grietas, encuentros y juntas (abajo)
+
+Las tres primeras soluciones se basan en la estanquidad del cerramiento y la última en la creación de un
+gradiente de presiones contrario al de entrada del radón.
+
+■
+
+Instalación de un sistema de ventilación del espacio
+de contención (Solución B1 y Solución B2).
+
+■
+
+Instalación de un sistema de despresurización del
+terreno (Solución B3).
+
+El espacio de contención es una cámara de aire (como
+pueda ser la cámara sanitaria) o un local no habitable
+(como un garaje) que se encuentra entre el terreno y
+los locales a proteger del edificio, de forma que, si el
+radón se elimina de su interior, no llega a penetrar en
+los locales superiores.
+
+>> volver al índice >
+
+18
+
+Soluciones de protección más habituales
+
+Figura 10 – Ventilación del espacio de contención (arriba) y despresurización del terreno (abajo)
+
+El sistema de despresurización es un sistema específico que extrae los gases del terreno y los expulsa al
+exterior, de forma que se dificulta el paso del radón  al
+interior del edificio.
+
+Soluciones de reducción del radón tras
+penetrar en los locales a proteger
+El funcionamiento de esta solución consiste en reducir la concentración de radón en los locales a proteger
+para así reducir la exposición de las personas (Figura
+11). Se emplea una única solución básica:
+■
+
+Mejora de la ventilación de los locales habitables
+(Solución C1).
+
+Figura 11 – Ventilación de los locales habitables
+>> volver al índice >
+
+19
+
+20
+
+Capítulo
+
+4
+
+Guía de elección
+Este capítulo, de carácter orientativo, consiste en:
+■
+
+la enumeración de las soluciones de protección
+más adecuadas según sea el valor de la concentración de radón medida en los locales habitables,
+distinguiendo entre concentración media (entre 300
+y 600 Bq/m3) o alta (mayor de 600 Bq/m3);
+
+■
+
+un conjunto de observaciones generales con criterios de aplicación de las distintas soluciones;  
+
+■
+
+un cuadro de efectividad de las distintas soluciones
+según la concentración de radón; y
+
+■
+
+las soluciones de protección más adecuadas según
+sea el cerramiento que separa el local habitable del
+terreno y el valor de la concentración de radón.
+
+Las soluciones de protección más adecuadas en líneas
+generales para edificios existentes con concentraciones de radón inferiores a 600 Bq/m3 son las siguientes:
+
+■
+
+disposición de una barrera de protección entre los
+locales habitables del edificio y el terreno que limite el paso de los gases provenientes del terreno
+(Solución A1 + Solución A1-1). La barrera de protección consiste en un elemento continuo que cubre
+todos los cerramientos en contacto con el terreno;
+
+■
+
+si no es posible la colocación de una barrera, los cerramientos situados entre el terreno y los locales habitables tendrán que desempeñar las funciones de
+barrera. Para ello, se sellarán las fisuras, grietas y juntas de estos cerramientos, así como los encuentros
+con los elementos que los interrumpan, como pasos
+de conducciones o similares (Solución A2);
+
+■
+
+instalación de puertas estancas entre espacios de
+contención y locales habitables (Solución A3);
+
+■
+
+en casos muy concretos, creación de una sobrepresión en el interior del local habitable (Solución A4),
+
+Tabla 1. Soluciones orientativas de protección frente al radón más adecuadas
+en función de la concentración de radón
+Promedio anual de
+concentración de radón (Bq/m3)
+
+≤600
+
+>600
+
+Soluciones de protección
+
+■
+
+Disposición de barrera de protección (Solución A1+ Solución A1-1)
+
+■
+
+Sellado de fisuras, grietas, encuentros y juntas (Solución A2)
+
+■
+
+Empleo de puertas estancas (Solución A3)
+
+■
+
+Creación de sobrepresión en los locales a proteger (Solución A4)
+
+■
+
+Mejora de la ventilación del espacio de contención (Solución B1 y Solución B2)
+
+■
+
+Mejora de la ventilación de los locales habitables (Solución C1)
+
+■
+
+Creación de espacio de contención (Solución B1 y Solución B2)
+
+■
+
+Instalación de sistema de despresurización del terreno (Solución B3)
+>> volver al índice >
+
+Guía de elección
+
+que se conseguirá con la instalación de un sistema
+de ventilación específico;
+■
+
+■
+
+mejora de la ventilación de la cámara sanitaria, si
+existe, o de un local no habitable que pueda actuar
+como espacio de contención (Solución B1 y Solución B2);
+mejora de la ventilación de los locales habitables si
+no es acorde a la necesaria para la calidad del aire
+interior general (Solución C1).
+
+Las soluciones de protección más adecuadas para edificios existentes para concentraciones de radón superiores a 600 Bq/m3 son una combinación de alguna de las
+soluciones anteriores con las siguientes:
+■
+
+creación de un espacio de contención si no se disponía de uno (Solución B1 y Solución B2);
+
+■
+
+instalación de un sistema de despresurización del
+terreno situado bajo el edificio (Solución B3).
+
+En la tabla 1 se recogen las soluciones de protección
+frente al radón más adecuadas según el valor de la
+concentración de radón medida en el local habitable.
+En la práctica, en el caso de edificios existentes, para la
+elección de las soluciones más adecuadas se tendrán
+en cuenta, además de la concentración de radón, otros
+factores determinantes como la existencia de sótano,
+las soluciones constructivas empleadas en el cerramiento en contacto con el terreno y su estado, etc. La
+casuística es tan amplia que no se pueden reducir a una
+simple regla las indicaciones, pero se pueden hacer una
+serie de observaciones generales:
+■
+
+si el edificio cuenta con un forjado sanitario, la cámara sanitaria puede actuar de espacio de contención, mejorándose sus condiciones de ventilación y
+de estanquidad al aire con respecto a los locales a
+proteger;
+
+■
+
+si el edificio cuenta con un garaje o un sótano, éste
+puede utilizarse como espacio de contención de forma similar a lo indicado anteriormente;
+
+■
+
+si el edificio no cuenta con espacio de contención y
+no es viable disponer uno, para concentraciones de
+radón superiores a 600 Bq/m3, puede ser necesario
+instalar un sistema de despresurización del terreno;
+
+■
+
+si se quiere mejorar la ventilación del local a proteger,
+deben tenerse en cuenta las pérdidas energéticas
+que esto podría conllevar, por lo que no es recomendable superar los niveles de ventilación indicados en  
+la reglamentación correspondiente (CTE o RITE).
+
+Barrera frente al radón
+
+Sellado de fisuras,
+grietas, encuentros
+y juntas
+
+Puertas estancas
+
+Creación de
+sobrepresión
+
+Ventilación del
+espacio de contención:
+cámara de aire
+
+Ventilación del
+espacio de contención:
+locales no habitables
+
+Despresurización
+del terreno
+
+Ventilación de los
+locales habitables
+
+La efectividad de las distintas soluciones de protección no es la misma, por lo que dependiendo de la
+concentración medida y las características del edificio
+en cuestión será más eficiente utilizar una solución u
+otra e incluso habrá que utilizar soluciones de forma
+acumulativa.
+En la figura 12 se orienta sobre la efectividad de las
+distintas soluciones distinguiendo entre concentraciones de radón superiores (en rojo) e inferiores (en amarillo) a 600 Bq/m3, medidas en los locales habitables.
+Además, en las tablas 2, 3 y 4 se indican de forma
+orientativa las soluciones más apropiadas a utilizar
+según sea el tipo de cerramiento que separa el local habitable del terreno y la concentración de radón
+medida en el local habitable a proteger.
+
+Figura 12– Efectividad orientativa de las distintas soluciones para concentraciones de radón superiores (en rojo) e inferiores (en
+amarillo) a 600 Bq/m3 en escala de 1 a 5 (menor a mayor)
+>> volver al índice >
+
+21
+
+Guía de elección
+
+Tabla 2. Soluciones orientativas de protección frente al radón en caso de solera
+en función de la concentración de radón existente
+Barrera
+
+Sellado (1)
+
+Barrera + Despresurización
+
+Sellado (1) + Despresurización
+
+> 600 Bq/m3
+
+Promedio anual de concentración de radón
+
+≤ 600 Bq/m3
+
+Solera
+
+Barrera +
+Cámara de aire ventilada (2)
+
+Mejora ventilación del local habitable (3)
+
+>> volver al índice >
+
+22
+
+Guía de elección
+
+Tabla 3. Soluciones orientativas de protección frente al radón en caso de forjado
+sanitario en función de la concentración de radón existente
+Mejora ventilación
+de la cámara
+
+≤ 600 Bq/m3
+
+Mejora ventilación
+de la cámara + Barrera
+
+Mejora ventilación
+de la cámara + Sellado (1)
+
+> 600 Bq/m3
+
+Promedio anual de concentración de radón
+
+Forjado sanitario
+
+Mejora ventilación del local habitable (3)
+
+Notas tablas 2, 3 y 4:
+(1) Si no se puede colocar la barrera adecuadamente, debe al menos sellarse la solera o el forjado.
+(2) Alternativamente, si es viable puede disponerse una cámara de aire ventilada sobre la solera existente.
+(3) De forma complementaria, si el nivel de ventilación existente del local habitable es inferior al exigido en el
+CTE, se puede mejorar la ventilación hasta alcanzar lo exigido.
+(4) De forma complementaria, se deben hacer estancas las puertas que comuniquen el sótano con el local habitable.
+>> volver al índice >
+
+23
+
+Guía de elección
+
+Tabla 4. Soluciones orientativas de protección frente al radón en caso de forjado
+sobre sótano en función de la concentración de radón existente
+
+≤ 600 Bq/m3
+
+Mejora ventilación del sótano
+
+Mejora ventilación
+del sótano + Barrera
+
+Mejora ventilación
+del sótano + Sellado (1)
+
+> 600 Bq/m3
+
+Promedio anual de concentración de radón
+
+Forjado sobre sótano
+
+Mejora ventilación del local habitable (3)
+
+Puertas estancas (4)
+
+>> volver al índice >
+
+24
+
+25
+
+Bibliografía
+1.
+
+2.
+
+3.
+
+Directiva 96/29/Euratom del Consejo, de 13 de
+mayo de 1996, por la que se establecen las normas
+básicas relativas a la protección sanitaria de los trabajadores y de la población contra los riesgos que
+resultan de las radiaciones ionizantes.
+Directiva 2013/59/Euratom del Consejo, de 5 de diciembre de 2013, por la que se establecen normas
+de seguridad básicas para la protección contra los
+peligros derivados de la exposición a radiaciones
+ionizantes.
+Real Decreto 732/2019, de 20 de diciembre, por el
+que se modifica el Código Técnico de la Edificación,
+BOE 311, de 27 de diciembre de 2019.
+
+4.
+
+Real Decreto 783/2001, de 6 de julio, Reglamento
+de protección sanitaria contra las radiaciones ionizantes, BOE 178, de 26 de julio de 2001.
+
+5.
+
+Real Decreto 1836/1999, de 3 de diciembre, Reglamento sobre instalaciones nucleares y radiactivas,
+BOE 313, de 31 de diciembre de 1999.
+
+6. WHO Handbook on indoor radon, a public health
+perspective (2009).
+7.
+
+CSN Instrucción IS-33 sobre criterios radiológicos
+para la protección frente a la exposición a la radiación natural. BOE 22, de 26 de enero de 2012.
+
+8. CSN Guía de Seguridad 11.01 Directrices sobre la
+competencia de los laboratorios y servicios de medida de radón en el aire (2011).
+9. CSN Guía de Seguridad 11.02 Control de la exposición a fuentes naturales de radiación (2011).
+
+B
+
+11. CSN Concentraciones de radón en viviendas españolas. Otros estudios de radiación natural. Colección
+Informes Técnicos 13 (2004).
+12. CSN Proyecto MARNA. Mapa de radiación gamma
+natural. Colección Informes Técnicos 5 (2000).
+13. ČSN 73 0601 Ochrana staveb proti radonu z podloží.
+República Checa.
+14. Marta García-Talavera, et al. Mapping radon-prone
+areas using radiation dose rate and geological information. Journal of radiological protection, 33 (3)
+(2013): 605-20..
+15. Luis Quindós Poncela. Natural gamma radiation
+map (MARNA) and indoor radon levels in Spain. Environment International, 29 (2004): 1091–1096.
+16. Chris Scivyer and Michael Jaggs. A BRE Guide to radon remedial measures in existing dwellings. BRE
+Press (1998) Reino Unido.
+17. Chris Scivyer. Radon guidance on protective measures for new buildings. BRE Press (2007) Reino Unido.
+18. Chris Scivyer. Radon solutions in homes. Improving
+underfloor ventilation. GRG 37 Part 1. BRE Press
+(2012) Reino Unido.
+19. Chris Scivyer. Radon solutions in homes. Positive
+house ventilation. GRG 37 Part 2. BRE Press (2013)
+Reino Unido.
+20. Bernard Collignan. Guide technique: Le radon dans
+les batiments. CSTB (2008) Francia.
+21. Radon: Guida tecnica. UFSP (2000) Suiza.
+
+10. CSN Guía de Seguridad 11.04 Metodología para la
+evaluación de la exposición al radón en los lugares
+de trabajo (2011).
+>> volver al índice >
+
+fichas
+
+SOLUCIÓN
+
+A1
+
+BARRERA FRENTE AL RADÓN
+
+Efectividad con concentración
+mayor de 600 Bq/m3
+
+3
+5
+
+Efectividad con concentración
+menor de 600 Bq/m3
+
+1. FINALIDAD
+La colocación de una barrera frente al radón tiene como finalidad limitar la penetración de este gas
+proveniente del terreno hacia el interior del edificio a
+través del cerramiento. Se basa en aislar del terreno
+los locales que deben ser protegidos para evitar que
+el radón fluya al interior por difusión o convección a
+través de las vías de entrada habituales, que suelen
+ser la masa de los propios cerramientos en contacto
+con el terreno y los puntos en donde presentan alguna discontinuidad como fisuras, grietas, encuentros,
+juntas de dilatación, etc.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará cuando los cerramientos
+en contacto con el terreno se encuentren deteriorados, se carezca de ellos o no sean suficientemente
+efectivos para frenar el paso de radón.
+Algunos casos en los que esto puede suceder es
+cuando:
+■
+
+■
+
+la vivienda carezca de suelo de hormigón en contacto con el terreno, por ejemplo, cuente con suelo
+de madera o de tierra apisonada vista o sobre la que
+se apoyan directamente las piezas del solado;
+la solera se encuentre deteriorada o incluso presente problemas de humedad.
+
+Para su utilización hay que tener en cuenta la viabilidad de la ejecución, pues no siempre es posible intervenir en la totalidad del cerramiento en contacto
+con el terreno.
+
+Dificultad(1)
+
+3
+
+Coste(1)
+
+3
+
+3. EFECTIVIDAD
+La barrera es una de las soluciones más efectivas
+cuando la concentración de radón medida en los locales habitables es inferior a 600 Bq/m3.
+En caso de que la concentración de radón sea superior se recomienda combinar la barrera con otra solución, como las basadas en la reducción del radón antes de que penetre en los locales habitables descritas
+en la Solución B1, Solución B2 y Solución B3.
+Su efectividad podrá verse afectada si existen elementos de paso que conecten los locales situados bajo y
+sobre la barrera, como puedan ser trampillas y puertas
+de sótano o de garajes. En este caso será necesario
+que la puerta sea poco permeable al aire según lo detallado en la Solución A3.
+Para comprobar si la efectividad de la solución es adecuada, se recomienda medir la concentración de radón alcanzada dentro de los locales habitables tras la
+intervención.
+
+4. DIFICULTAD DE INSTALACIÓN
+Es una solución que requiere un cierto grado de especialización en su instalación, puesto que la garantía
+de su eficacia depende no sólo de la elección de una
+barrera adecuada sino también de una cuidada puesta
+en obra. Es de especial importancia el tratamiento de
+los puntos críticos en los que se producen discontinuidades.
+
+(1) Se ha considerado la instalación de barrera tipo lámina sobre suelo
+existente en un espacio diáfano
+
+Solución A1 • Barrera frente al radón
+
+5. CÓMO SE CONSIGUE
+Esta solución consistirá en disponer un elemento continuo que funcione como barrera en toda la
+superficie del cerramiento en contacto con el terreno.
+El cerramiento suele ser un suelo (Figura 1), aunque
+en el caso de la existencia de un sótano también puede ser un muro.
+
+Es importante que el estado de conservación del
+hormigón sea adecuado con el paso del tiempo.
+Se considera adecuado cuando presente un grado
+de solidez apreciable a simple vista, es decir, que
+no muestre una desagregación o un agrietamiento
+excesivo que haga inviable su sellado puntual como
+se explica en la Solución A2.
+
+Para concentraciones superiores a 600 Bq/m3 en
+los locales habitables no se considera adecuada
+una barrera que no sea de tipo lámina.
+En el caso de utilizar como barrera el propio muro
+o solera de hormigón en contacto con el terreno
+es recomendable que no se cubran con un
+pavimento u otros elementos que lo oculten. De
+esta forma, si como consecuencia de un deterioro
+posterior se produjeran grietas, serían apreciables
+a simple vista, lo que permitiría una intervención
+más sencilla.
+
+Figura 1 - Disposición de la barrera sobre forjado o solera
+
+La barrera podrá ser de tipo lámina o de otro tipo
+cuya efectividad pueda demostrarse. La característica principal de la barrera es su coeficiente de difusión
+del radón que tendrá que ser lo suficientemente bajo
+para que, teniendo en cuenta su espesor, limite la exhalación de radón desde el terreno al interior de los
+locales.
+En el mercado existen distintas láminas con función
+de barrera frente al radón. En general son parecidas a
+las utilizadas para la protección frente a la humedad,
+pero con propiedades de durabilidad mejoradas y con
+su coeficiente de difusión del radón caracterizado.
+
+La barrera se colocará entre el terreno y el local a proteger:
+■
+
+en el caso de una vivienda sin sótano, en el cerramiento en contacto con el terreno;
+
+■
+
+en el caso de una vivienda con sótano (que no se
+considere habitable), bien en el cerramiento en contacto con el terreno, bien en el cerramiento situado
+entre el sótano y la planta baja (Figura 2).
+
+Las láminas nodulares de polietileno no son adecuadas como barreras de protección frente al radón por los problemas de sellado que presentan.
+
+Otras barreras que podrían utilizarse y que han demostrado su efectividad (para casos en los que el
+promedio de la medida de radón no supere los 600
+Bq/m3) son los muros y los suelos de hormigón continuo, como por ejemplo una solera. El hormigón es
+un material relativamente poroso con un coeficiente
+de difusión del radón mayor que el de las barreras de
+tipo lámina, pero el hecho de que se coloque en obra
+con un espesor mucho mayor que el de las láminas
+podría compensarlo y resultar en una exhalación de
+radón similar.
+
+Figura 2 – Colocación de la barrera en el cerramiento entre el sótano y la
+planta baja
+
+La mejor ubicación para la barrera de tipo lámina es
+en la cara del cerramiento en contacto con el terreno
+(Figura 3 izda.), quedando así, por un lado, más cerca
+
+A1
+
+2
+2
+
+Solución A1 • Barrera frente al radón
+
+1
+2
+3
+
+barrera de protección
+solera
+forjado sanitario
+
+1
+3
+
+1
+2
+
+2
+1
+
+Figura 3 - Colocación de la barrera bajo solera (izda.) sobre solera (centro) y sobre forjado (drcha.)
+
+de la fuente de radón y, por otro, protegida de posibles
+impactos u otras acciones que la puedan deteriorar durante el uso del edificio. Sin embargo, esto no siempre
+es posible por lo que, según las circunstancias concretas de cada intervención la barrera se podrá situar:
+■
+
+■
+
+en el caso de que se vaya a mantener la solera o el
+forjado existente, en la cara interior (Figura 3 centro
+y drcha.), aunque en el caso de forjados existentes
+de madera, se situará sobre el terreno;
+en el caso de que se vaya a mantener el muro de
+sótano existente, en la cara interior.
+
+son las uniones entre láminas, las juntas de dilatación,
+los encuentros con elementos pasantes, pilares, particiones (tabiques) y fachadas, y la unión con obras
+existentes (Figura 4). En la Solución A1.1 se describen
+algunas soluciones para estos puntos críticos.
+
+7. COSTE
+El coste puede variar sustancialmente dependiendo
+del tipo de intervención. Las intervenciones, de menor
+a mayor coste asociado, pueden ser:
+■
+
+instalación de una barrera de tipo lámina sobre un
+suelo existente;
+
+■
+
+instalación de un nuevo suelo de hormigón;
+
+■
+
+instalación de una barrera de tipo lámina junto con
+un nuevo suelo de hormigón.
+
+6. PUNTOS CRÍTICOS
+En el caso de que la barrera presente falta de continuidad, la efectividad de la solución quedará mermada.
+Las causas más comunes de la falta de continuidad
+
+1
+2
+3
+4
+5
+6
+
+1
+
+2
+
+3
+
+4
+
+Figura 4 - Puntos críticos más comunes
+
+5
+
+6
+
+encuentro entre dos láminas
+encuentro con tabique
+junta de dilatación
+encuentro con elemento pasante
+encuentro con pilar
+encuentro con fachada
+
+A1
+
+3
+3
+
+Solución A1 • Barrera frente al radón
+
+El coste que se ha tenido en cuenta en la gráfica al
+comienzo de esta ficha es el correspondiente a la instalación de una barrera de tipo lámina sobre un suelo
+existente, por considerar que representa el caso más
+común.
+
+OBSERVACIONES
+Disposición de la barrera sobre un
+muro de sótano
+En el caso de que la barrera frente al radón se
+vaya a instalar cubriendo un muro de sótano, la
+barrera tendrá que adherirse a la superficie.
+
+Mejora de la protección frente a la
+humedad
+En el caso de que se quiera mejorar la protección
+frente a la humedad disponiendo una barrera impermeabilizante en el cerramiento en contacto
+con el terreno, este impermeabilizante podrá especificarse para que preste también la función de
+barrera frente al radón.
+
+Mejora del aislamiento térmico
+En el caso de que se quiera mejorar el aislamiento térmico disponiendo un aislante en el cerramiento en contacto con el terreno, este aislante
+podrá especificarse para que preste también la
+función de barrera frente al radón.
+
+Conservación y durabilidad
+de la barrera
+Las barreras de hormigón y las láminas dispuestas en el intradós de un cerramiento podrán, respectivamente, repararse mediante un mantenimiento adecuado o sustituirse por otra de forma
+sencilla. En contraposición, las láminas situadas
+en el trasdós serán difícilmente reparables por lo
+que será más importante que tengan una durabilidad adecuada a la vida útil del edificio y sus
+condiciones.
+
+A1
+
+4
+4
+
+SOLUCIÓN
+
+BARRERA FRENTE AL RADÓN.
+ENCUENTROS
+
+1
+
+2
+
+3
+
+4
+
+5
+
+A1-1
+6
+
+1
+2
+3
+4
+5
+6
+
+La falta de continuidad de la barrera puede reducir su
+eficacia considerablemente. Las causas más comunes de la falta de continuidad son las uniones entre
+láminas, las juntas de dilatación, los encuentros con
+elementos pasantes, pilares, particiones (tabiques) y
+fachadas, y la unión con obras existentes. A continuación se describen algunas soluciones para estos puntos críticos.
+
+Los sellantes que se utilicen tendrán un coeficiente de
+difusión del radón similar al de una barrera tipo lámina.
+
+encuentro entre dos láminas
+encuentro con tabique
+junta de dilatación
+encuentro con elemento pasante
+encuentro con pilar
+encuentro con fachada
+
+B. Juntas de dilatación
+Si la barrera es de tipo lámina
+Será necesario evitar que el movimiento diferencial de
+los dos bordes de la junta de dilatación rompa la lámina. Para ello, la lámina se podrá prolongar dentro de la
+junta dejando una holgura tipo fuelle que permita su
+elongación sin romperse (Figura 2).
+
+1
+
+2
+
+A. Solape entre dos láminas
+Los solapes entre dos láminas se tratarán según lo
+especificado por el fabricante. Generalmente el borde
+de la lámina superior se superpone y sella a la lámina
+inferior (Figura 1).
+
+1
+2
+
+tapajuntas
+fuelle
+
+Figura 2 - Encuentro de la barrera tipo lámina con una junta de dilatación
+
+Si la barrera es un elemento de hormigón
+Se sellará la junta de dilatación según lo descrito en
+la Solución A2.
+
+C. Encuentros con elementos
+pasantes
+Figura 1 – Ejemplo de solape entre dos láminas
+
+Los elementos pasantes más comunes son las conducciones para abastecimiento y evacuación de
+aguas. Habrá que sellar los encuentros con estos
+elementos de forma adecuada.
+
+Solución A1-1 • Barrera frente al radón. Encuentros
+
+Si la barrera es de tipo lámina
+Una solución adecuada podrá ser la de utilizar un pasamuros sellando su encuentro con el elemento pasante y la lámina (Figura 3) (si se va a sustituir el elemento pasante o si se interviene en el muro o suelo) o,
+si esto no es posible, rodear el elemento pasante en el
+encuentro con una pieza de refuerzo, preferiblemente
+prefabricada (Figura 4), y sellar los encuentros con la
+lámina y con el elemento pasante.
+Figura 5 - Encuentro de un muro con un elemento pasante horizontal
+mediante un elemento prefabricado embebido
+
+1
+2
+
+D. Encuentros con pilares
+
+1
+2
+
+pasamuros
+sellante
+
+Figura 3 - Encuentro de la barrera tipo lámina con un elemento pasante
+vertical mediante un pasamuros
+
+Los pilares más comunes suelen ser de hormigón armado o metálicos. En estos casos el radón que pueda
+penetrar a través de ellos se considera despreciable,
+puesto que el coeficiente de difusión del radón en el
+hormigón y en el metal es reducido. Sin embargo, es
+importante limitar el transporte de radón que se pueda
+producir en el encuentro de los pilares con la barrera.
+
+Si la barrera es de tipo lámina
+La lámina se prolongará alrededor de los pilares en su
+base, preferiblemente con láminas de refuerzo prefabricadas (Figura 6), y se sellará su extremo superior
+con el pilar e inferior con la lámina del suelo.
+
+1
+
+2
+1
+2
+
+pieza de refuerzo prefabricado
+sellante
+
+Figura 4 - Encuentro de la barrera tipo lámina con un elemento pasante
+horizontal mediante una pieza de refuerzo prefabricada
+
+En la zona donde exista un elemento pasante será
+preferible que no haya solapes entre distintas piezas
+de la lámina, puesto que dificultarían después el sellado del encuentro.
+
+Figura 6 - Encuentro de la barrera tipo lámina con un pilar
+
+Si la barrera es un elemento de hormigón
+
+Si la barrera es un elemento de hormigón
+
+En este caso las soluciones adecuadas podrán ser
+utilizar un elemento prefabricado embebido en el
+muro o en el suelo (Figura 5) (si se van a sustituir los
+elementos pasantes o si se interviene en el muro o
+suelo) o, si esto no es posible, rodear el elemento pasante en el encuentro con una pieza de refuerzo de
+forma similar a lo descrito en la Solución A2.
+
+Se dispondrán láminas de refuerzo en el encuentro
+de forma similar a lo descrito en la Solución A2.
+
+A1-1 2
+
+Solución A1-1 • Barrera frente al radón. Encuentros
+
+E. Encuentros con particiones
+interiores y fachadas
+En los encuentros de la barrera con particiones interiores y fachadas el radón puede penetrar:
+■
+
+por las irregularidades que se puedan producir en el
+propio encuentro;
+
+■
+
+a través de la partición o fachada si estuviesen compuestas de materiales porosos (por ejemplo, fábrica de piedra, mixta de piedra y ladrillo), si tuviesen
+huecos verticales (Figura 7), si el material de agarre
+no tuviera cohesión, si existieran cámaras de aire o
+si la mampostería fuera en seco.
+
+Para concentraciones superiores a 600 Bq/m3 en los
+locales habitables no se considera adecuada una barrera
+que no sea tipo lámina.
+
+Figura 8 - Encuentro de la barrera tipo lámina con una fachada cuando
+se vaya a ejecutar una nueva hoja interior
+
+Si no es posible disponer la lámina de forma continua bajo las particiones y las fachadas, se sellará la
+unión adecuadamente, de forma que se resistan los
+movimientos diferenciales, pudiendo además utilizarse
+soluciones de refuerzo. Para el sellado, lo más recomendable será encastrar la lámina nueva en la partición o fachada en una roza. Como soluciones de refuerzo podrán ser adecuadas la inyección o introducción
+de un producto barrera en la base de las particiones
+y fachadas, o la disposición de tubos perforados en
+su longitud que creen un sistema de despresurización
+(Figura 9) similar a lo descrito en la Solución B3.
+
+1
+
+1
+
+Figura 7 - Transporte de radón a través de la cámara de la fachada
+
+tubo perforado
+
+Figura 9 - Encuentro de la barrera tipo lámina con una fachada mediante encastrado y tubo perforado
+
+Para evitar este transporte, la lámina será continua bajo
+las particiones interiores y las fachadas, en la medida
+de lo posible, sobre todo en el caso de concentración
+de radón superior a 1200 Bq/m3. Por ejemplo, cuando
+se vaya a ejecutar en la fachada una nueva hoja interior,
+la lámina se llevará hasta la hoja exterior (Figura 8). El
+solape de la lámina de la fachada u hoja interior y la del
+suelo no se realizará en la fachada, sino sobre el suelo,
+para evitar que el muro de la fachada pierda estabilidad a esfuerzos horizontales.
+
+F. Unión con obras existentes
+Si la nueva barrera es de tipo lámina
+Si la parte existente tiene una barrera tipo lámina, la
+solución óptima sería sellar la nueva lámina con la
+existente. Cuando se conserva el cerramiento limítrofe, esto conlleva en la práctica cierta dificultad puesto
+
+A1-1 3
+
+Solución A1-1 • Barrera frente al radón. Encuentros
+
+que implica la demolición de tramos del cerramiento
+y constituye un riesgo de deterioro de la lámina existente. Por ello, la mejor solución será la de encastrar la
+lámina nueva en el cerramiento limítrofe en una roza
+por encima de la lámina existente (Figura 10).
+
+1
+
+2
+
+1
+2
+
+parte existente
+ampliación
+
+Figura 10 - Encuentro de la lámina existente con la nueva mediante roza
+
+Si la parte existente no tiene barrera tipo lámina la solución podrá ser también encastrar la nueva lámina en
+el cerramiento limítrofe de forma similar a la descrita
+anteriormente.
+
+Si la nueva barrera es un elemento de
+hormigón
+Será necesario realizar un cuidadoso sellado del encuentro, para lo que se podrá utilizar un sellante flexible similar al descrito para una junta de dilatación,
+que permita el movimiento diferencial entre las dos
+estructuras.
+
+A1-1 4
+
+SOLUCIÓN
+
+SELLADO DE FISURAS, GRIETAS,
+ENCUENTROS Y JUNTAS
+
+A2
+
+Efectividad con concentración
+mayor de 600/m3
+
+1
+3
+
+Efectividad con concentración
+menor de 600 Bq/m3
+
+1. FINALIDAD
+El sellado tiene como finalidad limitar la penetración
+del radón proveniente del terreno hacia el interior del
+edificio a través del cerramiento. Se basa en aislar del
+terreno los locales que deben ser protegidos para evitar que el radón fluya al interior por convección a través
+de los puntos en donde los cerramientos en contacto
+con el terreno presentan alguna discontinuidad como
+fisuras, grietas, encuentros, juntas de dilatación, etc.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará cuando no sea posible o
+viable disponer una barrera de protección frente al
+radón.
+Cuando el cerramiento en contacto con el terreno sea
+de un material que presente muchas juntas o sea especialmente poroso, como por ejemplo un forjado de
+madera, esta solución no será adecuada.
+
+3. EFECTIVIDAD
+El sellado puede ser efectivo cuando la concentración
+de radón medida en los locales habitables es inferior a
+600 Bq/m3 siempre y cuando el cerramiento presente
+un estado de conservación adecuado. Por ejemplo,
+en el caso de una solera o un muro de hormigón, se
+considera que el estado del hormigón es adecuado
+cuando presente un grado de solidez apreciable a
+simple vista, es decir, no muestre una desagregación
+o un agrietamiento excesivo que haga inviable su sellado puntual como se explica en el apartado 5.
+En caso de que la concentración de radón sea superior
+se recomienda combinar el sellado con otra solución,
+
+Dificultad
+
+1
+
+Coste
+
+1
+
+como las basadas en la reducción del radón antes de
+que penetre en los locales habitables descritas en
+la Solución B1, Solución B2 y Solución B3 o la ventilación de los propios locales habitables descrita en
+la Solución C1.
+Su efectividad podrá verse afectada si existen elementos de paso que conecten los locales situados
+bajo y sobre el cerramiento, como puedan ser trampillas y puertas de sótano o de garajes. En este caso
+será necesario que la puerta sea poco permeable al
+aire según lo detallado en la Solución A3.
+Para comprobar si la efectividad de la solución es
+adecuada, se recomienda medir la concentración de
+radón alcanzada dentro de los locales habitables tras
+la intervención.
+
+4. DIFICULTAD DE INSTALACIÓN
+Es una solución sencilla que no requiere un grado de
+especialización alto en su implementación.
+
+5. CÓMO SE CONSIGUE
+Esta solución consistirá en sellar los puntos críticos
+más comunes (Figura 1) en donde los cerramientos
+presenten alguna discontinuidad y supongan un riesgo de paso de radón, como son las grietas y fisuras,
+las juntas de dilatación y los encuentros con elementos pasantes, pilares y fachadas.
+
+Los sellantes que se utilicen tendrán un coeficiente de
+difusión del radón similar al de una barrera de tipo lámina.
+
+Solución A2 • Sellado de fisuras, grietas, encuentros y juntas
+
+1
+2
+3
+
+1
+
+3
+
+2
+
+4
+
+5
+
+4
+
+5
+
+grieta
+junta de dilatación
+encuentro con elemento pasante
+encuentro con pilar
+encuentro con fachada
+
+Figura 1 - Puntos críticos más comunes
+
+a) Grietas y fisuras
+
+ta el movimiento diferencial entre las dos estructuras
+(Figura 3).
+
+Para el sellado de una grieta se podrá inyectar un sellante flexible (Figura 2). Para realizar un trabajo más
+cuidadoso se podrá ensanchar la grieta con la ayuda
+de un mazo y un cincel e introducir un elemento de
+fondo de junta elástico previo al sellante. Siempre se
+eliminarán las impurezas que puedan haber quedado
+en la junta antes de aplicar el sellante.
+
+2
+
+1
+
+2
+
+1
+2
+
+fondo de junta
+sellante
+
+2
+
+1
+
+1
+2
+
+fondo de junta
+sellante
+
+Figura 3 – Sellado de una junta de dilatación de una solera
+
+Figura 2 - Sellado de una grieta centrada (arriba) y ensanchándola
+(abajo)
+
+c) Encuentros con elementos pasantes
+En el caso de una solera microfisurada se podrán sellar las fisuras con un tratamiento superficial: membrana, producto líquido, etc. En este caso se recomienda
+colocar además una capa de protección.
+
+b) Juntas de dilatación
+Para el sellado de una junta de dilatación se podrá
+introducir un elemento de fondo de junta elástico y
+posteriormente aplicar un sellante flexible que permi-
+
+Los elementos pasantes más comunes son las conducciones para abastecimiento y evacuación de
+aguas.
+Se sellarán los encuentros con un sellante flexible.
+La mejor solución será rodear los elementos pasantes en el encuentro con piezas de refuerzo, preferiblemente prefabricadas, y sellar: el encuentro entre
+el refuerzo y el cerramiento, y el encuentro entre el
+refuerzo y el elemento pasante (Figuras 4 y 5).
+
+A2
+
+2
+2
+
+Solución A2 • Sellado de fisuras, grietas, encuentros y juntas
+
+e) Encuentros con fachadas
+
+2
+1
+
+El encuentro con una fachada se podrá sellar retirando el rodapié, introduciendo un elemento de fondo de
+junta elástico y posteriormente inyectando un sellante
+flexible que permita el movimiento diferencial entre
+las dos estructuras (Figura 7).
+1
+2
+
+	pieza de refuerzo
+prefabricado
+sellante
+
+Figura 4 - Encuentro del cerramiento con un elemento pasante vertical
+resuelto con una pieza de refuerzo prefabricada
+
+Si el rodapié no se puede retirar se podrá inyectar
+el material sellante, aunque esta solución es menos
+eficaz.
+
+2
+1
+2
+
+1
+1
+2
+
+pieza de refuerzo
+prefabricado
+sellante
+
+Figura 5 - Encuentro del cerramiento con un elemento pasante horizontal
+resuelto con una pieza de refuerzo prefabricada
+
+2
+
+d) Encuentro con pilares
+Los pilares más comunes suelen ser de hormigón armado o metálicos. En estos casos el radón que pueda
+penetrar a través de ellos se considera despreciable,
+puesto que el coeficiente de difusión del radón en el
+hormigón y en el metal es reducido. Sin embargo, es
+importante limitar el transporte de radón que se pueda producir en el encuentro de los pilares con el cerramiento.
+Por ello, se dispondrán láminas de refuerzo en el encuentro (Figura 6), preferiblemente prefabricadas, y
+se sellará su extremo superior con el pilar e inferior
+con el cerramiento.
+
+1
+2
+
+fondo de junta
+sellante
+
+Figura 7 - Sellado del encuentro de una solera con una fachada retirando el rodapié (arriba) y sin retirarlo (abajo)
+
+6. COSTE
+El coste se considera bajo en relación al resto de soluciones de protección, puesto que se trata de una
+solución basada en la reparación puntual de un elemento existente.
+
+Figura 6 - Encuentro del cerramiento con un pilar
+
+A2
+
+3
+3
+
+SOLUCIÓN
+
+A3
+
+PUERTAS ESTANCAS
+
+Efectividad con concentración
+mayor de 600 Bq/m3
+
+2
+3
+
+Efectividad con concentración
+menor de 600 Bq/m3
+Dificultad(1)
+
+1
+
+Coste(1)
+
+1
+
+1. FINALIDAD
+Las puertas estancas tienen como finalidad limitar el
+paso de radón desde zonas con alta concentración
+de este gas, como son los espacios de contención,
+hacia el resto del edificio.
+
+El espacio de contención es un espacio situado entre
+el terreno y los locales a proteger que recibe el radón
+proveniente del terreno y que, mediante ventilación
+natural o mecánica, lo expulsa al exterior del edificio
+mitigando el paso de radón al interior de los locales
+habitables.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará cuando exista un espacio
+de contención comunicado con el resto del edificio
+mediante puertas o trampillas con alta permeabilidad
+al aire (Figura 1). En todo caso, también se podrán sellar las puertas y trampillas que comuniquen cualquier
+cámara o local no habitable situado entre el terreno
+y los locales a proteger con el resto del edificio, mejorando así la protección frente al radón, como, por
+ejemplo:
+■
+
+un sótano/semisótano con garaje o trasteros y una
+planta baja dedicada a locales comerciales o viviendas;
+
+■
+
+un sótano/semisótano con aparcamiento y una
+planta baja de una vivienda unifamiliar;
+
+■
+
+una cámara sanitaria y la planta baja desde la que
+se accede.
+
+Figura 1 - Ejemplos de puertas que deberían ser estancas: trampilla a
+cámara sanitaria (arriba) y puerta de bajada a sótano (abajo)
+
+3. EFECTIVIDAD
+El sellado de puertas o trampillas es una solución no
+demasiado efectiva por sí sola, por lo que se recomienda su empleo junto con otras soluciones como
+la barrera de protección frente al radón (Solución A1 y
+Solución A1.1), el sellado de fisuras, grietas, encuentros y juntas (Solución A2), la ventilación de cámaras
+de aire (Solución B1) o la ventilación de locales no habitables (Solución B2).
+(1) Se ha considerado la mejora de una puerta existente
+
+Solución A3 • Puertas estancas
+
+Para comprobar si la efectividad de la solución es
+adecuada, se recomienda medir la concentración de
+radón alcanzada dentro de los locales habitables tras
+la intervención.
+
+2
+3
+1
+
+4. DIFICULTAD DE INSTALACIÓN
+Es una solución sencilla que no requiere un grado de
+especialización alto en su implementación.
+1
+
+5. CÓMO SE CONSIGUE
+
+3
+
+Esta solución consistirá en reducir la permeabilidad al
+aire de las puertas o trampillas existentes causada por
+una holgura excesiva entre la hoja y el cerco o entre
+los paneles y marcos, la presencia de rejillas de ventilación, la falta de mecanismos de cierre automático,
+etc.
+
+1
+2
+3
+4
+
+junta
+perfil fijo
+puerta
+cerco
+
+Figura 3 - Juntas elásticas verticales sujetas mediante un perfil fijo (arriba)
+y directamente al cerco (abajo)
+
+Cuando la apertura entre la hoja de la puerta y el cerco no permita la disposición de una junta, ésta se podrá colocar con ayuda de un perfil fijo. Los sistemas
+de cepillo sujetos a la hoja de la puerta no son lo suficientemente eficientes, por lo que no se recomienda
+su uso.
+Figura 2 - Mecanismo de cierre automático
+
+La reducción de la permeabilidad se podrá lograr
+bien sustituyendo las puertas existentes o bien mejorándolas.
+
+En el caso de trampillas la solución dependerá de su
+frecuencia de uso. Si es esporádico, lo más eficiente
+será su sellado, pero si es frecuente lo más adecuado
+será implementar soluciones similares a las descritas
+para puertas.
+3
+
+En el caso de sustitución de puertas existentes, se
+considera que pueden ser adecuadas las puertas interiores de permeabilidad al aire de clase C o D según
+la UNE-EN 12207. A mayor estanqueidad de la puerta,
+mayor seguridad frente al paso de radón.
+
+1
+2
+
+En el caso de mejora de puertas existentes, podrán
+implementarse las siguientes medidas:
+■
+
+disposición de un mecanismo de cierre automático
+(Figura 2);
+
+■
+
+colocación de una junta elástica en todo el perímetro del cerco (Figura 3) y en un perfil fijo o elemento
+que permita su sujeción al pavimento (Figura 4);
+
+■
+
+oclusión de rejillas de ventilación existentes.
+
+1
+2
+3
+
+junta
+perfil fijo
+puerta
+
+Figura 4 - Junta elástica horizontal sujeta a un perfil fijo al pavimento
+
+En el caso de vestíbulos con dos puertas consecutivas, se recomienda que sea estanca la primera puerta
+en el sentido de avance del gas radón hacia las zonas
+habitables, es decir, la más cercana a la zona no habitable.
+
+A3
+
+2
+2
+
+Solución A3 • Puertas estancas
+
+En el caso de otras puertas interiores que pueda haber en un local no habitable, como puertas de trasteros, no será necesario que sean estancas y además se
+conservarán las rejillas o aberturas de ventilación que
+puedan tener.
+
+6. PUNTOS CRÍTICOS
+Alineación de la puerta
+La alineación de la puerta es el principal punto crítico en la instalación de una trampilla o puerta estanca
+para que todos sus mecanismos de cierre funcionen
+adecuadamente.
+
+7. COSTE
+El coste puede variar sustancialmente dependiendo
+de si la intervención consiste en sustituir o mejorar
+una puerta existente.
+El coste que se ha tenido en cuenta en la gráfica al
+comienzo de esta ficha es el correspondiente a la mejora de una puerta existente.
+
+OBSERVACIONES
+Puerta situada en un recorrido
+accesible o de evacuación
+Cuando la puerta esté ubicada en un recorrido
+accesible o para evacuación en caso de incendio, no podrá disponerse un perfil fijo en el suelo puesto que supondría un obstáculo. En este
+caso, tendrá que sustituirse la puerta existente
+por una nueva con las condiciones de permeabilidad al aire indicadas anteriormente.
+
+Puerta con rejilla de ventilación
+Cuando la puerta existente cuente con una rejilla
+que haya que ocluir de acuerdo a la información
+proporcionada anteriormente, será necesario
+prever soluciones sustitutivas para la ventilación
+del local no habitable.
+
+A3
+
+3
+3
+
+SOLUCIÓN
+
+A4
+
+CREACIÓN DE SOBREPRESIÓN
+
+Efectividad con concentración
+mayor de 600 Bq/m3
+Efectividad con concentración
+menor de 600 Bq/m3
+
+1
+3
+5
+
+Dificultad
+Coste
+
+1. FINALIDAD
+La creación de sobrepresión en el interior del local a
+proteger tiene como finalidad limitar la entrada de radón desde su exterior. En circunstancias normales, el
+radón penetra a través de los cerramientos en gran
+medida gracias a la diferencia de presión que se establece entre el gas en el terreno y en el interior del
+edificio. La sobrepresión provocará que el movimiento del aire se invierta y se produzca desde dentro del
+local habitable hacia el exterior, protegiéndolo de la
+entrada de radón.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se podrá emplear para proteger pequeños locales habitables situados en grandes áreas que
+no estén protegidas como, por ejemplo, cabinas de
+vigilancia en garajes (Figura 1).
+
+3
+
+Cuando el uso del local implique frecuentes aperturas de puertas o ventanas, será necesario realizar un
+estudio específico para determinar la viabilidad de
+esta solución pues no se podría asegurar la sobrepresión en estas condiciones.
+
+3. EFECTIVIDAD
+La creación de sobrepresión en el interior del local a
+proteger puede ser efectiva cuando la concentración
+de radón medida en su interior es inferior a 600 Bq/m3.
+Se recomienda su empleo junto con otras soluciones
+como la barrera de protección frente al radón (Solución A1 y Solución A1.1) o el sellado de fisuras, grietas,
+encuentros y juntas (Solución A2).
+
+La efectividad de esta solución depende en gran medida
+de la estanqueidad del cerramiento del local a proteger.
+Para que su efectividad sea la óptima, la estanqueidad
+del cerramiento tiene que ser alta.
+
+Su efectividad podrá verse afectada si existen elementos como puertas o ventanas, que conecten los
+locales protegidos con sobrepresión con áreas no
+protegidas. En este caso será necesario que los elementos sean poco permeables al aire según lo detallado en la Solución A3.
+
+Figura 1 - Cabina de vigilancia en garaje
+
+Para comprobar si la efectividad de la solución es
+adecuada, se recomienda medir la concentración de
+radón alcanzada dentro del local habitable tras la intervención.
+
+Solución A4 • Creación de sobrepresión
+
+4. DIFICULTAD DE INSTALACIÓN
+Es una solución que requiere un grado de especialización alto puesto que la garantía de su efectividad
+depende de un adecuado diseño y dimensionado.
+
+5. CÓMO SE CONSIGUE
+Para crear sobrepresión dentro de un local se introducirá aire en su interior mediante un sistema de
+ventilación mecánica de impulsión, o de impulsión y
+extracción desequilibrado (con mayor impulsión que
+extracción), que consiga elevar la presión en su interior por encima de la presión en el exterior del local
+(Figura 2). El aire a impulsar se tomará del exterior del
+edificio.
+
+7. COSTE
+El coste depende en gran medida de la estanqueidad
+existente en el local y del sistema de ventilación disponible. El caso más costoso correspondería a la instalación de un sistema de ventilación completamente
+nuevo con impulsión y extracción mecánica.
+El coste que se ha tenido en cuenta en la gráfica al
+comienzo de esta ficha es el correspondiente a la instalación de un sistema de ventilación basado en impulsión mecánica.
+
+OBSERVACIONES
+Sobrepresión mínima
+La diferencia de presión a conseguir entre el interior del local protegido y su exterior dependerá
+del caso concreto, pudiéndose emplear como
+referencia inicial 5 Pa.
+
+Riesgo de condensaciones
+intersticiales
+
+Figura 2 - Sistema de sobrepresión
+
+Para lograr esta sobrepresión el local a proteger debe
+presentar una baja permeabilidad al aire.
+
+6. PUNTOS CRÍTICOS
+Falta de estanqueidad del cerramiento
+En el caso de que el cerramiento entre el local a proteger y el resto de áreas no protegidas no sea lo suficientemente estanco, podría producirse una fuga
+importante de aire desde el interior al exterior con las
+consiguientes pérdida de presión y disminución drástica de la efectividad del sistema. Para evitarlo será
+indispensable realizar un cuidado sellado de los cerramientos.
+
+El empleo de sobrepresión en viviendas no está
+recomendado a priori puesto que existe riesgo
+de condensaciones intersticiales especialmente
+en épocas frías, debido a que el aire más caliente
+y con más humedad absoluta del interior de la
+vivienda es empujado hacia el exterior.
+
+A4
+
+2
+2
+
+SOLUCIÓN
+
+VENTILACIÓN DEL ESPACIO DE
+CONTENCIÓN: CÁMARA DE AIRE
+
+B1
+4
+
+Efectividad con concentración
+mayor de 600 Bq/m3
+
+5
+
+Efectividad con concentración
+menor de 600 Bq/m3
+
+1. FINALIDAD
+
+Dificultad(1)
+
+1
+
+Coste(1)
+
+1
+
+3. EFECTIVIDAD
+
+La ventilación de la cámara de aire empleada como
+espacio de contención tiene como finalidad reducir la
+concentración de radón a la que los cerramientos de
+los locales habitables se encuentran expuestos. Se
+basa en favorecer mediante ventilación la expulsión
+del aire con alta concentración de radón de la cámara
+y que no tienda a penetrar en los locales habitables.
+
+La ventilación de la cámara de aire que actúa como
+espacio de contención es una de las soluciones más
+efectivas. No obstante, para que esta efectividad sea
+óptima, se recomienda su empleo junto con otras
+soluciones como la barrera de protección frente al
+radón (Solución A1 y Solución A1.1) o el sellado de
+fisuras, grietas, encuentros y juntas (Solución A2), especialmente para concentraciones de radón medidas
+en los locales habitables superiores a 600 Bq/m3.
+
+El espacio de contención es un espacio situado entre
+el terreno y los locales a proteger que recibe el radón
+proveniente del terreno y que, mediante ventilación
+natural o mecánica, lo expulsa al exterior del edificio
+mitigando el paso de radón al interior de los locales
+habitables. Puede actuar como espacio de contención
+un local no habitable o una cámara de aire.
+
+Su efectividad podrá verse afectada si existen elementos de paso que conecten estas cámaras con locales habitables, como puedan ser trampillas de acceso. En este caso será necesario que las trampillas
+sean poco permeables al aire según lo detallado en
+la Solución A3.
+
+En esta Solución B1 únicamente se trata la ventilación
+de cámaras de aire. La ventilación de los locales no
+habitables utilizados como espacio de contención se
+trata en la Solución B2.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará generalmente cuando el
+edificio ya disponga de una cámara de aire que pueda
+actuar como espacio de contención, por ejemplo, una
+cámara sanitaria.
+Si el edificio no dispone de cámara de aire, podría ser
+viable su colocación dependiendo de factores como
+la altura libre disponible, la superficie útil de la planta,
+la posibilidad de intervenir por el exterior del muro, así
+como de otros condicionantes económicos o técnicos.
+
+Para comprobar si la efectividad de la solución es adecuada, se medirá la concentración de radón alcanzada
+dentro de los locales habitables tras la intervención.
+
+4. DIFICULTAD DE INSTALACIÓN
+En el caso de que el edificio ya disponga de cámara
+de aire, es una solución sencilla que no requiere un
+grado de especialización alto.
+En el caso de que se construya una nueva cámara de
+aire, es una solución que requiere un grado de especialización medio.
+
+5. CÓMO SE CONSIGUE
+En el caso de que el edificio ya disponga de cámara de aire, esta solución consistirá en ventilarla
+(1) Se ha considerado un edificio que dispone de una cámara sanitaria en la
+que se mejora la ventilación natural
+
+Solución B1 • Ventilación del espacio de contención: cámaras de aire
+
+adecuadamente tal y como se describe en este apartado. Previamente se realizará un mantenimiento que
+incluya la limpieza de las aberturas de ventilación existentes y la eliminación de los obstáculos que se hayan
+podido acumular o disponer a lo largo del tiempo.
+
+1
+
+modulos de encofrado perdido
+
+1
+
+En el caso de que el edificio no disponga de cámara de aire, y siempre que sea viable, podrá instalarse
+una cámara de aire continua en toda la superficie del
+cerramiento en contacto con el terreno. Lo más habitual es que esta cámara se sitúe en el plano horizontal
+puesto que el cerramiento en contacto con el terreno
+suele ser un suelo, aunque también podrá realizarse
+verticalmente cuando el cerramiento en contacto con
+el terreno sea el muro de un sótano. En ambos casos,
+la cámara podrá disponerse por el interior del cerramiento si la disposición por el exterior no es viable,
+pudiendo ser su espesor reducido, pero nunca inferior
+a 5 cm.
+
+Figura 2 - Cámara ventilada horizontal interior
+
+1
+
+cámara bufa
+
+1
+
+Según su disposición en relación al cerramiento existente, la cámara de aire podrá ser:
+■
+
+horizontal exterior, constituida por una cámara sanitaria ventilada (Figura 1);
+
+■
+
+horizontal interior, formada con láminas nodulares o
+módulos de encofrado perdido (Figura 2);
+
+■
+
+vertical exterior, construida mediante un elemento
+hueco y poroso (Figura 3), una capa de relleno similar a la de los sistemas de despresurización del
+terreno o una lámina nodular;
+
+■
+
+vertical interior, consistente en una cámara bufa (Figura 4).
+
+Figura 3 - Cámara ventilada vertical exterior
+
+1
+
+cámara bufa
+
+1
+
+Figura 4 - Cámara ventilada vertical interior
+
+Figura 1 - Cámara sanitaria ventilada
+
+La ventilación de la cámara se podrá realizar de forma
+natural o mecánica, con los condicionantes que se recogen a continuación.
+
+B1
+
+2
+2
+
+Solución B1 • Ventilación del espacio de contención: cámaras de aire
+
+a) Ventilación natural
+
+pequeña) o disponerse un conducto periscópico
+(Figura 7) que comunique la cámara con el exterior.
+De entre todas las posibilidades de configuración de
+este conducto se recomiendan las que no atraviesen
+el forjado, para evitar un punto crítico de entrada de
+radón;
+
+La cámara de aire se ventilará practicando las correspondientes aberturas de ventilación (Figura 5).
+
+1
+
+2
+
+Figura 5 - Abertura de ventilación
+
+1
+2
+
+Figura 6 - Distribución de aberturas en planta
+
+1
+
+Se seguirán las indicaciones generales siguientes en
+cuanto a diseño, ubicación y dimensionado:
+■
+
+las aberturas se colocarán distribuidas de forma
+homogénea en todo el perímetro (Figura 6) para
+evitar zonas con aire estancado. Sin embargo, en el
+caso de una cámara horizontal con una superficie
+en planta de menos de 100 m2, las aberturas podrán disponerse en la misma fachada siempre que
+ningún punto de la cámara diste más de 10 m de
+alguna de ellas;
+
+■
+
+el área del conjunto de aberturas será de al menos
+10 cm2 por metro lineal del perímetro de la cámara
+medido en horizontal, aunque para concentraciones de radón superiores a 600 Bq/m3 es muy probable que el área necesaria sea superior;
+
+■
+
+las aberturas se ubicarán por encima de la cota que
+pueda alcanzar la acumulación de nieve, en su caso;
+
+■
+
+cuando la cámara quede a un nivel inferior a la cota
+exterior, podrá realizarse una pequeña excavación
+en el terreno circundante (si la diferencia de cota es
+
+2
+
+1
+2
+
+abertura de ventilación periscópica
+cámara sanitaria
+
+Figura 7 - Conductos periscópicos: sin atravesar (arriba y centro) y
+atravesando el forjado (abajo)
+
+■
+
+cuando se disponga un conducto de extracción
+que lleve el aire desde la cámara hasta el exterior, el
+conducto podrá discurrir por el interior del edificio o
+por el exterior, siendo esta última disposición la más
+recomendable para evitar la entrada de radón en
+el interior del edificio en caso de fugas en el propio
+conducto o en el encuentro con el forjado;
+
+■
+
+si fuese inevitable atravesar el forjado con algún
+conducto, los encuentros con los conductos se tratarán como se indica en la Solución A2 o en la Solución A1.1, según corresponda.
+
+Cuando sea necesario reforzar la ventilación de la cámara se podrá realizar de forma natural disponiendo
+
+B1
+
+3
+3
+
+Solución B1 • Ventilación del espacio de contención: cámaras de aire
+
+más aberturas de ventilación o aumentando la superficie útil de las existentes.
+
+El conducto tendrá uso exclusivo para la ventilación de
+la cámara, no pudiéndose compartir con la extracción de
+aire de locales ni de humo de aparatos de combustión.
+
+Los extractores situados en el exterior del edificio serán
+resistentes a la intemperie o se protegerán con algún
+elemento adicional.
+
+Las aberturas de ventilación más próximas al extractor tendrán que cegarse para favorecer la entrada de
+aire exterior por las aberturas más lejanas y facilitar el
+barrido de toda la cámara.
+
+b) Ventilación mecánica
+Cuando se refuerce la ventilación de forma mecánica
+para mejorar su efectividad, por ejemplo, cuando la
+cámara tenga un espesor pequeño, por regla general se mecanizará solo la extracción disponiendo un
+extractor directamente en alguna de las aberturas de
+ventilación o conectado a un conducto de extracción.
+Si ya se disponía de un sistema mecánico de ventilación, se podrá mejorar la ventilación aumentado los
+caudales de ventilación, optimizando la distribución
+de las aberturas de ventilación, etc.
+En cualquier caso, es recomendable que el extractor se disponga en el exterior del edificio para, por un
+lado, limitar el riesgo de entrada de radón en el interior del edificio en caso de fugas y por otro, proteger
+a los usuarios del ruido. En el caso de que se coloque
+el extractor en el interior del edificio, es preferible que
+se ubique en un espacio no habitable (por ejemplo, la
+propia cámara si es accesible para su mantenimiento) y próximo al exterior, de forma que la longitud del
+conducto desde el extractor hasta el exterior sea lo
+más corta posible.
+
+Cuando se disponga un conducto de extracción (Figura 8), será acorde a lo descrito para conductos en
+el apartado de ventilación natural.
+La expulsión de aire se situará en la cubierta del edificio, aunque podrá emplazarse en la fachada siempre
+y cuando se respete una distancia de al menos 3 m a
+las entradas de aire, puertas, ventanas y zonas donde
+pueda haber personas de forma habitual, como terrazas y balcones.
+
+Podrá ser necesario disponer una derivación o un bypass en el conducto de extracción que permita evacuar
+el agua de condensación y filtración protegiendo el
+extractor de posibles averías.
+
+Podría emplearse un medidor de radón electrónico
+conectado al extractor, de forma que lo active cuando
+las concentraciones de radón superen un nivel determinado, evitando así su funcionamiento continuo y
+prolongando su vida útil.
+
+1
+2
+3
+
+abertura de admisión
+conducto de extracción
+extractor
+
+3
+3
+2
+
+2
+
+1
+
+1
+
+3
+2
+
+Figura 8 - Conducto de extracción con extractor hasta cubierta por el interior del edifico (izda.) y por el exterior (centro), y en fachada (drcha.)
+
+1
+
+B1
+
+4
+4
+
+Solución B1 • Ventilación del espacio de contención: cámaras de aire
+
+6. PUNTOS CRÍTICOS
+Cerramientos con cámara o huecos
+En el caso de que las aberturas de ventilación se practiquen en cerramientos con cámara o huecos, parte
+del aire podría desviarse penetrando por estas zonas del cerramiento, reduciéndose además el caudal
+de ventilación de la cámara. Para evitarlo será necesario disponer un elemento pasante que atraviese el
+cerramiento completamente (Figura 9) y que facilite
+el paso del aire.
+
+Figura 10 - Apertura de hueco de comunicación en obstáculo en la
+cámara de aire
+
+7. COSTE
+El coste puede variar dependiendo del tipo de intervención y de la situación existente. Las intervenciones, de menor a mayor coste asociado, pueden ser:
+■
+
+ventilación natural de cámara sanitaria o cámara de
+aire existente;
+
+■
+
+disposición de una cámara de aire ventilada de forma natural por el interior;
+
+■
+
+disposición de una cámara de aire ventilada de forma natural por el exterior.
+
+En el caso de ventilación mecánica el coste se incrementará al tener que colocar un extractor.
+
+Figura 9 - Abertura de ventilación sin (arriba) y con elemento pasante
+(abajo)
+
+El coste que se ha tenido en cuenta en la gráfica al
+comienzo de esta ficha es el correspondiente a un
+edificio que ya dispone de una cámara sanitaria en la
+que se mejora la ventilación natural.
+
+Obstáculos en la cámara de aire
+Cuando existan diferentes zonas en una cámara de
+aire separadas por muretes de cimentación u otros
+obstáculos que supongan un impedimento al flujo del
+aire de ventilación, será necesaria la apertura de huecos de comunicación en los obstáculos para permitir
+el paso del aire de una zona a otra (Figura 10).
+
+OBSERVACIONES
+Zonas climáticas frías
+Cuando se incremente la ventilación de cámaras de aire en zonas climáticas frías, será recomendable realizar un estudio específico del aislamiento térmico del cerramiento que separa la
+cámara y el local habitable colindante, para evitar
+pérdidas energéticas que aumenten el coste de
+climatización y reduzcan la eficiencia energética
+del edificio.
+
+B1
+
+5
+5
+
+SOLUCIÓN
+
+VENTILACIÓN DEL ESPACIO DE
+CONTENCIÓN: LOCALES NO HABITABLES
+
+B2
+4
+
+Efectividad con concentración
+mayor de 600 Bq/m3
+
+5
+
+Efectividad con concentración
+menor de 600 Bq/m3
+
+1. FINALIDAD
+La ventilación de locales no habitables empleados
+como espacios de contención tiene como finalidad
+reducir la concentración de radón a la que los cerramientos de los locales habitables se encuentran expuestos. Se basa en favorecer mediante ventilación la
+expulsión del aire con alta concentración de radón de
+los locales no habitables y que no tienda a penetrar
+en los locales habitables.
+
+El espacio de contención es un espacio situado entre
+el terreno y los locales a proteger que recibe el radón
+proveniente del terreno y que, mediante ventilación
+natural o mecánica, lo expulsa al exterior del edificio
+mitigando el paso de radón al interior de los locales
+habitables. Puede actuar como espacio de contención
+un local no habitable o una cámara de aire.
+
+Los locales no habitables son los espacios del edificio en
+donde no hay permanencia habitual de personas como,
+por ejemplo, los aparcamientos o los trasteros.
+
+En esta Solución B2 únicamente se trata la ventilación
+de locales no habitables. La ventilación de las cámaras de aire utilizadas como espacio de contención se
+trata en la Solución B1.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará generalmente cuando el
+edificio ya disponga de un local no habitable que pueda
+
+Dificultad(1)
+
+1
+
+Coste(1)
+
+1
+
+actuar como espacio de contención, por ejemplo,
+un garaje o una zona de almacenaje en plantas inferiores, y cuando las condiciones de ventilación de
+este local no sean adecuadas a la reglamentación
+de aplicación correspondiente: Código Técnico de la
+Edificación (CTE, sección DB HS3) o Reglamento de
+Instalaciones Térmicas de los Edificios (RITE). El problema más habitual es que los caudales de ventilación sean insuficientes, aunque también pueden darse otros como, por ejemplo, la presencia de zonas de
+aire estancado.
+
+El Código Técnico de la Edificación (CTE) en la
+sección DB HS3 Calidad del aire interior establece las
+características básicas de ventilación para obtener una
+adecuada calidad del aire en el interior de las viviendas,
+los almacenes de residuos y los trasteros (en edificios de
+viviendas) y los aparcamientos y garajes. Por su parte, el
+Reglamento de Instalaciones Térmicas de los Edificios
+(RITE) hace lo propio para otros tipos de edificios.
+
+Cuando los caudales de ventilación existentes se
+adecúen a la reglamentación será necesario realizar
+un estudio específico para determinar la viabilidad de
+esta solución. Un aumento de caudales de ventilación
+podría conllevar un incremento de las pérdidas energéticas de los locales habitables colindantes (y una
+reducción de la eficiencia energética); así como llevar
+aparejado, dependiendo del sistema de ventilación
+empleado, depresiones que fomenten la entrada de
+radón.
+
+3. EFECTIVIDAD
+La ventilación de locales no habitables que actúan
+como espacio de contención es una de las soluciones
+(1) Se ha considerado un edificio en el que se mejora la ventilación natural
+en el local no habitable
+
+Solución B2 • Ventilación del espacio de contención: locales no habitables
+
+más efectivas. No obstante, para que esta efectividad sea óptima, se recomienda su empleo junto con
+otras soluciones como la barrera de protección frente
+al radón (Solución A1 y Solución A1.1) o el sellado de
+fisuras, grietas, encuentros y juntas (Solución A2), especialmente para concentraciones de radón medidas
+en los locales habitables superiores a 600 Bq/m3.
+
+b) Ventilación mecánica
+Cuando se refuerce la ventilación de forma mecánica
+para mejorar su efectividad, podrá mecanizarse solo
+la extracción o la extracción y la impulsión (Figura 2).
+
+Su efectividad podrá verse afectada si existen elementos de paso que conecten estos locales no habitables con locales habitables, como puedan ser
+puertas de sótano o de garajes. En este caso será necesario que las puertas sean poco permeables al aire
+según lo detallado en la Solución A3.
+Para comprobar si la efectividad de la solución es
+adecuada, se medirá la concentración de radón alcanzada dentro de los locales habitables tras la intervención.
+
+4. DIFICULTAD DE INSTALACIÓN
+La mejora de la ventilación es una solución sencilla
+que no requiere un grado de especialización alto,
+aunque sí lo requerirá en el caso de la instalación de
+un nuevo sistema de ventilación.
+
+5. CÓMO SE CONSIGUE
+Esta solución consistirá en ventilar adecuadamente
+los locales no habitables.
+La ventilación podrá mejorarse de distintas formas
+como, por ejemplo, incrementando los caudales u
+optimizando la distribución de las aberturas de ventilación para evitar zonas de estancamiento de aire.
+La ventilación del local se podrá realizar de forma natural o mecánica, con los condicionantes que se recogen a continuación.
+
+a) Ventilación natural
+Cuando el local esté situado por encima de la cota
+exterior (en planta baja o semisótano), podrá mejorarse la ventilación disponiendo rejillas, aireadores en las
+ventanas o en las fachadas, o sustituyendo las ventanas existentes por otras con aireador o con un sistema
+de apertura que permita la microventilación (Figura 1).
+
+Figura 1 - Ventana con aireador (arriba) y ventana oscilobatiente en
+posición de microventilación (abajo)
+
+Es recomendable que el extractor se disponga en el
+exterior del edificio (Figura 2) para, por un lado, limitar
+el riesgo de entrada de radón en el interior del edificio
+en caso de fugas y por otro, proteger a los usuarios
+del ruido. En el caso de que se coloque el extractor
+en el interior del edificio (Figura 3), es preferible que
+se ubique en un espacio no habitable (por ejemplo,
+el propio local no habitable) y próximo al exterior, de
+forma que la longitud del conducto desde el extractor
+hasta el exterior sea lo más corta posible.
+Cuando se disponga un conducto de extracción que
+lleve el aire desde el local hasta el exterior, el conducto podrá discurrir por el interior del edificio o por
+el exterior (Figura 2), siendo esta última disposición la
+más recomendable para evitar la entrada de radón en
+el interior del edificio en caso de fugas en el propio
+conducto o en el encuentro con el forjado.
+
+B2
+
+2
+2
+
+Solución B2 • Ventilación del espacio de contención: locales no habitables
+
+Si fuese inevitable atravesar el forjado con algún conducto, los encuentros con los conductos se tratarán
+como se indica en la Solución A2 o en la Solución
+A1.1, según corresponda.
+conducto de admisión
+conducto de extracción
+extractor
+
+1
+2
+3
+
+Podrá ser necesario disponer una derivación o un bypass en el conducto de extracción (Figura 4) que permita
+evacuar el agua de condensación y filtración protegiendo
+el extractor de posibles averías.
+
+La expulsión de aire se situará en la cubierta del edificio, aunque podrá emplazarse en la fachada siempre
+y cuando se respete una distancia de al menos 3 m a
+las entradas de aire, puertas, ventanas y zonas donde
+pueda haber personas de forma habitual, como terrazas y balcones.
+
+3
+2
+
+1
+
+1
+2
+
+1
+
+extractor
+by-pass
+
+2
+
+3
+2
+
+1
+
+Figura 2 - Mecanización solo de la extracción (arriba) y de admisión y
+extracción (abajo). Conducto de extracción por el interior del
+edificio (arriba) y por el exterior (abajo). Conducto de admisión
+que atraviesa (arriba) y que no atraviesa el forjado (abajo)
+
+1
+2
+
+conducto de extracción
+extractor
+
+Figura 4 - By-pass del extractor en el conducto de extracción. Ejemplo de
+admisión natural por fachada y extracción mecánica.
+
+Los extractores situados en el exterior del edificio serán
+resistentes a la intemperie o se protegerán con algún
+elemento adicional.
+
+Podría emplearse un medidor de radón electrónico
+conectado al extractor, de forma que lo active cuando
+las concentraciones de radón superen un nivel determinado, evitando así su funcionamiento continuo y
+prolongando su vida útil.
+
+6. PUNTOS CRÍTICOS
+Reducción del caudal de ventilación
+1
+2
+
+Figura 3 - Extractor en local no habitable
+
+En el caso de que el caudal de ventilación se reduzca,
+la efectividad de la solución podría quedar mermada. La
+reducción puede producirse, por ejemplo, porque los
+ocupantes de los edificios cierren las aberturas de ventilación. Para evitarlo se informará a los ocupantes de que
+las aberturas de ventilación tendrán que permanecer
+abiertas para un buen funcionamiento de la solución.
+
+B2
+
+3
+3
+
+Solución B2 • Ventilación del espacio de contención: locales no habitables
+
+Escasa admisión en ventilación mecánica
+En el caso de ventilación mecánica podría producirse una depresión que favorezca la entrada de radón
+desde el terreno a los locales o una sobrepresión que
+facilite el flujo de aire desde el local no habitable hacia
+el local habitable. Para evitar estos efectos:
+■
+
+será preferible que la ventilación sea de doble flujo
+(mecanizando la extracción y la impulsión de aire)
+y equilibrada, de forma que ambos caudales estén
+compensados;
+
+■
+
+cuando sólo se mecanice la extracción, las aberturas de admisión de aire serán suficientemente generosas para favorecer la entrada de aire a través
+de ellas.
+
+7. COSTE
+El coste puede variar dependiendo del tipo de intervención y de la situación existente. Las intervenciones, de menor a mayor coste asociado, pueden ser:
+■
+
+ventilación natural del local no habitable;
+
+■
+
+disposición de un sistema de extracción;
+
+■
+
+instalación de un sistema de ventilación mecánico
+de doble flujo.
+
+El coste que se ha tenido en cuenta en la gráfica al
+comienzo de esta ficha es el correspondiente a un
+edificio en el que se mejora la ventilación natural en el
+local no habitable.
+
+OBSERVACIONES
+Zonas climáticas frías
+Cuando se incremente la ventilación de locales
+no habitables en zonas climáticas frías, será recomendable realizar un estudio específico del aislamiento térmico del cerramiento que separa el
+local no habitable y el local habitable colindante,
+para evitar pérdidas energéticas que aumenten
+el coste de climatización y reduzcan la eficiencia
+energética del edificio.
+
+B2
+
+4
+4
+
+SOLUCIÓN
+
+B3
+
+DESPRESURIZACIÓN DEL TERRENO
+
+Efectividad con concentración
+mayor de 600 Bq/m3
+Efectividad con concentración
+menor de 600 Bq/m3
+
+4
+5
+
+Dificultad(1)
+
+5
+
+Coste(1)
+
+5
+
+1. FINALIDAD
+La despresurización del terreno tiene como finalidad
+reducir la concentración de radón a la que los cerramientos del edificio se encuentran expuestos. Se basa
+en producir una depresión en el terreno subyacente o
+colindante al edificio, de forma que se favorezca que
+el aire del terreno que contiene radón sea expulsado
+al exterior y no tienda a penetrar al interior del edificio.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará generalmente cuando la
+permeabilidad del sustrato existente sea lo suficientemente alta para que la efectividad del sistema sea adecuada o cuando sea posible disponer una capa de relleno permeable al aire bajo el cerramiento del edificio.
+
+3. EFECTIVIDAD
+La despresurización del terreno es una de las soluciones más efectivas, aunque será necesario su empleo
+junto con una barrera de protección frente al radón
+(Solución A1 y Solución A1.1) o, si no es posible, al menos junto al sellado de fisuras, grietas, encuentros y
+juntas (Solución A2).
+Para comprobar si la efectividad de la solución es adecuada, se medirá la concentración de radón alcanzada
+dentro de los locales habitables tras la intervención.
+
+4. DIFICULTAD DE INSTALACIÓN
+Es una solución que requiere un grado de especialización muy alto puesto que la garantía de su efectividad
+depende de un adecuado diseño y dimensionado.
+
+La efectividad de esta solución depende en gran
+medida de la permeabilidad del sustrato en contacto
+con el edificio y de la estanqueidad del cerramiento en
+contacto con el terreno. Para que su efectividad sea la
+óptima, la permeabilidad del sustrato y la estanqueidad
+del cerramiento tienen que ser altas.
+
+Una de las mayores dificultades radica en asegurar
+que el radio de acción de la despresurización generada alcance toda la planta o muro a proteger teniendo en cuenta las características del sustrato y la
+presencia de zonas poco permeables y obstáculos al
+flujo del aire como rocas, muretes de cimentación o
+zapatas.
+
+5. CÓMO SE CONSIGUE
+Se dispondrán uno o varios elementos de captación
+bajo la solera o tras los muros de sótano conectados
+a un conducto de extracción comunicado con el exterior que, con la ayuda de un extractor, produzca una
+despresurización que permita la evacuación al ambiente exterior de los gases del terreno. Para que sea
+posible captar y extraer el gas radón, los elementos
+de captación se dispondrán en una capa permeable,
+que podrá ser el propio terreno si tiene una permeabilidad adecuada o, en caso contrario, una capa de
+relleno (Figura 1).
+Cuando no sea viable disponer los elementos de captación bajo la solera se podrán colocar en el perímetro del edificio. En este caso la eficiencia se podrá ver
+mermada significativamente.
+(1) Se ha considerado la disposición de una red de tubos perforados con
+capa de relleno y solera
+
+Solución B3 • Despresurización del terreno
+
+1
+2
+3
+4
+
+capa de relleno
+elemento de captación
+conducto de extracción
+extractor
+
+Figura 1 - Componentes del sistema
+
+1
+2
+
+Un técnico especialista determinará la distribución en
+planta y el número de los elementos de captación basándose en el estudio de la cimentación del edificio y
+la permeabilidad al aire del sustrato.
+Si fuese necesario reforzar la despresurización se dispondrán más elementos de captación o se aumentará la potencia del extractor.
+
+a) Elementos de captación
+Los elementos de captación son elementos con muy
+elevada permeabilidad al aire cuya función es la de
+facilitar la entrada del gas desde el terreno o la capa
+de relleno a su interior y facilitar así su concentración
+y evacuación por el conducto de extracción. Podrán
+consistir en arquetas o tubos.
+
+Figura 2 - Distintos tipos de arqueta: prefabricada (arriba), de obra de
+ladrillo (centro) y realizada con un pequeño vaciado (abajo)
+
+Arquetas
+
+Cuando se emplee un vaciado como elemento de
+captación se evitarán los desprendimientos del terreno o
+de la capa de relleno y cuando se construya la solera se
+protegerá para que se mantenga su volumen libre.
+
+Podrán emplearse (Figura 2):
+■
+
+arquetas prefabricadas, generalmente de materiales plásticos;
+
+Red de tubos perforados
+■
+
+■
+
+arquetas de obra, consistentes en un paralelepípedo con tabiques palomeros de ladrillo perforado,
+apoyado directamente sobre el terreno, y con una
+tapa capaz de aguantar el peso de los elementos
+que se dispongan encima;
+pequeños vaciados realizados en el terreno o en la
+propia capa de relleno.
+
+La red de tubos perforados se podrá colocar mediante excavación (Figura 3) o se podrá introducir o hincar.
+Los tubos pueden ser de distintos materiales según
+su forma de colocación:
+■
+
+mediante excavación: tubos de plástico, goma o
+elementos prefabricados de cerámica, hormigón o
+gres;
+
+B3
+
+2
+2
+
+Solución B3 • Despresurización del terreno
+
+■
+
+1
+
+mediante hincado: tubos resistentes como pueden
+ser tubos de plástico rígidos, de acero con una protección plástica o de acero inoxidable.
+
+1
+2
+3
+
+2
+3
+
+arqueta de ladrillo
+capa de relleno
+conducto de extracción
+
+3
+
+tubo perforado
+capa de relleno
+conducto de extracción
+
+2
+
+3
+
+1
+Figura 4 - Capa de relleno alrededor de arqueta de captación
+
+1
+
+2
+
+c) Conducto de extracción
+La función del conducto de extracción es conducir el
+radón desde los elementos de captación hasta el exterior.
+3
+
+2
+
+Un mismo conducto podrá prestar servicio a varios
+elementos de captación.
+
+1
+
+El conducto podrá discurrir por el interior del edificio
+o por el exterior (Figura 5), siendo esta última disposición la más recomendable para evitar la entrada de
+radón en el interior del edificio en caso de fugas en el
+propio conducto o en el encuentro con el forjado.
+Si fuese inevitable atravesar el forjado, los encuentros
+con los conductos se tratarán como se indica en la
+Solución A2 o en la Solución A1.1, según corresponda.
+
+Figura 3 - Tubo perforado instalado mediante excavación. Sección
+transversal (arriba) y sección longitudinal (abajo)
+
+b) Capa de relleno
+La función de la capa de relleno es facilitar la circulación de los gases a través de ella desde el terreno
+hasta los elementos de captación: arquetas y tubos.
+La capa de relleno es especialmente necesaria cuando la permeabilidad del terreno bajo la solera no es
+elevada.
+Suele estar compuesta por una capa de grava (Figura 4).
+
+La expulsión de aire se situará en la cubierta del edificio, aunque podrá emplazarse en la fachada siempre
+y cuando se respete una distancia de al menos 3 m a
+las entradas de aire, puertas, ventanas y zonas donde
+pueda haber personas de forma habitual, como terrazas y balcones.
+
+El conducto tendrá uso exclusivo para la extracción de
+radón, no pudiéndose compartir con la extracción de aire
+de locales ni de humo de aparatos de combustión.
+
+d) Extractor
+Es recomendable la disposición de una capa separadora
+filtrante que impida la entrada de la grava en los
+elementos de captación, como pueda ser un geotextil.
+
+La función del extractor es aumentar la potencia de
+extracción con respecto a la que se obtendría de
+forma natural, incrementando así el radio de acción
+de la despresurización y la eficiencia del sistema.
+
+B3
+
+3
+3
+
+Solución B3 • Despresurización del terreno
+
+1
+2
+
+conducto de extracción
+extractor
+
+2
+
+2
+1
+
+1
+
+2
+1
+
+Figura 5 - Conducto de extracción a cubierta por el interior del edificio (izda.) y por el exterior (centro) y a fachada (drcha.)
+
+Generalmente, un sistema natural de extracción no
+será capaz de extraer de forma eficiente el radón y,
+por lo tanto, garantizar las concentraciones de radón
+adecuadas.
+Es recomendable que el extractor se disponga en el
+exterior del edificio (Figura 5) para, por un lado, limitar
+el riesgo de entrada de radón en el interior del edificio
+en caso de fugas y por otro, proteger a los usuarios
+del ruido. En el caso de que se coloque el extractor en
+el interior del edificio, es preferible que se ubique en
+un local no habitable (Figura 6) próximo al exterior de
+forma que la longitud del conducto desde el extractor
+hasta el exterior sea lo más corta posible.
+
+Los extractores situados en el exterior del edificio serán
+resistentes a la intemperie o se protegerán con algún
+elemento adicional.
+
+Podría emplearse un medidor de radón electrónico
+conectado al extractor, de forma que lo active cuando
+las concentraciones de radón superen un nivel determinado, evitando así su funcionamiento continuo y
+prolongando su vida útil.
+1
+2
+
+1
+
+extractor
+by-pass
+
+extractor
+
+1
+
+2
+
+1
+Figura 7 - By-pass del extractor en el conducto de extracción
+
+Figura 6 - Extractor en local no habitable
+
+6. PUNTOS CRÍTICOS
+Falta de estanqueidad del cerramiento
+
+Podrá ser necesario disponer en el conducto una
+derivación o un by-pass en el conducto de extracción
+que permita evacuar el agua de condensación y filtración
+protegiendo el extractor de posibles averías (Figura 7).
+
+En el caso de que el cerramiento entre el sustrato y el
+interior del edificio no sea lo suficientemente estanco, la despresurización del terreno podría producir
+distintos efectos no deseados como:
+■
+
+generar una depresión en el interior del edificio potenciando la entrada de radón desde el terreno;
+
+B3
+
+4
+4
+
+Solución B3 • Despresurización del terreno
+
+■
+
+disminuir el radio de acción de la despresurización;
+
+■
+
+extraer el aire climatizado del interior del edificio con
+la consiguiente pérdida energética.
+
+Para evitarlo será indispensable realizar un cuidado
+sellado de fisuras, grietas, encuentros y juntas (Solución A2) y conveniente disponer una barrera frente al
+radón (Solución A1) (Figura 8).
+
+la situación existente. Las intervenciones, de menor a
+mayor coste asociado, pueden ser:
+■
+
+instalación de arquetas de captación, si ya se dispone de capa de relleno o terreno permeable;
+
+■
+
+instalación de tubos perforados mediante excavación, si ya se dispone de capa de relleno o terreno
+suficientemente permeable;
+
+■
+
+instalación de tubos perforados o arquetas mediante excavación, con capa de relleno y solera nuevas;
+
+■
+
+instalación de tubos perforados mediante hincado
+o perforación.
+
+El coste que se ha tenido en cuenta en la gráfica al comienzo de esta ficha es el correspondiente a un sistema de despresurización mediante tubos, habiéndose
+dispuesto capa de relleno y solera nuevas.
+1
+2
+3
+
+1
+
+elemento de captación
+conducto de extracción
+hueco de comunicación
+
+3
+2
+
+Figura 9 - Instalación de elementos de captación (izda.) y apertura de
+huecos (drcha.) en caso de obstáculos
+Figura 8 - Disposición de barrera para un correcto funcionamiento
+
+Obstáculos en el sustrato
+Cuando existan diferentes zonas en el sustrato separadas por muretes de cimentación u otros obstáculos
+que supongan un impedimento al flujo de los gases
+del terreno hacia los elementos de captación (Figura
+9), será necesaria la instalación de elementos de captación en todas las zonas o la apertura de huecos de
+comunicación en los obstáculos para permitir el paso
+de los gases de una zona a otra.
+
+7. COSTE
+El coste, aun siendo relativamente alto debido a la
+complejidad de su ejecución, puede variar sustancialmente dependiendo del tipo de intervención y de
+
+B3
+
+5
+5
+
+Solución B3 • Despresurización del terreno
+
+OBSERVACIONES
+Necesidad de un técnico especialista
+Debido a la complejidad de esta solución, es
+fundamental contar con un técnico especialista
+para que realice un diagnóstico de la situación
+existente y un diseño adecuado de la solución.
+Como ya se ha destacado, la despresurización
+será efectiva solo si alcanza toda la planta o muro
+a proteger. Para ello será necesario un diseño y
+dimensionado adecuado del sistema de acuerdo con el sustrato existente. La situación óptima
+sería que el sustrato fuera permeable al aire y homogéneo en toda la superficie. Sin embargo, en
+la mayoría de los casos los sustratos son poco
+permeables y presentan obstáculos al flujo de
+los gases como rocas, muretes de cimentación
+o zapatas.
+
+B3
+
+6
+6
+
+SOLUCIÓN
+
+VENTILACIÓN DE
+LOS LOCALES HABITABLES
+
+C1
+Efectividad con concentración
+mayor de 600 Bq/m3
+Efectividad con concentración
+menor de 600 Bq/m3
+
+2
+
+Dificultad(1)
+
+2
+
+Coste(1)
+
+1. FINALIDAD
+La ventilación de los locales habitables tiene como
+finalidad reducir la concentración de radón en su interior. Se basa en favorecer mediante ventilación la expulsión de radón de los locales habitables al exterior.
+
+Los locales habitables son las estancias del edificio en
+donde permanecen las personas de forma habitual
+como, por ejemplo, en las viviendas, los dormitorios, las
+salas de estar, las cocinas y los baños.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará cuando las condiciones de
+ventilación de los locales habitables no sean adecuadas a la reglamentación de aplicación correspondiente: Código Técnico de la Edificación (CTE, sección DB
+HS3) o Reglamento de Instalaciones Térmicas de los
+Edificios (RITE). El problema más habitual es que los
+caudales de ventilación sean insuficientes, aunque
+también pueden darse otros como, por ejemplo, que
+el flujo de circulación del aire dentro de una vivienda
+se produzca desde los locales húmedos a los secos,
+que se presenten zonas de aire estancado, etc.
+
+El Código Técnico de la Edificación (CTE) en la
+sección DB HS3 Calidad del aire interior establece las
+características básicas de ventilación para obtener una
+adecuada calidad del aire en el interior de las viviendas,
+los almacenes de residuos y los trasteros (en edificios de
+viviendas) y los aparcamientos y garajes. Por su parte, el
+Reglamento de Instalaciones Térmicas de los Edificios
+(RITE) hace lo propio para otros tipos de edificios.
+
+3
+
+Cuando los caudales de ventilación existentes se adecúen a la reglamentación, en general se desaconseja
+el empleo de esta solución puesto que el aumento
+de caudales de ventilación conllevará en la mayoría
+de los casos un incremento de las pérdidas energéticas de los locales (y consecuente reducción de la eficiencia energética); así como puede llevar aparejado,
+dependiendo del sistema de ventilación empleado,
+depresiones que fomenten la entrada de radón, molestias por corrientes de aire y ruido y desequilibrios
+en los flujos de ventilación.
+
+3. EFECTIVIDAD
+La ventilación de los locales habitables es una solución efectiva cuando la concentración de radón medida en su interior es inferior a 600 Bq/m3, sobre todo
+si es cercana a 300 Bq/m3. En cualquier caso, se recomienda combinar la ventilación con otra solución,
+como las basadas en el aislamiento descritas en la
+Solución A1, Solución A1.1 y Solución A2 o las basadas en la reducción del radón antes de que penetre
+en los locales habitables descritas en la Solución B1,
+Solución B2 y Solución B3.
+Su efectividad podrá verse afectada si existen elementos de paso que conecten estos locales habitables con locales no habitables, como puedan ser
+puertas de sótano o de garajes, o con cámaras de
+aire. En este caso será necesario que la puerta o trampilla sea poco permeable al aire según lo detallado en
+la Solución A3.
+Para comprobar si la efectividad de la solución es
+adecuada, se recomienda medir la concentración de
+radón alcanzada dentro de los locales habitables tras
+la intervención.
+(1) Se ha considerado la instalación de un sistema de ventilación completo
+nuevo
+
+Solución C1 • Ventilación de los locales habitables
+
+4. DIFICULTAD DE INSTALACIÓN
+La mejora de la ventilación es una solución sencilla
+que no requiere un grado de especialización alto,
+aunque sí lo requerirá en el caso de la instalación de
+un nuevo sistema de ventilación.
+
+a) Ventilación natural
+Podrá mejorarse la ventilación disponiendo aireadores en las ventanas o en las fachadas o sustituyendo
+las ventanas existentes por otras con aireador o con
+un sistema de apertura que permita la microventilación (Figura 2).
+
+5. CÓMO SE CONSIGUE
+Esta solución consistirá en ventilar adecuadamente los
+locales habitables. La forma de conseguirlo dependerá del sistema de ventilación existente y del alcance
+de la intervención que se vaya a realizar: mejorando la
+ventilación de forma natural, mejorando la ventilación
+de forma mecánica o incluso, en el caso de que se
+vaya a realizar una rehabilitación integral, instalando
+un sistema de ventilación completamente nuevo adecuado a la reglamentación correspondiente (Figura 1).
+
+1
+2
+
+admisión de aire
+extracción de aire
+
+2
+
+1
+
+Figura 2 - Ventana con aireador (arriba) y ventana oscilobatiente en
+posición de microventilación (abajo)
+Figura 1 - Admisión y extracción de aire en una vivienda
+
+La ventilación podrá mejorarse de distintas formas
+como, por ejemplo, incrementando los caudales hasta alcanzar un nivel acorde a la reglamentación correspondiente ya mencionada u optimizando la distribución de las aberturas de ventilación para evitar
+zonas de estancamiento del aire.
+
+El cumplimiento de la reglamentación vigente en relación
+a la calidad del aire interior no tiene por qué garantizar
+por sí solo que se alcancen niveles de concentración de
+radón aceptables.
+
+La ventilación del local se podrá realizar de forma natural o mecánica, con los condicionantes que se recogen a continuación.
+
+b) Ventilación mecánica
+Cuando se refuerce la ventilación de forma mecánica
+para mejorar su efectividad, podrá mecanizarse solo
+la extracción o la extracción y la impulsión.
+Cuando se trate de viviendas construidas con anterioridad a 2006, en las que suele ser habitual encontrar
+shunts cuya extracción funciona exclusivamente por
+tiro térmico y/o por efecto del viento, podrá mejorarse
+la extracción con la instalación de un extractor híbrido o mecánico (Figura 3). El extractor híbrido permitirá
+que el sistema funcione de forma natural cuando sea
+posible y que cuando se den condiciones climatológicas desfavorables, como ausencia de viento o de
+inversión térmica, el sistema funcione de forma mecánica.
+
+C1
+
+2
+2
+
+Solución C1 • Ventilación de los locales habitables
+
+Para evitarlo los extractores se situarán en cubierta o,
+en todo caso, tras la incorporación del último ramal al
+shunt.
+
+1
+2
+
+extractor
+shunt colectivo
+
+2
+
+Figura 3 - Extractor mecánico en cubierta
+
+El shunt es un conducto vertical que comunica los baños
+y la cocina de la vivienda con el exterior del edificio hasta
+la cubierta extrayendo el aire viciado.
+
+El tiro térmico es el movimiento natural del aire producido
+por la diferencia de temperatura entre el exterior y el
+interior del edificio que hace que el aire caliente menos
+denso ascienda. De esta forma, en invierno, el aire de
+los locales calefactados tiende a ascender por el shunt
+y salir al exterior. La inversión térmica se produce cuando
+la temperatura en el interior del edificio es inferior a la del
+exterior.
+
+1
+
+1
+
+2
+
+La expulsión de aire se situará en la cubierta del edificio, aunque podrá emplazarse en la fachada siempre
+y cuando se respete una distancia de al menos 3 m a
+las entradas de aire, puertas, ventanas y zonas donde
+pueda haber personas de forma habitual, como terrazas y balcones.
+
+6. PUNTOS CRÍTICOS
+Ubicación del extractor en un tramo
+intermedio
+En el caso de que se instale un extractor en un tramo
+intermedio o al principio de un shunt colectivo (que da
+servicio a distintos locales húmedos), el aire extraído
+cargado de radón y del resto de contaminantes podría
+introducirse al resto de locales a los que da servicio el
+shunt por las propias aberturas de extracción (Figura 4).
+
+Figura 4 - Sistema de ventilación con extractor al principio del shunt
+colectivo (arriba) y en cubierta (abajo)
+
+También en el caso de un shunt individual (que da servicio a un solo local húmedo) el extractor se dispondrá
+en la cubierta para evitar la introducción del aire extraído cargado de radón al interior del edificio, en este
+caso, a través de posibles fugas en el shunt (Figura 5).
+
+C1
+
+3
+3
+
+Solución C1 • Ventilación de los locales habitables
+
+1
+2
+
+extractor
+shunt
+
+2
+
+1
+
+■
+
+se realizará alguna actuación complementaria a la
+sustitución de las ventanas como la instalación de
+aireadores en las ventanas o en las fachadas o la
+instalación de ventanas con un sistema de apertura
+que permita la microventilación.
+
+Escasa admisión en ventilación mecánica
+
+2
+1
+
+En el caso de ventilación mecánica cuando sólo se
+mecanice la extracción, si la dimensión o el número
+de las aberturas de admisión de aire existentes es
+insuficiente, podría producirse una depresión que favorezca la entrada de radón desde el terreno a los locales. Para evitarlo, las aberturas de admisión de aire
+serán suficientemente generosas para favorecer la
+entrada de aire (Figura 6).
+
+1
+2
+
+admisión de aire
+shunt
+
+2
+
+Figura 5 - Sistema de ventilación con extractor al principio del shunt
+individual (arriba) y en cubierta (abajo)
+
+Accionamiento del extractor de forma
+intermitente
+No es conveniente utilizar extractores con funcionamiento intermitente enclavados al interruptor de la luz
+o con detector de presencia, puesto que la ventilación
+proporcionada podría ser insuficiente para mantener
+una concentración de radón adecuada.
+
+2
+
+Reducción del caudal de ventilación
+En el caso de que el caudal de ventilación se reduzca
+la efectividad de la solución podría quedar mermada.
+La reducción puede producirse, por ejemplo, porque:
+■
+
+■
+
+los ocupantes de los edificios cierren las aberturas
+de ventilación; o
+las ventanas que funcionaban como aberturas de
+ventilación se sustituyan, para intentar conseguir
+mejores prestaciones acústicas y térmicas, por otras
+con una menor permeabilidad al aire.
+
+Para evitar estos efectos:
+■
+
+se informará a los ocupantes de que las aberturas
+de ventilación tendrán que permanecer abiertas
+para un buen funcionamiento de la solución;
+
+1
+
+Figura 6 - Sistema de ventilación sin (izda.) y con (drcha.) abertura
+de admisión de aire exterior
+
+7. COSTE
+El coste puede variar sustancialmente dependiendo
+del tipo de intervención, no difiriendo del coste de un
+sistema habitual de ventilación.
+El coste que se ha tenido en cuenta en la gráfica al
+comienzo de esta ficha es el correspondiente a la
+
+C1
+
+4
+4
+
+Solución C1 • Ventilación de los locales habitables
+
+instalación de un sistema de ventilación completo
+nuevo, para representar el caso más costoso.
+
+cuando se emplea la ventilación del propio local
+como solución.
+
+La ventilación de las viviendas según
+la reglamentación vigente como método para eliminar el radón
+
+OBSERVACIONES
+
+La ventilación de viviendas según la reglamentación vigente debe ser continua, aunque el caudal
+fluctúe, de forma que los contaminantes producidos a lo largo del día se puedan extraer constantemente. Esto permite mantener una calidad del
+aire mejor que la correspondiente a la ventilación
+tradicional descrita anteriormente.
+
+La ventilación
+tradicional de las
+2000
+viviendas 1800
+como método para eliminar
+el radón 1600
+1400
+
+1200
+
+Bq/m
+1000
+La ventilación
+tradicional de las viviendas, enten800
+dida como aquella
+basada en la apertura puntual
+600
+de las ventanas
+una
+vez al día durante unos mi400
+200
+nutos, no se considera suficiente en los edificios
+0
+actuales para obtener una adecuada calidad del
+aire interior. Esto es debido a que el aumento de
+la estanqueidad de los cerramientos, en general, y de las ventanas en particular para la meRadón
+jora de la eficiencia energética o del aislamiento acústico, reduce las infiltraciones de aire que
+ventilaban a lo
+largo de todo el día las viviendas
+2000
+1800
+y que reforzaban la ventilación puntual. Tras una
+1600
+ventilación puntual
+comienzan a acumularse los
+1400
+distintosBq/m 1200
+contaminantes que proceden del pro1000
+pio edificio y su
+uso, así como los provenientes
+800
+600
+del terreno como el radón (Figura 7). La apertura
+400
+puntual de ventanas,
+por tanto, ayuda a eliminar
+200
+el radón en ese 0período de tiempo pero, por regla
+general, no es suficiente para mantener una concentración de radón adecuada a lo largo del día
+
+Sin embargo, es importante señalar que en casos de niveles de radón altos es probable que
+sea necesario un caudal de ventilación superior
+al mínimo derivado del cumplimiento de la reglamentación vigente. Este elevado caudal de ventilación podría llevar aparejado los inconvenientes
+mencionados en el apartado 2.
+
+1/8/16 0:12
+1/8/16 15:42
+2/8/16 7:12
+2/8/16 22:42
+3/8/16 14:12
+4/8/16 5:42
+4/8/16 21:12
+5/8/16 12:42
+6/8/16 4:12
+6/8/16 19:42
+7/8/16 11:12
+8/8/16 2:42
+8/8/16 18:12
+9/8/16 9:42
+10/8/16 1:12
+10/8/16 16:42
+11/8/16 8:12
+11/8/16 23:42
+12/8/16 15:12
+13/8/16 6:42
+13/8/16 22:12
+14/8/16 13:42
+15/8/16 5:12
+15/8/16 20:42
+16/8/16 12:12
+17/8/16 3:42
+17/8/16 19:12
+18/8/16 10:42
+19/8/16 2:12
+19/8/16 17:42
+20/8/16 9:12
+21/8/16 0:42
+21/8/16 16:12
+22/8/16 7:42
+22/8/16 23:12
+23/8/16 14:42
+24/8/16 6:12
+24/8/16 21:42
+25/8/16 13:12
+26/8/16 4:42
+26/8/16 20:12
+27/8/16 11:42
+28/8/16 3:12
+28/8/16 18:42
+29/8/16 10:12
+30/8/16 1:42
+30/8/16 17:12
+31/8/16 8:42
+1/9/16 0:12
+
+3
+
+Ventana permanentemente abierta
+
+Eliminación de los shunts
+970
+965
+960
+955
+950
+945 mBar
+940
+935
+930
+925
+920
+
+La eliminación o bloqueo de un tramo de shunt
+colectivo en una vivienda es una acción muy grave que supone, por un lado la supresión de la
+ventilación de las viviendas inferiores (Figura 8) y
+por otro, una disminución de la ventilación de las
+viviendas superiores, produciendo un detrimento
+de su calidad del aire y un aumento de su concentración de radón.
+
+1/12/16 0:12
+1/12/16 15:42
+2/12/16 7:12
+2/12/16 22:42
+3/12/16 14:12
+4/12/16 5:42
+4/12/16 21:12
+5/12/16 12:42
+6/12/16 4:12
+6/12/16 19:42
+7/12/16 11:12
+8/12/16 2:42
+8/12/16 18:12
+9/12/16 9:42
+10/12/16 1:12
+10/12/16 16:42
+11/12/16 8:12
+11/12/16 23:42
+12/12/16 15:12
+13/12/16 6:42
+13/12/16 22:12
+14/12/16 13:42
+15/12/16 5:12
+15/12/16 20:42
+16/12/16 12:12
+17/12/16 3:42
+17/12/16 19:12
+18/12/16 10:42
+19/12/16 2:12
+19/12/16 17:42
+20/12/16 9:12
+21/12/16 0:42
+21/12/16 16:12
+22/12/16 7:42
+22/12/16 23:12
+23/12/16 14:42
+24/12/16 6:12
+24/12/16 21:42
+25/12/16 13:12
+26/12/16 4:42
+26/12/16 20:12
+27/12/16 11:42
+28/12/16 3:12
+28/12/16 18:42
+29/12/16 10:12
+30/12/16 1:42
+30/12/16 17:12
+31/12/16 8:42
+1/1/17 0:12
+
+3
+
+Radón
+
+1000
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+1/8/16 0:12
+1/8/16 3:42
+1/8/16 7:12
+1/8/16 10:42
+1/8/16 14:12
+1/8/16 17:42
+1/8/16 21:12
+2/8/16 0:42
+2/8/16 4:12
+2/8/16 7:42
+2/8/16 11:12
+2/8/16 14:42
+2/8/16 18:12
+2/8/16 21:42
+3/8/16 1:12
+3/8/16 4:42
+3/8/16 8:12
+3/8/16 11:42
+3/8/16 15:12
+3/8/16 18:42
+3/8/16 22:12
+4/8/16 1:42
+4/8/16 5:12
+4/8/16 8:42
+4/8/16 12:12
+4/8/16 15:42
+4/8/16 19:12
+4/8/16 22:42
+5/8/16 2:12
+5/8/16 5:42
+5/8/16 9:12
+5/8/16 12:42
+5/8/16 16:12
+5/8/16 19:42
+5/8/16 23:12
+6/8/16 2:42
+6/8/16 6:12
+6/8/16 9:42
+6/8/16 13:12
+6/8/16 16:42
+6/8/16 20:12
+6/8/16 23:42
+7/8/16 3:12
+7/8/16 6:42
+7/8/16 10:12
+7/8/16 13:42
+7/8/16 17:12
+7/8/16 20:42
+
+Bq/m3
+
+Presión
+
+Radón
+Figura 7 - Acumulación de radón a lo largo de una semana en una vivienda con ventilación puntual el primer día
+
+C1
+
+5
+5
+
+Solución C1 • Ventilación de los locales habitables
+
+extractor
+shunt colectivo
+
+1
+2
+
+1
+
+2
+
+2
+
+1
+
+2
+
+Figura 8 - Shunt colectivo interrumpido (arriba) y continuo (abajo)
+
+C1
+
+6
+6
+
+BARRERA FRENTE AL RADÓN +
+DESPRESURIZACIÓN CON RED DE TUBOS
+
+EJEMPLO
+
+A1+B3
+93%
+
+Efectividad
+Coste
+
+5.620€
+102 €/m
+
+Coste por superficie
+
+1. DESCRIPCIÓN DEL EDIFICIO
+■
+
+Uso: Residencial.
+
+■
+
+Clasificación del municipio según el DB HS6 en función del potencial de radón: Zona II.
+
+■
+
+Superficie construida: 170 m2.
+
+■
+
+Superficie en contacto con el terreno: 85 m2.
+
+■
+
+Superficie construida bajo rasante: No.
+
+■
+
+Tipo de ventilación: Natural a través de huecos de
+ventanas.
+
+2
+
+■
+
+Plantas y distribución: Dos plantas (Figura 1). En la
+planta baja se sitúan el garaje y un local habitable de
+usos diversos. En la planta primera se encuentran el
+resto de los locales habitables.
+
+■
+
+Construcción: Estructura metálica. Fachadas de
+mampostería en planta baja y fábrica de ladrillo
+en primera planta. Solera en toda la superficie en
+planta.
+
+■
+
+Tipo de terreno: Capa de relleno heterogénea, de
+espesor variable y poco compacta. Sustrato natural
+de granito alterado y rocas graníticas.
+
+■
+
+Promedio anual de concentración de radón previo a
+la intervención: 1.170 Bq/m 3.
+
+garaje
+
+Figura 1 - Fachada y planta baja de la vivienda
+
+Fecha de intervención: 2019 · Coste de ejecución material: 5.620 €
+
+Ejemplo A1+B3 • Barrera frente al radón + despresurización con red de tubos
+
+2. ELECCIÓN DE LA SOLUCIÓN
+Las soluciones de protección más apropiadas según
+la tabla 21 de la Guía de rehabilitación frente al radón
+en el caso de la existencia de una solera para una concentración de radón existente mayor de 600 Bq/m3
+son:
+■
+
+barrera frente al radón con despresurización;
+
+■
+
+sellado de fisuras, grietas, encuentros y juntas de la
+envolvente en contacto con el terreno con despresurización; o
+
+■
+
+barrera frente al radón con disposición de una cámara de aire ventilada.
+
+Según la propia Guía, estas soluciones se pueden
+complementar con la mejora de la ventilación de los
+locales habitables.
+
+3. DIAGNÓSTICO
+El objetivo de la despresurización del terreno es garantizar que la diferencia de presión entre el terreno y
+la vivienda sea negativa en toda la extensión del edificio en contacto con el terreno. Para poder lograr este
+objetivo se realiza un diagnóstico de la capacidad de
+movilidad del aire en el sustrato bajo la solera.
+El objetivo de la disposición de una barrera frente al
+radón es aislar el edificio lo máximo posible del terreno para evitar la entrada de radón y favorecer además
+la efectividad de la despresurización. Para poder lograr este objetivo se realiza un diagnóstico de la situación existente basado en su inspección y evaluación,
+identificando los puntos críticos en los que la barrera
+podrá presentar discontinuidades. Además, es necesario evaluar la ventilación de los locales a proteger
+para la correcta selección de la barrera.
+
+Movilidad del aire en el sustrato
+
+El mal estado del cerramiento en contacto con el
+terreno conduce a la elección de una solución basada
+en la disposición de una barrera frente al radón y la
+despresurización del terreno.
+
+Entre estas posibilidades se considera la barrera frente al radón (Solución A1 y Solución A1.1) con despresurización del terreno (Solución B3) como la opción
+más adecuada por los siguientes motivos:
+■
+
+el estado de la solera existente no es bueno, por
+lo que se considera oportuno su sustitución. Al
+introducir una nueva solera, no es técnicamente
+difícil disponer una barrera frente al radón de tipo
+lámina y una despresurización debajo de ella. Tampoco supone un coste excesivo en relación a su alta
+eficiencia; y
+
+El diagnóstico de la movilidad del aire en el sustrato
+incluye el estudio de la composición del sustrato para
+verificar que exista una capa que pueda ser potencialmente permeable al aire, la evaluación de la presencia de obstáculos y la estimación del radio de acción
+de la despresurización (a qué distancia puede asegurarse la extracción de los gases del terreno).
+Al demoler y retirar la solera existente, se observa que
+el sustrato compactado no presenta una movilidad al
+aire adecuada, así como la presencia de un colector de
+aguas residuales y la zapata de cimentación de un pilar.
+
+Puntos críticos en la barrera
+Fruto de la inspección de la situación existente se
+identifican como puntos críticos que podrá tener la
+barrera en su ejecución la junta perimetral y los encuentros con un pilar y una bajante.
+
+Ventilación del local
+■
+
+la mejora de la ventilación de los locales habitables
+se descarta puesto que la ventilación existente se
+considera suficiente para asegurar la calidad del
+aire interior sin tener en cuenta el radón. Además, se
+quiere limitar el posible incremento de la demanda energética de climatización consecuencia de un
+aumento excesivo de la ventilación.
+
+La ventilación está producida principalmente por las
+infiltraciones a través de las carpinterías, que son ventanas correderas de aluminio sin clasificación a permeabilidad al aire. Se considera de forma aproximada
+para el cálculo de la barrera un caudal de ventilación
+correspondiente a 0,4 renovaciones por hora.
+
+4. DISEÑO
+(1) Tabla 2. Soluciones orientativas de protección frente al radón en caso de
+solera en función de la concentración de radón existente de la Guía de
+rehabilitación frente al radón.
+
+Se diseña un sistema de despresurización siguiendo
+las directrices indicadas en la Solución B3 que consta
+
+2
+A1+B3 2
+
+Ejemplo A1+B3 • Barrera frente al radón + despresurización con red de tubos
+
+de los siguientes elementos, tal y como se muestra
+en la Figura 2:
+■
+
+un elemento de captación bajo la solera formado
+por una red de tubos perforados de 100 mm de diámetro (Figura 3);
+
+■
+
+una capa de grava de 20-30 cm que envuelve la red
+de tubos y sustituye a la capa de relleno existente;
+
+■
+
+una solera de hormigón con fibras de 10 cm de espesor;
+
+■
+
+un conducto interior vertical de extracción de 100
+mm de diámetro conectado a la red de tubos perforados y con la boca de expulsión situada en la fachada; y
+
+■
+
+un extractor centrífugo de potencia aproximada
+27 W situado en el conducto interior vertical; generalmente es preferible la colocación del extractor en
+el exterior del edificio, pero en este caso se opta por
+disponerlo en un armario de uso exclusivo.
+1
+2
+3
+4
+5
+6
+7
+
+pavimento
+solera
+barrera frente al radón
+tubo perforado rodeado de capa de grava
+conducto de extracción
+extractor
+boca de expulsión
+
+Se opta por un sistema de despresurización del terreno
+mediante una red de tubos perforados bajo solera para
+garantizar una extensión adecuada de la despresurización
+con un diseño y ejecución más sencillo que con la
+disposición de varias arquetas.
+
+Además, se prevé la disposición de una barrera frente
+al radón de tipo lámina que cubra la superficie correspondiente al local habitable, siguiendo las directrices indicadas en la Solución A1 y la Solución A1.1
+en lo relativo al sellado de la junta perimetral y los
+encuentros con la bajante y el pilar.
+La barrera a emplear es una lámina a base de poliolefina (FPO) para la protección, tanto frente al radón
+como a la humedad, de estructuras enterradas de
+hormigón armado (Figura 4). El espesor de la lámina
+es de 1,20 mm y su coeficiente de difusión del radón
+es de 2,3·10-11 m2/s. Se evalúa la idoneidad de esta lámina calculando la exhalación de radón con el espesor y el coeficiente de difusión mencionado y con la
+ventilación estimada del local, comprobándose que
+es inferior a la exhalación límite estipulada en el HS6.
+Bajo la barrera se prevé una capa antipunzonante
+y sobre la barrera una nueva solera.
+1
+2
+
+tubo perforado
+colector de aguas residuales existente
+
+2
+garaje
+
+1
+
+7
+
+1
+
+6
+5
+
+3
+
+2
+4
+
+Figura 2 - Sección de la solución
+
+Figura 3 - Distribución de la red de tubos perforados
+
+3
+A1+B3 3
+
+Ejemplo A1+B3 • Barrera frente al radón + despresurización con red de tubos
+
+Figura 4 - Barrera frente al radón
+
+Figura 6 - Instalación de los tubos perforados y de la capa de grava
+
+5. EJECUCIÓN
+Las siguientes figuras muestran las etapas más relevantes de la ejecución de la obra:
+■
+
+la demolición de la solera existente (Figura 5);
+
+■
+
+la instalación de los tubos perforados y de la capa
+de grava (Figura 6);
+
+■
+
+la perforación en la fachada para la salida del conducto de extracción (Figura 7);
+
+■
+
+el extractor ya colocado (Figura 8);
+
+■
+
+la colocación de la capa antipunzonante (Figura 9);
+
+■
+
+la disposición de la lámina flotante sobre la capa antipunzonante y el sellado del solape entre dos láminas (Figura 10) con cintas de aplicación en frío;
+
+■
+
+el sellado de los encuentros de la lámina con el pilar
+(Figura 11);
+
+■
+
+el sellado de la lámina en la junta perimetral (Figura 12); y
+
+■
+
+la lámina ya colocada (Figura 13).
+
+Figura 7 - Perforación en la fachada para la salida del conducto de
+extracción
+
+Figura 8 - Extractor instalado en un armario de uso exclusivo
+
+Figura 9 - Colocación de la capa antipunzonante sobre la grava
+
+Figura 5 - Demolición de la solera existente
+
+4
+A1+B3 4
+
+Ejemplo A1+B3 • Barrera frente al radón + despresurización con red de tubos
+
+Figura 10 - Sellado del solape entre dos láminas
+
+Por encima de la lámina se fija la armadura y se vierte
+el hormigón de la solera. La lámina está preconformada con una capa de adhesión híbrida especial que
+proporciona una unión permanente con el hormigón
+fresco.
+
+6. EFECTIVIDAD
+
+Figura 11 - Sellado del encuentro de la lámina con un pilar
+
+Después de la colocación de la barrera de protección
+frente al radón y la implementación del sistema de
+despresurización, el promedio de concentración de
+radón se reduce de 1.170 a 84 Bq/m3.
+
+Reducción de la concentración promedio del 93 % frente
+a la concentración previa a la intervención.
+
+Figura 12 - Sellado de la lámina en la junta perimetral
+
+Figura 13 - Lámina colocada
+
+5
+A1+B3 5
+
+EJEMPLO
+
+SELLADO + VENTILACIÓN
+DE LA CÁMARA SANITARIA
+
+A2+B1
+47%
+
+Efectividad
+
+1. DESCRIPCIÓN DEL EDIFICIO
+■
+
+Uso: Residencial.
+
+■
+
+Clasificación del municipio según el DB HS6 en función del potencial de radón: No incluido.
+
+■
+
+Superficie construida: 100 m2.
+
+■
+
+Superficie en contacto con el terreno: 100 m2.
+
+■
+
+Superficie construida bajo rasante: No.
+
+■
+
+Tipo de ventilación de los locales habitables: Natural a través de huecos de ventanas.
+
+■
+
+Plantas y distribución: Una sola planta en la que se
+encuentran los locales habitables (Figura 1).
+
+Coste
+
+400€
+
+Coste por superficie
+
+4 €/m
+
+2
+
+■
+
+Construcción: Muros de carga. Fachadas de fábrica
+de ladrillo con enfoscado de cemento. Cámara sanitaria ventilada en toda la superficie en planta (Figura 2).
+
+■
+
+Tipo de terreno: Capa de relleno heterogénea, de
+espesor variable no superior a 0,5 m y poco compacta. Sustrato natural de arena arcillosa (arena tosquiza) con predominio arcilloso (tosco) con ocasionales intercalaciones de arena de miga (arcosas).
+
+■
+
+Promedio anual de concentración de radón previo a
+la intervención: 380 Bq/m3.
+
+Figura 1 - Fachada y planta baja de la vivienda
+
+Fecha de intervención: 2019 · Coste de ejecución material: 400 €
+
+Ejemplo A2 + B1 • Sellado + ventilación de la cámara sanitaria
+
+La existencia de una cámara de aire conduce a la elección
+de una solución basada en la mejora de su ventilación.
+
+3. DIAGNÓSTICO
+El objetivo del sellado de fisuras, grietas, encuentros
+y juntas del cerramiento que separa la cámara sanitaria de los locales habitables es limitar la penetración
+del radón a través de puntos en los que se de alguna
+discontinuidad. Para poder lograr este objetivo se realiza un diagnóstico de la situación existente basado en
+su inspección y evaluación, identificando los puntos
+críticos en los que el cerramiento presenta discontinuidades.
+
+Figura 2 - Cámara sanitaria (arriba) y sección de la vivienda (abajo)
+
+2. ELECCIÓN DE LA SOLUCIÓN
+La solución de protección más apropiada según la tabla 31 de la Guía de rehabilitación frente al radón en el
+caso de la existencia de una cámara de aire para una
+concentración de radón existente menor de 600 Bq/m3
+es la mejora de la ventilación de la cámara (Solución
+B1). Para mejorar su efectividad se recurre también al
+sellado de fisuras, grietas, encuentros y juntas (Solución A2) del cerramiento que separa la cámara de los
+locales habitables.
+Según la propia Guía, estas soluciones se pueden
+complementar con la mejora de la ventilación de los
+locales habitables, pero se descarta puesto que la
+ventilación existente se considera suficiente para asegurar la calidad del aire interior sin tener en cuenta el
+radón. Además, se quiere evitar el posible incremento
+de la demanda energética de climatización consecuencia de un aumento excesivo de la ventilación.
+
+(1) Tabla 3. Soluciones orientativas de protección frente al radón en caso de
+forjado sanitario en función de la concentración de radón existente de la
+Guía de rehabilitación frente al radón.
+
+El objetivo de la ventilación de la cámara es reducir la concentración de radón a la que el edificio se
+encuentra expuesto. Debe garantizarse que la ventilación alcance toda la extensión del edificio en contacto
+con el terreno de la forma más eficiente y homogénea
+posible, para que se diluya el radón presente y no se
+produzcan estancamientos de aire en determinadas
+zonas. Para poder lograr este objetivo es necesario
+realizar un diagnóstico del estado de la ventilación
+existente de la cámara sanitaria que se base en su inspección, identificando los obstáculos al libre flujo del
+aire que pudieran existir y las dimensiones y ubicación
+de las aberturas de ventilación existentes.
+
+Puntos críticos en el cerramiento
+Fruto de la inspección de la situación existente del cerramiento que separa la cámara sanitaria de los locales
+habitables se identifican como puntos críticos el paso de
+varias bajantes y una trampilla de acceso a la cámara.
+
+Presencia de obstáculos en la cámara
+De la inspección visual de la cámara sanitaria, se observa que la cámara está dividida en dos zonas (Figura 3) separadas por un muro de ladrillo.
+
+Aberturas de ventilación existentes
+La cámara sanitaria está ventilada en su zona oeste
+de forma natural mediante dos aberturas de ventilación situadas enfrentadas en las caras norte y sur del
+muro perimetral (Figura 3). Estas aberturas tienen una
+dimensión aproximada de 15 x 20 cm cada una (Figura
+4). Sin embargo, la zona este de la cámara no presenta
+ventilación.
+
+2
+A2+B1 2
+
+Ejemplo A2 + B1 • Sellado + ventilación de la cámara sanitaria
+1
+
+1
+
+2
+
+2
+
+1
+
+trampilla de acceso a la cámara
+1
+2
+
+Figura 3 - Planta de la cámara sanitaria antes de la intervención con las
+aberturas de ventilación existentes
+
+trampilla de acceso sellada
+nuevas aberturas de ventilación
+
+Figura 5 - Planta de la cámara sanitaria después de la intervención
+
+5. EJECUCIÓN
+La Figura 6 muestra la ejecución de dos perforaciones para las aberturas de ventilación y la Figura 7 el
+aspecto de las aberturas finalizadas con rejillas.
+
+Figura 4 - Abertura de ventilación existente
+
+4. DISEÑO
+Se diseña una mejora de la ventilación de forma natural siguiendo las directrices indicadas en la Solución
+B1. En la zona este de la cámara se prevén dos nuevas
+aberturas de ventilación situadas enfrentadas en las
+caras norte y sur del muro perimetral (Figura 5), formada cada una por 2 perforaciones circulares de 122
+mm de diámetro.
+
+Figura 6 - Perforaciones para una de las nuevas aberturas de ventilación
+
+Se opta por la apertura de nuevos huecos de ventilación
+para mejorar de forma natural el alcance de la ventilación.
+
+Además, se prevé el sellado de la trampilla de acceso
+a la cámara desde la planta baja y de los encuentros
+con las bajantes siguiendo las directrices indicadas en
+la Solución A2.
+
+Figura 7 - Aberturas de ventilación finalizadas con rejillas
+
+3
+A2+B1 3
+
+Ejemplo A2 + B1 • Sellado + ventilación de la cámara sanitaria
+
+El sellado de la trampilla de acceso a la cámara y del
+encuentro del forjado con las bajantes se realiza con
+un producto elástico en base poliuretano.
+
+6. EFECTIVIDAD
+Después del sellado de los puntos críticos detectados
+y de la mejora de la ventilación de la cámara sanitaria,
+el promedio de concentración de radón se reduce de
+380 Bq/m3 a 200 Bq/m3.
+
+Reducción de la concentración promedio de un 47%
+frente a la concentración previa a la intervención.
+
+4
+A2+B1 4
+
+EJEMPLO
+
+SELLADO + DESPRESURIZACIÓN
+CON RED DE TUBOS
+
+A2+B3
+88%
+
+Efectividad
+Coste
+Coste por superficie
+
+1. DESCRIPCIÓN DEL EDIFICIO
+■
+
+Uso: Residencial.
+
+■
+
+Clasificación del municipio según el DB HS6 en función del potencial de radón: Zona II.
+
+■
+
+Superficie construida: 150 m2.
+
+■
+
+Superficie en contacto con el terreno: 75 m2.
+
+■
+
+Superficie construida bajo rasante: No.
+
+■
+
+Tipo de ventilación: Natural a través de huecos de
+ventanas.
+
+2.500€
+43 €/m
+
+2
+
+■
+
+Plantas y distribución: Dos plantas (Figura 1). En la
+planta baja se sitúan el garaje y un local habitable de
+usos diversos. En la planta primera se encuentran el
+resto de los locales habitables.
+
+■
+
+Construcción: Estructura metálica. Fachadas de fábrica de ladrillo con enfoscado de cemento y mampostería. Solera en toda la superficie en planta.
+
+■
+
+Tipo de terreno: Capa de relleno heterogénea, de
+espesor variable y poco compacta. Sustrato natural
+de granito alterado y rocas graníticas.
+
+■
+
+Promedio anual de concentración de radón previo a
+la intervención: 660 Bq/m3.
+
+garaje
+
+Figura 1 - Sección y planta baja de la vivienda
+
+Fecha de intervención: 2017 · Coste de ejecución material: 2.500 €
+
+Ejemplo A2+B3 • Sellado + despresurización con red de tubos
+
+2. ELECCIÓN DE LA SOLUCIÓN
+
+considera suficiente para asegurar la calidad del
+aire interior sin tener en cuenta el radón. Además, se
+quiere evitar el posible incremento de la demanda
+energética de climatización consecuencia de una
+aumento excesivo de la ventilación.
+
+Las soluciones de protección más apropiadas según la
+tabla 21 de la Guía de rehabilitación frente al radón en
+el caso de la existencia de una solera para una concentración de radón existente mayor de 600 Bq/m3 son:
+■
+
+barrera frente a radón con despresurización;
+
+■
+
+sellado de fisuras, grietas, encuentros y juntas de la
+envolvente en contacto con el terreno con despresurización; o
+
+■
+
+barrera frente al radón con disposición de una cámara de aire ventilada.
+
+Según la propia Guía, estas soluciones se pueden
+complementar con la mejora de la ventilación de los
+locales habitables
+
+El buen estado del cerramiento en contacto con el
+terreno y la limitación de altura libre en la vivienda, entre
+otros, conducen a la elección de una solución basada
+en el sellado de puntos críticos y despresurización del
+terreno.
+
+Entre estas posibilidades se considera el sellado de
+fisuras, grietas, encuentros y juntas (Solución A2) del
+cerramiento en contacto con el terreno con despresurización (Solución B3) como la opción más adecuada por los siguientes motivos:
+■
+
+el estado de la solera existente es bueno, por lo que
+no se considera necesaria su sustitución. El uso de
+barrera frente al radón sobre la solera existente se
+descarta por criterios económicos y dificultad de
+implementación;
+
+3. DIAGNÓSTICO
+El objetivo de la despresurización del terreno es garantizar que la diferencia de presiones entre el terreno
+y la vivienda sea negativa en toda la extensión del edificio en contacto con el terreno. Para poder lograr este
+objetivo se realiza un diagnóstico de la capacidad de
+movilidad del aire en el sustrato bajo la solera.
+El objetivo del sellado de fisuras, grietas, encuentros
+y juntas del cerramiento en contacto con el terreno
+es limitar la penetración del radón a través de puntos
+en los que se de alguna discontinuidad y favorecer
+además la efectividad de la despresurización. Para
+poder lograr este objetivo se realiza un diagnóstico
+de la situación existente basado en su inspección y
+evaluación identificando los puntos críticos en los que
+el cerramiento presenta discontinuidades.
+
+Movilidad del aire en el sustrato
+El diagnóstico de la movilidad al aire en el sustrato incluye el estudio de la composición del sustrato para
+verificar que exista una capa que pueda ser potencialmente permeable al aire, la evaluación de la presencia de obstáculos y la estimación del radio de acción
+de la despresurización (a qué distancia puede asegurarse la extracción de los gases del terreno).
+Para poder estudiar la composición del sustrato se
+practican dos perforaciones en la solera observándose la siguiente composición de arriba hacia abajo
+(Figura 2):
+
+la despresurización con el sellado ofrecen una alta
+eficiencia por lo que podría compensar su coste y
+dificultad técnica;
+
+■
+
+baldosa de terrazo y mortero de cemento;
+
+■
+
+solera de hormigón pobre (60 mm);
+
+■
+
+la disposición de una cámara de aire por el interior
+de la solera existente se descarta por la limitada altura disponible;
+
+■
+
+capa de relleno de grava (100 mm de diámetro) mezclada con tierras, sin espesor regular (0 a
+150 mm); y
+
+■
+
+la mejora de la ventilación de los locales habitables
+se descarta puesto que la ventilación existente se
+
+■
+
+terreno natural con presencia de roca en algún
+punto.
+
+■
+
+(1) Tabla 2. Soluciones orientativas de protección frente al radón en caso de
+solera en función de la concentración de radón existente de la Guía de
+rehabilitación frente al radón.
+
+2
+A2+B3 2
+
+Ejemplo A2+B3 • Sellado + despresurización con red de tubos
+
+1
+3
+4
+
+2
+
+5
+
+1
+2
+3
+4
+5
+
+baldosa de terrazo
+mortero de cemento
+solera
+grava
+terreno
+
+De la observación se concluye que el sustrato cuenta con una capa que puede ser potencialmente permeable al aire, como es la capa de grava, pese a que
+la zapata de cimentación del pilar pueda suponer un
+obstáculo puntual al flujo del aire.
+Mediante un procedimiento experimental basado en
+la medida de la diferencia de presiones en distintos
+puntos del sustrato se estima que el radio de acción
+para una despresurización de -5 Pa es de 5 m.
+
+Puntos críticos en el cerramiento
+Fruto de la inspección de la situación existente del
+cerramiento en contacto con el terreno se identifican
+como puntos críticos la junta perimetral de la solera y
+la presencia de un pilar.
+
+4. DISEÑO
+
+Figura 2 - Sección de la solera y el sustrato (arriba.) y perforación en
+solera y sustrato (abajo)
+
+Además, se observa la presencia de un pilar situado
+en la zona central de la planta, por lo que se prevé
+que su zapata suponga un obstáculo al flujo del aire
+en el sustrato.
+
+Con los resultados del diagnóstico y un modelo de
+simulación2 se diseña un sistema de despresurización
+siguiendo las directrices indicadas en la Solución B3
+que consta de los siguientes elementos, tal y como se
+muestra en la Figura 3:
+■
+
+un elemento de captación bajo la solera formado
+por un tubo perforado de 100 mm de diámetro con
+una longitud de 5 metros (Figura 4);
+
+8
+
+1
+2
+3
+4
+
+7
+
+5
+6
+7
+8
+
+pavimento
+solera
+tubo perforado rodeado de capa de grava
+tubo sin perforaciones
+extractor
+salida condensados
+conducto de extracción
+boca de expulsión
+
+6
+5
+1
+2
+3
+
+4
+
+Figura 3 - Sección de la solución
+(2) E. Muñoz, B. Frutos, M. Olaya, J. Sanchez “A finite element mode development for simulation of the impact of slab thickness, joints, and membranes on indoor radon concentration” Journal of Environmental Radioactivity 177 (2017) 280e289.
+
+3
+A2+B3 3
+
+Ejemplo A2+B3 • Sellado + despresurización con red de tubos
+
+1
+
+tubo perforado
+
+1
+
+Figura 4 - Ubicación del tubo perforado
+
+■
+
+■
+
+■
+
+5. EJECUCIÓN
+
+una capa de grava de 20-30 cm que envuelve el
+tubo perforado situada en zanja excavada;
+un tubo sin perforaciones de 100 mm de diámetro
+para atravesar la fachada, conectado al tubo perforado;
+un conducto exterior vertical de extracción de 100
+mm de diámetro, conectado al tubo que atraviesa
+la fachada y con la boca de expulsión situada en la
+cubierta;
+
+Las siguientes figuras muestran las etapas más relevantes de la ejecución de la obra:
+■
+
+la excavación de una zanja para la disposición del
+tubo perforado y la capa de grava (Figura 5);
+
+■
+
+la instalación de la capa de grava, el tubo perforado
+y el tubo sin perforaciones para atravesar la fachada
+(Figura 6); y
+el conducto de extracción y el extractor ya colocados con la expulsión en cubierta (Figura 7).
+
+■
+
+un extractor centrífugo de potencia aproximada 70
+W situado en un punto intermedio del conducto exterior vertical; y
+
+■
+
+■
+
+un by-pass del extractor o derivación del conducto
+para evitar que el agua de condensación o filtración
+entre en contacto con el mismo.
+
+El sellado de la junta perimetral y de los encuentros
+con el pilar y el conducto del sistema de despresurización se realiza con un producto elástico en base
+poliuretano.
+
+Se opta por un sistema despresurización del terreno con
+un tubo perforado bajo solera para intentar conseguir
+una extensión adecuada de la despresurización con un
+diseño y ejecución más sencillo que la disposición de
+varias arquetas.
+
+Además, se prevé el sellado de la junta perimetral y el
+encuentro con el pilar siguiendo las directrices indicadas en la Solución A2.
+Figura 5 - Zanja para la instalación del tubo perforado y la capa de
+grava
+
+4
+A2+B3 4
+
+Ejemplo A2+B3 • Sellado + despresurización con red de tubos
+
+Figura 6 - Instalación de la capa de grava, el tubo perforado y el tubo pasamuros
+
+6. EFECTIVIDAD
+Después del sellado de los puntos críticos detectados y de la implementación del sistema de despresurización, el promedio de concentración de radón se
+reduce de 660 a 79 Bq/m3.
+
+Reducción de la concentración media del 88% frente a la
+concentración previa a la intervención.
+
+Figura 7 - Conducto de extracción, extractor y expulsión en cubierta
+
+5
+A2+B3 5
+
+EJEMPLO
+
+SELLADO + VENTILACIÓN MECÁNICA
+DE LOS LOCALES HABITABLES
+
+A2+C1
+
+Efectividad
+
+26%
+12.700€
+
+Coste
+Coste por superficie
+
+1. DESCRIPCIÓN DEL EDIFICIO
+■
+
+Uso: Socio-cultural.
+
+■
+
+Clasificación del municipio según el DB HS6 en función del potencial de radón: Zona II.
+
+■
+
+Superficie construida: 450 m2.
+
+■
+
+Superficie en contacto con el terreno: 340 m2.
+
+■
+
+Superficie construida bajo rasante: No.
+
+■
+
+Tipo de ventilación: Natural a través de huecos de
+ventanas y aberturas de ventilación en los aseos conectadas a un plenum y a un conducto al exterior.
+
+■
+
+Plantas y distribución: Dos plantas en algunas zonas
+puntuales, en el resto del edificio una sola planta
+(Figura 1). Sólo se interviene en la zona señalada en
+azul, que es independiente al resto (Figura 2).
+
+37 €/m
+
+2
+
+■
+
+Construcción: Muros de carga. Fachadas de fábrica
+de ladrillo con enfoscado de cemento, mampostería y roca viva de forma puntual. Solera en toda la
+superficie en planta.
+
+■
+
+Tipo de terreno: Sustrato natural de granito alterado
+y rocas graníticas.
+
+■
+
+Promedio anual de concentración de radón previo a
+la intervención: 401 Bq/m3.
+
+Figura 1 - Fachada del edificio
+
+Figura 2 - Planta baja del edificio. En azul, zona en la que se interviene
+
+Fecha de intervención: 2018 · Coste de ejecución material: 12.700 €
+
+Ejemplo A2 + C1 • Sellado + ventilación mecánica de los locales habitables
+
+2. ELECCIÓN DE LA SOLUCIÓN
+Las soluciones de protección más apropiadas según la
+tabla 21 de la Guía de rehabilitación frente al radón en
+el caso de la existencia de una solera para una concentración de radón existente menor de 600 Bq/m3 son:
+■
+
+barrera frente al radón; o
+
+■
+
+sellado de fisuras, grietas, encuentros y juntas de la
+envolvente en contacto con el terreno.
+
+Según la propia Guía, estas soluciones se pueden
+complementar con la mejora de la ventilación de los
+locales habitables.
+
+La volumetría compleja del edificio, el buen estado del
+cerramiento en contacto con el terreno y la deficiente
+ventilación conducen a la elección de una solución
+basada en el sellado de puntos críticos y mejora de la
+ventilación de los locales habitables.
+
+3. DIAGNÓSTICO
+El objetivo del sellado de fisuras, grietas, encuentros
+y juntas del cerramiento en contacto con el terreno es
+limitar la penetración del radón a través de puntos en
+los que se de alguna discontinuidad. Para poder lograr
+este objetivo se realiza un diagnóstico de la situación
+existente basado en su inspección y evaluación, identificando los puntos críticos en los que el cerramiento
+presenta discontinuidades.
+El objetivo de la mejora de la ventilación de los locales habitables como medida de protección frente
+al radón es, una vez que el radón ya ha penetrado en
+su interior, evitar que se acumule. Se introduce aire
+desde el exterior que, por dilución, desplazamiento
+o una combinación de ambos, elimina los contaminantes del ambiente interior y con ellos el radón. Para
+poder lograr este objetivo se realiza un diagnóstico
+de la situación existente de la ventilación del edificio
+basado en la inspección y evaluación de aperturas de
+ventilación, infiltraciones, flujos de aire, etc.
+
+Puntos críticos en el cerramiento
+Entre estas posibilidades se considera el sellado de
+fisuras, grietas, encuentros y juntas (Solución A2) del
+cerramiento en contacto con el terreno con la mejora
+de la ventilación de los locales habitables (Solución
+C1) como la opción más adecuada por los siguientes
+motivos:
+
+Fruto de la inspección de la situación existente del
+cerramiento en contacto con el terreno se identifica
+como punto crítico el encuentro con la tapa de una
+arqueta de la red de saneamiento.
+
+el estado de la solera y del pavimento existente es
+bueno, por lo que no se considera necesaria su sustitución. El uso de barrera frente al radón sobre la
+solera existente se descarta por criterios económicos y dificultad de implementación, debido principalmente a la complejidad del edificio en cuanto a
+desniveles y forma irregular, así como su alta compartimentación;
+
+Se observa que el edificio dispone de una ventilación
+variable ocasionada por la acción del viento y la diferencia de temperatura con el exterior mediante:
+
+■
+
+■
+
+■
+
+el sellado de los puntos críticos del cerramiento es
+sencillo comparativamente con la disposición de
+una barrera frente al radón; y
+la mejora de la ventilación de los locales habitables
+es una intervención más fácil de abordar que la disposición de la barrera.
+
+(1) Tabla 2. Soluciones orientativas de protección frente al radón en caso de
+solera en función de la concentración de radón existente de la Guía de
+rehabilitación frente al radón.
+
+Ventilación
+
+■
+
+las elevadas infiltraciones por las carpinterías (puertas y ventanas);
+
+■
+
+la presencia de huecos como el tiro de una chimenea;
+
+■
+
+las aberturas de extracción en los aseos comunicadas con el exterior mediante un conducto; y
+
+■
+
+un antiguo sistema de climatización en desuso que
+dispone de rejillas de ventilación en todas las estancias comunicadas por conductos con el exterior.
+
+Esta ventilación se considera insuficiente. Existen malos olores en los aseos que evidencian falta de extracción de aire y se considera que con condiciones
+climatológicas adversas el resto de locales tampoco
+se ventilan adecuadamente.
+
+2
+A2+C1 2
+
+Ejemplo A2 + C1 • Sellado + ventilación mecánica de los locales habitables
+
+4. DISEÑO
+Se prevé el sellado de la tapa de la arqueta de la red
+de saneamiento siguiendo las directrices indicadas en
+la Solución A2.
+
+Se opta por un sistema específico de ventilación con
+mecanización tanto de la extracción como de la admisión
+que permita estabilizar y ajustar los caudales y flujos de
+aire a las necesidades detectadas.
+
+Se diseña un sistema de ventilación mecánico específico siguiendo las directrices indicadas en la Solución
+C1 que consta de los siguientes elementos (Figura 3):
+■
+
+equipo de ventilación de doble flujo con recuperador de calor con un caudal constante de 200 m3/h;
+
+■
+
+red de conductos de impulsión circulares de 90 mm
+de diámetro desde el ventilador hasta las distintas
+aberturas de admisión;
+
+■
+
+red de conductos de extracción circulares de 90 mm
+de diámetro desde el ventilador hasta las distintas
+aberturas de extracción;
+
+■
+
+conducto de admisión metálico de 200 mm de diámetro desde la boca de admisión hasta el ventilador;
+
+■
+
+■
+
+conducto de extracción metálico de 200 mm de diámetro desde el ventilador hasta la boca de expulsión;
+boca de toma de aire en fachada;
+
+■
+
+boca de expulsión de aire en cubierta;
+
+■
+
+aberturas de admisión de aire en los locales secos
+de 125 mm de diámetro; y
+
+■
+
+aberturas de extracción de aire en el núcleo central
+compuesto por aseos y pasillo de 125 mm de diámetro.
+
+Por un lado, el aire fresco libre de radón se toma desde el exterior a través de la boca de toma, pasa al
+recuperador de calor en donde se atempera y después es impulsado a los locales habitables secos a
+través de los conductos de impulsión y las aberturas
+de admisión. Por otro lado, el aire con radón del interior se extrae de los aseos y el pasillo central por las
+aberturas de extracción y a través de los conductos
+de extracción es conducido al recuperador de calor.
+Allí cede parte de su calor al aire fresco y después se
+expulsa al exterior a través de la boca de expulsión en
+cubierta.
+Para limitar las molestias producidas por el ruido generado por la instalación se prevé que el equipo de
+ventilación se ubique en un local de uso exclusivo y
+se aíslen acústicamente los conductos.
+
+5. EJECUCIÓN
+El sellado del registro de la arqueta se realiza con un
+producto elástico en base poliuretano.
+La ejecución del sistema de ventilación con recuperador de calor es similar a la de un sistema de
+ventilación implementado por calidad del aire.
+
+aberturas de admisión
+aberturas de extracción
+equipo de ventilación
+
+Figura 3 - Esquema en planta de la solución propuesta
+
+3
+A2+C1 3
+
+Ejemplo A2 + C1 • Sellado + ventilación mecánica de los locales habitables
+
+Las Figuras 4, 5, 6, 7 y 8 muestran distintos elementos
+del sistema de ventilación durante la ejecución de la
+obra.
+
+6. EFECTIVIDAD
+Después de la mejora de la ventilación de los locales,
+el promedio de concentración de radón se reduce de
+401 a 295 Bq/m3.
+
+Reducción de la concentración promedio del 26 % frente
+a la concentración previa a la intervención.
+
+Figura 4 - Boca de toma de aire en la fachada
+
+Figura 6 - Abertura de admisión de aire en un local seco y conducto de
+impulsión
+
+Figura 5 - Equipo de ventilación
+
+Figura 7 - Abertura de extracción de aire en un aseo
+
+Figura 8 - Red de conductos de impulsión y expulsión
+
+4
+A2+C1 4
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+

@@ -1,0 +1,722 @@
+SOLUCIÓN
+
+VENTILACIÓN DE
+LOS LOCALES HABITABLES
+
+C1
+Efectividad con concentración
+mayor de 600 Bq/m3
+Efectividad con concentración
+menor de 600 Bq/m3
+
+2
+
+Dificultad(1)
+
+2
+
+Coste(1)
+
+1. FINALIDAD
+La ventilación de los locales habitables tiene como
+finalidad reducir la concentración de radón en su interior. Se basa en favorecer mediante ventilación la expulsión de radón de los locales habitables al exterior.
+
+Los locales habitables son las estancias del edificio en
+donde permanecen las personas de forma habitual
+como, por ejemplo, en las viviendas, los dormitorios, las
+salas de estar, las cocinas y los baños.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará cuando las condiciones de
+ventilación de los locales habitables no sean adecuadas a la reglamentación de aplicación correspondiente: Código Técnico de la Edificación (CTE, sección DB
+HS3) o Reglamento de Instalaciones Térmicas de los
+Edificios (RITE). El problema más habitual es que los
+caudales de ventilación sean insuficientes, aunque
+también pueden darse otros como, por ejemplo, que
+el flujo de circulación del aire dentro de una vivienda
+se produzca desde los locales húmedos a los secos,
+que se presenten zonas de aire estancado, etc.
+
+El Código Técnico de la Edificación (CTE) en la
+sección DB HS3 Calidad del aire interior establece las
+características básicas de ventilación para obtener una
+adecuada calidad del aire en el interior de las viviendas,
+los almacenes de residuos y los trasteros (en edificios de
+viviendas) y los aparcamientos y garajes. Por su parte, el
+Reglamento de Instalaciones Térmicas de los Edificios
+(RITE) hace lo propio para otros tipos de edificios.
+
+3
+
+Cuando los caudales de ventilación existentes se adecúen a la reglamentación, en general se desaconseja
+el empleo de esta solución puesto que el aumento
+de caudales de ventilación conllevará en la mayoría
+de los casos un incremento de las pérdidas energéticas de los locales (y consecuente reducción de la eficiencia energética); así como puede llevar aparejado,
+dependiendo del sistema de ventilación empleado,
+depresiones que fomenten la entrada de radón, molestias por corrientes de aire y ruido y desequilibrios
+en los flujos de ventilación.
+
+3. EFECTIVIDAD
+La ventilación de los locales habitables es una solución efectiva cuando la concentración de radón medida en su interior es inferior a 600 Bq/m3, sobre todo
+si es cercana a 300 Bq/m3. En cualquier caso, se recomienda combinar la ventilación con otra solución,
+como las basadas en el aislamiento descritas en la
+Solución A1, Solución A1.1 y Solución A2 o las basadas en la reducción del radón antes de que penetre
+en los locales habitables descritas en la Solución B1,
+Solución B2 y Solución B3.
+Su efectividad podrá verse afectada si existen elementos de paso que conecten estos locales habitables con locales no habitables, como puedan ser
+puertas de sótano o de garajes, o con cámaras de
+aire. En este caso será necesario que la puerta o trampilla sea poco permeable al aire según lo detallado en
+la Solución A3.
+Para comprobar si la efectividad de la solución es
+adecuada, se recomienda medir la concentración de
+radón alcanzada dentro de los locales habitables tras
+la intervención.
+(1) Se ha considerado la instalación de un sistema de ventilación completo
+nuevo
+
+Solución C1 • Ventilación de los locales habitables
+
+4. DIFICULTAD DE INSTALACIÓN
+La mejora de la ventilación es una solución sencilla
+que no requiere un grado de especialización alto,
+aunque sí lo requerirá en el caso de la instalación de
+un nuevo sistema de ventilación.
+
+a) Ventilación natural
+Podrá mejorarse la ventilación disponiendo aireadores en las ventanas o en las fachadas o sustituyendo
+las ventanas existentes por otras con aireador o con
+un sistema de apertura que permita la microventilación (Figura 2).
+
+5. CÓMO SE CONSIGUE
+Esta solución consistirá en ventilar adecuadamente los
+locales habitables. La forma de conseguirlo dependerá del sistema de ventilación existente y del alcance
+de la intervención que se vaya a realizar: mejorando la
+ventilación de forma natural, mejorando la ventilación
+de forma mecánica o incluso, en el caso de que se
+vaya a realizar una rehabilitación integral, instalando
+un sistema de ventilación completamente nuevo adecuado a la reglamentación correspondiente (Figura 1).
+
+1
+2
+
+admisión de aire
+extracción de aire
+
+2
+
+1
+
+Figura 2 - Ventana con aireador (arriba) y ventana oscilobatiente en
+posición de microventilación (abajo)
+Figura 1 - Admisión y extracción de aire en una vivienda
+
+La ventilación podrá mejorarse de distintas formas
+como, por ejemplo, incrementando los caudales hasta alcanzar un nivel acorde a la reglamentación correspondiente ya mencionada u optimizando la distribución de las aberturas de ventilación para evitar
+zonas de estancamiento del aire.
+
+El cumplimiento de la reglamentación vigente en relación
+a la calidad del aire interior no tiene por qué garantizar
+por sí solo que se alcancen niveles de concentración de
+radón aceptables.
+
+La ventilación del local se podrá realizar de forma natural o mecánica, con los condicionantes que se recogen a continuación.
+
+b) Ventilación mecánica
+Cuando se refuerce la ventilación de forma mecánica
+para mejorar su efectividad, podrá mecanizarse solo
+la extracción o la extracción y la impulsión.
+Cuando se trate de viviendas construidas con anterioridad a 2006, en las que suele ser habitual encontrar
+shunts cuya extracción funciona exclusivamente por
+tiro térmico y/o por efecto del viento, podrá mejorarse
+la extracción con la instalación de un extractor híbrido o mecánico (Figura 3). El extractor híbrido permitirá
+que el sistema funcione de forma natural cuando sea
+posible y que cuando se den condiciones climatológicas desfavorables, como ausencia de viento o de
+inversión térmica, el sistema funcione de forma mecánica.
+
+C1
+
+2
+2
+
+Solución C1 • Ventilación de los locales habitables
+
+Para evitarlo los extractores se situarán en cubierta o,
+en todo caso, tras la incorporación del último ramal al
+shunt.
+
+1
+2
+
+extractor
+shunt colectivo
+
+2
+
+Figura 3 - Extractor mecánico en cubierta
+
+El shunt es un conducto vertical que comunica los baños
+y la cocina de la vivienda con el exterior del edificio hasta
+la cubierta extrayendo el aire viciado.
+
+El tiro térmico es el movimiento natural del aire producido
+por la diferencia de temperatura entre el exterior y el
+interior del edificio que hace que el aire caliente menos
+denso ascienda. De esta forma, en invierno, el aire de
+los locales calefactados tiende a ascender por el shunt
+y salir al exterior. La inversión térmica se produce cuando
+la temperatura en el interior del edificio es inferior a la del
+exterior.
+
+1
+
+1
+
+2
+
+La expulsión de aire se situará en la cubierta del edificio, aunque podrá emplazarse en la fachada siempre
+y cuando se respete una distancia de al menos 3 m a
+las entradas de aire, puertas, ventanas y zonas donde
+pueda haber personas de forma habitual, como terrazas y balcones.
+
+6. PUNTOS CRÍTICOS
+Ubicación del extractor en un tramo
+intermedio
+En el caso de que se instale un extractor en un tramo
+intermedio o al principio de un shunt colectivo (que da
+servicio a distintos locales húmedos), el aire extraído
+cargado de radón y del resto de contaminantes podría
+introducirse al resto de locales a los que da servicio el
+shunt por las propias aberturas de extracción (Figura 4).
+
+Figura 4 - Sistema de ventilación con extractor al principio del shunt
+colectivo (arriba) y en cubierta (abajo)
+
+También en el caso de un shunt individual (que da servicio a un solo local húmedo) el extractor se dispondrá
+en la cubierta para evitar la introducción del aire extraído cargado de radón al interior del edificio, en este
+caso, a través de posibles fugas en el shunt (Figura 5).
+
+C1
+
+3
+3
+
+Solución C1 • Ventilación de los locales habitables
+
+1
+2
+
+extractor
+shunt
+
+2
+
+1
+
+■
+
+se realizará alguna actuación complementaria a la
+sustitución de las ventanas como la instalación de
+aireadores en las ventanas o en las fachadas o la
+instalación de ventanas con un sistema de apertura
+que permita la microventilación.
+
+Escasa admisión en ventilación mecánica
+
+2
+1
+
+En el caso de ventilación mecánica cuando sólo se
+mecanice la extracción, si la dimensión o el número
+de las aberturas de admisión de aire existentes es
+insuficiente, podría producirse una depresión que favorezca la entrada de radón desde el terreno a los locales. Para evitarlo, las aberturas de admisión de aire
+serán suficientemente generosas para favorecer la
+entrada de aire (Figura 6).
+
+1
+2
+
+admisión de aire
+shunt
+
+2
+
+Figura 5 - Sistema de ventilación con extractor al principio del shunt
+individual (arriba) y en cubierta (abajo)
+
+Accionamiento del extractor de forma
+intermitente
+No es conveniente utilizar extractores con funcionamiento intermitente enclavados al interruptor de la luz
+o con detector de presencia, puesto que la ventilación
+proporcionada podría ser insuficiente para mantener
+una concentración de radón adecuada.
+
+2
+
+Reducción del caudal de ventilación
+En el caso de que el caudal de ventilación se reduzca
+la efectividad de la solución podría quedar mermada.
+La reducción puede producirse, por ejemplo, porque:
+■
+
+■
+
+los ocupantes de los edificios cierren las aberturas
+de ventilación; o
+las ventanas que funcionaban como aberturas de
+ventilación se sustituyan, para intentar conseguir
+mejores prestaciones acústicas y térmicas, por otras
+con una menor permeabilidad al aire.
+
+Para evitar estos efectos:
+■
+
+se informará a los ocupantes de que las aberturas
+de ventilación tendrán que permanecer abiertas
+para un buen funcionamiento de la solución;
+
+1
+
+Figura 6 - Sistema de ventilación sin (izda.) y con (drcha.) abertura
+de admisión de aire exterior
+
+7. COSTE
+El coste puede variar sustancialmente dependiendo
+del tipo de intervención, no difiriendo del coste de un
+sistema habitual de ventilación.
+El coste que se ha tenido en cuenta en la gráfica al
+comienzo de esta ficha es el correspondiente a la
+
+C1
+
+4
+4
+
+Solución C1 • Ventilación de los locales habitables
+
+instalación de un sistema de ventilación completo
+nuevo, para representar el caso más costoso.
+
+cuando se emplea la ventilación del propio local
+como solución.
+
+La ventilación de las viviendas según
+la reglamentación vigente como método para eliminar el radón
+
+OBSERVACIONES
+
+La ventilación de viviendas según la reglamentación vigente debe ser continua, aunque el caudal
+fluctúe, de forma que los contaminantes producidos a lo largo del día se puedan extraer constantemente. Esto permite mantener una calidad del
+aire mejor que la correspondiente a la ventilación
+tradicional descrita anteriormente.
+
+La ventilación
+tradicional de las
+2000
+viviendas 1800
+como método para eliminar
+el radón 1600
+1400
+
+1200
+
+Bq/m
+1000
+La ventilación
+tradicional de las viviendas, enten800
+dida como aquella
+basada en la apertura puntual
+600
+de las ventanas
+una
+vez al día durante unos mi400
+200
+nutos, no se considera suficiente en los edificios
+0
+actuales para obtener una adecuada calidad del
+aire interior. Esto es debido a que el aumento de
+la estanqueidad de los cerramientos, en general, y de las ventanas en particular para la meRadón
+jora de la eficiencia energética o del aislamiento acústico, reduce las infiltraciones de aire que
+ventilaban a lo
+largo de todo el día las viviendas
+2000
+1800
+y que reforzaban la ventilación puntual. Tras una
+1600
+ventilación puntual
+comienzan a acumularse los
+1400
+distintosBq/m 1200
+contaminantes que proceden del pro1000
+pio edificio y su
+uso, así como los provenientes
+800
+600
+del terreno como el radón (Figura 7). La apertura
+400
+puntual de ventanas,
+por tanto, ayuda a eliminar
+200
+el radón en ese 0período de tiempo pero, por regla
+general, no es suficiente para mantener una concentración de radón adecuada a lo largo del día
+
+Sin embargo, es importante señalar que en casos de niveles de radón altos es probable que
+sea necesario un caudal de ventilación superior
+al mínimo derivado del cumplimiento de la reglamentación vigente. Este elevado caudal de ventilación podría llevar aparejado los inconvenientes
+mencionados en el apartado 2.
+
+1/8/16 0:12
+1/8/16 15:42
+2/8/16 7:12
+2/8/16 22:42
+3/8/16 14:12
+4/8/16 5:42
+4/8/16 21:12
+5/8/16 12:42
+6/8/16 4:12
+6/8/16 19:42
+7/8/16 11:12
+8/8/16 2:42
+8/8/16 18:12
+9/8/16 9:42
+10/8/16 1:12
+10/8/16 16:42
+11/8/16 8:12
+11/8/16 23:42
+12/8/16 15:12
+13/8/16 6:42
+13/8/16 22:12
+14/8/16 13:42
+15/8/16 5:12
+15/8/16 20:42
+16/8/16 12:12
+17/8/16 3:42
+17/8/16 19:12
+18/8/16 10:42
+19/8/16 2:12
+19/8/16 17:42
+20/8/16 9:12
+21/8/16 0:42
+21/8/16 16:12
+22/8/16 7:42
+22/8/16 23:12
+23/8/16 14:42
+24/8/16 6:12
+24/8/16 21:42
+25/8/16 13:12
+26/8/16 4:42
+26/8/16 20:12
+27/8/16 11:42
+28/8/16 3:12
+28/8/16 18:42
+29/8/16 10:12
+30/8/16 1:42
+30/8/16 17:12
+31/8/16 8:42
+1/9/16 0:12
+
+3
+
+Ventana permanentemente abierta
+
+Eliminación de los shunts
+970
+965
+960
+955
+950
+945 mBar
+940
+935
+930
+925
+920
+
+La eliminación o bloqueo de un tramo de shunt
+colectivo en una vivienda es una acción muy grave que supone, por un lado la supresión de la
+ventilación de las viviendas inferiores (Figura 8) y
+por otro, una disminución de la ventilación de las
+viviendas superiores, produciendo un detrimento
+de su calidad del aire y un aumento de su concentración de radón.
+
+1/12/16 0:12
+1/12/16 15:42
+2/12/16 7:12
+2/12/16 22:42
+3/12/16 14:12
+4/12/16 5:42
+4/12/16 21:12
+5/12/16 12:42
+6/12/16 4:12
+6/12/16 19:42
+7/12/16 11:12
+8/12/16 2:42
+8/12/16 18:12
+9/12/16 9:42
+10/12/16 1:12
+10/12/16 16:42
+11/12/16 8:12
+11/12/16 23:42
+12/12/16 15:12
+13/12/16 6:42
+13/12/16 22:12
+14/12/16 13:42
+15/12/16 5:12
+15/12/16 20:42
+16/12/16 12:12
+17/12/16 3:42
+17/12/16 19:12
+18/12/16 10:42
+19/12/16 2:12
+19/12/16 17:42
+20/12/16 9:12
+21/12/16 0:42
+21/12/16 16:12
+22/12/16 7:42
+22/12/16 23:12
+23/12/16 14:42
+24/12/16 6:12
+24/12/16 21:42
+25/12/16 13:12
+26/12/16 4:42
+26/12/16 20:12
+27/12/16 11:42
+28/12/16 3:12
+28/12/16 18:42
+29/12/16 10:12
+30/12/16 1:42
+30/12/16 17:12
+31/12/16 8:42
+1/1/17 0:12
+
+3
+
+Radón
+
+1000
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+1/8/16 0:12
+1/8/16 3:42
+1/8/16 7:12
+1/8/16 10:42
+1/8/16 14:12
+1/8/16 17:42
+1/8/16 21:12
+2/8/16 0:42
+2/8/16 4:12
+2/8/16 7:42
+2/8/16 11:12
+2/8/16 14:42
+2/8/16 18:12
+2/8/16 21:42
+3/8/16 1:12
+3/8/16 4:42
+3/8/16 8:12
+3/8/16 11:42
+3/8/16 15:12
+3/8/16 18:42
+3/8/16 22:12
+4/8/16 1:42
+4/8/16 5:12
+4/8/16 8:42
+4/8/16 12:12
+4/8/16 15:42
+4/8/16 19:12
+4/8/16 22:42
+5/8/16 2:12
+5/8/16 5:42
+5/8/16 9:12
+5/8/16 12:42
+5/8/16 16:12
+5/8/16 19:42
+5/8/16 23:12
+6/8/16 2:42
+6/8/16 6:12
+6/8/16 9:42
+6/8/16 13:12
+6/8/16 16:42
+6/8/16 20:12
+6/8/16 23:42
+7/8/16 3:12
+7/8/16 6:42
+7/8/16 10:12
+7/8/16 13:42
+7/8/16 17:12
+7/8/16 20:42
+
+Bq/m3
+
+Presión
+
+Radón
+Figura 7 - Acumulación de radón a lo largo de una semana en una vivienda con ventilación puntual el primer día
+
+C1
+
+5
+5
+
+Solución C1 • Ventilación de los locales habitables
+
+extractor
+shunt colectivo
+
+1
+2
+
+1
+
+2
+
+2
+
+1
+
+2
+
+Figura 8 - Shunt colectivo interrumpido (arriba) y continuo (abajo)
+
+C1
+
+6
+6
+
+Solución C1 • Ventilación de los locales habitables
+
+Este documento ha sido elaborado por el Instituto de ciencias
+de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+de la Dirección General de Agenda Urbana y Arquitectura del
+Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+Esta ficha forma parte de una serie de documentos englobados
+en una misma publicación, cuyo objetivo es constituir una herramienta de ayuda para el diseño de soluciones de protección
+frente al radón:
+■
+
+Guía de rehabilitación frente al radón
+
+Fichas de soluciones:
+A: De aislamiento del edificio
+■
+■
+■
+■
+■
+
+Solución A1. Barrera frente al radón
+Solución A1-1. Barrera frente al radón. Encuentros
+Solución A2. Sellado de fisuras, grietas, encuentros y juntas
+Solución A3. Puertas estancas
+Solución A4. Creación de sobrepresión
+
+B: De reducción del radón antes de que penetre en los locales
+a proteger
+■
+■
+■
+
+Solución B1. Ventilación del espacio de contención: cámara de aire
+Solución B2. Ventilación del espacio de contención: locales no habitables
+Solución B3. Despresurización del terreno
+
+C: De reducción del radón tras penetrar en los locales a proteger
+■
+
+Solución C1. Ventilación de los locales habitables
+
+El IETcc, perteneciente al Consejo Superior de Investigaciones
+Científicas (CSIC), es el centro de investigación en edificación
+de referencia en España. La Unidad de Calidad en la Construcción del IETcc asesora al MITMA en la elaboración del Código
+Técnico de la Edificación que, desde el año 2019, cuenta con la
+sección HS6 Protección frente a la exposición al radón.
+Dirección y Coordinación:
+Ministerio de Transportes, Movilidad y Agenda Urbana
+Isabel Marcos Anasagasti
+Raquel Lara Campos
+Eduardo González de Prado
+Instituto de ciencias de la construcción Eduardo Torroja CSIC
+Pilar Linares Alemparte
+Autoras:
+Sonia García Ortega
+Pilar Linares Alemparte
+Colaboradoras:
+Virginia Sánchez Ramos
+Karina Angélica García Pardo
+Edita:
+Centro de Publicaciones Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda Urbana©
+Entidad colaboradora:
+Consejo Superior de Investigaciones Científicas · CSIC
+Ministerio de Ciencia e Innovación
+Catálogo de publicaciones de la Administración General
+
+del Estado: publicacionesoficiales.boe.es
+Centro virtual de publicaciones del Ministerio de Transpor
+tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+
+Fichas de ejemplos:
+■
+■
+■
+■
+
+Ejemplo A1+B3. Barrera frente al radón + despresurización
+con red de tubos
+Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B3. Sellado + despresurización con red de tubos
+Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+
+Página web del Código Técnico de la Edificación:
+www.codigotecnico.org
+
+ 
+
+Maquetación y diseño gráfico:
+Lapizmente. Estrategia • Diseño Gráfico
+
+Publicación completa:
+ISBN: 978-84-498-1045-9
+NIPO: 796-20-136-5
+
+Los contenidos o ideas recogidas en este documento pertenecen a
+sus autores. Este documento está basado en el conocimiento disponible en el momento de su publicación. No se aceptará por las instituciones ni los autores implicados responsabilidad de ningún tipo por el
+uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+y no deben interpretarse como detalles constructivos.
+
+1ª edición: septiembre 2020
+Edición actual: septiembre 2020
+
+Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
+
+C1
+
+7
+7
+
+

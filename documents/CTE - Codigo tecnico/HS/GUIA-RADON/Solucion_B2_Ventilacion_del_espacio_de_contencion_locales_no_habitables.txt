@@ -1,0 +1,417 @@
+SOLUCIÓN
+
+VENTILACIÓN DEL ESPACIO DE
+CONTENCIÓN: LOCALES NO HABITABLES
+
+B2
+4
+
+Efectividad con concentración
+mayor de 600 Bq/m3
+
+5
+
+Efectividad con concentración
+menor de 600 Bq/m3
+
+1. FINALIDAD
+La ventilación de locales no habitables empleados
+como espacios de contención tiene como finalidad
+reducir la concentración de radón a la que los cerramientos de los locales habitables se encuentran expuestos. Se basa en favorecer mediante ventilación la
+expulsión del aire con alta concentración de radón de
+los locales no habitables y que no tienda a penetrar
+en los locales habitables.
+
+El espacio de contención es un espacio situado entre
+el terreno y los locales a proteger que recibe el radón
+proveniente del terreno y que, mediante ventilación
+natural o mecánica, lo expulsa al exterior del edificio
+mitigando el paso de radón al interior de los locales
+habitables. Puede actuar como espacio de contención
+un local no habitable o una cámara de aire.
+
+Los locales no habitables son los espacios del edificio en
+donde no hay permanencia habitual de personas como,
+por ejemplo, los aparcamientos o los trasteros.
+
+En esta Solución B2 únicamente se trata la ventilación
+de locales no habitables. La ventilación de las cámaras de aire utilizadas como espacio de contención se
+trata en la Solución B1.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará generalmente cuando el
+edificio ya disponga de un local no habitable que pueda
+
+Dificultad(1)
+
+1
+
+Coste(1)
+
+1
+
+actuar como espacio de contención, por ejemplo,
+un garaje o una zona de almacenaje en plantas inferiores, y cuando las condiciones de ventilación de
+este local no sean adecuadas a la reglamentación
+de aplicación correspondiente: Código Técnico de la
+Edificación (CTE, sección DB HS3) o Reglamento de
+Instalaciones Térmicas de los Edificios (RITE). El problema más habitual es que los caudales de ventilación sean insuficientes, aunque también pueden darse otros como, por ejemplo, la presencia de zonas de
+aire estancado.
+
+El Código Técnico de la Edificación (CTE) en la
+sección DB HS3 Calidad del aire interior establece las
+características básicas de ventilación para obtener una
+adecuada calidad del aire en el interior de las viviendas,
+los almacenes de residuos y los trasteros (en edificios de
+viviendas) y los aparcamientos y garajes. Por su parte, el
+Reglamento de Instalaciones Térmicas de los Edificios
+(RITE) hace lo propio para otros tipos de edificios.
+
+Cuando los caudales de ventilación existentes se
+adecúen a la reglamentación será necesario realizar
+un estudio específico para determinar la viabilidad de
+esta solución. Un aumento de caudales de ventilación
+podría conllevar un incremento de las pérdidas energéticas de los locales habitables colindantes (y una
+reducción de la eficiencia energética); así como llevar
+aparejado, dependiendo del sistema de ventilación
+empleado, depresiones que fomenten la entrada de
+radón.
+
+3. EFECTIVIDAD
+La ventilación de locales no habitables que actúan
+como espacio de contención es una de las soluciones
+(1) Se ha considerado un edificio en el que se mejora la ventilación natural
+en el local no habitable
+
+Solución B2 • Ventilación del espacio de contención: locales no habitables
+
+más efectivas. No obstante, para que esta efectividad sea óptima, se recomienda su empleo junto con
+otras soluciones como la barrera de protección frente
+al radón (Solución A1 y Solución A1.1) o el sellado de
+fisuras, grietas, encuentros y juntas (Solución A2), especialmente para concentraciones de radón medidas
+en los locales habitables superiores a 600 Bq/m3.
+
+b) Ventilación mecánica
+Cuando se refuerce la ventilación de forma mecánica
+para mejorar su efectividad, podrá mecanizarse solo
+la extracción o la extracción y la impulsión (Figura 2).
+
+Su efectividad podrá verse afectada si existen elementos de paso que conecten estos locales no habitables con locales habitables, como puedan ser
+puertas de sótano o de garajes. En este caso será necesario que las puertas sean poco permeables al aire
+según lo detallado en la Solución A3.
+Para comprobar si la efectividad de la solución es
+adecuada, se medirá la concentración de radón alcanzada dentro de los locales habitables tras la intervención.
+
+4. DIFICULTAD DE INSTALACIÓN
+La mejora de la ventilación es una solución sencilla
+que no requiere un grado de especialización alto,
+aunque sí lo requerirá en el caso de la instalación de
+un nuevo sistema de ventilación.
+
+5. CÓMO SE CONSIGUE
+Esta solución consistirá en ventilar adecuadamente
+los locales no habitables.
+La ventilación podrá mejorarse de distintas formas
+como, por ejemplo, incrementando los caudales u
+optimizando la distribución de las aberturas de ventilación para evitar zonas de estancamiento de aire.
+La ventilación del local se podrá realizar de forma natural o mecánica, con los condicionantes que se recogen a continuación.
+
+a) Ventilación natural
+Cuando el local esté situado por encima de la cota
+exterior (en planta baja o semisótano), podrá mejorarse la ventilación disponiendo rejillas, aireadores en las
+ventanas o en las fachadas, o sustituyendo las ventanas existentes por otras con aireador o con un sistema
+de apertura que permita la microventilación (Figura 1).
+
+Figura 1 - Ventana con aireador (arriba) y ventana oscilobatiente en
+posición de microventilación (abajo)
+
+Es recomendable que el extractor se disponga en el
+exterior del edificio (Figura 2) para, por un lado, limitar
+el riesgo de entrada de radón en el interior del edificio
+en caso de fugas y por otro, proteger a los usuarios
+del ruido. En el caso de que se coloque el extractor
+en el interior del edificio (Figura 3), es preferible que
+se ubique en un espacio no habitable (por ejemplo,
+el propio local no habitable) y próximo al exterior, de
+forma que la longitud del conducto desde el extractor
+hasta el exterior sea lo más corta posible.
+Cuando se disponga un conducto de extracción que
+lleve el aire desde el local hasta el exterior, el conducto podrá discurrir por el interior del edificio o por
+el exterior (Figura 2), siendo esta última disposición la
+más recomendable para evitar la entrada de radón en
+el interior del edificio en caso de fugas en el propio
+conducto o en el encuentro con el forjado.
+
+B2
+
+2
+2
+
+Solución B2 • Ventilación del espacio de contención: locales no habitables
+
+Si fuese inevitable atravesar el forjado con algún conducto, los encuentros con los conductos se tratarán
+como se indica en la Solución A2 o en la Solución
+A1.1, según corresponda.
+conducto de admisión
+conducto de extracción
+extractor
+
+1
+2
+3
+
+Podrá ser necesario disponer una derivación o un bypass en el conducto de extracción (Figura 4) que permita
+evacuar el agua de condensación y filtración protegiendo
+el extractor de posibles averías.
+
+La expulsión de aire se situará en la cubierta del edificio, aunque podrá emplazarse en la fachada siempre
+y cuando se respete una distancia de al menos 3 m a
+las entradas de aire, puertas, ventanas y zonas donde
+pueda haber personas de forma habitual, como terrazas y balcones.
+
+3
+2
+
+1
+
+1
+2
+
+1
+
+extractor
+by-pass
+
+2
+
+3
+2
+
+1
+
+Figura 2 - Mecanización solo de la extracción (arriba) y de admisión y
+extracción (abajo). Conducto de extracción por el interior del
+edificio (arriba) y por el exterior (abajo). Conducto de admisión
+que atraviesa (arriba) y que no atraviesa el forjado (abajo)
+
+1
+2
+
+conducto de extracción
+extractor
+
+Figura 4 - By-pass del extractor en el conducto de extracción. Ejemplo de
+admisión natural por fachada y extracción mecánica.
+
+Los extractores situados en el exterior del edificio serán
+resistentes a la intemperie o se protegerán con algún
+elemento adicional.
+
+Podría emplearse un medidor de radón electrónico
+conectado al extractor, de forma que lo active cuando
+las concentraciones de radón superen un nivel determinado, evitando así su funcionamiento continuo y
+prolongando su vida útil.
+
+6. PUNTOS CRÍTICOS
+Reducción del caudal de ventilación
+1
+2
+
+Figura 3 - Extractor en local no habitable
+
+En el caso de que el caudal de ventilación se reduzca,
+la efectividad de la solución podría quedar mermada. La
+reducción puede producirse, por ejemplo, porque los
+ocupantes de los edificios cierren las aberturas de ventilación. Para evitarlo se informará a los ocupantes de que
+las aberturas de ventilación tendrán que permanecer
+abiertas para un buen funcionamiento de la solución.
+
+B2
+
+3
+3
+
+Solución B2 • Ventilación del espacio de contención: locales no habitables
+
+Escasa admisión en ventilación mecánica
+En el caso de ventilación mecánica podría producirse una depresión que favorezca la entrada de radón
+desde el terreno a los locales o una sobrepresión que
+facilite el flujo de aire desde el local no habitable hacia
+el local habitable. Para evitar estos efectos:
+■
+
+será preferible que la ventilación sea de doble flujo
+(mecanizando la extracción y la impulsión de aire)
+y equilibrada, de forma que ambos caudales estén
+compensados;
+
+■
+
+cuando sólo se mecanice la extracción, las aberturas de admisión de aire serán suficientemente generosas para favorecer la entrada de aire a través
+de ellas.
+
+7. COSTE
+El coste puede variar dependiendo del tipo de intervención y de la situación existente. Las intervenciones, de menor a mayor coste asociado, pueden ser:
+■
+
+ventilación natural del local no habitable;
+
+■
+
+disposición de un sistema de extracción;
+
+■
+
+instalación de un sistema de ventilación mecánico
+de doble flujo.
+
+El coste que se ha tenido en cuenta en la gráfica al
+comienzo de esta ficha es el correspondiente a un
+edificio en el que se mejora la ventilación natural en el
+local no habitable.
+
+OBSERVACIONES
+Zonas climáticas frías
+Cuando se incremente la ventilación de locales
+no habitables en zonas climáticas frías, será recomendable realizar un estudio específico del aislamiento térmico del cerramiento que separa el
+local no habitable y el local habitable colindante,
+para evitar pérdidas energéticas que aumenten
+el coste de climatización y reduzcan la eficiencia
+energética del edificio.
+
+B2
+
+4
+4
+
+Solución B2 • Ventilación del espacio de contención: locales no habitables
+
+Este documento ha sido elaborado por el Instituto de ciencias
+de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+de la Dirección General de Agenda Urbana y Arquitectura del
+Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+Esta ficha forma parte de una serie de documentos englobados
+en una misma publicación, cuyo objetivo es constituir una herramienta de ayuda para el diseño de soluciones de protección
+frente al radón:
+■
+
+Guía de rehabilitación frente al radón
+
+Fichas de soluciones:
+A: De aislamiento del edificio
+■
+■
+■
+■
+■
+
+Solución A1. Barrera frente al radón
+Solución A1-1. Barrera frente al radón. Encuentros
+Solución A2. Sellado de fisuras, grietas, encuentros y juntas
+Solución A3. Puertas estancas
+Solución A4. Creación de sobrepresión
+
+B: De reducción del radón antes de que penetre en los locales
+a proteger
+■
+■
+■
+
+Solución B1. Ventilación del espacio de contención: cámara de aire
+Solución B2. Ventilación del espacio de contención: locales no habitables
+Solución B3. Despresurización del terreno
+
+C: De reducción del radón tras penetrar en los locales a proteger
+■
+
+Solución C1. Ventilación de los locales habitables
+
+El IETcc, perteneciente al Consejo Superior de Investigaciones
+Científicas (CSIC), es el centro de investigación en edificación
+de referencia en España. La Unidad de Calidad en la Construcción del IETcc asesora al MITMA en la elaboración del Código
+Técnico de la Edificación que, desde el año 2019, cuenta con la
+sección HS6 Protección frente a la exposición al radón.
+Dirección y Coordinación:
+Ministerio de Transportes, Movilidad y Agenda Urbana
+Isabel Marcos Anasagasti
+Raquel Lara Campos
+Eduardo González de Prado
+Instituto de ciencias de la construcción Eduardo Torroja CSIC
+Pilar Linares Alemparte
+Autoras:
+Sonia García Ortega
+Pilar Linares Alemparte
+Colaboradoras:
+Virginia Sánchez Ramos
+Karina Angélica García Pardo
+Edita:
+Centro de Publicaciones Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda Urbana©
+Entidad colaboradora:
+Consejo Superior de Investigaciones Científicas · CSIC
+Ministerio de Ciencia e Innovación
+Catálogo de publicaciones de la Administración General
+
+del Estado: publicacionesoficiales.boe.es
+Centro virtual de publicaciones del Ministerio de Transpor
+tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+
+Fichas de ejemplos:
+■
+■
+■
+■
+
+Ejemplo A1+B3. Barrera frente al radón + despresurización
+con red de tubos
+Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B3. Sellado + despresurización con red de tubos
+Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+
+Página web del Código Técnico de la Edificación:
+www.codigotecnico.org
+
+ 
+
+Maquetación y diseño gráfico:
+Lapizmente. Estrategia • Diseño Gráfico
+
+Publicación completa:
+ISBN: 978-84-498-1045-9
+NIPO: 796-20-136-5
+
+Los contenidos o ideas recogidas en este documento pertenecen a
+sus autores. Este documento está basado en el conocimiento disponible en el momento de su publicación. No se aceptará por las instituciones ni los autores implicados responsabilidad de ningún tipo por el
+uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+y no deben interpretarse como detalles constructivos.
+
+1ª edición: septiembre 2020
+Edición actual: septiembre 2020
+
+Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
+
+B2
+
+5
+5
+
+

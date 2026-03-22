@@ -1,0 +1,246 @@
+SOLUCIÓN
+
+A4
+
+CREACIÓN DE SOBREPRESIÓN
+
+Efectividad con concentración
+mayor de 600 Bq/m3
+Efectividad con concentración
+menor de 600 Bq/m3
+
+1
+3
+5
+
+Dificultad
+Coste
+
+1. FINALIDAD
+La creación de sobrepresión en el interior del local a
+proteger tiene como finalidad limitar la entrada de radón desde su exterior. En circunstancias normales, el
+radón penetra a través de los cerramientos en gran
+medida gracias a la diferencia de presión que se establece entre el gas en el terreno y en el interior del
+edificio. La sobrepresión provocará que el movimiento del aire se invierta y se produzca desde dentro del
+local habitable hacia el exterior, protegiéndolo de la
+entrada de radón.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se podrá emplear para proteger pequeños locales habitables situados en grandes áreas que
+no estén protegidas como, por ejemplo, cabinas de
+vigilancia en garajes (Figura 1).
+
+3
+
+Cuando el uso del local implique frecuentes aperturas de puertas o ventanas, será necesario realizar un
+estudio específico para determinar la viabilidad de
+esta solución pues no se podría asegurar la sobrepresión en estas condiciones.
+
+3. EFECTIVIDAD
+La creación de sobrepresión en el interior del local a
+proteger puede ser efectiva cuando la concentración
+de radón medida en su interior es inferior a 600 Bq/m3.
+Se recomienda su empleo junto con otras soluciones
+como la barrera de protección frente al radón (Solución A1 y Solución A1.1) o el sellado de fisuras, grietas,
+encuentros y juntas (Solución A2).
+
+La efectividad de esta solución depende en gran medida
+de la estanqueidad del cerramiento del local a proteger.
+Para que su efectividad sea la óptima, la estanqueidad
+del cerramiento tiene que ser alta.
+
+Su efectividad podrá verse afectada si existen elementos como puertas o ventanas, que conecten los
+locales protegidos con sobrepresión con áreas no
+protegidas. En este caso será necesario que los elementos sean poco permeables al aire según lo detallado en la Solución A3.
+
+Figura 1 - Cabina de vigilancia en garaje
+
+Para comprobar si la efectividad de la solución es
+adecuada, se recomienda medir la concentración de
+radón alcanzada dentro del local habitable tras la intervención.
+
+Solución A4 • Creación de sobrepresión
+
+4. DIFICULTAD DE INSTALACIÓN
+Es una solución que requiere un grado de especialización alto puesto que la garantía de su efectividad
+depende de un adecuado diseño y dimensionado.
+
+5. CÓMO SE CONSIGUE
+Para crear sobrepresión dentro de un local se introducirá aire en su interior mediante un sistema de
+ventilación mecánica de impulsión, o de impulsión y
+extracción desequilibrado (con mayor impulsión que
+extracción), que consiga elevar la presión en su interior por encima de la presión en el exterior del local
+(Figura 2). El aire a impulsar se tomará del exterior del
+edificio.
+
+7. COSTE
+El coste depende en gran medida de la estanqueidad
+existente en el local y del sistema de ventilación disponible. El caso más costoso correspondería a la instalación de un sistema de ventilación completamente
+nuevo con impulsión y extracción mecánica.
+El coste que se ha tenido en cuenta en la gráfica al
+comienzo de esta ficha es el correspondiente a la instalación de un sistema de ventilación basado en impulsión mecánica.
+
+OBSERVACIONES
+Sobrepresión mínima
+La diferencia de presión a conseguir entre el interior del local protegido y su exterior dependerá
+del caso concreto, pudiéndose emplear como
+referencia inicial 5 Pa.
+
+Riesgo de condensaciones
+intersticiales
+
+Figura 2 - Sistema de sobrepresión
+
+Para lograr esta sobrepresión el local a proteger debe
+presentar una baja permeabilidad al aire.
+
+6. PUNTOS CRÍTICOS
+Falta de estanqueidad del cerramiento
+En el caso de que el cerramiento entre el local a proteger y el resto de áreas no protegidas no sea lo suficientemente estanco, podría producirse una fuga
+importante de aire desde el interior al exterior con las
+consiguientes pérdida de presión y disminución drástica de la efectividad del sistema. Para evitarlo será
+indispensable realizar un cuidado sellado de los cerramientos.
+
+El empleo de sobrepresión en viviendas no está
+recomendado a priori puesto que existe riesgo
+de condensaciones intersticiales especialmente
+en épocas frías, debido a que el aire más caliente
+y con más humedad absoluta del interior de la
+vivienda es empujado hacia el exterior.
+
+A4
+
+2
+2
+
+Solución A4 • Creación de sobrepresión
+
+Este documento ha sido elaborado por el Instituto de ciencias
+de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+de la Dirección General de Agenda Urbana y Arquitectura del
+Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+Esta ficha forma parte de una serie de documentos englobados
+en una misma publicación, cuyo objetivo es constituir una herramienta de ayuda para el diseño de soluciones de protección
+frente al radón:
+■
+
+Guía de rehabilitación frente al radón
+
+Fichas de soluciones:
+A: De aislamiento del edificio
+■
+■
+■
+■
+■
+
+Solución A1. Barrera frente al radón
+Solución A1-1. Barrera frente al radón. Encuentros
+Solución A2. Sellado de fisuras, grietas, encuentros y juntas
+Solución A3. Puertas estancas
+Solución A4. Creación de sobrepresión
+
+B: De reducción del radón antes de que penetre en los locales
+a proteger
+■
+■
+■
+
+Solución B1. Ventilación del espacio de contención: cámara de aire
+Solución B2. Ventilación del espacio de contención: locales no habitables
+Solución B3. Despresurización del terreno
+
+C: De reducción del radón tras penetrar en los locales a proteger
+■
+
+Solución C1. Ventilación de los locales habitables
+
+El IETcc, perteneciente al Consejo Superior de Investigaciones
+Científicas (CSIC), es el centro de investigación en edificación
+de referencia en España. La Unidad de Calidad en la Construcción del IETcc asesora al MITMA en la elaboración del Código
+Técnico de la Edificación que, desde el año 2019, cuenta con la
+sección HS6 Protección frente a la exposición al radón.
+Dirección y Coordinación:
+Ministerio de Transportes, Movilidad y Agenda Urbana
+Isabel Marcos Anasagasti
+Raquel Lara Campos
+Eduardo González de Prado
+Instituto de ciencias de la construcción Eduardo Torroja CSIC
+Pilar Linares Alemparte
+Autoras:
+Sonia García Ortega
+Pilar Linares Alemparte
+Colaboradoras:
+Virginia Sánchez Ramos
+Karina Angélica García Pardo
+Edita:
+Centro de Publicaciones Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda Urbana©
+Entidad colaboradora:
+Consejo Superior de Investigaciones Científicas · CSIC
+Ministerio de Ciencia e Innovación
+Catálogo de publicaciones de la Administración General
+
+del Estado: publicacionesoficiales.boe.es
+Centro virtual de publicaciones del Ministerio de Transpor
+tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+
+Fichas de ejemplos:
+■
+■
+■
+■
+
+Ejemplo A1+B3. Barrera frente al radón + despresurización
+con red de tubos
+Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B3. Sellado + despresurización con red de tubos
+Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+
+Página web del Código Técnico de la Edificación:
+www.codigotecnico.org
+
+ 
+
+Maquetación y diseño gráfico:
+Lapizmente. Estrategia • Diseño Gráfico
+
+Publicación completa:
+ISBN: 978-84-498-1045-9
+NIPO: 796-20-136-5
+
+Los contenidos o ideas recogidas en este documento pertenecen a
+sus autores. Este documento está basado en el conocimiento disponible en el momento de su publicación. No se aceptará por las instituciones ni los autores implicados responsabilidad de ningún tipo por el
+uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+y no deben interpretarse como detalles constructivos.
+
+1ª edición: septiembre 2020
+Edición actual: septiembre 2020
+
+Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
+
+A4
+
+3
+3
+
+

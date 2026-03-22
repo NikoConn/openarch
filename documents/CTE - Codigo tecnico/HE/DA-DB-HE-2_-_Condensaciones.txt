@@ -1,0 +1,2378 @@
+Ministerio de Fomento
+Secretaría de Estado de Infraestructuras, Transporte y Vivienda
+Dirección General de Arquitectura, Vivienda y Suelo
+
+Documento de Apoyo al Documento Básico
+DB-HE Ahorro de energía
+Código Técnico de la Edificación
+
+DA DB-HE / 2
+Comprobación de limitación de condensaciones
+superficiales e intersticiales en los cerramientos
+Octubre 2013
+
+Índice
+1
+
+Objeto
+
+2
+
+2
+
+Datos previos
+2.1 Condiciones exteriores para el cálculo de condensaciones
+2.2 Condiciones interiores para el cálculo de condensaciones
+
+2
+2
+2
+
+3
+
+Relaciones psicrométricas
+3.1 Cálculo de la presión de saturación de vapor
+3.2 Cálculo de la humedad relativa interior
+
+3
+3
+3
+
+4
+
+Comprobación de la limitación de condensaciones
+4.1 Comprobación de la limitación de condensaciones superficiales
+4.2 Comprobación de la limitación de condensaciones intersticiales
+
+4
+4
+6
+
+Apéndice A Terminología
+
+10
+
+Apéndice B Notaciones y unidades
+
+11
+
+Apéndice C Datos climáticos
+
+12
+
+Otros documentos relacionados
+
+14
+
+1 de 14
+
+Documento de Apoyo al DB HE
+
+DA DB HE / 2
+
+1 Objeto
+Este documento describe algunos procedimientos que se pueden emplear para la comprobación de la
+limitación de condensaciones superficiales e intersticiales en espacios habitables establecida en los Documentos Básicos DB-HE y DB-HS del CTE, lo que no impide el uso de otros métodos, detallados o simplificados, que permitan llevar a cabo dichas comprobaciones con suficiente solvencia técnica.
+
+2 Datos previos
+2.1
+
+Condiciones exteriores para el cálculo de condensaciones
+
+Para el cálculo de condensaciones se toman como temperaturas exteriores y humedades relativas exteriores los valores medios mensuales de la localidad donde se ubique el edificio.
+En el caso de capitales de provincia, se pueden tomar los valores contenidos en la tabla C.1 del apéndice C.
+En el caso de localidades que no sean capitales de provincia y que no dispongan de registros climáticos
+contrastados, se puede suponer que la temperatura exterior es igual a la de la capital de provincia correspondiente minorada en 1 ºC por cada 100 m de diferencia de altura entre ambas localidades. La humedad relativa para dichas localidades se calcula suponiendo que su humedad absoluta es igual a la de
+su capital de provincia.
+El procedimiento a seguir para obtener la humedad relativa de una cierta localidad a partir de los datos
+de su capital de provincia es el siguiente:
+a) cálculo de la presión de saturación de la capital de provincia Psat en [Pa], a partir de su temperatura exterior para el mes de cálculo en [ºC], según el apartado 3.1.
+b) cálculo de la presión de vapor de la capital de provincia Pe en [Pa], mediante la expresión:
+Pe = φe · Psat (θe)
+
+[1]
+
+donde,
+φe
+
+es la humedad relativa exterior para la capital de provincia y el mes de cálculo [en tanto
+por 1].
+c) cálculo de la presión de saturación de la localidad Psat,loc en [Pa], según el apartado 3.1, siendo
+ahora θ la temperatura exterior para la localidad y el mes de cálculo en [ºC].
+d) cálculo de la humedad relativa para dicha localidad y mes, mediante:
+φe,loc = Pe / Psat,loc (θe,loc)
+[2]
+Si la localidad se encuentra a menor altura que la de referencia se toma para dicha localidad la temperatura y humedad de la capital de provincia.
+
+2.2
+
+Condiciones interiores para el cálculo de condensaciones
+
+2.2.1
+
+Condiciones interiores para el cálculo de condensaciones superficiales
+
+Se toma una temperatura del ambiente interior igual a 20 ºC para el mes de enero.
+Si se dispone del dato de humedad relativa interior y esta se mantiene constante, debido por ejemplo a
+un sistema de climatización, se puede utilizar dicho dato en el cálculo añadiéndole 0,05 como margen de
+seguridad.
+En caso de conocer el ritmo de producción de la humedad interior y la tasa de renovación de aire, se
+puede calcular la humedad relativa interior del mes de enero mediante el método descrito en el apartado
+3.2.
+
+2 de 14
+
+Documento de Apoyo al DB HE
+
+2.2.2
+
+DA DB HE / 2
+
+Condiciones interiores para el cálculo de condensaciones intersticiales
+
+Si se dispone de los datos de temperatura interior y de humedad relativa interior, se pueden utilizar dichos datos en el cálculo añadiéndole 0,05 a la humedad relativa como margen de seguridad.
+Debe cuidarse el uso de datos de temperatura y humedad relativa interior que se correspondan adecuadamente con las condiciones existentes ya que en caso contrario los cálculos pueden dar lugar a resultados incorrectos. Por ejemplo, para una vivienda en zona marítima la humedad relativa interior puede ser muy superior al 55% indicado y producirse condensaciones con gran facilidad que no se detectarían de usar el valor
+por defecto.
+
+En caso de conocer el ritmo de producción de la humedad interior y la tasa de renovación de aire, se
+puede calcular la humedad relativa interior para cada mes del año mediante el método descrito en el
+apartado 3.2.
+En ausencia de datos más precisos, se puede tomar, para todos los meses del año, una temperatura del
+ambiente interior igual a 20 ºC y una humedad relativa del ambiente interior en función de la clase de
+higrometría del espacio:
+a) clase de higrometría 5, correspondiente a espacios en los que se prevea una gran producción de
+humedad, tales como lavanderías, restaurantes y piscinas: 70%
+b) clase de higrometría 4, correspondiente a espacios en los que se prevea una alta producción de
+humedad, tales como cocinas, pabellones deportivos, duchas colectivas u otros de uso similar:
+62%
+c) clase de higrometría 3 o inferior, correspondiente a espacios en los que no se prevea una alta
+producción de humedad, como oficinas, tiendas, zonas de almacenamiento y todos los espacios
+en edificios de uso residencial: 55%
+
+3 Relaciones psicrométricas
+3.1
+
+Cálculo de la presión de saturación de vapor
+
+La presión de vapor de saturación se calcula en función de la temperatura, a partir de las siguientes
+ecuaciones:
+a) Si la temperatura (θ) es mayor o igual a 0ºC:
+
+Psat
+
+17 ,269 ⋅ θ
+= 610,5 ⋅ e 237,3 + θ
+
+[3]
+
+b) Si la temperatura (θ) es menor que 0ºC:
+
+Psat
+
+3.2
+
+21 ,875 ⋅ θ
+265,5
++θ
+= 610,5 ⋅ e
+
+[4]
+
+Cálculo de la humedad relativa interior
+
+En caso de conocer el ritmo de producción de la humedad interior G y la tasa de renovación de aire n, se
+puede calcular la humedad relativa interior mediante el procedimiento descrito a continuación.
+La humedad relativa interior φi (%) para la localidad donde se ubique el edificio y el mes de cálculo se
+puede obtener mediante la siguiente expresión:
+
+φi =
+
+100 ⋅ Pi
+Psat (θ si )
+
+[5]
+
+donde,
+3 de 14
+
+Documento de Apoyo al DB HE
+
+Psat(θsi)
+
+DA DB HE / 2
+
+es la presión de saturación correspondiente a la temperatura superficial interior obtenida
+según la ecuación [3] [Pa];
+es la presión de vapor interior calculada mediante la siguiente expresión [Pa]:
+
+Pi
+
+[6]
+
+Pi = P e + ∆p
+donde,
+Pe
+∆p
+
+es la presión de vapor exterior calculada según las ecuaciones [3][4] [Pa];
+es el exceso de presión de vapor interior del local calculado mediante la siguiente ecuación [Pa]:
+
+∆p =
+
+∆v ⋅ R v ⋅ (T i + T e )
+2
+
+donde,
+Rv
+Ti
+Te
+∆v
+
+[7]
+
+3
+
+es la constante de gas para el agua = 462 [Pa m / (K kg)];
+es la temperatura interior [K];
+es la temperatura exterior para la localidad y el mes de cálculo [K];
+3
+es el exceso de humedad interior obtenido mediante la expresión [kg/m ]:
+
+∆v =
+
+G
+n ⋅V
+
+[8]
+
+donde,
+G
+n
+V
+
+es el ritmo de producción de la humedad interior [kg/h];
+-1
+es la tasa de renovación de aire [h ];
+3
+es el volumen de aire del local [m ].
+
+4 Comprobación de la limitación de condensaciones
+4.1
+
+Comprobación de la limitación de condensaciones superficiales
+
+4.1.1
+
+Método de comprobación de condensaciones superficiales
+
+El método del factor de temperaturas superficiales permite limitar el riesgo de aparición de condensaciones superficiales usando un criterio simplificado, que consiste en establecer un límite máximo del 80% de
+humedad relativa media mensual sobre la superficie del cerramiento analizado.
+La comprobación de la limitación de condensaciones superficiales se basa en la comparación del factor
+de temperatura de la superficie interior fRsi y el factor de temperatura de la superficie interior mínimo
+fRsi,min para las condiciones interiores y exteriores correspondientes al mes de enero de la localidad. A
+falta de mejores datos se pueden obtener de la tabla C.1 del apéndice C.
+En los cerramientos y puentes térmicos se comprueba que el factor de temperatura de la superficie interior es superior al factor de temperatura de la superficie interior mínimo. Este factor se puede obtener a
+partir de la tabla 1 en función de la clase de higrometría de cada espacio y la zona climática de invierno
+donde se encuentre el edificio.
+
+4 de 14
+
+Documento de Apoyo al DB HE
+
+DA DB HE / 2
+
+Tabla 1 Factor de temperatura de la superficie interior mínimo fRsi,min
+Zona climática de invierno
+Categoría del espacio
+
+α
+
+A
+
+B
+
+C
+
+D
+
+E
+
+Clase de higrometría 5
+
+0,70
+
+0,80
+
+0,80
+
+0,80
+
+0,90
+
+0,90
+
+Clase de higrometría 4
+
+0,56
+
+0,66
+
+0,66
+
+0,69
+
+0,75
+
+0,78
+
+Clase de higrometría 3 o inferior a 3
+
+0,42
+
+0,50
+
+0,52
+
+0,56
+
+0,61
+
+0,64
+
+El cumplimiento de los valores de transmitancia máxima de los parámetros característicos de la envolvente establecidos en el documento DB HE1 asegura, para los cerramientos y particiones interiores de
+los espacios de clase de higrometría 4 o inferior, la verificación de la condición anterior, pudiendo resultar
+necesario comprobarlo en los puentes térmicos.
+En caso de disponer de información suficiente, el factor de temperatura de la superficie interior mínimo
+puede calcularse mediante el método descrito en el apartado 4.1.3 bajo las condiciones interiores y exteriores correspondientes al mes de enero de la localidad.
+El cálculo del factor de temperatura superficial correspondiente a cada cerramiento o puente térmico se
+obtiene mediante el método descrito en el apartado 4.1.2.
+Por sus características, no es necesaria la comprobación de aquellas particiones interiores que linden
+con espacios no habitables donde se prevea escasa producción de vapor de agua, así como los cerramientos en contacto con el terreno.
+4.1.2
+
+Cálculo del factor de temperatura de la superficie interior de un cerramiento
+
+El factor de temperatura de la superficie interior fRsi, para cada cerramiento, partición interior, se calcula a
+partir de su transmitancia térmica mediante la siguiente ecuación:
+
+f Rsi = 1 − U ⋅ 0,25
+
+[9]
+
+donde,
+2
+
+U
+
+es la transmitancia térmica del cerramiento, partición interior en el cerramiento [W/m ·K].
+
+El factor de temperatura de la superficie interior fRsi para los puentes térmicos, para aplicar el método
+descrito en este documento, puede calcularse aplicando los métodos descritos en la norma UNE-EN ISO
+10211:2012 o en el Documento de Apoyo correspondiente.
+4.1.3
+
+Cálculo del factor de temperatura de la superficie interior mínimo
+
+El factor de temperatura de la superficie interior mínimo aceptable fRsi,min de un cerramiento o partición
+interior se puede calcular a partir de la siguiente expresión:
+
+f Rsi, mín =
+
+θ si , min − θ e
+
+[10]
+
+20 − θ e
+
+donde,
+θe
+
+es la temperatura exterior de la localidad en el mes de enero definida en el Apéndice C
+tabla C.1 [ºC];
+
+θsi,min
+
+es la temperatura superficial interior mínima aceptable obtenida de la siguiente expresión
+[ºC]:
+
+ Psat 
+237.3 ⋅ log e 
+
+610.5 
+
+θ si,mín =
+ Psat 
+17.269 − log e 
+
+ 610.5 
+
+[11]
+
+5 de 14
+
+Documento de Apoyo al DB HE
+
+DA DB HE / 2
+
+donde,
+Psat
+
+es la presión de saturación máxima aceptable en la superficie obtenida de la
+siguiente expresión [Pa]:
+
+Psat =
+
+Pi
+0.8
+
+[12]
+
+donde,
+Pi
+
+es la presión del vapor interior obtenida de la siguiente expresión [Pa].
+
+Pi = φ i ⋅ 2337
+
+[13]
+
+donde,
+φi
+
+es la humedad relativa interior definida en el apartado 2.1. [en tanto por 1].
+La presión interior que se obtiene de la fórmula 13 es para una temperatura de 20 ºC, para otras temperaturas de cálculo se pueden usar las siguientes presiones de vapor:
+21 ºC: Pi = Φi·2486
+22 ºC: Pi = Φi·2642
+23 ºC: Pi = Φi·2808
+24 ºC: Pi = Φi·2982
+25 ºC: Pi = Φi·3166
+
+4.2
+
+Comprobación de la limitación de condensaciones intersticiales
+
+Este método permite comprobar la existencia de riesgo de condensaciones intersticiales y, en su caso,
+cuantificarlas para poder determinar la cantidad acumulada a lo largo de un periodo anual.
+
+4.2.1
+
+Método de comprobación de condensaciones intersticiales
+
+El procedimiento descrito para la comprobación de la formación de condensaciones intersticiales se basa
+en la comparación entre la presión de vapor y la presión de vapor de saturación que existe en cada punto intermedio de un cerramiento formado por diferentes capas, para las condiciones interiores y exteriores correspondientes al mes de enero y especificadas en el Apéndice C, tabla C.1 de este documento.
+Para que no se produzcan condensaciones intersticiales se comprueba que la presión de vapor en la
+superficie de cada capa es inferior a la presión de vapor de saturación.
+Para cada cerramiento objeto se calcula:
+a) la distribución de temperaturas;
+b) la distribución de presiones de vapor de saturación para las temperaturas antes calculadas;
+c) la distribución de presiones de vapor.
+No es necesaria la comprobación aquellos cerramientos en contacto con el terreno y los cerramientos
+que dispongan de barrera contra el vapor de agua en la parte caliente del cerramiento. Para particiones
+interiores en contacto con espacios no habitables en los que se prevea gran producción de humedad, se
+debe colocar la barrera contra el vapor en el lado de dicho espacio no habitable.
+En caso de que se produzcan condensaciones intersticiales en una capa distinta a la de aislamiento, se
+aconseja evitar que la cantidad de agua condensada en cada periodo anual supere la cantidad de agua
+evaporada posible en el mismo periodo. Para ello, se puede repetir el procedimiento descrito anteriormente, pero para cada mes del año a partir de los datos climáticos del apartado Apéndice C, tabla C.1 y
+6 de 14
+
+Documento de Apoyo al DB HE
+
+DA DB HE / 2
+
+calculando en cada uno de ellos y para cada capa de material la cantidad de agua condensada o evaporada. Como criterio general y salvo justificación expresa, no es recomendable admitir la presencia de
+agua condensada en los materiales aislantes.
+
+4.2.2
+
+Distribución de temperaturas
+
+La distribución de temperaturas a lo largo del espesor de un cerramiento formado por varias capas depende de las temperaturas del aire a ambos lados de la misma, así como de las resistencias térmicas
+superficiales interior Rsi y exterior Rse, y de las resistencias térmicas de cada capa (R1, R2, R3, ..., Rn).
+El procedimiento a seguir para el cálculo de la distribución de temperaturas es el siguiente:
+a) cálculo de la resistencia térmica total del elemento;
+b) cálculo de la temperatura superficial exterior θse:
+
+R se
+⋅ (θ i − θ e )
+RT
+
+θ se = θ e +
+
+[14]
+
+donde,
+θe
+
+es la temperatura exterior de la localidad en la que se ubica el edificio según el
+Apéndice C, tabla C.1, correspondiente a la temperatura media del mes de enero
+[ºC];
+
+θi
+RT
+Rse
+
+es la temperatura interior definida en el apartado 2.2.2 [ºC];
+2
+es la resistencia térmica total del componente constructivo [m ·K/ W];
+es la resistencia térmica superficial correspondiente al aire exterior, en función de la
+posición del elemento constructivo, dirección del flujo de calor y su situación en el
+2
+edificio [m ·K/ W].
+c) cálculo de la temperatura en cada una de las capas que componen el elemento constructivo según las expresiones siguientes:
+
+θ1 = θ se +
+
+R1
+⋅ (θ i − θ e )
+RT
+
+θ 2 = θ1 +
+
+R2
+⋅ (θ i − θ e )
+RT
+
+θ n = θ n −1 +
+
+.
+
+Rn
+⋅ (θ i − θ e )
+RT
+
+[15]
+
+donde,
+θse
+
+es la temperatura superficial exterior [ºC];
+
+θe
+
+es la temperatura exterior de la localidad en la que se ubica el edificio obtenida
+del Apéndice C, tabla C.1, correspondiente a la temperatura media del mes de
+enero [ºC];
+
+θi
+
+es la temperatura interior definida en el apartado 2.2.2 [ºC];
+
+θ1... θn-1
+R1, R2...Rn
+RT
+
+son las temperaturas en cada capa [ºC].
+2
+son las resistencias térmicas de cada capa [m ·K/ W];
+2
+es la resistencia térmica total del componente constructivo [m ·K/ W];
+
+7 de 14
+
+Documento de Apoyo al DB HE
+
+DA DB HE / 2
+
+d) cálculo de la temperatura superficial interior θsi:
+
+θ si = θ n +
+
+R si
+⋅ (θ i − θ e )
+RT
+
+[16]
+
+donde,
+θe
+
+es la temperatura exterior de la localidad en la que se ubica el edificio obtenida
+del apartado E.1.1 correspondiente a la temperatura media del mes de enero
+[ºC];
+es la temperatura interior definida en el apartado 2.2.2 [ºC];
+es la temperatura en la capa n [ºC];
+es la resistencia térmica superficial correspondiente al aire interior, obtenida de
+acuerdo a la posición del elemento constructivo, dirección del flujo de calor y su
+2
+situación en el edificio [m ·K/ W];
+2
+es la resistencia térmica total del componente constructivo [m ·K/ W].
+
+θi
+θn
+Rsi
+
+RT
+
+Se considera que la distribución de temperaturas en cada capa es lineal.
+
+4.2.3
+
+Distribución de la presión de vapor de saturación
+
+A partir de la distribución de temperaturas obtenida anteriormente se puede obtener la distribución de la
+presión de vapor de saturación a lo largo de un muro formado por varias capas.
+
+4.2.4
+
+Distribución de presión de vapor
+
+La distribución de presión de vapor a través del cerramiento se calcula mediante las siguientes expresiones:
+
+P1 = Pe +
+
+S d1
+⋅ (Pi − Pe )
+∑ S dn
+
+P2 = P1 +
+
+S d2
+⋅ (Pi − Pe )
+∑
+... S dn
+
+Pn = Pn −1 +
+donde,
+Pi
+Pe
+P1 ...Pn-1
+Sd1 ...Sd(n)
+
+S d(n)
+
+∑ S dn
+
+⋅ (Pi − Pe )
+
+[17]
+
+es la presión de vapor del aire interior [Pa];
+es la presión de vapor del aire exterior [Pa];
+es la presión de vapor en cada capa n [Pa];
+es el espesor de aire equivalente de cada capa frente a la difusión del vapor de
+agua, calculado mediante la siguiente expresión [m];
+
+Sdn = en • µn
+
+[18]
+
+donde,
+µn
+
+en
+
+es el factor de resistencia a la difusión del vapor de agua de cada capa, que se puede
+obtener a partir de valores térmicos declarados según la norma UNE EN ISO 10 456:
+2012 o tomado de Documentos Reconocidos;
+es el espesor de la capa n [m].
+
+8 de 14
+
+Documento de Apoyo al DB HE
+
+DA DB HE / 2
+
+La distribución de presiones de vapor a través del cerramiento se puede representar gráficamente mediante una línea recta que una el valor de Pi con Pe, dibujado sobre la sección del cerramiento utilizando
+los espesores de capa equivalentes a la difusión de vapor de agua, Sdn (véase figura 1).
+Para el cálculo analítico de Pi y de Pe, en función de la temperatura y de la humedad relativa, se utiliza la
+siguiente expresión:
+Pi = φi · Psat (θi)
+
+[19]
+
+Pe = φe · Psat (θe)
+
+[20]
+
+donde,
+
+φi
+φe
+Pi
+Pe
+
+es la humedad relativa del ambiente interior definida en el apartado 2.2.2 [en tanto por 1];
+es la humedad relativa del ambiente exterior definida en la tabla C.1 del Apéndice C
+[en tanto por 1];
+es la presión de vapor del aire interior [Pa];
+es la presión de vapor del aire exterior [Pa].
+
+Figura 1 Distribución de presiones de vapor de saturación y presiones de vapor en un elemento multicapa
+del edificio dibujada frente a la resistencia a presión de vapor de cada capa.
+
+4.2.5
+
+Barrera contra el vapor
+
+Si es necesaria la interposición de una barrera contra el vapor, esta se debe colocar en la cara caliente
+del cerramiento, cuidando que en la ejecución se eviten roturas o deterioros en la misma.
+
+9 de 14
+
+Documento de Apoyo al DB HE
+
+Apéndice A
+
+DA DB HE / 2
+
+Terminología
+
+Barrera contra el vapor: elemento que tiene una resistencia a la difusión de vapor mayor que 10
+2
+MN·s/g equivalente a 2,7 m ·h·Pa/mg.
+Condiciones higrotérmicas: Son las condiciones de temperatura seca y humedad relativa que prevalecen en los ambientes exterior e interior para el cálculo de las condensaciones intersticiales.
+Espesor de aire equivalente frente a la difusión del vapor de agua: Espesor de una capa de aire
+inmóvil que tiene la misma resistencia al vapor de agua que el espesor del material considerado.
+Exceso de humedad interior: Cociente entre la cantidad media de producción de humedad producida en el interior de un espacio (kg/h) y el producto de la tasa de renovación de aire por el volumen del
+3
+3
+mismo (m /h). El exceso de humedad interior se expresa en kg/m .
+Factor de temperatura de la superficie interior: Es el cociente entre la diferencia de temperatura
+superficial interior y la del ambiente exterior y la diferencia de temperatura del ambiente interior y exterior.
+
+f Rsi =
+
+θ si − θ e
+20 − θ e
+
+Humedad relativa: Es la fracción de la presión de saturación que representa la presión parcial del
+vapor de agua en el espacio o ambiente exterior en estudio. Se tiene en cuenta en el cálculo de las
+condensaciones, superficiales e intersticiales en los cerramientos.
+Humedad superficial crítica: Humedad relativa de la superficie que conduce a un deterioro de la
+misma, en particular a la formación de moho.
+Permeabilidad al vapor de agua: Es la cantidad de vapor que pasa a través de la unidad de superficie de material de espesor unidad cuando la diferencia de presión de vapor entre sus caras es la unidad.
+Temperatura mínima aceptable: Temperatura superficial mínima interior para evitar la formación de
+moho.
+Transmitancia térmica: Es el flujo de calor, en régimen estacionario, dividido por el área y por la diferencia de temperaturas de los medios situados a cada lado del elemento que se considera.
+
+10 de 14
+
+Documento de Apoyo al DB HE
+
+Apéndice B
+
+DA DB HE / 2
+
+Notaciones y unidades
+
+ϕ
+
+Humedad relativa, en %
+
+ϕe
+
+Humedad relativa exterior, en %
+
+ϕi
+
+Humedad relativa interior, en %
+
+θn
+
+Temperatura en la capa n, en ºC
+
+θe
+
+Temperatura exterior, en ºC
+
+θi
+
+Temperatura interior, en ºC
+
+θsi
+
+Temperatura superficial interior, en ºC
+
+θsi,min
+
+Temperatura superficial interior mínima aceptable, en ºC
+
+θse
+
+Temperatura superficial exterior , en ºC
+
+µ
+G
+∆v
+∆p
+n
+Rv
+T
+fRsi
+fRsi,min
+P
+Pe
+Pi
+Pn
+Psat
+Rn
+Rse
+Rsi
+RT
+Sdn
+U
+e
+
+Factor de resistencia a la difusión del vapor de agua, adimensional
+Ritmo de producción de la humedad interior, en kg/h
+3
+Exceso de humedad interior vi – ve , en kg/m
+Exceso de presión de vapor interior Pi – Pe, en Pa
+-1
+Tasa de renovación de aire, en h
+3
+Constante de gas para el agua = 462 Pa m / (K·kg)
+Temperatura en K
+Factor de temperatura de la superficie interior, adimensional
+Factor de temperatura de la superficie interior mínimo, adimensional
+Presión de vapor del aire, en Pa
+Presión de vapor del aire exterior, en Pa
+Presión de vapor del aire interior, en Pa
+Presión de vapor del aire en la capa n, en Pa
+Presión de vapor de saturación, en Pa
+2
+Resistencia térmica de la capa n de un cerramiento, en m ·K/ W
+2
+Resistencia térmica superficial exterior, en m K/ W
+2
+Resistencia térmica superficial interior, en m K/ W
+2
+Resistencia térmica total, en m K/ W
+Espesor equivalente de la capa n de un cerramiento, en m
+2
+Transmitancia térmica, en W/m ·K
+Espesor de una capa, en m
+
+11 de 14
+
+Documento de Apoyo al DB HE
+
+Apéndice C
+
+DA DB HE / 2
+
+Datos climáticos
+
+Tabla C.1 Datos climáticos mensuales de capitales de provincia, T en ºC y HR en %
+Localidad
+Albacete
+Alicante
+Almería
+Avila
+Badajoz
+Barcelona
+Bilbao
+Burgos
+Caceres
+Cádiz
+Castellón
+Ceuta
+Ciudad Real
+Córdoba
+A Coruña
+Cuenca
+Girona
+Granada
+Guadalajara
+Huelva
+Huesca
+Jaén
+León
+Lleida
+Logroño
+Lugo
+
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+Tmed
+HRmed
+
+Ene
+
+Feb
+
+Mar
+
+Abr
+
+May
+
+Jun
+
+Jul
+
+Ago
+
+Sep
+
+Oct
+
+Nov
+
+Dic
+
+5,0
+78
+11,6
+67
+12,4
+70
+3,1
+75
+8,7
+80
+8,8
+73
+8,9
+73
+2,6
+86
+7,8
+78
+12,8
+77
+10,1
+68
+11,5
+87
+5,7
+80
+9,5
+80
+10,2
+77
+4,2
+78
+6,8
+77
+6,5
+76
+5,5
+80
+12,2
+76
+4,7
+80
+8,7
+77
+3,1
+81
+5,5
+81
+5,8
+75
+5,8
+85
+
+6,3
+70
+12,4
+65
+13,0
+68
+4,0
+70
+10,1
+76
+9,5
+70
+9,6
+70
+3,9
+80
+9,3
+73
+13,5
+75
+11,1
+66
+11,6
+87
+7,2
+74
+10,9
+75
+10,5
+76
+5,2
+73
+7,9
+73
+8,4
+71
+6,8
+76
+12,8
+72
+6,7
+73
+9,9
+72
+4,4
+75
+7,8
+69
+7,3
+68
+6,5
+81
+
+8,5
+62
+13,8
+63
+14,4
+66
+5,6
+62
+12,0
+69
+11,1
+70
+10,4
+70
+5,7
+73
+11,7
+63
+14,7
+70
+12,7
+64
+12,6
+88
+9,6
+66
+13,1
+67
+11,3
+74
+7,4
+64
+9,8
+71
+10,5
+64
+8,8
+69
+14,4
+66
+9,0
+64
+12,0
+67
+6,6
+66
+10,3
+61
+9,4
+62
+7,8
+77
+
+10,9
+60
+15,7
+65
+16,1
+65
+7,6
+61
+14,2
+66
+12,8
+70
+11,8
+72
+7,6
+72
+13,0
+60
+16,2
+71
+14,2
+66
+13,9
+87
+11,9
+65
+15,2
+65
+12,1
+76
+9,6
+62
+11,6
+71
+12,4
+61
+11,6
+68
+16,5
+63
+11,3
+63
+14,3
+64
+8,6
+63
+13,0
+56
+11,5
+61
+9,5
+77
+
+15,3
+54
+18,6
+65
+18,7
+67
+11,5
+55
+17,9
+60
+16,0
+72
+14,6
+71
+11,2
+69
+16,6
+55
+18,7
+71
+17,2
+67
+16,3
+87
+16,0
+59
+19,2
+58
+14,1
+78
+13,6
+58
+15,4
+70
+16,3
+56
+15,3
+67
+19,2
+60
+15,3
+60
+18,5
+59
+12,1
+60
+17,1
+55
+15,1
+59
+11,7
+76
+
+20,0
+50
+22,2
+65
+22,3
+65
+16,0
+50
+22,3
+55
+19,7
+70
+17,4
+72
+15,0
+67
+22,3
+44
+21,5
+70
+21,3
+66
+18,8
+87
+20,8
+54
+23,1
+53
+16,4
+79
+18,2
+54
+19,4
+67
+21,1
+49
+19,8
+62
+22,2
+59
+19,5
+56
+23,1
+53
+16,4
+57
+21,2
+54
+19,0
+56
+14,9
+76
+
+24,0
+44
+25,0
+64
+25,5
+64
+19,9
+39
+25,3
+50
+22,9
+69
+19,7
+73
+18,4
+61
+26,1
+37
+24,0
+69
+24,1
+66
+21,7
+87
+25,0
+47
+26,9
+46
+18,4
+79
+22,4
+44
+22,8
+62
+24,3
+42
+23,5
+53
+25,3
+54
+23,3
+48
+27,2
+44
+19,7
+52
+24,6
+47
+22,2
+55
+17,2
+75
+
+23,7
+50
+25,5
+68
+26,0
+66
+19,4
+40
+25,0
+50
+23,0
+72
+19,8
+75
+18,3
+62
+25,4
+39
+24,5
+69
+24,5
+69
+22,2
+87
+24,7
+48
+26,7
+49
+18,9
+79
+22,1
+46
+22,4
+68
+24,1
+42
+22,8
+54
+25,7
+54
+22,7
+53
+27,1
+45
+19,1
+53
+24,0
+54
+21,8
+56
+17,5
+75
+
+20,0
+58
+23,2
+69
+24,1
+66
+16,5
+50
+22,6
+57
+21,0
+74
+18,8
+74
+15,8
+67
+23,6
+49
+23,5
+70
+22,3
+71
+20,2
+89
+21,0
+57
+23,7
+55
+18,1
+79
+18,6
+56
+19,9
+72
+21,1
+53
+19,5
+61
+23,7
+60
+19,7
+61
+23,6
+55
+16,7
+60
+21,1
+62
+19,2
+61
+16,0
+77
+
+14,1
+70
+19,1
+70
+20,1
+69
+11,2
+65
+17,4
+68
+17,1
+74
+16,0
+74
+11,1
+76
+17,4
+65
+20,1
+73
+18,3
+71
+17,7
+89
+14,8
+68
+18,4
+67
+15,7
+79
+12,9
+68
+15,2
+76
+15,4
+62
+14,1
+72
+20,0
+67
+14,6
+70
+17,6
+67
+11,7
+72
+15,7
+70
+14,4
+69
+12,5
+82
+
+8,5
+77
+15,0
+69
+16,2
+70
+6,0
+73
+12,1
+77
+12,5
+74
+11,8
+74
+5,8
+83
+12,0
+76
+16,1
+76
+13,5
+73
+14,1
+88
+9,1
+78
+12,9
+76
+12,7
+79
+7,6
+76
+10,2
+77
+10,6
+73
+9,0
+79
+15,4
+72
+8,7
+78
+12,2
+75
+6,8
+78
+9,2
+77
+9,1
+73
+8,6
+84
+
+5,3
+79
+12,1
+68
+13,3
+69
+3,4
+77
+9,0
+82
+9,6
+71
+9,5
+74
+3,2
+86
+8,8
+80
+13,3
+77
+11,2
+69
+12,1
+88
+5,9
+82
+9,7
+80
+10,9
+78
+4,8
+79
+7,7
+75
+7,4
+77
+5,9
+81
+12,5
+75
+5,3
+81
+8,7
+77
+3,8
+81
+5,8
+82
+6,3
+76
+6,3
+85
+
+12 de 14
+
+Documento de Apoyo al DB HE
+
+Localidad
+Madrid
+
+Tmed
+HRmed
+Málaga
+Tmed
+HRmed
+Melilla
+Tmed
+HRmed
+Murcia
+Tmed
+HRmed
+Ourense
+Tmed
+HRmed
+Oviedo
+Tmed
+HRmed
+Palencia
+Tmed
+HRmed
+Palma de Mallorca
+Tmed
+HRmed
+Palmas, Las
+Tmed
+HRmed
+Pamplona
+Tmed
+HRmed
+Pontevedra
+Tmed
+HRmed
+S ,Sebastian
+Tmed
+HRmed
+Salamanca
+Tmed
+HRmed
+Santa Cruz de Tenerife Tmed
+HRmed
+Santander
+Tmed
+HRmed
+Segovia
+Tmed
+HRmed
+Sevilla
+Tmed
+HRmed
+Soria
+Tmed
+HRmed
+Tarragona
+Tmed
+HRmed
+Teruel
+Tmed
+HRmed
+Toledo
+Tmed
+HRmed
+Valencia
+Tmed
+HRmed
+Valladolid
+Tmed
+HRmed
+Vitoria
+Tmed
+HRmed
+Zamora
+Tmed
+HRmed
+Zaragoza
+Tmed
+HRmed
+
+DA DB HE / 2
+
+Ene
+6,2
+71
+12,2
+71
+13,2
+72
+10,6
+72
+7,4
+83
+7,5
+77
+4,1
+84
+11,6
+71
+17,5
+68
+4,5
+80
+9,9
+74
+7,9
+76
+3,7
+85
+17,9
+66
+9,7
+71
+4,1
+75
+10,7
+79
+2,9
+77
+10,0
+66
+3,8
+72
+6,1
+78
+10,4
+63
+4,1
+82
+4,6
+83
+4,3
+83
+6,2
+76
+
+Feb
+7,4
+66
+12,8
+70
+13,8
+72
+11,4
+69
+9,3
+75
+8,5
+75
+5,6
+77
+11,8
+69
+17,6
+67
+6,5
+73
+10,7
+73
+8,5
+74
+5,3
+78
+18,0
+66
+10,3
+71
+5,2
+71
+11,9
+75
+4,0
+73
+11,3
+63
+4,8
+67
+8,1
+72
+11,4
+61
+6,1
+72
+6,0
+78
+6,3
+75
+8,0
+69
+
+Mar
+9,9
+56
+14,0
+66
+14,6
+71
+12,6
+69
+10,7
+69
+9,5
+74
+7,5
+71
+12,9
+68
+18,3
+65
+8,0
+68
+11,9
+69
+9,4
+74
+7,3
+69
+18,6
+62
+10,8
+71
+7,1
+65
+14,0
+68
+5,8
+68
+13,1
+59
+6,8
+60
+10,9
+59
+12,6
+60
+8,1
+62
+7,2
+72
+8,3
+65
+10,3
+60
+
+Abr
+12,2
+55
+15,8
+65
+15,9
+70
+14,5
+68
+12,4
+70
+10,3
+77
+9,5
+70
+14,7
+67
+18,7
+66
+9,9
+66
+13,6
+67
+10,7
+79
+9,6
+66
+19,1
+61
+11,9
+74
+9,1
+65
+16,0
+65
+8,0
+67
+15,3
+59
+9,3
+60
+12,8
+62
+14,5
+62
+9,9
+61
+9,2
+71
+10,5
+63
+12,8
+59
+
+May
+16,0
+51
+18,7
+61
+18,3
+69
+17,4
+70
+15,3
+67
+12,8
+79
+13,0
+67
+17,6
+69
+19,9
+65
+13,3
+66
+15,4
+68
+13,5
+79
+13,4
+62
+20,5
+60
+14,3
+75
+13,1
+61
+19,6
+59
+11,8
+64
+18,4
+61
+12,6
+60
+16,8
+55
+17,4
+64
+13,3
+57
+12,4
+71
+14,0
+59
+16,8
+55
+
+13 de 14
+
+Jun
+20,7
+46
+22,1
+59
+21,5
+68
+21,0
+71
+19,3
+64
+15,8
+80
+17,2
+64
+21,8
+69
+21,4
+67
+17,3
+62
+18,8
+66
+16,1
+82
+17,8
+58
+22,2
+59
+17,0
+77
+17,7
+55
+23,4
+56
+16,1
+60
+22,2
+60
+17,5
+55
+22,5
+47
+21,1
+66
+18,0
+52
+15,6
+71
+18,5
+54
+21,0
+52
+
+Jul
+24,4
+37
+24,7
+60
+24,4
+67
+23,9
+72
+21,9
+61
+18,0
+80
+20,7
+58
+24,6
+67
+23,2
+66
+20,5
+58
+20,7
+65
+18,4
+82
+21,0
+50
+24,6
+56
+19,3
+77
+21,6
+47
+26,8
+51
+19,9
+53
+25,3
+59
+21,3
+50
+26,5
+43
+24,0
+67
+21,5
+44
+18,3
+69
+21,8
+47
+24,3
+48
+
+Ago
+23,9
+39
+25,3
+63
+25,3
+68
+24,6
+74
+21,7
+62
+18,3
+80
+20,3
+59
+25,3
+71
+24,0
+67
+20,3
+61
+20,5
+65
+18,7
+83
+20,3
+53
+25,1
+58
+19,5
+78
+21,2
+49
+26,8
+52
+19,5
+54
+25,3
+62
+20,6
+54
+25,7
+45
+24,5
+69
+21,3
+46
+18,5
+70
+21,3
+50
+23,8
+54
+
+Sep
+20,5
+50
+23,1
+65
+23,5
+72
+22,5
+73
+19,8
+64
+17,4
+78
+17,9
+63
+23,5
+73
+23,9
+69
+18,2
+61
+19,1
+69
+18,0
+79
+17,5
+62
+24,4
+63
+18,5
+77
+17,9
+55
+24,4
+58
+16,5
+60
+22,7
+67
+17,9
+59
+22,6
+54
+22,3
+68
+18,6
+53
+16,5
+70
+18,7
+58
+20,7
+61
+
+Oct
+14,7
+63
+19,1
+70
+20,0
+75
+18,7
+73
+15,0
+73
+14,0
+78
+13,0
+73
+20,0
+72
+22,5
+70
+13,7
+68
+16,1
+72
+15,2
+76
+12,3
+74
+22,4
+65
+16,1
+75
+12,6
+65
+19,5
+67
+11,3
+70
+18,4
+70
+12,1
+66
+16,2
+68
+18,3
+67
+12,9
+67
+12,7
+74
+13,4
+70
+15,4
+70
+
+Nov
+9,4
+70
+15,1
+72
+16,6
+74
+14,3
+73
+10,6
+83
+10,4
+78
+7,6
+80
+15,6
+72
+20,4
+70
+8,3
+76
+12,6
+73
+10,9
+76
+7,0
+82
+20,7
+67
+12,5
+73
+7,3
+73
+14,3
+76
+6,1
+76
+13,5
+68
+7,0
+71
+10,7
+77
+13,7
+66
+7,6
+77
+7,5
+81
+8,1
+79
+9,7
+75
+
+Dic
+6,4
+73
+12,6
+72
+14,1
+73
+11,3
+73
+8,2
+84
+8,7
+76
+4,4
+85
+13,0
+71
+18,3
+68
+5,7
+79
+10,3
+74
+8,6
+76
+4,1
+86
+18,8
+66
+10,5
+72
+4,3
+78
+11,1
+79
+3,4
+78
+10,7
+66
+4,5
+76
+7,1
+81
+10,9
+64
+4,8
+83
+5,0
+83
+4,9
+83
+6,5
+77
+
+Documento de Apoyo al DB HE
+
+DA DB HE / 2
+
+Otros documentos relacionados
+UNE EN ISO 6946:2012
+
+Elementos y componentes de edificación. Resistencia y transmitancia
+térmica. Método de cálculo.
+
+UNE EN ISO 13370:2010
+
+Prestaciones térmicas de edificios. Transmisión de calor por el terreno.
+Métodos de cálculo.
+
+UNE EN ISO 10077-1:2010
+
+Comportamiento térmico de ventanas, puertas y persianas. Cálculo de la
+transmitancia. Parte 1. Generalidades.
+
+UNE EN ISO 10077-2:2012
+
+Comportamiento térmico de ventanas, puertas y persianas. Cálculo del
+coeficiente de transmisión térmica. Parte 2. Método numérico para los
+marcos.
+
+UNE EN ISO 13788: 2002
+
+Características higrotérmicas de los elementos y componentes de edificación. Temperatura superficial interior para evitar la humedad superficial
+crítica y la condensación intersticial. Métodos de cálculo.
+
+UNE EN ISO 10211:2012
+
+Puentes térmicos en edificación. Flujos de calor y temperaturas superficiales. Cálculos detallados.
+
+UNE EN ISO 10456:2012
+
+Materiales y productos para la edificación. Propiedades higrotérmicas.
+Valores tabulados de diseño y procedimientos para la determinación de
+los valores térmicos declarados y de diseño.
+
+14 de 14
+
+

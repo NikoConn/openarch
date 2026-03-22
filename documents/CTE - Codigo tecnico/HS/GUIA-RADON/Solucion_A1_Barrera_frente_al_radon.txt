@@ -1,0 +1,415 @@
+SOLUCIÓN
+
+A1
+
+BARRERA FRENTE AL RADÓN
+
+Efectividad con concentración
+mayor de 600 Bq/m3
+
+3
+5
+
+Efectividad con concentración
+menor de 600 Bq/m3
+
+1. FINALIDAD
+La colocación de una barrera frente al radón tiene como finalidad limitar la penetración de este gas
+proveniente del terreno hacia el interior del edificio a
+través del cerramiento. Se basa en aislar del terreno
+los locales que deben ser protegidos para evitar que
+el radón fluya al interior por difusión o convección a
+través de las vías de entrada habituales, que suelen
+ser la masa de los propios cerramientos en contacto
+con el terreno y los puntos en donde presentan alguna discontinuidad como fisuras, grietas, encuentros,
+juntas de dilatación, etc.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará cuando los cerramientos
+en contacto con el terreno se encuentren deteriorados, se carezca de ellos o no sean suficientemente
+efectivos para frenar el paso de radón.
+Algunos casos en los que esto puede suceder es
+cuando:
+■
+
+■
+
+la vivienda carezca de suelo de hormigón en contacto con el terreno, por ejemplo, cuente con suelo
+de madera o de tierra apisonada vista o sobre la que
+se apoyan directamente las piezas del solado;
+la solera se encuentre deteriorada o incluso presente problemas de humedad.
+
+Para su utilización hay que tener en cuenta la viabilidad de la ejecución, pues no siempre es posible intervenir en la totalidad del cerramiento en contacto
+con el terreno.
+
+Dificultad(1)
+
+3
+
+Coste(1)
+
+3
+
+3. EFECTIVIDAD
+La barrera es una de las soluciones más efectivas
+cuando la concentración de radón medida en los locales habitables es inferior a 600 Bq/m3.
+En caso de que la concentración de radón sea superior se recomienda combinar la barrera con otra solución, como las basadas en la reducción del radón antes de que penetre en los locales habitables descritas
+en la Solución B1, Solución B2 y Solución B3.
+Su efectividad podrá verse afectada si existen elementos de paso que conecten los locales situados bajo y
+sobre la barrera, como puedan ser trampillas y puertas
+de sótano o de garajes. En este caso será necesario
+que la puerta sea poco permeable al aire según lo detallado en la Solución A3.
+Para comprobar si la efectividad de la solución es adecuada, se recomienda medir la concentración de radón alcanzada dentro de los locales habitables tras la
+intervención.
+
+4. DIFICULTAD DE INSTALACIÓN
+Es una solución que requiere un cierto grado de especialización en su instalación, puesto que la garantía
+de su eficacia depende no sólo de la elección de una
+barrera adecuada sino también de una cuidada puesta
+en obra. Es de especial importancia el tratamiento de
+los puntos críticos en los que se producen discontinuidades.
+
+(1) Se ha considerado la instalación de barrera tipo lámina sobre suelo
+existente en un espacio diáfano
+
+Solución A1 • Barrera frente al radón
+
+5. CÓMO SE CONSIGUE
+Esta solución consistirá en disponer un elemento continuo que funcione como barrera en toda la
+superficie del cerramiento en contacto con el terreno.
+El cerramiento suele ser un suelo (Figura 1), aunque
+en el caso de la existencia de un sótano también puede ser un muro.
+
+Es importante que el estado de conservación del
+hormigón sea adecuado con el paso del tiempo.
+Se considera adecuado cuando presente un grado
+de solidez apreciable a simple vista, es decir, que
+no muestre una desagregación o un agrietamiento
+excesivo que haga inviable su sellado puntual como
+se explica en la Solución A2.
+
+Para concentraciones superiores a 600 Bq/m3 en
+los locales habitables no se considera adecuada
+una barrera que no sea de tipo lámina.
+En el caso de utilizar como barrera el propio muro
+o solera de hormigón en contacto con el terreno
+es recomendable que no se cubran con un
+pavimento u otros elementos que lo oculten. De
+esta forma, si como consecuencia de un deterioro
+posterior se produjeran grietas, serían apreciables
+a simple vista, lo que permitiría una intervención
+más sencilla.
+
+Figura 1 - Disposición de la barrera sobre forjado o solera
+
+La barrera podrá ser de tipo lámina o de otro tipo
+cuya efectividad pueda demostrarse. La característica principal de la barrera es su coeficiente de difusión
+del radón que tendrá que ser lo suficientemente bajo
+para que, teniendo en cuenta su espesor, limite la exhalación de radón desde el terreno al interior de los
+locales.
+En el mercado existen distintas láminas con función
+de barrera frente al radón. En general son parecidas a
+las utilizadas para la protección frente a la humedad,
+pero con propiedades de durabilidad mejoradas y con
+su coeficiente de difusión del radón caracterizado.
+
+La barrera se colocará entre el terreno y el local a proteger:
+■
+
+en el caso de una vivienda sin sótano, en el cerramiento en contacto con el terreno;
+
+■
+
+en el caso de una vivienda con sótano (que no se
+considere habitable), bien en el cerramiento en contacto con el terreno, bien en el cerramiento situado
+entre el sótano y la planta baja (Figura 2).
+
+Las láminas nodulares de polietileno no son adecuadas como barreras de protección frente al radón por los problemas de sellado que presentan.
+
+Otras barreras que podrían utilizarse y que han demostrado su efectividad (para casos en los que el
+promedio de la medida de radón no supere los 600
+Bq/m3) son los muros y los suelos de hormigón continuo, como por ejemplo una solera. El hormigón es
+un material relativamente poroso con un coeficiente
+de difusión del radón mayor que el de las barreras de
+tipo lámina, pero el hecho de que se coloque en obra
+con un espesor mucho mayor que el de las láminas
+podría compensarlo y resultar en una exhalación de
+radón similar.
+
+Figura 2 – Colocación de la barrera en el cerramiento entre el sótano y la
+planta baja
+
+La mejor ubicación para la barrera de tipo lámina es
+en la cara del cerramiento en contacto con el terreno
+(Figura 3 izda.), quedando así, por un lado, más cerca
+
+A1
+
+2
+2
+
+Solución A1 • Barrera frente al radón
+
+1
+2
+3
+
+barrera de protección
+solera
+forjado sanitario
+
+1
+3
+
+1
+2
+
+2
+1
+
+Figura 3 - Colocación de la barrera bajo solera (izda.) sobre solera (centro) y sobre forjado (drcha.)
+
+de la fuente de radón y, por otro, protegida de posibles
+impactos u otras acciones que la puedan deteriorar durante el uso del edificio. Sin embargo, esto no siempre
+es posible por lo que, según las circunstancias concretas de cada intervención la barrera se podrá situar:
+■
+
+■
+
+en el caso de que se vaya a mantener la solera o el
+forjado existente, en la cara interior (Figura 3 centro
+y drcha.), aunque en el caso de forjados existentes
+de madera, se situará sobre el terreno;
+en el caso de que se vaya a mantener el muro de
+sótano existente, en la cara interior.
+
+son las uniones entre láminas, las juntas de dilatación,
+los encuentros con elementos pasantes, pilares, particiones (tabiques) y fachadas, y la unión con obras
+existentes (Figura 4). En la Solución A1.1 se describen
+algunas soluciones para estos puntos críticos.
+
+7. COSTE
+El coste puede variar sustancialmente dependiendo
+del tipo de intervención. Las intervenciones, de menor
+a mayor coste asociado, pueden ser:
+■
+
+instalación de una barrera de tipo lámina sobre un
+suelo existente;
+
+■
+
+instalación de un nuevo suelo de hormigón;
+
+■
+
+instalación de una barrera de tipo lámina junto con
+un nuevo suelo de hormigón.
+
+6. PUNTOS CRÍTICOS
+En el caso de que la barrera presente falta de continuidad, la efectividad de la solución quedará mermada.
+Las causas más comunes de la falta de continuidad
+
+1
+2
+3
+4
+5
+6
+
+1
+
+2
+
+3
+
+4
+
+Figura 4 - Puntos críticos más comunes
+
+5
+
+6
+
+encuentro entre dos láminas
+encuentro con tabique
+junta de dilatación
+encuentro con elemento pasante
+encuentro con pilar
+encuentro con fachada
+
+A1
+
+3
+3
+
+Solución A1 • Barrera frente al radón
+
+El coste que se ha tenido en cuenta en la gráfica al
+comienzo de esta ficha es el correspondiente a la instalación de una barrera de tipo lámina sobre un suelo
+existente, por considerar que representa el caso más
+común.
+
+OBSERVACIONES
+Disposición de la barrera sobre un
+muro de sótano
+En el caso de que la barrera frente al radón se
+vaya a instalar cubriendo un muro de sótano, la
+barrera tendrá que adherirse a la superficie.
+
+Mejora de la protección frente a la
+humedad
+En el caso de que se quiera mejorar la protección
+frente a la humedad disponiendo una barrera impermeabilizante en el cerramiento en contacto
+con el terreno, este impermeabilizante podrá especificarse para que preste también la función de
+barrera frente al radón.
+
+Mejora del aislamiento térmico
+En el caso de que se quiera mejorar el aislamiento térmico disponiendo un aislante en el cerramiento en contacto con el terreno, este aislante
+podrá especificarse para que preste también la
+función de barrera frente al radón.
+
+Conservación y durabilidad
+de la barrera
+Las barreras de hormigón y las láminas dispuestas en el intradós de un cerramiento podrán, respectivamente, repararse mediante un mantenimiento adecuado o sustituirse por otra de forma
+sencilla. En contraposición, las láminas situadas
+en el trasdós serán difícilmente reparables por lo
+que será más importante que tengan una durabilidad adecuada a la vida útil del edificio y sus
+condiciones.
+
+A1
+
+4
+4
+
+Solución A1 • Barrera frente al radón
+
+Este documento ha sido elaborado por el Instituto de ciencias
+de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+de la Dirección General de Agenda Urbana y Arquitectura del
+Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+Esta ficha forma parte de una serie de documentos englobados
+en una misma publicación, cuyo objetivo es constituir una herramienta de ayuda para el diseño de soluciones de protección
+frente al radón:
+■
+
+Guía de rehabilitación frente al radón
+
+Fichas de soluciones:
+A: De aislamiento del edificio
+■
+■
+■
+■
+■
+
+Solución A1. Barrera frente al radón
+Solución A1-1. Barrera frente al radón. Encuentros
+Solución A2. Sellado de fisuras, grietas, encuentros y juntas
+Solución A3. Puertas estancas
+Solución A4. Creación de sobrepresión
+
+B: De reducción del radón antes de que penetre en los locales
+a proteger
+■
+■
+■
+
+Solución B1. Ventilación del espacio de contención: cámara de aire
+Solución B2. Ventilación del espacio de contención: locales no habitables
+Solución B3. Despresurización del terreno
+
+C: De reducción del radón tras penetrar en los locales a proteger
+■
+
+Solución C1. Ventilación de los locales habitables
+
+El IETcc, perteneciente al Consejo Superior de Investigaciones
+Científicas (CSIC), es el centro de investigación en edificación
+de referencia en España. La Unidad de Calidad en la Construcción del IETcc asesora al MITMA en la elaboración del Código
+Técnico de la Edificación que, desde el año 2019, cuenta con la
+sección HS6 Protección frente a la exposición al radón.
+Dirección y Coordinación:
+Ministerio de Transportes, Movilidad y Agenda Urbana
+Isabel Marcos Anasagasti
+Raquel Lara Campos
+Eduardo González de Prado
+Instituto de ciencias de la construcción Eduardo Torroja CSIC
+Pilar Linares Alemparte
+Autoras:
+Pilar Linares Alemparte
+Sonia García Ortega
+Colaboradoras:
+Virginia Sánchez Ramos
+Karina Angélica García Pardo
+Edita:
+Centro de Publicaciones Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda Urbana©
+Entidad colaboradora:
+Consejo Superior de Investigaciones Científicas · CSIC
+Ministerio de Ciencia e Innovación
+Catálogo de publicaciones de la Administración General
+
+del Estado: publicacionesoficiales.boe.es
+Centro virtual de publicaciones del Ministerio de Transpor
+tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+
+Fichas de ejemplos:
+■
+■
+■
+■
+
+Ejemplo A1+B3. Barrera frente al radón + despresurización
+con red de tubos
+Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B3. Sellado + despresurización con red de tubos
+Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+
+Página web del Código Técnico de la Edificación:
+www.codigotecnico.org
+
+ 
+
+Maquetación y diseño gráfico:
+Lapizmente. Estrategia • Diseño Gráfico
+
+Publicación completa:
+ISBN: 978-84-498-1045-9
+NIPO: 796-20-136-5
+
+Los contenidos o ideas recogidas en este documento pertenecen a
+sus autores. Este documento está basado en el conocimiento disponible en el momento de su publicación. No se aceptará por las instituciones ni los autores implicados responsabilidad de ningún tipo por el
+uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+y no deben interpretarse como detalles constructivos.
+
+1ª edición: septiembre 2020
+Edición actual: septiembre 2020
+
+Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
+
+A1
+
+5
+5
+
+

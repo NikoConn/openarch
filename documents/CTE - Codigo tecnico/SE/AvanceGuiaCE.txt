@@ -1,0 +1,2346 @@
+Avance de la Guía de
+Aplicación del Código
+Estructural a la edificación
+
+Comparativa entre el Código
+Estructural (CE) y la Instrucción de
+Hormigón Estructural (EHE08)
+
+2022
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Indice
+Introducción_________________________________________________________________________________04
+Objeto y alcance ____________________________________________________________________________05
+Organización del Código Estructural__________________________________________________________05
+Contenido de este documento_______________________________________________________________06
+Articulado___________________________________________________________________________________07
+Clases de exposición de los elementos de Hormigón___________________________________07
+Docilidad del hormigón_________________________________________________________________08
+Tipificaciones del hormigón____________________________________________________________08
+Requisitos mínimos de dosificació del hormigón_______________________________________09
+Espesores de recubrimiento____________________________________________________________09
+Anclaje de armaduras pasivas__________________________________________________________10
+Empalmes por solapo__________________________________________________________________11
+Control estadístico de la resistencia del hormigón______________________________________11
+Anejo 19____________________________________________________________________________________ 12
+Módulo de deformación_______________________________________________________________ 12
+Acero para armaduras pasivas_________________________________________________________12
+Diagrama tensión-deformación del hormigón___________________________________________13
+Modelización de la estructura__________________________________________________________13
+Análisis elástico lineal con redistribución_______________________________________________14
+Análisis plástico_______________________________________________________________________14
+Criterios de simplificación para los efectos de segundo orden___________________________15
+Estado Límite Último (ELU) de Cortante________________________________________________16
+Estado Límite de Servicio (ELS) de Punzonamiento_____________________________________18
+Bielas y tirantes________________________________________________________________________20
+Estado Límite de Servicio (ELS) de Fisuración__________________________________________21
+Estado Límite de Servicio (ELS) de Deformación. Flechas_______________________________23
+Armaduras mínimas y máximas. Detalle de Armado. VIGAS____________________________25
+Detalle de armadoo. LOSAS____________________________________________________________27
+Detalle de armado. PILARES___________________________________________________________28
+Detalle de armado. MUROS____________________________________________________________28
+Detalle de armado. CIMENTACIÓN_____________________________________________________29
+Detalle de armado. ARMADURA DE ATADO_____________________________________________29
+Pórticos virtuales______________________________________________________________________30
+
+2
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Este documento se ha realizado bajo la supervisión del Instituto de Ciencias de la Construcción
+Eduardo Torroja (IETcc) perteneciente al Consejo Superior de Investigaciones Científicas (CSIC) y
+la Dirección General de Agenda Urbana y Arquitectura del Ministerio de Transportes, Movilidad y
+Agenda Urbana.
+Dirección y coordinación:
+Ministerio de Transportes, Movilidad y Agenda Urbana:
+Isabel Marcos Anasagasti
+Luis Vega Catalán
+Instituto de Ciencias de la Construcción Eduardo Torroja
+Carlos Villagrá Fernández
+Juan Queipo de Llano Moya
+Autores:
+Juan Carlos Arroyo Portero – Dr. Ingeniero de caminos
+Alejandro Calle García – Arquitecto
+Colaboradora:
+Paula García Allué - Arquitecta
+Catálogo de publicaciones de la Administración General del Estado:
+https://cpage.mpr.gob.es
+Centro virtual de publicaciones del Ministerio de Transportes, Movilidad y Agenda Urbana:
+https://apps.fomento.gob.es/CVP/
+Edita:
+Centro de Publicaciones
+Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda Urbana ©
+JULIO 2022
+NIPO: 796-22-054-9
+ISBN: 978-84-498-1073-2
+Está permitida la reproducción, parcial o total, del presente documento, siempre que esté
+destinado al ejercicio profesional de los técnicos del sector. Por el contrario, debe contar con
+aprobación por escrito cuando esté destinado a fines editoriales en cualquier soporte impreso o
+electrónico.
+
+3
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Introducción
+El Código Estructural se aprobó a través del Real Decreto 470/2021, de 21 de junio. Por medio
+de este reglamento se establecen los requisitos para el proyecto y la ejecución de estructuras de
+hormigón, de acero y estructuras mixtas de hormigón y acero, tanto en obras de edificación como
+de ingeniería civil.
+El Código Estructural es el reglamento que sustituye a la Instrucción de Hormigón Estructural
+(EHE-08) aprobada por el Real Decreto 1247/2008, de 18 de julio y la Instrucción de Acero Estructural
+(EAE), aprobada por el Real Decreto 751/2011, de 27 de mayo.
+El Código Estructural responde a la necesidad de actualizar la reglamentación vigente conforme
+al estado del conocimiento y a la normativa europea buscando particularmente la convergencia
+con los procedimientos de cálculo de estructuras establecidos en los Eurocódigos Estructurales.
+En el Código se regulan las cuestiones relativas a bases de proyecto y análisis estructural, así
+como a los requisitos técnicos exigibles a los materiales componentes, a la durabilidad y vida útil
+de las estructuras, a la acción del incendio, al control y la ejecución de las estructuras.
+El Código Estructural entró en vigor el 11 de noviembre de 2021. En la disposición transitoria
+única se establece que el Código no será de aplicación a los proyectos cuya orden de redacción
+o estudio, en el ámbito de las Administraciones públicas, o encargo, en otros casos, se hubiera
+efectuado con anterioridad a su entrada en vigor, ni las obras de ellos derivadas, siempre que estas
+se inicien en un plazo no superior a un año para las obras de edificación, ni de tres años para las
+de ingeniería civil. En todo caso, el Código puede aplicarse de forma voluntaria en estos supuestos,
+siempre que el órgano competente, o el promotor, así lo acordara.
+
+4
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Objeto y alcance de este documento
+El objeto de este documento es facilitar la transición al Código Estructural (CE) a los proyectistas
+de estructuras habituados a utilizar la Instrucción de Hormigón Estructural (EHE-08). El documento
+se centra por tanto en la regulación de las estructuras de hormigón en el CE por ser esta regulación
+la que ha experimentado más cambios con la aprobación del nuevo reglamento dado que la
+EHE-08 es un documento más antiguo que la Instrucción de Acero Estructural (EAE).
+Este documento constituye un avance de la futura Guía de aplicación del Código Estructural a
+la edificación que se publicará en esta misma serie por el Ministerio de Transportes, Movilidad y
+Agenda Urbana, y una vez que la Guía se publique constituirá un anejo de la misma.
+No se trata de un listado exhaustivo de los cambios y novedades que aporta el nuevo Código
+frente a la reglamentación que sustituye, sino de un conjunto de apuntes referentes a aquellas
+cuestiones que se consideran significativas, de manera que, tanto aquel que decida iniciar el
+estudio más profundo del CE como aquel que quiera adaptar sus documentos de proyecto pueda
+tener una base a partir de la cual abordar esta nueva norma.
+El documento se centra en la definición de los materiales y sus propiedades, en las bases de
+cálculo y en los diversos procedimientos de análisis y dimensionado de estructuras, no entrando a
+fondo en los aspectos de control y gestión de la calidad.
+
+Organización del Código Estructural
+El CE está organizado en un articulado general y 32 anejos.
+El articulado general, a su vez, consta de cuatro títulos. Uno de bases generales y tres dedicados
+cada uno a los tres tipos estructurales cubiertos por la norma (hormigón armado, acero y mixtas).
+Cada uno de estos tres mantiene una estructura semejante de capítulos.
+Los anejos cubren aspectos muy diversos por lo que su extensión es muy variada, siendo el más
+relevante en lo que se refiere a este documento el anejo 19, que trata del proyecto de estructuras
+de hormigón.
+Cuando se cite un artículo del articulado general se indicará simplemente su numeración. Si
+pertenece al anejo 19, se citará éste de forma explícita.
+
+5
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Contenido de este documento
+Se presenta la información en modo de tabla, de manera que la columna de la izquierda se
+refiere, de manera ordenada según el índice, al artículo relevante del CE y la de la derecha a su
+equivalente, si lo hay, de la EHE-08. En los casos en los que el aspecto señalado aparece en la
+EHE-08 pero no en el CE, la columna izquierda aparece vacía.
+La información en celdas describe el artículo y los comentarios de los autores se realizan en
+texto fuera de las celdas en cursiva.
+Este documento recoge tres tipos de modificaciones:
+-
+
+Cambios de texto, fórmulas o criterios del CE respecto a la EHE-08
+
+-
+
+Aclaraciones respecto a asuntos que se han modificado en el CE respecto a la EHE-08, o
+lo han hecho de manera poco significativa, y sobre los que se ha formado en el sector la
+impresión de que han experimentado cambios.
+
+-
+
+Cuestiones que estaban en la EHE-08 y no están en el CE.
+
+6
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Articulado
+Clases de exposición de los elementos de hormigón
+CE
+
+EHE-08
+
+27.1
+2.1
+Las clases de exposición se recogen en la tabla Las equivalencias con las clases definidas en la
+27.1.a.
+EHE-08 son:
+Un mismo elemento puede estar sometido a
+distintas clases.
+Las más relevantes en edificación son:
+- X0: Hormigón en masa sin ataque hielo/deshielo,
+abrasión o ataque químico. Hormigón
+armado en ambiente muy seco.
+- XC1: Seco o permanentemente húmedo.
+-     XC2: Húmedo, raramente seco.
+- XC3: Humedad moderada.
+- XC4: Sequedad y humedad cíclicas.
+
+- I con humedad muy baja: X0
+- I con humedad baja: XC1
+-    IIa: XC2 y XC3 en función de si el contacto   
+con la humedad es permanente o no.
+- IIb: XC4
+-    IIIa, IIIb y IIIc: XS1, XS2 y XS3, respectivamente
+-    IV: XD1, XD2, XD3, en función de la intensidad y
+duración de la humedad.
+- H: XF1 y XF3 en función de si existe
+acumulación de agua.
+-     F: XF2 y XF4 en función de si existe acumulación
+de agua.
+- Qa: XA1
+-     Qb: XA2
+- Qc: XA3
+-     E: XM1, XM2 y XM3, en función de la intensidad      
+de la erosión
+
+Comentarios
+Desaparece la distinción entre clases generales y específicas. Las clases definidas en el CE son semejantes a las de
+EHE-08, si bien con matices.
+Para ejemplos de clases de exposición, ver 27.1.d
+
+7
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Docilidad del hormigón
+CE
+
+EHE-08
+
+33.5
+
+31.5
+
+Las clases de consistencia se definen con asenta- Permite emplear consistencia blanda sin necesidad
+mientos diferentes de los indicados en la EHE-08. de justificación.
+Se prescribe, para pilares, forjados y vigas, una consistencia fluida, salvo justificación en contra.
+Asentamiento en mm.
+
+Tipo de consistencia
+
+Asentamiento en mm.
+
+Seca (S)
+
+0-20
+
+Seca (S)
+
+0-20
+
+Plástica (P)
+
+30-40
+
+Plástica (P)
+
+30-50
+
+Blanda (B)
+
+50-90
+
+Blanda (B)
+
+60-90
+
+Fluida (F)
+
+100-150
+
+Fluida (F)
+
+100-150
+
+160-210
+
+Líquida (L)
+
+160-210
+
+Tipo de consistencia
+
+Líquida (L)
+
+Comentarios
+Debido a la prescripción de consistencia fluida, el asiento mínimo en vigas y pilares y forjados es 100 mm.
+
+Tipificación de los hormigones
+CE
+
+EHE-08
+
+33.6
+39.2
+La tipificación del hormigón se hace de acuerdo con La tipificación del hormigón se hace de acuerdo con
+este formato, semejante al empleado en la EHE sal- el mismo formato:
+vo por el código que define la clase de exposición:
+T-R/C/TM/A
+T-R/C/TM/A
+La designación del ambiente (A) se hará de acuerdo
+con los códigos definidos en 27.1.
+
+8
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Requisitos mínimos de dosificación del hormigón
+CE
+
+EHE-08
+
+43.2.1
+Se fija la resistencia mínima en función de la clase
+de exposición.
+
+37.3.2
+Las resistencias mínimas son recomendaciones.
+
+f ck del hormigón
+
+Clase de exposición
+
+armado
+
+X0
+
+25
+
+XC1
+
+25
+
+XC2
+
+25
+
+XC3
+
+30
+
+XC4
+
+30
+
+Espesores de recubrimiento
+CE
+
+EHE-08
+
+44.2.1.1 y A19 4.4.1
+Los espesores de recubrimiento para una vida útil
+del proyecto de 50 años , cemento CEM I y hormigón con resistencia característica no mayor de 40
+N/mm² son:
+
+37.2.4.1
+Los espesores de recubrimiento para una vida útil
+del proyecto, cemento CEM I y hormigón con resistencia característica no mayor de 40 N/mm² son:
+
+Clase de exposición
+
+9
+
+Recubrimiento mínimo
+(mm)
+
+Clase de exposición
+
+Recubrimiento mínimo
+(mm)
+
+X0, XC1, XC2 o XC3
+
+15
+
+I, IIa
+
+15
+
+XC4
+
+20
+
+IIb
+
+20
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Anclaje de las armaduras pasivas
+CE
+
+EHE-08
+69.5.1.2
+Método simplificado
+
+49.5.1.2
+Método simplificado
+
+Método simplificado para el cálculo de la longitud Se define el mismo método para las mismas
+básica de anclaje para barras con características de condiciones
+adherencia certificadas a partir del ensayo de la viga
+según apartado 34.2 del CE.
+-
+
+Para barras en posición l:
+
+lbl = m∅ 2 ≥
+-
+
+f yk
+
+20
+
+∅
+
+Para barras en posición ll:
+
+lbll
+= 1, 4m∅ 2 ≥
+
+f yk
+
+14
+
+∅
+
+49.5.1.2 y A19 8.4
+Tensión de adherencia
+
+69.5.1.2
+Tensión de adherencia
+
+Si las características de adherencia de las barras se Se define el mismo método para las mismas
+comprueban a partir de la geometría de las corrugas condiciones
+o grafilas, según el apartado 34.2 el CE se aplicará el
+método definido en los artículos 8.4 a 8.9 del Anejo
+19 del CE.
+(2) El valor del cálculo de la tensión última de adherencia, f bd , para las barras corrugadas se puede tomar como:
+lb ,rqd = (∅ / 4)(σ sd / f bd )
+
+f bd = 2, 25η1η 2 f ctd
+
+Comentarios
+La longitud básica de anclaje se define de la misma manera en el CE y la EHE-08
+
+10
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Empalmes por solapo
+CE
+
+EHE-08
+
+49.5.2.2 y A19 8.7.3
+69.5.2.2
+Si se emplea el método general para el cálculo de El método simplificado propone los mismos coefila longitud de anclaje, el coeficiente función del por- cientes que el artículo 49.5.2.2 del CE.
+centaje de barras solapadas con respecto al total del
+Tabla 69.5.2.2
+área de la sección (A19 8.7.3) es
+Valores de a
+Barras solapadas
+Porcentaje de barras solapadas trabajando a
+Distancia entre los
+Tracción, con relación a la sección total de acero trabajando normalmente
+empalmes más próximos
+a compresión en
+(f gura 69.5.2.2.a)
+20
+25
+33
+50
+> 50
+cualquier porcentaje
+
+a ≤ 10 ø
+a > 10 ø
+
+1,2
+1,0
+
+1,4
+1,1
+
+1,6
+1,2
+
+1,8
+1,3
+
+2,0
+1,4
+
+1,0
+1,0
+
+que es distinto del empleado en el método simplificado (49.5.2.2)
+Tabla 49.5.2.2 Valores de α
+Distancia entre
+los empalmes
+más próximos
+(figura
+49.5.2.2)
+
+a ≤ 10 ø
+a > 10 ø
+
+Porcentaje de barras solapadas trabajando a tracción, con
+relación a la sección total de acero
+
+20
+
+25
+
+33
+
+50
+
+>50
+
+1,2
+1,0
+
+1,4
+1,1
+
+1,6
+1,2
+
+1,8
+1,3
+
+2,0
+1,4
+
+Barras solapadas
+trabajando normalmente
+a compresión en
+cualquier porcentaje
+
+1,0
+1,0
+
+Control estadístico de la resistencia del hormigón
+CE
+
+EHE-08
+
+57.5.4.3
+Cálculo de f est
+
+86.5.4.3
+Cálculo de f est
+
+Tabla 57.5.4.3.a.
+Criterios de aceptación de los lotes de hormigón
+Caso de
+control
+estadístico
+
+1
+
+2
+
+3
+
+Tabla 86.5.4.3.a
+Caso de control
+estadístico
+
+Criterio de aceptación
+
+f(x̅ ) = ̅x (1-1.66δ*) ≥ f ck
+f(x̅ ) = ̅x -1.66s *) ≥ f ck
+
+Se han controlado más de 36
+amasadas
+
+35
+
+f(x 1)= x 1 K n ≥ f ck
+
+x i ≥ fck
+
+2
+
+f (x ) = x −K 2rN ≥ fck
+
+3
+
+∗
+f (x (1) ) = x (1) −K 3s35
+≥ fck
+
+Control de recepción
+
+A partir de la amasada 37a
+
+Número de amasadas controladas
+
+3≤N≤6
+
+A las amasadas anteriores a la 37a,
+se les aplicará el criterio n° 2
+
+Tabla 86.5.4.3.b
+
+Número de amasadas controladas (N)
+
+11
+
+1
+
+Hasta la 36ª amasada
+
+Coeficiente
+
+Coeficiente
+
+Kn
+
+Observaciones
+
+Control de identificación
+
+Hormigones con la dispersión
+certificada
+dentro
+del
+alcance
+de
+certificación
+de un distintivo de calidad
+oficialmente
+reconocido
+
+Tabla 57.5.4.3.b.
+
+Criterio de aceptación
+
+Observaciones
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+>10
+
+0,89
+
+0,91
+
+0,93
+
+0,94
+
+0,95
+
+0,96
+
+0,97
+
+0,98
+
+1
+
+Número de amasadas controladas (N)
+3
+
+4
+
+5
+
+6
+
+K2
+
+1,02
+
+0,82
+
+0,72
+
+0,66
+
+K3
+
+0,85
+
+0,67
+
+0,55
+
+0,43
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+ANEJO 19
+Módulo de deformación
+CE
+
+EHE-08
+
+A19 3.1.3
+Se define el módulo de elasticidad secante ( Ecm )
+como:
+
+39.6
+Se define el módulo de elasticidad secante ( Ecm )
+como:
+
+Ecm = 22.000 / [ f cm /10]0,3
+
+Ecm = 8.500 3 f cm
+
+Con f cm y Ecm en N/mm²
+
+Con f cm y Ecm en N/mm²
+
+Comentarios
+Para un HA-25 el módulo de elasticidad secante según el CE es de 31.475 N/mm² y según EHE es de 27.264 N/mm²
+
+Acero para armaduras pasivas
+
+CE
+
+EHE-08
+
+A19 3.2.7
+38.4
+Puede suponerse un diagrama tensión-deformación Se limita la deformación máxima del acero en
+del acero con una rama superior inclinada con un lí- tracción a ε máx = 0, 01
+.
+mite de deformación o una horizontal sin necesidad
+de comprobar el límite de deformación.
+
+Comentarios
+Si se emplea la hipótesis con rama superior horizontal desaparece el pivote A (EHE-08 artículo 42.1.3).
+
+12
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Diagrama tensión-deformación del hormigón
+CE
+
+EHE-08
+
+A19 3.1.7
+39.5
+Puede suponerse una distribución rectangular de No se matiza la profundidad de la distribución rectensiones que, para hormigones con resistencia ca- tangular en secciones de ancho variable.
+racterística igual o menor de 50 N/mm², se define
+con una tensión efectiva igual a f cd y una profundidad igual al 80% de la profundidad de la fibra neutra,
+en secciones rectangulares.
+En secciones en las que el ancho de la zona comprimida desciende en la dirección de la fibra extrema de
+compresión, la profundidad del bloque comprimido
+es igual al 72% de la profundidad de la fibra neutra.
+
+Comentarios
+Salvo por el matiz del ancho variable, el diagrama tensión-deformación del hormigón es igual.
+
+Modelización de la estructura
+CE
+
+EHE-08
+
+A19 5.3.2.1
+Se define el ancho eficaz del ala en el que se puede
+suponer unas condiciones uniformes de tensión.
+
+18.2.1
+No incluye reglas expresas en el articulado para el
+ancho eficaz.
+Los comentarios proponen un criterio semejante al
+del CE, según el cual el ancho eficaz del ala es igual
+al ancho del nervio más un quinto de la distancia entre puntos de momento nulo sin sobrepasar la anchura real del ala.
+
+b=
+eff
+
+∑b
+
+eff ,i
+
++ bw ≤ b
+
+Donde:
+
+beff ,i = 0, 2bi + 0,1l0 ≤ 0, 2l0
+
+y
+beff ,i ≤ bi
+
+13
+
+beff ,i ≤ bi
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Comentarios
+El criterio es semejante pero CE incluye figuras que lo aclaran
+
+Análisis elástico lineal con redistribución
+CE
+
+EHE-08
+
+A19 5.5
+Se define la relación entre el momento flector redistribuido y el elástico en función de la profundidad de
+la fibra neutra.
+Para hormigones de resistencia característica no superior a 50 N/mm², la relación δ entre el momento
+redistribuido y el momento flector elástico es:
+
+19.2.3 y 21
+Para la redistribución, el texto no incluye reglas expresas.
+Los comentarios al artículo 21 sí proponían un criterio también basado en la profundidad de la fibra
+neutra.
+El porcentaje máximo de redistribución de la sección
+crítica, limitado al 20% para aceros tipo S y al 30%
+para aceros tipo SD:
+
+δ ≥ 0, 44 + 1, 25 xu / d
+
+r =56-125x / d
+
+Comentarios
+Aunque los resultados de las dos expresiones son semejantes obsérvese que en el CE el valor δ es una relación
+mientras que en la EHE-08 r se expresa como porcentaje.
+
+Análisis plástico
+CE
+
+EHE-08
+
+A19 5.6.2
+19.2.4
+La ductilidad requerida puede verificarse compro- No incluye reglas expresas en el articulado.
+bando la capacidad de giro según el apartado 5.6.3
+o limitando la profundidad de la fibra neutra.
+El área de la armadura de tracción se limita de forma
+que en cualquier sección:
+xuu//dd ≤ 0, 25 para ffckck ≤≤ 50
+50 N/mm²
+xuu//dd ≤ 0,15 para ffckck ≥≥ 55
+55 N/mm²
+
+14
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Criterios de simplificación para los efectos de segundo orden
+CE
+
+EHE-08
+
+A19 5.8.2 (6), 5.8.3.1 y 5.8.3.3
+Criterios para ignorar los efectos de segundo orden
+
+43.1
+Criterios para ignorar los efectos de segundo orden
+
+Se definen criterios para ignorar los efectos de se- Esbeltez límite para elementos aislados:
+gundo orden. De manera general si son inferiores al
+10% de los de primer orden y de forma simplificada
+2
+mediante una esbeltez límite para elementos aisla e1  
+C  0, 24
+dos (A19 5.8.3.1) o mediante una rigidez límite para λ=
+
++
++
+−
+35
+1
+3,
+4
+1
+
+  ≤ 100
+inf
+v  e2 / h
+edificios completos (A19 5.8.3.3).
+ e2  
+
+Esbeltez límite para elementos aislados:
+
+λlim = 20 ⋅ A ⋅ B ⋅ C / n
+Rigidez límite para edificios completos:
+
+FV , Ed ≤ k1 ⋅
+
+ns
+∑ E cd I c
+⋅
+ns + 1, 6
+L2
+
+A19 5.8.4
+Fluencia en el análisis de segundo orden
+
+Rigidez límite para edificios completos:
+
+N d ≤ k1
+
+n ∑ El
+n + 1, 6 h 2
+
+39.8
+Fluencia en el análisis de segundo orden
+
+Se definen criterios para ignorar el efecto de la fluen- No incluye reglas expresas en el articulado.
+cia en el análisis de segundo orden.
+(4) El efecto de la fluencia puede ignorarse, es decir, se puede suponer ϕef = 0 , si se cumplen las tres
+condiciones siguientes:
+
+− ϕ ( ∞, t 0 ) ≤ 2
+− λ ≤ 75
+− M 0 Eqp / N Ed ≥ h
+
+15
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Estado Límite Último (ELU) de Cortante
+CE
+
+EHE-08
+
+A19 6.2.2
+Resistencia de un elemento sin armadura de
+cortante.
+
+=
+VRd ,c CRd ,c k (100 ρl f ck )
+
+
+1/3
+
+Con un mínimo de:
+
+(v
+
+VRd
+=
+,c
+
+min
+
++ k1σ cp ) bw d
+
+Donde:
+
+44.2.3.2.1.2
+Resistencia de un elemento sin armadura de cortan
+
+ 0,18
+
+1/3
+=
+Vu 2 
+ξ (100 ρl f cv ) + 0,15σ ´cd  b0 d
+γ
+ c
+
++ k1σ cp  bw d
+
+
+
+Con un valor mínimo de:
+ 0, 075 3/2 1/2
+
+=
+Vu 2 
+ξ f cv + 0,15σ ´cd  b0 d
+γ
+ c
+
+
+ν min = 0, 035k 3/2 · f ck1/2
+
+Comentarios
+El valor mínimo en la expresión de la EHE-08 es un 42% mayor que en el CE (0,035 frente a 0,05).
+Si el elemento no tiene armadura de cortante, con el CE no es necesario comprobar la biela, salvo en el caso de cargas
+cercanas al apoyo (A19 6.2.2 (6). En cualquier caso, en piezas de hormigón armado sin armadura de cortante, la
+resistencia por bielas (EHE) era por lo general menor que la del tirante.
+
+A19 6.2.3 (3)
+44.2.3.2.2
+Resistencia de un elemento con armadura de cortante Resistencia de un elemento con armadura de
+cor tante
+(6.8)
+Asw
+
+=
+Vs
+
+s
+
+Ζf ywd cot θ
+
+Esfuerzo cortante de agotamiento por tracción en el
+
+NOTA: Si se utiliza la expresión (6.10), el valor de f ywd alma:
+V=
+Vcu + Vsu
+u2
+deberá reducirse a 0,8 f ywd en la expresión (6.8) y
+=
+VRd ,max α cwbw zν 1 f / ( cot θ + tan θ )     (6.9)
+ 0,15
+
+1/3
+=
+Vcu 
+ξ (100 ρl f cv ) + 0,15σ ´cd  β b0 d
+γ
+ c
+
+
+=
+de Vsu z·senα (cot gα + cot gθ )
+θ es el ángulo entre las bielas de compresión
+hormigón y el eje de la viga perpendicular al esfuerzo
+cortante, limitado por el intervalo: 0,5≤cotθ ≤2
+Con valor mínimo de:
+
+∑ Aα fy
+
+α, d
+
+ 0, 075 3/2 1/2
+
+=
+Vu 2 
+ξ f cv + 0,15σ ´cd  b0 d
+ γc
+
+
+Comentarios
+CE no suma la contribución del hormigón ( Vcu ) y la de la armadura ( Vsu ).
+El valor VRd ,max del CE es equivalente al Vu1 de la EHE-08 y el VRd , s al Vu 2 .
+
+16
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+A19 6.2.3 (3)
+Valor de la tensión del acero
+
+40.2
+Valor de la tensión del acero
+
+En función del valor empleado en el coeficiente ν 1 , de Limita la tensión de cálculo de la armadura pasiva
+reducción de la resistencia del hormigón fisurado por a 400 N/mm², salvo que se realizase un estudio de
+el efecto del cortante, la tensión máxima empleada compatibilidad pormenorizado.
+en la expresión 6.8 del artículo A19 6.2.3 podrá ser
+f yd o 0,8 ⋅ f yd .
+Si se emplea f yd :
+
+f 
+
+=
+ν 1 0, 6 1 − ck 
+250
+
+
+
+con f ck en N/mm²
+
+Si se emplea 0,8· f yd : ν 1 =0,6
+
+Comentarios
+En los casos en los que la capacidad de la biela no limite la capacidad del elemento interesará poder considerar una
+tensión superior en el acero a costa de reducir la resistencia del hormigón.
+
+A19 6.2.3 (5)
+Sección empleada en la comprobación de cortante
+
+44.2.3
+Sección empleada en la comprobación de cortante
+
+En las regiones en las que no hay discontinuidad de
+VEd (por ejemplo, para el caso de cargas uniformemente distribuidas en la parte superior), la armadura
+de cortante en una longitud básica I = Ζ cot θ puede
+calcularse utilizando el menor valor de VEd en dicha
+longitud.
+
+La comprobación por compresión oblicua en el alma
+se realizará en el borde del apoyo y no en su eje. La
+comprobación correspondiente al agotamiento por
+tracción en el alma se efectúa para una sección situada a una distancia de un canto útil del borde del
+apoyo.
+
+Comentarios
+La aplicación de A 19 6.2.3(5) al cortante máximo de una viga con carga distribuida en la cara superior implica que
+puede tomarse como valor de VEd el situado a una distancia de la cara del pilar que, en el caso de bielas a 45º, es igual
+al canto útil.
+
+17
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Estado Límite Último (ELU) de Punzonamiento
+CE
+
+EHE-08
+
+A19 6.4.3 (3)
+Influencia del momento transferido entre losa y Influencia del momento transferido entre losa y
+soporte.
+soporte.
+Se establece un método general para el coeficiente
+β
+No hay método general.
+M
+u
+β 1
+=
++ k Ed ⋅ 1
+VEd W1
+
+A19 6.4.3 (6)
+Método simplificado
+
+46.3
+Método simplificado
+
+Para estructuras en las que la estabilidad lateral no
+dependa de que la losas y pilares trabajen como pórticos y las luces de los vanos adyacentes no difieran
+más de un 25%, se pueden utilizar valores aproximados de β :
+1,15 en soportes interiores
+1,40 en soportes de borde
+1,50 en soportes de esquina
+
+Cuando no hay momento transferido se toma β =1
+Cuando hay momento transferido, simplificadamente, β puede tomarse igual a
+1,15 en soportes interiores,
+1,40 en soportes de borde
+1,50 en soportes de esquina.
+
+A19 6.4.4 (1)
+46.3
+Resistencia mínima del hormigón en la sección Resistencia mínima del hormigón en la sección
+crítica
+crítica
+0, 075 3/2 1/2
+vmin = 0, 035k 3/2⋅ f ck 1/2
+=
+τ rd
+ξ f cv + 0,1σ ´cd
+
+γc
+
+Comentarios
+El valor mínimo es menor en el CE 0,035 frente a 0,05 de la EHE-08
+
+A19 6.4.5 (1)
+46.4.1
+Limitación de la resistencia a punzonamiento con Limitación de la resistencia a punzonamiento con
+armadura de cortante
+armadura de cortante
+=
+v
+0,
+75
+v
++
+1,5
+d
+/
+s
+A
+f
+1/
+u
+d
+sen
+α
+(
+)
+(
+)
+)
+Rd , cs
+Rd , c
+r
+sw ywd , ef (
+1
+No existe esa limitación.
+vRd ,cs ≤ kmáx ⋅ vRd ,c
+
+kmáx = 1,5
+
+τ s d ≤ 0, 75τ rd + 1,5 ⋅
+
+Asw f yα ,d sen α
+s ⋅ u1
+
+Comentarios
+Se limita la capacidad del nudo a 1,5 veces la capacidad del nudo sin armadura
+
+18
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+A19 6.4.5 (1)
+Limitación de la tensión del acero
+
+f ywd ,ef =
+250 + 0, 25d ≤ f ywd [ N/mm² ]
+
+46.4.1
+Limitación de la tensión del acero
+f yα ,d resistencia de cálculo de la armadura A , no
+α
+mayor que 400 MPa.
+
+Con d en mm
+
+Comentarios
+En losas de poco espesor, la resistencia de la armadura de cortante estará en el entorno de los 300 MPa, menor que
+la de la EHE ( f yα ,d =400 MPa).
+
+A19 6.4.5 (3)
+Resistencia máxima del nudo
+
+Vrd ,máx = 0, 4vf cd
+=
+v 0, 6 (1 − f ck / 250 ) con f ck en N/mm 2
+
+46.4.3
+Resistencia máxima del nudo
+
+f sd ,ef
+uo d
+
+≤ 0,5 f1cd
+
+f1cd = 0, 60 f cd
+
+Comentarios
+En el CE disminuye la capacidad máxima del nudo.
+Por ejemplo, para f ck =30, la resistencia máxima es:
+-
+
+en EHE-08: Vrd ,máx =0,30 f cd
+en CE: Vrd ,máx =0,22 f cd
+
+A19 6.4.5 (4)
+Zona exterior a la armadura de punzonamiento
+
+46.4.2
+Zona exterior a la armadura de punzonamiento
+
+No se elimina β , el efecto del momento transferido
+entre losa y soporte.
+
+A la distancia a la que se comprueba esta condición
+se supone que ha desaparecido el efecto del
+momento transferido entre losa y soporte.
+
+A19 6.4.5 (4)
+Disposición de armadura y perímetro exterior
+
+46.5
+Disposición de armadura y perímetro exterior
+
+Comentarios
+En el CE, el perímetro exterior se dispone a 1,5 d , más cerca que en la EHE-08.
+Si las armaduras exteriores distan más de 2 d , el perímetro exterior se penaliza.
+
+19
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Bielas y tirantes
+CE
+
+EHE-08
+
+A19 6.5.2
+Bielas
+
+40.3
+Bielas
+
+La capacidad de las bielas se calcula mediante la
+misma expresión que en el Eurocódigo 2 (EC2)
+TABLA 24.1
+CAPACIDAD RESISTENTE DE BIELAS
+Esquema
+
+Capacidad de la biela
+s/ EHE
+s/ EC2
+fcd
+
+fcd
+
+TABLA 24.1
+CAPACIDAD RESISTENTE DE BIELAS
+Esquema
+
+0,70 fcd
+Capacidad de la biela
+s/ EHE
+s/ EC2
+fcd
+
+ffcd 
+
+0,61 − ck  f cd
+ 250 
+
+0,60 fcd
+
+0,70 fcd
+
+0,40 fcd
+
+f 
+Fuente: Fuente:
+Montoya
+esencial,
+16ª
+ed,0,61
+Cinter
+− ck  f cd
+Montoya
+esencial, 16ª ed.
+Cinter
+
+A19 6.5.4
+Nudos
+
+
+
+0,60 fcd
+
+40.4
+TABLA 24.2
+NudosDE NUDOS
+CAPACIDAD RESISTENTE
+
+Esquema
+La capacidad de las bielas se calcula mediante
+la
+misma expresión que en el EC2
+
+250 
+
+Capacidad
+del nudo
+0,40
+fcd
+s/ EHE
+s/ EC2
+
+Fuente: Montoya esencial, 16ª ed. Cinter
+
+f 
+
+1 − ck  f cd
+f
+TABLA 24.2 cd
+ 250 
+CAPACIDAD RESISTENTE DE NUDOS
+Esquema
+
+Capacidad del nudo
+s/ EHE
+s/ EC2
+
+fcd fcd
+3,30
+
+f ck 
+
+3·1 − ck
+ ff cd
+250  cd
+ 250
+
+3,30 fcd
+
+f 
+
+0, 3
+85·11−− ck  f cd
+cd
+ 250 
+
+0,70 fcd
+
+f 
+
+0,751 − ck  f cd
+f 
+ 250
+0,851 − ck  f cd
+250 
+
+Fuente: Montoya esencial,0,70
+16ª f
+ed.
+cd Cinter
+
+f 
+
+0,751 − ck  f cd
+250 
+
+
+Fuente: Fuente:
+Montoya
+esencial,
+16ªCinter
+ed, Cinter
+Montoya
+esencial, 16ª ed.
+20
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Estado límite de Servicio (ELS). Fisuración
+CE
+
+EHE-08
+
+A19 7.3.2
+Área mínima de armadura
+
+Área mínima de armadura
+La EHE-08 no contempla la estrategia de armadura
+mínima en fisuración.
+
+As ,minσ s = kc kf ct ,eff Act
+k =1 para h < 300m
+Comentarios
+k =0,65 para h > 800m
+
+kc=0,4 para felxión simple y sección rectangular de
+
+En losas de
+poco espesor, la resistencia de la armadura de cortante estará en el entorno de los 300 MPa, menor que
+hormigón
+armado
+la de la EHE (fyd=400 MPa).
+
+Comentarios
+Esta armadura mínima es de control indirecto de la fisuración
+Su valor depende de la edad en la que se quiere controlar f ct ,eff , y de la tensión del acero que se quiere permitir en la
+fisura.
+En esfuerzos de flexión los resultados son similares a las normas españolas anteriores.
+La expresión, aplicada a flexión, da un resultado muy similar a 9.2.1.1.
+
+CE
+
+EHE-08
+
+A19 7.3.3
+Control de la fisuración sin cálculo directo
+
+Control de la fisuración sin cálculo directo
+
+Tabla A19.7.2 Diámetro máximo de las barras ϕs * para el control de la ﬁsuración1.
+Tensión del acero2
+[N/mm 2 ]
+
+Diámetro máximo de la barra [mm ]
+
+w k=0,4 mm
+
+w k=0,3 mm
+
+w k=0,2 mm
+
+160
+
+40
+
+32
+
+25
+
+200
+
+32
+
+25
+
+16
+
+240
+
+20
+
+16
+
+12
+
+280
+
+16
+
+12
+
+8
+
+320
+
+12
+
+10
+
+6
+
+360
+
+10
+
+8
+
+5
+
+400
+
+8
+
+6
+
+4
+
+450
+
+6
+
+5
+
+-
+
+No hay tablas simplificadas.
+
+Tabla A19.7.3 Separación máxima de las barra para el control de la ﬁsuración 1.
+Diámetro máximo de la barra [mm ]
+
+Tensión del acero2
+[N/mm 2]
+
+w k =0,4 mm
+
+w k =0,3 mm
+
+w k =0,2 mm
+
+160
+
+300
+
+300
+
+200
+
+200
+
+300
+
+250
+
+150
+
+240
+
+250
+
+200
+
+100
+
+280
+
+200
+
+150
+
+50
+
+320
+
+150
+
+100
+
+-
+
+360
+
+100
+
+50
+
+-
+
+A19 7.3.4 (1)
+Cálculo de la abertura de fisura
+
+=
+Wk sr ,máx ( ε sm − ε cm )
+
+49.2.4
+Cálculo de la abertura de fisura
+
+Wk = β smε sm
+
+Comentarios
+En el CE, no se penaliza el producto s ε con el coeficiente β =1,7.
+
+21
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+A19 7.3.4 (2)
+Cálculo de la deformación relativa
+
+σ s − K1
+=
+ε sm − ε cm
+
+f ct ,eff
+
+49.2.4
+Cálculo de la deformación relativa
+
+(1 + α ρ )
+
+ρ p ,eff
+Es
+
+e
+
+σ  
+σs 
+σ
+1 − k2  sr   ≥ 0, 4 s
+ε sm =
+Es 
+Es
+ σs  
+2
+
+p , eff
+
+≥ 0, 6
+
+σs
+Es
+
+
+
+
+
+Comentarios
+Ambas expresiones son similares, salvo que el cociente de tensiones de la EHE-08 estaba elevado al cuadrado.
+=
+f ct (1 + αρ ) / ρ siendo (α ) el coefiLa diferencia formal de las dos expresiones es que el CE explicita el cálculo de σ
+sr
+ciente de equivalencia ( Es / Ec ).
+El CE aumenta el mínimo valor de la deformación relativa a 0,6 veces la deformación del acero en la fisura.
+
+A19 7.3.4 (3)
+Separación entre fisuras
+
+S r ,máx
+= k3c + k1k2 k4φ / ρ p ,eff
+
+k1 = 0,8
+k2 = 0,5
+k3 = 3, 4
+
+49.2.4
+Separación entre fisuras
+
+2c + 0, 2s + 0, 4k1
+sm =
+
+∅Ac ,eficaz
+As
+
+k1 = 0,125
+
+k4 = 0, 425
+Para estructuras de hormigón armado, a flexión.
+
+S r ,máx
+= 3, 4c + 0,17φ / ρ
+
+Comentarios
+En la fórmula del CE desaparece la influencia de la separación entre barras y se le da más importancia al recubrimiento
+(que aumenta la separación entre fisuras) y, especialmente, a la cuantía de armadura (que disminuye la separación
+entre fisuras).
+
+22
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Estado límite de Servicio (ELS). Deformación. Flechas
+CE
+
+EHE-08
+
+A19 7.4.2
+Casos en los que se pueden omitir los cálculos
+
+50.2.2.1
+Casos en los que se pueden omitir los cálculos
+Tabla 50.2.2.1.a
+Relaciones L/d en vigas y losas de hormigón armado
+sometidos a flexión simple
+
+Tabla A19.7.4 Relación luz/canto útil para elementos de hormigón armado
+sin esfuerzo axil de compresión
+Hormigón sometido a
+baja tensión
+
+Sistema estructural
+
+K
+
+Hormigón sometido a
+tensión elevada
+
+Viga simplemente apoyada; losa
+unidireccional o bidireccional simplemente
+apoyada
+
+1,0
+
+14
+
+20
+
+Extremo del vano de una viga continua,
+losa unidireccional continua o losa
+bidireccional continua en una dirección
+
+1,3
+
+18
+
+26
+
+Vano interior de viga, losa unidireccional o
+losa bidireccional
+
+1,5
+
+20
+
+30
+
+Losa apoyada en pilares sin vigas
+(losa plana) (para grandes longitudes)
+
+1,2
+
+17
+
+24
+
+4
+0,
+
+6
+
+8
+
+Voladizo
+
+ρ =1,5%
+
+ρ =0,5%
+
+Sistema estructural
+L/d
+
+K
+
+Viga simplemente apoyada. Losa uni o
+bidireccional simplemente apoyada
+
+1,00
+
+14
+
+20
+
+Viga continua1 en un extremo. Losa unidireccional continua1,2 en un solo lado
+
+1,30
+
+18
+
+26
+
+1,50
+
+20
+
+30
+
+Recuadros exteriores y de esquina en
+5
+1,1
+losas sin vigas sobre apoyos aislados
+
+16
+
+23
+
+Recuadros interiores en losas sin vigas
+sobre apoyos aislados
+
+1,20
+
+17
+
+24
+
+Voladizo
+
+0,40
+
+6
+
+8
+
+1
+
+Viga continua en ambos extremos. Losa
+unidireccional o bidireccional continua1,2
+
+Elementos fuertemente Elementos débilmente
+armados: r = 1,5%
+armados r = 0,5%
+
+Comentarios
+En el CE desaparece una fila (de losas bidireccionales), pero los valores son prácticamente idénticos.
+
+A19 7.4.3 (3)
+Cálculo de la flecha
+α= ζα II + (1 − ζ ) α I
+
+ σ sr 
+
+ σs 
+
+ζ = 1− β 
+
+2
+
+50.2.2.1
+Cálculo de la flecha
+3
+  M f 3 
+Mf 
+=
+le 
+l
++
+ b 1 − 
+  lf ≤ lb
+  M a  
+ Ma 
+
+α es el parámetro de deformación considerado que
+
+puede ser, por ejemplo, una deformación, una curvatura o un giro (como simplificación, α puede tomarse
+como una flecha)
+El cociente de tensiones se puede aproximar por el
+cociente de momentos (como en EHE-08)
+Se debe utilizar la resistencia a tracción fct .
+Solo se utiliza la resistencia a flexotracción si se puede demostrar que no hay tracciones por esfuerzos
+axiles.
+El método más riguroso para la evaluación de las flechas, utilizando el método general, consiste en calcular la curvatura en un gran número de secciones a
+lo largo de la estructura para, posteriormente, calcular la deformación por integración numérica.
+
+23
+
+Para calcular M f se utiliza resistencia media a
+flexotracción del hormigón.
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Comentarios
+El cambio más importante es que el CE propone una interpolación entre el estado bruto y fisurado (como la EHE-08)
+pero para las propiedades de la sección. La EHE-08 proponía esa interpolación para las inercias.
+El proceso propuesto por el CE es más general pero más laborioso.
+El CE permite realizar esta interpolación para flechas, lo que simplifica el cálculo notablemente.
+
+A19 7.4.3 (5)
+Flecha de fluencia
+
+50.2.2.1
+Flecha diferida
+
+La deformación total puede calcularse con un
+módulo de deformación:
+
+λ=
+
+Ec ,eff =
+
+Ecm
+1 + ϕ ( ∞, t 0 )
+
+ξ
+1 + 50 ρ´
+
+ξ = ξ (Edad de cálculo) + (Edad de carga)
+5 o más años
+
+2,0
+
+1 año
+
+1,4
+
+6 meses
+
+1,2
+
+3 meses
+
+1,0
+
+1 mes
+
+0,7
+
+2 semanas
+
+0,5
+
+Comentarios
+La flecha diferida ya no depende de forma directa de la armadura de compresión.
+La flecha por retracción no se incluye dentro del cálculo simplificado del CE.
+
+24
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Armaduras mínimas y máximas. Detalles de armado. VIGAS
+CE
+
+EHE-08
+
+A19 9.2.1.1
+Armadura mínima en vigas
+
+42.3.2
+Armadura mínima en vigas
+Sin pretensado:
+
+W f ctm , fl
+As ,min =
+z f yd
+
+As f yd ≥
+
+W1
+f ct ,m, fl
+z
+
+Simplificadamente para sección rectangular y
+hormigón armado:
+
+As ≥ 0, 004 Ac
+
+f cd
+f yd
+
+Tabla 42.3.5
+Cuantías geométricas mínimas, en tanto por 1.000, referidas
+a la sección total de hormigón(6)
+Tipo de acero
+Tipo de elemento estructural
+
+Aceros con
+fy = 400 N/mm2
+
+Aceros con
+fy = 500 N/mm2
+
+Pilares
+
+4,0
+
+4,0
+
+Losas(1)
+
+2,0
+
+1,8
+
+Nervios (2)
+
+4,0
+
+3,0
+
+Armadura de reparto perpendicular a los nervios (3)
+
+1,4
+
+1,1
+
+Armadura de reparto paralela a los nervios (3)
+
+0,7
+
+0,6
+
+3,3
+
+2,8
+
+Armadura horizontal
+
+4,0
+
+3,2
+
+Armadura vertical
+
+1,2
+
+0,9
+
+Forjados unidireccionales
+
+Vigas (4)
+Muros
+
+(5)
+
+A19 9.2.1.1 (3)
+El área de la sección de la armadura de tracción
+o de compresión no debe superar As ,máx =0,04Ac
+fuera de las zonas de solape.
+
+Comentarios
+La EHE, salvo la cuantía máxima mecánica en pilares, no proponía armaduras máximas. La disposición de armaduras
+mínimas geométricas, en la EHE, se resumía en una tabla. En el CE, se detalla por artículos, según el elemento
+estructural (Artículo 9 del anejo 19).
+
+A19 9.2.1.2
+Reparto de la armadura superior
+
+Reparto de la armadura superior
+
+En los apoyos intermedios de las vigas continuas, No hay ninguna referencia a esta disposición de
+el área total de armadura de tracción As de las armaduras.
+secciones en T o en cajón debe repartirse sobre el
+ancho eficaz del ala. Una parte de esta armadura
+puede estar concentrada en el ancho del alma.
+
+25
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+A19 9.2.1.4
+42.3.2
+Anclaje de la armadura inferior en los apoyos extre- Anclaje de la armadura inferior en los apoyos extremos
+mos
+El área de la armadura inferior dispuesta en los apo- La armadura inferior prolongada hasta los apoyos
+yos extremos, suponiendo un empotramiento leve o extremos se definía como 1/3 de la necesaria para
+nulo en el cálculo, deberá ser al menos 1/4 del área resistir el máximo momento positivo.
+de las armaduras dispuestas en el vano.
+Se define la fuerza de tracción que se debe anclar,
+aplicando la regla del decalaje:
+
+FEd =|VEd | ⋅ al / z + N Ed
+A19 9.2.1.5
+42.3.2
+Anclaje de la armadura inferior en los apoyos inter- Anclaje de la armadura inferior en los apoyos intermedios
+medios
+El área de la armadura inferior dispuesta en los apo- La armadura inferior prolongada hasta los apoyos inyos intermedios deberá ser al menos 1/4 del área de termedios se definía como un cuarto de la necesaria
+las armaduras dispuestas en el vano.
+para resistir el máximo momento positivo
+Se define la fuerza de tracción que se debe anclar,
+aplicando la regla del decalaje, así como detalles de
+armado.
+
+Por ejemplo, en casos de asiento del apoyo, explosión, etc, en el proyecto se debe especificar la armadura necesaria para resistir los posibles momentos
+positivos, lo que se puede conseguir mediante el solapo de barras. Véase figuras b) o c)
+A19 9.2.2 (5)
+Armadura mínima de cortante
+
+ρ w,min =
+
+0, 08 f ck
+f yk
+
+44.2.3.4.1
+Armadura mínima de cortante
+
+A f y ,d
+
+f ct ,m
+
+α
+α
+≥
+b
+∑ sen
+α
+7,5
+
+0
+
+Comentarios
+La fórmula es diferente, pero arroja valores similares, algo menores que la EHE-08.
+
+26
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+A19 9.2.2 (6)
+Separación longitudinal máxima de armadura de
+cortante
+=
+s
+0, 75d (1 + cot α )
+l , máx
+
+44.2.3.4.1
+Separación longitudinal máxima de armadura de
+cortante
+1
+st ≤ 0, 75d (1 + cot g α ) ≤ 600mm si Vrd ≤ vu1
+5
+1
+2
+st ≤ 0, 60d (1 + cot g α ) ≤ 450mm si Vu1 < Vrd ≤ Vu1
+5
+3
+2
+st ≤ 0, 30d (1 + cot g α ) ≤ 300mm si Vrd ≤ vu1
+3
+
+Comentarios
+La separación longitudinal es menos exigente que en la EHE, especialmente para cortantes elevados..
+
+Separación transversal máxima entre ramas vertica- Separación transversal máxima entre ramas
+les de armadura de cortante
+verticales
+
+st ,máx= d < 500mm
+
+=
+s
+0, 75d < 600mm
+t , máx
+
+de armadura de cortante
+
+Detalles de armado. LOSAS
+
+st ,máx
+= 2d < 350mm
+
+Comentarios
+La separación transversal máxima entre ramas es algo menor que en la EHE y determinante en el caso de vigas de
+pequeño canto.
+
+Detalles de armado. LOSAS
+CE
+
+EHE-08
+
+A19 9.9.3 y A19 9.4
+El CE diferencia las losas macizas (A19 9.3) de las No existen estas categorías
+losas planas (A19 9.4).
+En las losas macizas, sobre apoyos lineales, se especifica la disposición de armadura de cortante.
+En las losas planas, sobre pilares, se especifica la
+disposición de armadura de punzonamiento.
+
+27
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Detalles de armado. PILARES
+CE
+
+EHE-08
+
+A19 9.5.2 (3)
+Armadura máxima en pilares
+
+42.3.3
+Armadura máxima en pilares
+
+El área de la sección de la armadura de tracción o de
+compresión no debe superar As , máx = 0, 04 Ac fuera
+de las zonas de solape.
+
+A´s1 f yc ,d ≤ 0,5 f cd Ac
+
+A19 9.5.2 (4)
+Número mínimo de barras
+
+54
+Número mínimo de barras y dimensión mínima
+
+A´s 2 f yc ,d ≤ 0,5 f cd Ac
+
+El número de barras longitudinales en un pilar circu- El número de barras longitudinales en un pilar circular no debe ser inferior a cuatro.
+lar no debe ser inferior a seis.
+Los soportes hormigonados en obra deben tener
+una dimensión mínima mayor o igual a 25 cm.
+
+Comentarios
+En el CE no hay dimensión mínima de pilares.
+
+Detalles de armado. MUROS
+CE
+A19 9.6
+Armadura mínima en muros
+
+EHE-08
+42.3.5
+Armadura mínima en muros
+
+Para la cuantía mínima de armadura vertical en mu- Ver tabla general de armaduras mínimas
+ros, se adopta As ,v min = 0, 002 Ac (colocando un 60% geométricas.
+de la misma en la cara traccionada).
+
+28
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Detalles de armado. CIMENTACIÓN
+CE
+
+EHE-08
+
+A19 9.8.1
+Encepados
+
+58
+Encepados
+
+Las cimentaciones profundas quedan fuera del
+ámbito de este Código Estructural.
+
+Se definen métodos para comprobar elementos y
+dimensionar la armadura
+
+Comentarios
+La armadura principal de los encepados se calcula a partir de análisis de resistencia, pero no se hace referencia a las
+armaduras secundarias de los encepados.
+Dado que las cimentaciones profundas quedan fueran del ámbito del CE determinadas remisiones que el Documento
+Básico de Seguridad Estructural (DBSE-C) del Código Técnico de la Edificación (CTE) hacía a la EHE-08 no tienen una
+remisión equivalente dentro el CE. Se encuentran en este caso, por ejemplo, las remisiones que se hacían desde el
+apartado 5.3.8.2 del DBSE-C al armado de los pilotes. La EHE-08 ha sido específicamente derogada por el CE de modo
+que ya no es un texto reglamentario, pero sigue siendo un documento técnico valioso y de referencia en el sector. Dado
+que el CTE DBSE-C es un texto reglamentario en vigor las remisiones que este reglamento hace a la EHE-08, sobre
+cuestiones que no entran en el ámbito de aplicación del CE y, por tanto, en ningún caso, se oponen al CE, siguen siendo
+validas en tanto que son referencias a un documento técnico probado y seguro, que no entra en contradicción en esos
+apartados con la reglamentación en vigor.
+
+Detalles de armado. ARMADURA DE ATADO
+CE
+A19 9.10.1 (1 y 2)
+Armadura de atado (de robustez)
+
+EHE-08
+Armadura de atado (de robustez)
+
+Las estructuras que no estén calculadas para resistir No existen artículos referentes a esta cuestión.
+situaciones accidentales deberán tener un sistema
+de atado adecuado, destinado a prevenir un agotamiento progresivo mediante la disposición de trayectorias alternativas para las cargas después de
+que se produzcan los daños. Para satisfacer este
+requisito, se establecen una serie de sencillas reglas
+expuestas a continuación.
+Se deben disponer las siguientes armaduras de
+atado:
+- armaduras de atado perimetrales,
+- armaduras de atado interiores,
+- armaduras de atado horizontales de
+pilares o muros.
+
+29
+
+COMPARATIVA CE Y EHE-08 APLICADA A EDIFICACIÓN
+
+Comentarios
+Esta armadura de atado es la también llamada armadura de robustez.
+
+Pórticos virtuales
+CE
+
+EHE-08
+
+A19 y Apéndice I I.1.2
+Cálculo del pórtico equivalente
+
+Cálculo del pórtico equivalente
+
+Se define el pórtico equivalente, los anchos de banda No existen artículos referentes a esta cuestión.
+de pilares y banda intermedia, y el reparto de momentos negativos y positivos entre bandas.
+Tabla A19.I.1. Reparto simpliﬁcado del momento ﬂector para losas planas
+Momentos negativos
+
+Momentos positivos
+
+Banda sobre pilar
+
+60% – 80%
+
+50% – 70%
+
+Banda intermedia
+
+40% – 20%
+
+50% – 30%
+
+NOTA:
+
+Los momentos negativos y positivos que deben resistir el pilar y las bandas intermedias siempre deben
+sumar 100%.
+
+30
+
+

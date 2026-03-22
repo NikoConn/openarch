@@ -1,0 +1,336 @@
+SOLUCIÓN
+
+A3
+
+PUERTAS ESTANCAS
+
+Efectividad con concentración
+mayor de 600 Bq/m3
+
+2
+3
+
+Efectividad con concentración
+menor de 600 Bq/m3
+Dificultad(1)
+
+1
+
+Coste(1)
+
+1
+
+1. FINALIDAD
+Las puertas estancas tienen como finalidad limitar el
+paso de radón desde zonas con alta concentración
+de este gas, como son los espacios de contención,
+hacia el resto del edificio.
+
+El espacio de contención es un espacio situado entre
+el terreno y los locales a proteger que recibe el radón
+proveniente del terreno y que, mediante ventilación
+natural o mecánica, lo expulsa al exterior del edificio
+mitigando el paso de radón al interior de los locales
+habitables.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará cuando exista un espacio
+de contención comunicado con el resto del edificio
+mediante puertas o trampillas con alta permeabilidad
+al aire (Figura 1). En todo caso, también se podrán sellar las puertas y trampillas que comuniquen cualquier
+cámara o local no habitable situado entre el terreno
+y los locales a proteger con el resto del edificio, mejorando así la protección frente al radón, como, por
+ejemplo:
+■
+
+un sótano/semisótano con garaje o trasteros y una
+planta baja dedicada a locales comerciales o viviendas;
+
+■
+
+un sótano/semisótano con aparcamiento y una
+planta baja de una vivienda unifamiliar;
+
+■
+
+una cámara sanitaria y la planta baja desde la que
+se accede.
+
+Figura 1 - Ejemplos de puertas que deberían ser estancas: trampilla a
+cámara sanitaria (arriba) y puerta de bajada a sótano (abajo)
+
+3. EFECTIVIDAD
+El sellado de puertas o trampillas es una solución no
+demasiado efectiva por sí sola, por lo que se recomienda su empleo junto con otras soluciones como
+la barrera de protección frente al radón (Solución A1 y
+Solución A1.1), el sellado de fisuras, grietas, encuentros y juntas (Solución A2), la ventilación de cámaras
+de aire (Solución B1) o la ventilación de locales no habitables (Solución B2).
+(1) Se ha considerado la mejora de una puerta existente
+
+Solución A3 • Puertas estancas
+
+Para comprobar si la efectividad de la solución es
+adecuada, se recomienda medir la concentración de
+radón alcanzada dentro de los locales habitables tras
+la intervención.
+
+2
+3
+1
+
+4. DIFICULTAD DE INSTALACIÓN
+Es una solución sencilla que no requiere un grado de
+especialización alto en su implementación.
+1
+
+5. CÓMO SE CONSIGUE
+
+3
+
+Esta solución consistirá en reducir la permeabilidad al
+aire de las puertas o trampillas existentes causada por
+una holgura excesiva entre la hoja y el cerco o entre
+los paneles y marcos, la presencia de rejillas de ventilación, la falta de mecanismos de cierre automático,
+etc.
+
+1
+2
+3
+4
+
+junta
+perfil fijo
+puerta
+cerco
+
+Figura 3 - Juntas elásticas verticales sujetas mediante un perfil fijo (arriba)
+y directamente al cerco (abajo)
+
+Cuando la apertura entre la hoja de la puerta y el cerco no permita la disposición de una junta, ésta se podrá colocar con ayuda de un perfil fijo. Los sistemas
+de cepillo sujetos a la hoja de la puerta no son lo suficientemente eficientes, por lo que no se recomienda
+su uso.
+Figura 2 - Mecanismo de cierre automático
+
+La reducción de la permeabilidad se podrá lograr
+bien sustituyendo las puertas existentes o bien mejorándolas.
+
+En el caso de trampillas la solución dependerá de su
+frecuencia de uso. Si es esporádico, lo más eficiente
+será su sellado, pero si es frecuente lo más adecuado
+será implementar soluciones similares a las descritas
+para puertas.
+3
+
+En el caso de sustitución de puertas existentes, se
+considera que pueden ser adecuadas las puertas interiores de permeabilidad al aire de clase C o D según
+la UNE-EN 12207. A mayor estanqueidad de la puerta,
+mayor seguridad frente al paso de radón.
+
+1
+2
+
+En el caso de mejora de puertas existentes, podrán
+implementarse las siguientes medidas:
+■
+
+disposición de un mecanismo de cierre automático
+(Figura 2);
+
+■
+
+colocación de una junta elástica en todo el perímetro del cerco (Figura 3) y en un perfil fijo o elemento
+que permita su sujeción al pavimento (Figura 4);
+
+■
+
+oclusión de rejillas de ventilación existentes.
+
+1
+2
+3
+
+junta
+perfil fijo
+puerta
+
+Figura 4 - Junta elástica horizontal sujeta a un perfil fijo al pavimento
+
+En el caso de vestíbulos con dos puertas consecutivas, se recomienda que sea estanca la primera puerta
+en el sentido de avance del gas radón hacia las zonas
+habitables, es decir, la más cercana a la zona no habitable.
+
+A3
+
+2
+2
+
+Solución A3 • Puertas estancas
+
+En el caso de otras puertas interiores que pueda haber en un local no habitable, como puertas de trasteros, no será necesario que sean estancas y además se
+conservarán las rejillas o aberturas de ventilación que
+puedan tener.
+
+6. PUNTOS CRÍTICOS
+Alineación de la puerta
+La alineación de la puerta es el principal punto crítico en la instalación de una trampilla o puerta estanca
+para que todos sus mecanismos de cierre funcionen
+adecuadamente.
+
+7. COSTE
+El coste puede variar sustancialmente dependiendo
+de si la intervención consiste en sustituir o mejorar
+una puerta existente.
+El coste que se ha tenido en cuenta en la gráfica al
+comienzo de esta ficha es el correspondiente a la mejora de una puerta existente.
+
+OBSERVACIONES
+Puerta situada en un recorrido
+accesible o de evacuación
+Cuando la puerta esté ubicada en un recorrido
+accesible o para evacuación en caso de incendio, no podrá disponerse un perfil fijo en el suelo puesto que supondría un obstáculo. En este
+caso, tendrá que sustituirse la puerta existente
+por una nueva con las condiciones de permeabilidad al aire indicadas anteriormente.
+
+Puerta con rejilla de ventilación
+Cuando la puerta existente cuente con una rejilla
+que haya que ocluir de acuerdo a la información
+proporcionada anteriormente, será necesario
+prever soluciones sustitutivas para la ventilación
+del local no habitable.
+
+A3
+
+3
+3
+
+Solución A3 • Puertas estancas
+
+Este documento ha sido elaborado por el Instituto de ciencias
+de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+de la Dirección General de Agenda Urbana y Arquitectura del
+Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+Esta ficha forma parte de una serie de documentos englobados
+en una misma publicación, cuyo objetivo es constituir una herramienta de ayuda para el diseño de soluciones de protección
+frente al radón:
+■
+
+Guía de rehabilitación frente al radón
+
+Fichas de soluciones:
+A: De aislamiento del edificio
+■
+■
+■
+■
+■
+
+Solución A1. Barrera frente al radón
+Solución A1-1. Barrera frente al radón. Encuentros
+Solución A2. Sellado de fisuras, grietas, encuentros y juntas
+Solución A3. Puertas estancas
+Solución A4. Creación de sobrepresión
+
+B: De reducción del radón antes de que penetre en los locales
+a proteger
+■
+■
+■
+
+Solución B1. Ventilación del espacio de contención: cámara de aire
+Solución B2. Ventilación del espacio de contención: locales no habitables
+Solución B3. Despresurización del terreno
+
+C: De reducción del radón tras penetrar en los locales a proteger
+■
+
+Solución C1. Ventilación de los locales habitables
+
+El IETcc, perteneciente al Consejo Superior de Investigaciones
+Científicas (CSIC), es el centro de investigación en edificación
+de referencia en España. La Unidad de Calidad en la Construcción del IETcc asesora al MITMA en la elaboración del Código
+Técnico de la Edificación que, desde el año 2019, cuenta con la
+sección HS6 Protección frente a la exposición al radón.
+Dirección y Coordinación:
+Ministerio de Transportes, Movilidad y Agenda Urbana
+Isabel Marcos Anasagasti
+Raquel Lara Campos
+Eduardo González de Prado
+Instituto de ciencias de la construcción Eduardo Torroja CSIC
+Pilar Linares Alemparte
+Autoras:
+Sonia García Ortega
+Pilar Linares Alemparte
+Colaboradoras:
+Virginia Sánchez Ramos
+Karina Angélica García Pardo
+Edita:
+Centro de Publicaciones Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda Urbana©
+Entidad colaboradora:
+Consejo Superior de Investigaciones Científicas · CSIC
+Ministerio de Ciencia e Innovación
+Catálogo de publicaciones de la Administración General
+
+del Estado: publicacionesoficiales.boe.es
+Centro virtual de publicaciones del Ministerio de Transpor
+tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+
+Fichas de ejemplos:
+■
+■
+■
+■
+
+Ejemplo A1+B3. Barrera frente al radón + despresurización
+con red de tubos
+Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B3. Sellado + despresurización con red de tubos
+Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+
+Página web del Código Técnico de la Edificación:
+www.codigotecnico.org
+
+ 
+
+Maquetación y diseño gráfico:
+Lapizmente. Estrategia • Diseño Gráfico
+
+Publicación completa:
+ISBN: 978-84-498-1045-9
+NIPO: 796-20-136-5
+
+Los contenidos o ideas recogidas en este documento pertenecen a
+sus autores. Este documento está basado en el conocimiento disponible en el momento de su publicación. No se aceptará por las instituciones ni los autores implicados responsabilidad de ningún tipo por el
+uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+y no deben interpretarse como detalles constructivos.
+
+1ª edición: septiembre 2020
+Edición actual: septiembre 2020
+
+Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
+
+A3
+
+4
+4
+
+

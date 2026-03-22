@@ -1,0 +1,1500 @@
+guía
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+2
+
+Este documento ha sido elaborado por el Instituto de ciencias
+de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+de la Dirección General de Agenda Urbana y Arquitectura del
+Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+Esta publicación está formada por una serie de documentos cuyo
+objetivo es constituir una herramienta de ayuda para el diseño de
+soluciones de protección frente al radón:
+■
+
+Guía de rehabilitación frente al radón
+
+Fichas de soluciones:
+A: De aislamiento del edificio
+■
+■
+■
+■
+■
+
+Solución A1. Barrera frente al radón
+Solución A1-1. Barrera frente al radón. Encuentros
+Solución A2. Sellado de fisuras, grietas, encuentros y juntas
+Solución A3. Puertas estancas
+Solución A4. Creación de sobrepresión
+
+B: De reducción del radón antes de que penetre en los locales
+a proteger
+■
+■
+■
+
+Solución B1. Ventilación del espacio de contención: cámara de aire
+Solución B2. Ventilación del espacio de contención: locales no habitables
+Solución B3. Despresurización del terreno
+
+C: De reducción del radón tras penetrar en los locales a proteger
+■
+
+Solución C1. Ventilación de los locales habitables
+
+El IETcc, perteneciente al Consejo Superior de Investigaciones
+Científicas (CSIC), es el centro de investigación en edificación
+de referencia en España. La Unidad de Calidad en la Construcción del IETcc asesora al MITMA en la elaboración del Código
+Técnico de la Edificación que, desde el año 2019, cuenta con la
+sección HS6 Protección frente a la exposición al radón.
+Dirección y Coordinación:
+Ministerio de Transportes, Movilidad y Agenda Urbana
+Isabel Marcos Anasagasti
+Raquel Lara Campos
+Eduardo González de Prado
+Instituto de ciencias de la construcción Eduardo Torroja CSIC
+Pilar Linares Alemparte
+Autoras:
+Pilar Linares Alemparte
+Sonia García Ortega
+Colaboradoras:
+Virginia Sánchez Ramos
+Karina Angélica García Pardo
+Edita:
+Centro de Publicaciones Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda Urbana©
+Entidad colaboradora:
+Consejo Superior de Investigaciones Científicas · CSIC
+Ministerio de Ciencia e Innovación
+Catálogo de publicaciones de la Administración General
+
+del Estado: publicacionesoficiales.boe.es
+Centro virtual de publicaciones del Ministerio de Transpor
+tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+
+Fichas de ejemplos:
+■
+■
+■
+■
+
+Ejemplo A1+B3. Barrera frente al radón + despresurización
+con red de tubos
+Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B3. Sellado + despresurización con red de tubos
+Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+
+Página web del Código Técnico de la Edificación:
+www.codigotecnico.org
+
+ 
+
+Maquetación y diseño gráfico:
+Lapizmente. Estrategia • Diseño Gráfico
+
+Publicación completa:
+ISBN: 978-84-498-1045-9
+NIPO: 796-20-136-5
+
+Los contenidos o ideas recogidas en este documento pertenecen a
+sus autores. Este documento está basado en el conocimiento disponible en el momento de su publicación. No se aceptará por las instituciones ni los autores implicados responsabilidad de ningún tipo por el
+uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+y no deben interpretarse como detalles constructivos.
+
+1ª edición: septiembre 2020
+Edición actual: septiembre 2020
+
+Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
+>> volver al índice >
+
+3
+
+Índice
+
+I
+
+P
+
+Prólogo...................................................................................................................................................
+
+4
+
+I
+
+Introducción .....................................................................................................................................
+
+5
+
+O
+
+Objetivo y contenido de la Guía. ...................................................................................
+
+6
+
+1
+
+El radón en el interior de los edificios . ...................................................................
+
+7
+
+¿Qué es el radón?. ......................................................................................................................
+
+7
+
+¿Cómo llega el radón a los edificios?. ......................................................................
+
+7
+
+¿Cuáles son los principales factores influyentes en la
+entrada y acumulación de radón proveniente del terreno?.................
+
+9
+
+Diagnóstico de la existencia de radón . .................................................................
+
+12
+
+Introducción.....................................................................................................................................
+
+12
+
+Consideraciones previas a la medición..................................................................
+
+12
+
+Medición de la concentración de radón................................................................
+
+12
+
+Soluciones de protección más habituales . .......................................................
+
+15
+
+Mecanismos de entrada del radón procedente
+del terreno en los edificios. ................................................................................................
+
+15
+
+Objetivo de las soluciones de protección............................................................
+
+15
+
+Clasificación de las soluciones según su forma de
+actuación............................................................................................................................................
+
+15
+
+Guía de elección ..........................................................................................................................
+
+18
+
+Bibliografía ........................................................................................................................................
+
+23
+
+1.1
+1.2
+1.3
+
+2
+2.1
+2.2
+2.3
+
+3
+3.1
+3.2
+3.3
+
+4
+B
+
+4
+
+Prólogo
+La publicación de esta Guía de Rehabilitación frente al
+radón tiene como objetivo contribuir a que los edificios
+que habitamos sean más saludables. Este objetivo ha
+adquirido una especial trascendencia en este año 2020,
+en el que hemos pasado más tiempo que nunca en el
+interior de nuestras viviendas, y en el que la salud ha
+pasado al primer puesto de nuestras preocupaciones.
+Hemos sido más conscientes de la importancia que
+tiene la arquitectura y el entorno construido en nuestro
+desarrollo social y bienestar. El objeto de esta Guía, la
+divulgación de soluciones en edificios existentes para
+la protección frente al gas radón, un peligro invisible
+pero cierto, es una constatación directa de la influencia
+que tiene la calidad de la edificación sobre la salud de
+las personas.
+Es necesario recordar que ya en Ley de Ordenación
+de la Edificación se recogía, en el año 99, la constatación de que “la sociedad demandaba cada vez mayor calidad a los edificios” así mismo, se señalaba que
+“el proceso de la edificación, por su directa incidencia
+en la configuración de los espacios, implicaba siempre
+un compromiso de funcionalidad, economía, armonía
+y equilibrio medioambiental.” Desde aquel año hasta
+hoy, la sociedad ha evolucionado, pidiendo cada vez
+mayores prestaciones a los edificios, de forma que la
+reglamentación técnica, concretamente el Código Técnico de la Edificación (CTE) ha tenido que adaptarse
+a estas demandas y, responder, al mismo tiempo, a
+los objetivos que desde la Comisión Europea se han
+ido marcando con incidencia directa en la edificación,
+como son la lucha contra el cambio climático que busca, en última instancia, la seguridad y la salud de todos
+los europeos. Así en diciembre de 2019 se incorporó en
+el CTE una nueva exigencia básica de calidad en los
+edificios relativa a la protección frente al gas radón, con
+la que además se transponía la normativa europea en
+la materia.
+
+P
+
+Además, desde la Dirección General de Agenda Urbana y Arquitectura, queremos aportar al sector de la edificación herramientas que les permitan tanto conocer
+la normativa técnica de aplicación como ir más allá de
+las obligaciones impuestas en la norma y las situaciones tasadas por ésta. En relación con el problema del
+radón en el interior de las edificaciones no se nos puede escapar el hecho de que el mayor peligro de exposición se puede encontrar en la edificación existente, y
+hallarse fuera del ámbito de aplicación de las obligaciones impuestas por el CTE a las nuevas edificaciones
+y ciertas intervenciones. Por ello, este documento Guía
+que ahora se publica no es un desarrollo reglamentario
+de la nueva exigencia del CTE, sino que el objetivo que
+persigue es contribuir a ampliar el conocimiento de los
+técnicos a la hora de enfrentarse a este problema con
+incidencia sobre la salud de la población.
+Deseo que este documento cumpla con el objetivo
+con el que se redactó y sirva para facilitar el trabajo
+de los distintos agentes de la edificación, un sector en
+constante evolución y que cada día se enfrenta a nuevos retos para mejorar la calidad de los edificios en que
+vivimos y contribuir con ello a la mejor calidad de vida
+de las personas que los habitamos.
+
+Iñaqui Carnicero Alonso-Colmenares
+Director General de Agenda Urbana y Arquitectura
+Ministerio de Transportes, Movilidad y Agenda Urbana
+
+>> volver al índice >
+
+5
+
+Introducción
+Son numerosos los organismos relacionados con la
+protección de la salud de las personas que consideran
+probada la relación entre la exposición prolongada al
+gas radón y el cáncer de pulmón. Bajo determinadas
+circunstancias pueden producirse concentraciones
+elevadas de radón en el interior de los edificios, siendo
+esta constatación lo que motiva la redacción de esta
+Guía. Este documento de carácter orientativo está enfocado especialmente hacia la rehabilitación de aquellos edificios en los que se ha detectado la existencia
+de concentraciones elevadas de gas radón, buscando
+facilitar la comprensión del comportamiento del mismo y su manera de penetrar en los edificios, para así
+ayudar en la realización de un correcto diagnóstico de
+cada caso y en la elección de las soluciones de remedio a implantar frente a este problema.
+El radón es un gas que procede de la desintegración
+radiactiva del uranio presente de forma natural en determinados suelos y rocas. Este gas procedente del
+terreno puede emanar a través del mismo, en mayor
+o menor medida, en función de distintos factores, pudiendo llegar a penetrar en las edificaciones. Su entrada en el interior de las edificaciones dependerá, en gran
+parte, de las características constructivas de los elementos de separación entre la edificación y el terreno.
+En el supuesto de que este gas llegue a acumularse en
+los espacios interiores de los edificios puede suponer
+un riesgo para las personas que se encuentren en los
+mismos durante periodos prolongados de tiempo, por
+los efectos nocivos que presenta para la salud.
+Dentro del marco normativo de la edificación, debemos indicar que el Real Decreto 732/2019, de 20 de
+diciembre por el que se modifica el Código Técnico de
+Edificación (CTE) introduce una nueva exigencia sobre protección frente a la exposición al radón y, consecuentemente, incorpora en el documento básico de
+salubridad una nueva sección HS6: Protección frente a
+
+I
+
+la exposición al radón. En esta sección se establecen
+los requisitos que deberán cumplir los edificios para
+la protección de las personas frente a la exposición al
+radón, un nivel de referencia del promedio anual de
+concentración de radón de 300 Bq/m3(i), y se recoge
+un listado de municipios en los que se considera que
+hay una probabilidad significativa de que los edificios
+allí construidos sin soluciones específicas presenten
+concentraciones de radón superiores al nivel de referencia. En la nueva exigencia del CTE, el ámbito de aplicación se refiere a edificios de nueva construcción y a
+determinados casos de rehabilitación. Tal y como ya se
+ha mencionado el gas radón es un problema de salud,
+por lo que habrá edificios en los que, aun encontrándose fuera del ámbito de aplicación del CTE, los propios
+usuarios estarán interesados en conocer, primero, cuál
+es su situación y, posteriormente, posibles soluciones
+de remedio, debiendo estar asesorados en todo el proceso por un técnico con conocimiento en la materia.
+Por lo tanto, esta Guía de rehabilitación tiene como objetivo el de constituir una herramienta práctica de ayuda enfocada tanto al usuario de la vivienda como a los
+agentes que puedan participar en el proceso técnico
+de protección frente al radón de edificios existentes. La
+Guía se complementa con una serie de fichas independientes que profundizan en las intervenciones concretas que se pueden llevar a cabo o ilustran casos reales.
+
+(i) Bq/m3 unidad de la concentración de radón en el aire. Se cuantifica en
+becquerel por metro cúbico, que corresponde con el número de desintegraciones por segundo por metro cúbico de aire
+>> volver al índice >
+
+6
+
+Objetivo y contenido
+de la Guía
+Esta Guía, junto con las fichas que la acompañan, proporciona los conceptos fundamentales necesarios que
+apoyan el correcto diagnóstico de las vías de entrada
+del radón, ilustra el proceso de realización de las mediciones de radón, así como presenta las soluciones de
+protección y proporciona criterios para la elección de
+las soluciones más adecuadas a cada caso.
+Sin embargo, debe hacerse hincapié en que ni la Guía
+ni las fichas sustituyen en ningún caso la experiencia y
+el conocimiento de los técnicos expertos en construcción y en protección frente al radón de los edificios.
+Es necesario señalar que no se consideran objeto de
+esta Guía ni de las fichas otro tipo de radiaciones que
+puedan incidir en el ambiente interior de los edificios.
+La Guía se articula en torno a cuatro capítulos.
+El capítulo primero presenta qué es el gas radón, cuál
+es su origen, dónde se encuentra, qué riesgo conlleva
+para la salud, cómo llega hasta el interior de los edificios
+y qué factores influyen en su entrada y acumulación.
+El capítulo segundo establece las pautas generales
+para determinar el promedio anual de concentración
+de radón en el aire en lo relativo a las condiciones de
+realización de la medición, qué tipos de detectores se
+pueden utilizar, qué duración debe tener la medición,
+dónde colocar los detectores, etc.
+El capítulo tercero introduce las soluciones más habituales agrupadas según su forma de funcionamiento.
+
+O
+
+En la Bibliografía se incluyen las referencias que se han
+tenido en cuenta para la redacción de la Guía, así como
+referencias a otra documentación de utilidad.
+Las fichas son de dos tipos: de soluciones y de ejemplos; y están concebidas de forma que se pueda ampliar su número según se progrese en el conocimiento
+de esta problemática y en la implementación de sus
+soluciones.
+Las fichas de soluciones describen cada una de las
+soluciones de protección frente al radón presentadas
+en la Guía, detallando su adecuado diseño y ejecución
+para la obtención de un resultado efectivo. Se clasifican
+según la forma de actuación de las soluciones e ilustran con figuras aclaratorias los conceptos trasmitidos.
+Las fichas de ejemplos describen distintas intervenciones de protección frente al radón en casos reales en
+los que se ha logrado reducir los niveles de radón de
+partida a valores menos significativos.
+La Guía y las fichas pretenden ser, por un lado, una
+herramienta fundamental para los proyectistas ante
+el reto de diseñar soluciones de protección frente al
+radón y, por otro, una fuente de información para los
+usuarios de edificios afectados, para que conozcan de
+forma aproximada el alcance de las soluciones posibles así como las distintas vías de entrada del radón
+en el edificio y la influencia que puede llegar a tener el
+comportamiento de los propios usuarios en la concentración de este gas.
+
+El capítulo cuarto se presenta como una ayuda para
+la elección de la solución más adecuada incluyendo
+una serie de criterios para la toma de decisión sobre las
+soluciones a elegir en cada caso y cuándo, en líneas
+generales, resultarían convenientes.
+>> volver al índice >
+
+7
+
+Capítulo
+El radón en el interior
+de los edificios
+1.1 ¿Qué es el radón?
+El radón es un gas noble, incoloro, inodoro e insípido
+que se genera en la cadena de desintegración radiactiva del radio que, a su vez, procede del uranio que de
+forma natural está presente en la corteza terrestre en
+cantidades variables, dependiendo de la composición
+de rocas y suelo. Por su parte, el radón en su proceso
+de desintegración también produce partículas radioactivas.
+Al ser gaseoso (a diferencia de sus predecesores sólidos) puede moverse por la corteza terrestre e incluso diluirse en agua. Debido a esta capacidad de movimiento puede llegar a los edificios procedente del
+subsuelo y acumularse en sus espacios interiores. En
+el interior del edificio el radón puede ser inhalado por
+las personas y, de esta forma, las partículas radioactivas producto de su desintegración, ionizar la materia
+celular de los epitelios pulmonares y causar cáncer.
+Son numerosos los organismos relacionados con la
+protección o el estudio de la salud de las personas que
+consideran probada la influencia del radón en el cáncer de pulmón. Existe acuerdo científico sobre el riesgo
+para la salud de las personas que supone la exposición
+durante grandes períodos de tiempo a altas concentraciones de actividad de radón. El radón se identifica
+como la primera causa de cáncer de pulmón entre los
+no fumadores.
+La Organización Mundial de la Salud (OMS) afirma que
+no existe un nivel seguro de concentración de radón
+(excepto la ausencia de radón) por debajo del cual no
+corramos ningún tipo de riesgo.
+Las situaciones más problemáticas se presentan en
+espacios cerrados, debido a la acumulación en los
+edificios de radón procedente fundamentalmente del
+
+1
+
+terreno. En los espacios abiertos se considera que el
+riesgo es despreciable al diluirse el radón rápidamente
+en el ambiente. Los edificios considerados con mayor
+riesgo son las viviendas y los lugares de trabajo, por ser
+en ellos el tiempo de exposición más alto.
+
+1.2 ¿Cómo llega el radón a los
+edificios?
+Cuando el radón llega al ambiente exterior se diluye rápidamente en el aire, pero cuando lo hace a un espacio
+cerrado y poco ventilado, como puede ser el interior de
+un edificio, tiende a acumularse convirtiéndose entonces en un problema. El radón presente en el interior de
+los edificios puede proceder directamente del terreno,
+de los materiales de construcción realizados con materias primas que contengan alguno de sus precursores,
+o del agua de consumo en el que previamente se haya
+diluido.
+
+Radón procedente del terreno
+El radón puede penetrar al interior de los edificios por
+convección a través de las grietas o zonas de la envolvente del edificio en contacto con el terreno (muros de
+sótano, soleras, etc.) que presentan una discontinuidad,
+y por difusión a través de la masa de los materiales porosos que forman la envolvente (Figura 1). Los principales puntos que pueden presentar una discontinuidad
+son las juntas o los encuentros no sellados (juntas perimetrales, encuentros con elementos pasantes como
+conductos de evacuación de aguas, etc.)
+Habitualmente el terreno es la principal fuente de radón, por lo que las mayores concentraciones de radón
+en un edificio se localizan en las plantas inferiores en
+contacto con el terreno, como son los sótanos y las
+plantas bajas, ya que, además, la densidad del radón es
+>> volver al índice >
+
+El radón en el interior de los edificios
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+cámara de aire
+encuentro con fachada o muro
+materiales de la envolvente
+junta de dilatación
+grieta
+encuentro con pilar
+encuentro con elemento pasante
+escalera abierta
+
+1
+8
+3
+
+4
+
+5
+
+6
+
+7
+
+2
+
+Figura 1 - Vías más usuales de entrada de radón procedente del terreno y de comunicación con otras plantas
+
+¯
+P90 (Bq/m3)
+> 400
+301-400
+201-300
+101-200
+< 100
+
+0
+
+25
+
+50
+
+100
+
+150
+
+200
+Kilómetros
+
+Mapa del potencial de
+radón de España
+Actualización enero de 2017
+
+LOGO CSN
+Copyright (c) Consejo de Seguridad Nuclear, 2017
+
+Figura 2 - Mapa del potencial de radón de España (CSN)
+>> volver al índice >
+
+8
+
+El radón en el interior de los edificios
+
+superior a la del aire. En algunos casos, se pueden dar
+valores altos de concentración de radón en zonas más
+elevadas del edificio cuando existe una comunicación
+entre las plantas bajas y estas zonas más elevadas de
+forma que el aire puede ascender fácilmente por procesos convectivos y de tiro térmico. Esto puede darse,
+por ejemplo, cuando los cerramientos de la fachada
+estén compuestos por una cámara de aire o cuando
+las distintas plantas estén comunicadas por escaleras
+abiertas (Figura 1).
+El Consejo de Seguridad Nuclear (CSN) ha plasmado
+en el Mapa del potencial de radón en España (Figura 2)
+las zonas que presentan un porcentaje significativo de
+edificios, mayor del 10%, en los que la concentración de
+radón puede superar determinados valores. Para elaborar este mapa, el CSN ha empleado, entre otros datos,
+medidas de radón tomadas en la planta baja de los edificios o, cuando ésta no está habitada, en la primera planta.
+Por tanto, no representa directamente la exposición de
+la población. En general, el riesgo asociado a las plantas
+subterráneas es mayor que el que refleja el mapa, mientras que es inferior en las plantas altas. La información que
+proporciona debe considerarse orientativa.
+El HS6 del CTE fija un nivel de referencia del promedio
+anual de concentración de radón de 300 Bq/m3 a nivel
+nacional en el ya mencionado Real Decreto 732/2019,
+de 20 de diciembre en el CTE, en concordancia con la
+Directiva 2013/59/EURATOM, y que será establecido
+también por el Real Decreto sobre protección frente a
+radiaciones ionizantes que prepara el Ministerio para la
+Transición Energética y el Reto Demográfico.
+Así mismo, el CTE recoge un listado de municipios
+clasificados en función del potencial de radón en los
+que se considera que hay una probabilidad significativa de que los edificios allí construidos, sin soluciones
+específicas de protección, presenten concentraciones
+superiores al nivel de referencia. Sin embargo, para conocer la concentración de radón real en un edificio es
+necesario realizar mediciones de radón, tal y como se
+describen en el capítulo 2.
+
+Radón proveniente del agua
+La presencia de radón en el agua se debe a que las rocas que contienen uranio natural liberan radón al agua
+subterránea con la que entran en contacto. Como el
+radón se disipa rápidamente en contacto con el aire, si
+se utilizan aguas superficiales para el consumo no hay
+riesgo de que contengan radón ni de que lo liberen
+en el interior de las edificaciones. Sin embargo, si se
+utilizan para el consumo aguas subterráneas (de manantiales o pozos) sin que se aireen y el terreno tiene
+una elevada concentración de radón, sí existe riesgo
+de que se libere el radón contenido en el agua al ambiente interior hasta alcanzar concentraciones significativas.
+En los sistemas públicos de abastecimiento de agua
+procedente de aguas superficiales la concentración
+media de radón suele ser menor que 0,4 Bq/l y si el
+agua procede de fuentes subterráneas el valor ronda
+los 20 Bq/l. El valor máximo recomendado por la OMS
+y la Comisión Europea por debajo del cual no es necesario realizar controles en abastecimientos públicos es
+de 100 Bq/l. Por este motivo, el radón procedente del
+agua de consumo no se considera en esta Guía.
+
+1.3 ¿Cuáles son los principales
+factores influyentes en la
+entrada y acumulación de radón
+proveniente del terreno?
+La cantidad de radón que se acumula en el interior de
+los edificios depende de numerosos factores, entre los
+que se pueden destacar los relacionados con el terreno, las características constructivas del edificio, la climatología y el comportamiento de los usuarios.
+
+El terreno
+El terreno es un factor fundamental, al ser la fuente de
+radón. La exhalación de radón del terreno depende:
+■
+
+Radón procedente de los materiales
+de construcción
+En general, se estima que los materiales de construcción contribuyen a la concentración media de radón en
+el interior de las viviendas con un valor de entre 10 y
+20 Bq/m3 que, si no existieran aportaciones de radón
+provenientes del terreno, estaría muy alejada del nivel
+de referencia de 300 Bq/m3. Por este motivo, el radón
+procedente de los materiales de construcción no se
+considera en esta Guía.
+
+por un lado, de su composición geológica. Hay tipos de terreno que producen una gran cantidad de
+radón, por ejemplo, los terrenos con alto contenido
+en uranio como son los procedentes de rocas ígneas
+(granito) y metamórficas (pizarras y esquistos); y,
+
+■ por otro, al ser el radón gaseoso, de la capacidad
+
+de movimiento del radón en el terreno. Cuando se
+genera el radón en el terreno no permanece en
+el punto en el que se forma, sino que puede moverse. Este movimiento se ve influido por factores
+como:
+>> volver al índice >
+
+9
+
+El radón en el interior de los edificios
+
+- la permeabilidad al aire del terreno: a mayor permeabilidad, mayor facilidad de movimiento (Figura
+3). Así, por ejemplo, en macizos rocosos sin fracturar, aunque la concentración de radón sea alta,
+será difícil que escape de la roca, mientras que en
+terrenos fracturados el radón se moverá más rápidamente alcanzando el exterior o la envolvente de
+los edificios con mayor facilidad;
+
+Figura 3 – Permeabilidad al aire según el terreno
+
+- el grado de saturación de agua del terreno: a mayor
+saturación, menor facilidad de movimiento pues el
+agua contenida en el terreno presenta un coeficiente de difusión inferior al del aire y retiene los gases
+(Figura 4). Si todo el terreno debajo de un edificio
+tiene un grado de saturación de agua similar, el
+efecto es favorable para la protección frente al radón. Sin embargo, si el grado de saturación es heterogéneo, por ejemplo, cuando la capa superficial
+del terreno circundante de un edificio está saturada
+de agua por la lluvia, pero debajo de la edificación
+el terreno permanece seco, el efecto es desfavorable al dificultarse la salida de radón al exterior por lo
+que tiende a aumentar su entrada al edificio.
+
+Figura 4 - Influencia del grado de saturación de agua del terreno
+
+■
+
+la permeabilidad a los gases de la envolvente: cuanto más permeable sea el cerramiento, por
+ejemplo, por encontrarse deteriorado con fisuras o
+grietas o porque esté constituido por un forjado de
+madera, más sencillo será para el gas radón atravesarlo y penetrar en el edificio;
+
+■
+
+el tipo de solución constructiva de las distintas
+componentes de la envolvente: cuantos más obstáculos haya en el camino de entrada del gas, más
+difícil será que penetre en el edificio (Figura 6). Por
+ejemplo, si el edificio cuenta con una cámara sanitaria, supondrá un obstáculo al paso del gas;
+
+■
+
+las instalaciones u otros elementos que pasen a
+través de la envolvente y rompan su homogeneidad
+permitiendo así el paso del gas en estos puntos, por
+ejemplo, la presencia de una bajante que atraviese
+la solera;
+
+■
+
+la comunicación entre los sótanos y las plantas
+habitables pueden posibilitar el desplazamiento del
+gas de las zonas bajas por donde penetra y su acumulación en las zonas altas habitables. En estos casos, por ejemplo, la existencia de puertas estancas
+dificultará el paso del gas;
+
+■
+
+el sistema de ventilación, que puede tener un efecto beneficioso o perjudicial. En la mayoría de casos
+
+Las características constructivas del edificio
+Las características constructivas del edificio son otro
+factor importante, puesto que pueden ser determinantes en el nivel de concentración de radón, incluso para
+tipos de terrenos desfavorables. Entre las características del edificio que afectan al contenido de radón de
+su interior proveniente del terreno destacan:
+■
+
+la proporción de la envolvente del edificio en contacto con el terreno: cuanto mayor sea la superficie
+en contacto con el terreno mayor será la posibilidad de que el radón penetre en el interior (Figura 5).
+Por ejemplo, un edificio con la planta baja abierta
+situado sobre pilotes no tiene casi contacto con el
+terreno, sólo en los puntos de acceso, por lo que el
+riesgo sería muy bajo, y uno que cuente con sótano
+estaría en el caso opuesto con una mayor superficie
+de contacto con el terreno.
+
+>> volver al índice >
+
+10
+
+El radón en el interior de los edificios
+
+puede contribuir a la dilución del radón permitiendo que baje su concentración, pero en otros puede
+producir una depresión en el interior del edificio que
+arrastre el radón del terreno hacia el interior.
+
+modifican la saturación de agua del terreno circundante al edificio, pudiendo facilitarse así la entrada de radón en los edificios.
+
+Figura 6 - Influencia del tipo de solución constructiva de la envolvente
+
+El comportamiento de los usuarios
+Los usuarios pueden influir en la entrada y acumulación de radón en los locales habitables, por ejemplo
+con sus hábitos de ventilación. Por regla general, la
+ventilación de los locales habitables disminuirá su concentración de radón por dilución.
+
+Figura 5 – Influencia de la proporción de envolvente en contacto con el
+terreno
+
+La climatología
+Resulta complejo prever la influencia de la climatología y formular reglas generales, pero se puede afirmar
+que las bajas presiones atmosféricas (a grandes rasgos más habituales del invierno) favorecen la salida del
+gas radón del terreno, y las altas lo dificultan. Además,
+como se ha indicado anteriormente, las precipitaciones
+>> volver al índice >
+
+11
+
+12
+
+Capítulo
+Diagnóstico de la
+existencia de radón
+
+2.2 Consideraciones previas a la
+medición
+
+2.1 Introducción
+El primer paso para la elección de la solución de protección más adecuada para un edificio concreto es la
+realización de mediciones de la concentración de radón, para obtener un diagnóstico de la existencia de
+concentraciones elevadas de radón.
+Si el promedio anual de la concentración de radón es
+superior a 300 Bq/m3, será conveniente emplear soluciones de protección, incluso cuando el municipio en
+el que se localice nuestro edificio no se encuentre en
+el listado de la sección HS6 Protección frente a la exposición al radón del CTE.
+Si, en caso contrario, el promedio anual de la concentración de radón es inferior a 300 Bq/m3, no se considerará imprescindible introducir soluciones de protección, incluso cuando el municipio en el que se localice
+nuestro edificio se encuentre en el listado citado anteriormente.
+En cualquier caso, se podrán implementar soluciones
+para reducir la concentración de radón aunque los valores sean inferiores a 300 Bq/m3.
+Es conveniente realizar una medición después de haber implementado las soluciones de protección para
+comprobar la efectividad de las mismas.
+En este capítulo se establecen las pautas generales
+para determinar el promedio anual de concentración
+de radón. Asimismo, la Sección HS6 del CTE, en su
+Apéndice C “Determinación del promedio anual de
+concentración de radón en el aire de los locales habitables de un edificio” recoge una serie de especificaciones básicas a tener en cuenta.
+
+2
+
+Previamente a realizar las mediciones deberá procederse a una toma de datos de todos aquellos elementos y circunstancias que puedan ofrecer un adecuado
+conocimiento del edificio y su interacción con el radón
+procedente del terreno, al menos de:
+■
+
+la distribución del edifico y sus plantas (es muy importante conocer la existencia de sótano);
+
+■
+
+los cerramientos que constituyen la envolvente en
+contacto con el terreno (solera, forjado sanitario,
+muro de sótano) y su estado de conservación (si presentan grietas, fisuras, estado de las juntas, etc.);
+
+■
+
+el paso de instalaciones y su encuentro con la envolvente (su sellado);
+
+■
+
+la existencia de sistemas de ventilación y su régimen
+de funcionamiento;
+
+■
+
+si el edificio está en uso o deshabitado.
+
+2.3 Medición de la concentración de
+radón
+Las condiciones de medición antes y después de la intervención de protección deberán ser las mismas o lo
+más similares posible, para que sean comparables. Estas condiciones, así como los tipos de detectores que
+se pueden utilizar, se describen a continuación.
+
+>> volver al índice >
+
+Diagnóstico de la existencia de radón
+
+¿Qué tipos de detectores se pueden utilizar?
+
+a)
+
+b)
+
+En el mercado existen distintos tipos de detectores que
+pueden ser empleados (Figura 7). La elección del tipo
+de detector dependerá del objetivo de la medición.
+Para obtener el promedio anual de concentración de
+radón los más adecuados son los que emplean un método de medición:
+■
+
+integrada (de trazas, carbón activo y electretes) que
+proporcionan el promedio; o
+
+■
+
+en continuo (aparatos electrónicos) que además del
+promedio proporcionan la evolución de la concentración de radón a lo largo del tiempo, permitiendo
+de esta forma observar las alteraciones en la concentración de radón producidas por los cambios climatológicos y otras variables.
+
+Los detectores más comúnmente utilizados para determinar el promedio anual son los que siguen el método de medición integrada, debido a su bajo coste. Habitualmente el laboratorio envía el detector por correo
+a los usuarios y estos lo devuelven por correo al laboratorio que obtendrá el resultado de la medida.
+El uso de los detectores que siguen el método de medición en continuo no está tan extendido por motivos
+económicos, aunque tiene la ventaja frente a los que
+siguen el método integrado que, al ofrecer una visión
+de la evolución de la concentración de radón, se puede utilizar para observar la influencia de distintos parámetros en la efectividad de la solución, optimizar una
+solución, etc.
+
+c)
+
+d)
+
+Figura 7 - Detectores más habituales: a) detector de trazas; b) electrete;
+c) dispositivos electrónicos; d) detector de carbón activo
+
+¿Cuánto tiempo medir?
+Si se quiere realizar un rápido diagnóstico que permita
+identificar los puntos de entrada de radón, se pueden
+emplear detectores con método de medición puntual
+(aparatos electrónicos). Estos puntos de entrada suelen ser grietas, huecos o discontinuidades en los cerramientos en contacto con el terreno que se hayan
+identificado en la inspección visual del edificio. Sin embargo, este tipo de medición no se puede utilizar para
+la determinación del promedio anual.
+Además, los detectores se pueden clasificar en activos
+o pasivos dependiendo, respectivamente, de si requieren o no una fuente de alimentación para registro o visualización de datos, bombas, etc. Los detectores con
+método de medición en continuo suelen ser activos.
+Los resultados obtenidos con los detectores tienen una
+incertidumbre que oscila entre el 10% y el 30%.
+
+Las concentraciones de radón pueden variar incluso un
+orden de magnitud en poco tiempo, por lo que las mediciones cortas (solo unos días) no son representativas
+para determinar la exposición de las personas. El valor
+que debería considerarse es la media anual.
+Sin embargo, como medir durante un año no suele ser
+viable, se considera suficiente medir al menos durante
+dos meses de forma continuada. Pueden hacerse mediciones con una duración inferior, de días o semanas,
+pero sólo como medición orientativa y sin perder de
+vista su baja representatividad.
+
+¿En qué condiciones medir?
+Lo más adecuado es continuar con las actividades habituales de uso y de ventilación del edificio durante la
+medición para que el resultado sea representativo.
+>> volver al índice >
+
+13
+
+Diagnóstico de la existencia de radón
+
+Si el edificio se encuentra desocupado, deberá medirse con las ventanas y puertas de acceso cerradas, y
+las puertas de paso interiores abiertas, para permitir el
+movimiento de radón interiormente con un flujo similar
+al de la ocupación normal. En el caso de un edificio de
+viviendas, las puertas de acceso a cada vivienda permanecerán cerradas durante la medida.
+
+En el caso de un edificio desocupado en el que alguna
+ventana o puerta al exterior haya podido permanecer
+abierta, se tendrá que multiplicar el valor medio obtenido por 1,4, para tener en cuenta la reducción de radón
+producida por la ventilación circunstancial.
+
+¿Dónde colocar los detectores y cuántos?
+El peligro de la exposición al radón depende del tiempo
+de permanencia en un local y de la concentración de
+radón. Por ello, en viviendas se recomienda emplear, al
+menos, dos detectores y situarlos en las habitaciones
+en las que se suele permanecer más tiempo como los
+dormitorios y la sala de estar, primando las habitaciones situadas en las plantas más bajas.
+Por ejemplo:
+■
+
+si hay varias viviendas en un edificio, se deberían colocar en las viviendas de las plantas inferiores;
+
+■
+
+dentro de una misma vivienda, si hay salas de estar
+o dormitorios en distintas plantas, se recomienda
+colocarlos en las habitaciones que se encuentren
+en las plantas inferiores.
+
+¿Cómo colocar los detectores?
+Los detectores deben situarse alejados de corrientes
+de aire y de fuentes de calor y al menos a 30 cm de las
+paredes. Una posible ubicación de los detectores podría ser sobre el mobiliario existente, como una mesa o
+una estantería.
+
+¿Cómo interpretar los resultados obtenidos?
+El resultado de la medición debe ser la media de la
+concentración a lo largo del tiempo total de exposición,
+pese a que puntualmente se registren valores bajos o
+muy elevados.
+La variación de las condiciones meteorológicas y de
+los hábitos de ventilación influye en la concentración
+medida. Generalmente, los resultados en verano (entendido como época de no calefacción) son menores
+que la correspondiente media anual, y en invierno mayores. Por ello, si se mide en verano en las zonas de
+inviernos fríos, debe multiplicarse el valor medio obtenido por 1,4(ii) para obtener así un dato más representativo. Si se ha medido en cualquier otra época del año,
+puede considerarse que el valor medio obtenido es lo
+suficientemente representativo.
+
+(ii) El factor de corrección de 1,4 se establece en el Apéndice C
+Determinación del promedio anual de concentración de radón en el aire
+de los locales habitables de un edificio, del DB HS6 del CTE.
+>> volver al índice >
+
+14
+
+15
+
+Capítulo
+Soluciones de protección
+más habituales
+Para poder elegir la solución de protección más adecuada, se debe conocer tanto el mecanismo de entrada del radón procedente del terreno en los edificios
+como el objetivo de las soluciones de protección y el
+funcionamiento de las mismas. En este capítulo se desarrollan estos conceptos y se presentan las soluciones
+de protección más habituales.
+
+3
+
+tiempo: los locales habitables (dormitorios, salones,
+cocinas, baños, etc.). Este objetivo se puede conseguir
+protegiendo los locales habitables de forma directa o
+de forma indirecta protegiendo los locales no habitables (garajes, trasteros, etc.) que se encuentren en la
+ruta de entrada del radón hacia los locales habitables.
+
+Particularidad de los edificios existentes
+Junto a las soluciones, se referencian las fichas que
+describen de forma detallada cada una de las soluciones de protección presentadas.
+
+3.1 Mecanismos de entrada del radón
+procedente del terreno en los
+edificios
+Los mecanismos por los que el radón penetra de forma
+natural en el edificio son fundamentalmente:
+■
+
+convección, debido al gradiente de presión entre
+los gases del terreno y el aire del interior del edificio,
+que se produce de forma puntual en grietas, juntas
+o pasos de instalaciones;
+
+■
+
+difusión, debido al gradiente de concentración de radón entre los gases del terreno y el aire del interior del
+edificio, que se produce a través de la masa de la propia envolvente del edificio en contacto con el terreno.
+
+3.2 Objetivo de las soluciones de
+protección
+Las soluciones de protección frente al radón procedente del terreno tienen como objetivo disminuir la exposición al radón de las personas en el interior de los edificios, reduciendo la concentración de radón al menos en
+aquellos espacios en los que las personas pasen más
+
+En los edificios existentes las soluciones de protección
+son similares a las utilizadas en el caso de los edificios
+de nueva planta, pero con las limitaciones que suele suponer la presencia de elementos constructivos
+preexistentes, el alcance de la actuación, los recursos
+económicos disponibles, etc. Las soluciones que se
+presentan en esta Guía tienen en cuenta dichos condicionantes. Además, puesto que el objetivo de una
+intervención de protección en un edificio existente es
+mejorar la situación inicial en la medida de lo posible,
+se presentan otras soluciones alternativas o complementarias a las propias de un edificio de nueva planta y
+que se suelen utilizar como refuerzo o cuando las soluciones para edificios nuevos no se pueden implementar o no ofrecen la efectividad deseada.
+
+3.3 Clasificación de las soluciones
+según su forma de actuación
+Las soluciones de protección se pueden agrupar según su forma de actuación en tres grandes grupos:
+■
+
+soluciones de aislamiento del edificio o los locales
+a proteger frente al radón procedente del terreno;
+
+■
+
+soluciones de reducción de la concentración de
+radón antes de que penetre en el edificio, o en
+todo caso, antes de que penetre en los locales a
+proteger;
+>> volver al índice >
+
+Soluciones de protección más habituales
+
+■
+
+soluciones de reducción de la concentración de
+radón que ya ha penetrado en los locales que se
+quieren proteger.
+
+Soluciones de aislamiento del edificio
+Para aumentar el aislamiento de la envolvente (o cerramiento) en contacto con el terreno y evitar que el
+radón fluya al interior de los edificios existen cuatro soluciones básicas cuya implementación dependerá de
+las posibilidades concretas de actuación en el edificio
+existente (Figuras 8 y 9):
+■
+
+Disposición de una barrera de protección frente al radón (Solución A1 + Solución A1-1).
+
+■
+
+Sellado de fisuras, grietas, encuentros y juntas (Solución A2).
+
+■
+
+Empleo de puertas estancas (Solución A3).
+
+■
+
+Creación de sobrepresión en los locales a proteger
+(Solución A4).
+
+Figura 9 – Puerta estanca (arriba) y sobrepresión (abajo)
+
+Soluciones de reducción del radón antes de
+que penetre en los locales a proteger
+El funcionamiento de estas soluciones consiste en reducir la concentración de radón al que los locales a
+proteger se encuentran expuestos disminuyendo así el
+gradiente de concentración de radón entre el exterior y
+el interior de los locales.
+Existen dos soluciones básicas cuya implementación
+dependerá de las posibilidades concretas de actuación
+en el edificio existente (Figura 10):
+
+Figura 8 – Barrera de protección frente al radón (arriba) y sellado de
+fisuras, grietas, encuentros y juntas (abajo)
+
+Las tres primeras soluciones se basan en la estanquidad del cerramiento y la última en la creación de un
+gradiente de presiones contrario al de entrada del radón.
+
+■
+
+Instalación de un sistema de ventilación del espacio
+de contención (Solución B1 y Solución B2).
+
+■
+
+Instalación de un sistema de despresurización del
+terreno (Solución B3).
+
+El espacio de contención es una cámara de aire (como
+pueda ser la cámara sanitaria) o un local no habitable
+(como un garaje) que se encuentra entre el terreno y
+los locales a proteger del edificio, de forma que, si el
+radón se elimina de su interior, no llega a penetrar en
+los locales superiores.
+
+>> volver al índice >
+
+16
+
+Soluciones de protección más habituales
+
+Figura 10 – Ventilación del espacio de contención (arriba) y despresurización del terreno (abajo)
+
+El sistema de despresurización es un sistema específico que extrae los gases del terreno y los expulsa al
+exterior, de forma que se dificulta el paso del radón al
+interior del edificio.
+
+Soluciones de reducción del radón tras
+penetrar en los locales a proteger
+El funcionamiento de esta solución consiste en reducir la concentración de radón en los locales a proteger
+para así reducir la exposición de las personas (Figura
+11). Se emplea una única solución básica:
+■
+
+Mejora de la ventilación de los locales habitables
+(Solución C1).
+
+Figura 11 – Ventilación de los locales habitables
+>> volver al índice >
+
+17
+
+18
+
+Capítulo
+
+4
+
+Guía de elección
+Este capítulo, de carácter orientativo, consiste en:
+■
+
+la enumeración de las soluciones de protección
+más adecuadas según sea el valor de la concentración de radón medida en los locales habitables,
+distinguiendo entre concentración media (entre 300
+y 600 Bq/m3) o alta (mayor de 600 Bq/m3);
+
+■
+
+un conjunto de observaciones generales con criterios de aplicación de las distintas soluciones;
+
+■
+
+un cuadro de efectividad de las distintas soluciones
+según la concentración de radón; y
+
+■
+
+las soluciones de protección más adecuadas según
+sea el cerramiento que separa el local habitable del
+terreno y el valor de la concentración de radón.
+
+Las soluciones de protección más adecuadas en líneas
+generales para edificios existentes con concentraciones de radón inferiores a 600 Bq/m3 son las siguientes:
+
+■
+
+disposición de una barrera de protección entre los
+locales habitables del edificio y el terreno que limite el paso de los gases provenientes del terreno
+(Solución A1 + Solución A1-1). La barrera de protección consiste en un elemento continuo que cubre
+todos los cerramientos en contacto con el terreno;
+
+■
+
+si no es posible la colocación de una barrera, los cerramientos situados entre el terreno y los locales habitables tendrán que desempeñar las funciones de
+barrera. Para ello, se sellarán las fisuras, grietas y juntas de estos cerramientos, así como los encuentros
+con los elementos que los interrumpan, como pasos
+de conducciones o similares (Solución A2);
+
+■
+
+instalación de puertas estancas entre espacios de
+contención y locales habitables (Solución A3);
+
+■
+
+en casos muy concretos, creación de una sobrepresión en el interior del local habitable (Solución A4),
+
+Tabla 1. Soluciones orientativas de protección frente al radón más adecuadas
+en función de la concentración de radón
+Promedio anual de
+concentración de radón (Bq/m3)
+
+≤600
+
+>600
+
+Soluciones de protección
+
+■
+
+Disposición de barrera de protección (Solución A1+ Solución A1-1)
+
+■
+
+Sellado de fisuras, grietas, encuentros y juntas (Solución A2)
+
+■
+
+Empleo de puertas estancas (Solución A3)
+
+■
+
+Creación de sobrepresión en los locales a proteger (Solución A4)
+
+■
+
+Mejora de la ventilación del espacio de contención (Solución B1 y Solución B2)
+
+■
+
+Mejora de la ventilación de los locales habitables (Solución C1)
+
+■
+
+Creación de espacio de contención (Solución B1 y Solución B2)
+
+■
+
+Instalación de sistema de despresurización del terreno (Solución B3)
+>> volver al índice >
+
+Guía de elección
+
+que se conseguirá con la instalación de un sistema
+de ventilación específico;
+■
+
+■
+
+mejora de la ventilación de la cámara sanitaria, si
+existe, o de un local no habitable que pueda actuar
+como espacio de contención (Solución B1 y Solución B2);
+mejora de la ventilación de los locales habitables si
+no es acorde a la necesaria para la calidad del aire
+interior general (Solución C1).
+
+Las soluciones de protección más adecuadas para edificios existentes para concentraciones de radón superiores a 600 Bq/m3 son una combinación de alguna de las
+soluciones anteriores con las siguientes:
+■
+
+creación de un espacio de contención si no se disponía de uno (Solución B1 y Solución B2);
+
+■
+
+instalación de un sistema de despresurización del
+terreno situado bajo el edificio (Solución B3).
+
+En la tabla 1 se recogen las soluciones de protección
+frente al radón más adecuadas según el valor de la
+concentración de radón medida en el local habitable.
+En la práctica, en el caso de edificios existentes, para la
+elección de las soluciones más adecuadas se tendrán
+en cuenta, además de la concentración de radón, otros
+factores determinantes como la existencia de sótano,
+las soluciones constructivas empleadas en el cerramiento en contacto con el terreno y su estado, etc. La
+casuística es tan amplia que no se pueden reducir a una
+simple regla las indicaciones, pero se pueden hacer una
+serie de observaciones generales:
+■
+
+si el edificio cuenta con un forjado sanitario, la cámara sanitaria puede actuar de espacio de contención, mejorándose sus condiciones de ventilación y
+de estanquidad al aire con respecto a los locales a
+proteger;
+
+■
+
+si el edificio cuenta con un garaje o un sótano, éste
+puede utilizarse como espacio de contención de forma similar a lo indicado anteriormente;
+
+■
+
+si el edificio no cuenta con espacio de contención y
+no es viable disponer uno, para concentraciones de
+radón superiores a 600 Bq/m3, puede ser necesario
+instalar un sistema de despresurización del terreno;
+
+■
+
+si se quiere mejorar la ventilación del local a proteger,
+deben tenerse en cuenta las pérdidas energéticas
+que esto podría conllevar, por lo que no es recomendable superar los niveles de ventilación indicados en
+la reglamentación correspondiente (CTE o RITE).
+
+Barrera frente al radón
+
+Sellado de fisuras,
+grietas, encuentros
+y juntas
+
+Puertas estancas
+
+Creación de
+sobrepresión
+
+Ventilación del
+espacio de contención:
+cámara de aire
+
+Ventilación del
+espacio de contención:
+locales no habitables
+
+Despresurización
+del terreno
+
+Ventilación de los
+locales habitables
+
+La efectividad de las distintas soluciones de protección no es la misma, por lo que dependiendo de la
+concentración medida y las características del edificio
+en cuestión será más eficiente utilizar una solución u
+otra e incluso habrá que utilizar soluciones de forma
+acumulativa.
+En la figura 12 se orienta sobre la efectividad de las
+distintas soluciones distinguiendo entre concentraciones de radón superiores (en rojo) e inferiores (en amarillo) a 600 Bq/m3, medidas en los locales habitables.
+Además, en las tablas 2, 3 y 4 se indican de forma
+orientativa las soluciones más apropiadas a utilizar
+según sea el tipo de cerramiento que separa el local habitable del terreno y la concentración de radón
+medida en el local habitable a proteger.
+
+Figura 12– Efectividad orientativa de las distintas soluciones para concentraciones de radón superiores (en rojo) e inferiores (en
+amarillo) a 600 Bq/m3 en escala de 1 a 5 (menor a mayor)
+>> volver al índice >
+
+19
+
+Guía de elección
+
+Tabla 2. Soluciones orientativas de protección frente al radón en caso de solera
+en función de la concentración de radón existente
+Barrera
+
+Sellado (1)
+
+Barrera + Despresurización
+
+Sellado (1) + Despresurización
+
+> 600 Bq/m3
+
+Promedio anual de concentración de radón
+
+≤ 600 Bq/m3
+
+Solera
+
+Barrera +
+Cámara de aire ventilada (2)
+
+Mejora ventilación del local habitable (3)
+
+>> volver al índice >
+
+20
+
+Guía de elección
+
+Tabla 3. Soluciones orientativas de protección frente al radón en caso de forjado
+sanitario en función de la concentración de radón existente
+Mejora ventilación
+de la cámara
+
+≤ 600 Bq/m3
+
+Mejora ventilación
+de la cámara + Barrera
+
+Mejora ventilación
+de la cámara + Sellado (1)
+
+> 600 Bq/m3
+
+Promedio anual de concentración de radón
+
+Forjado sanitario
+
+Mejora ventilación del local habitable (3)
+
+Notas tablas 2, 3 y 4:
+(1) Si no se puede colocar la barrera adecuadamente, debe al menos sellarse la solera o el forjado.
+(2) Alternativamente, si es viable puede disponerse una cámara de aire ventilada sobre la solera existente.
+(3) De forma complementaria, si el nivel de ventilación existente del local habitable es inferior al exigido en el
+CTE, se puede mejorar la ventilación hasta alcanzar lo exigido.
+(4) De forma complementaria, se deben hacer estancas las puertas que comuniquen el sótano con el local habitable.
+>> volver al índice >
+
+21
+
+Guía de elección
+
+Tabla 4. Soluciones orientativas de protección frente al radón en caso de forjado
+sobre sótano en función de la concentración de radón existente
+
+≤ 600 Bq/m3
+
+Mejora ventilación del sótano
+
+Mejora ventilación
+del sótano + Barrera
+
+Mejora ventilación
+del sótano + Sellado (1)
+
+> 600 Bq/m3
+
+Promedio anual de concentración de radón
+
+Forjado sobre sótano
+
+Mejora ventilación del local habitable (3)
+
+Puertas estancas (4)
+
+>> volver al índice >
+
+22
+
+23
+
+Bibliografía
+1.
+
+2.
+
+3.
+
+Directiva 96/29/Euratom del Consejo, de 13 de
+mayo de 1996, por la que se establecen las normas
+básicas relativas a la protección sanitaria de los trabajadores y de la población contra los riesgos que
+resultan de las radiaciones ionizantes.
+Directiva 2013/59/Euratom del Consejo, de 5 de diciembre de 2013, por la que se establecen normas
+de seguridad básicas para la protección contra los
+peligros derivados de la exposición a radiaciones
+ionizantes.
+Real Decreto 732/2019, de 20 de diciembre, por el
+que se modifica el Código Técnico de la Edificación,
+BOE 311, de 27 de diciembre de 2019.
+
+4.
+
+Real Decreto 783/2001, de 6 de julio, Reglamento
+de protección sanitaria contra las radiaciones ionizantes, BOE 178, de 26 de julio de 2001.
+
+5.
+
+Real Decreto 1836/1999, de 3 de diciembre, Reglamento sobre instalaciones nucleares y radiactivas,
+BOE 313, de 31 de diciembre de 1999.
+
+6. WHO Handbook on indoor radon, a public health
+perspective (2009).
+7.
+
+CSN Instrucción IS-33 sobre criterios radiológicos
+para la protección frente a la exposición a la radiación natural. BOE 22, de 26 de enero de 2012.
+
+8. CSN Guía de Seguridad 11.01 Directrices sobre la
+competencia de los laboratorios y servicios de medida de radón en el aire (2011).
+9. CSN Guía de Seguridad 11.02 Control de la exposición a fuentes naturales de radiación (2011).
+
+B
+
+11. CSN Concentraciones de radón en viviendas españolas. Otros estudios de radiación natural. Colección
+Informes Técnicos 13 (2004).
+12. CSN Proyecto MARNA. Mapa de radiación gamma
+natural. Colección Informes Técnicos 5 (2000).
+13. ČSN 73 0601 Ochrana staveb proti radonu z podloží.
+República Checa.
+14. Marta García-Talavera, et al. Mapping radon-prone
+areas using radiation dose rate and geological information. Journal of radiological protection, 33 (3)
+(2013): 605-20..
+15. Luis Quindós Poncela. Natural gamma radiation
+map (MARNA) and indoor radon levels in Spain. Environment International, 29 (2004): 1091–1096.
+16. Chris Scivyer and Michael Jaggs. A BRE Guide to radon remedial measures in existing dwellings. BRE
+Press (1998) Reino Unido.
+17. Chris Scivyer. Radon guidance on protective measures for new buildings. BRE Press (2007) Reino Unido.
+18. Chris Scivyer. Radon solutions in homes. Improving
+underfloor ventilation. GRG 37 Part 1. BRE Press
+(2012) Reino Unido.
+19. Chris Scivyer. Radon solutions in homes. Positive
+house ventilation. GRG 37 Part 2. BRE Press (2013)
+Reino Unido.
+20. Bernard Collignan. Guide technique: Le radon dans
+les batiments. CSTB (2008) Francia.
+21. Radon: Guida tecnica. UFSP (2000) Suiza.
+
+10. CSN Guía de Seguridad 11.04 Metodología para la
+evaluación de la exposición al radón en los lugares
+de trabajo (2011).
+>> volver al índice >
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+

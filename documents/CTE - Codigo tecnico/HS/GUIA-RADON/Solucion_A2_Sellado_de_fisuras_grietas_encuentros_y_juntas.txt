@@ -1,0 +1,370 @@
+SOLUCIÓN
+
+SELLADO DE FISURAS, GRIETAS,
+ENCUENTROS Y JUNTAS
+
+A2
+
+Efectividad con concentración
+mayor de 600/m3
+
+1
+3
+
+Efectividad con concentración
+menor de 600 Bq/m3
+
+1. FINALIDAD
+El sellado tiene como finalidad limitar la penetración
+del radón proveniente del terreno hacia el interior del
+edificio a través del cerramiento. Se basa en aislar del
+terreno los locales que deben ser protegidos para evitar que el radón fluya al interior por convección a través
+de los puntos en donde los cerramientos en contacto
+con el terreno presentan alguna discontinuidad como
+fisuras, grietas, encuentros, juntas de dilatación, etc.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará cuando no sea posible o
+viable disponer una barrera de protección frente al
+radón.
+Cuando el cerramiento en contacto con el terreno sea
+de un material que presente muchas juntas o sea especialmente poroso, como por ejemplo un forjado de
+madera, esta solución no será adecuada.
+
+3. EFECTIVIDAD
+El sellado puede ser efectivo cuando la concentración
+de radón medida en los locales habitables es inferior a
+600 Bq/m3 siempre y cuando el cerramiento presente
+un estado de conservación adecuado. Por ejemplo,
+en el caso de una solera o un muro de hormigón, se
+considera que el estado del hormigón es adecuado
+cuando presente un grado de solidez apreciable a
+simple vista, es decir, no muestre una desagregación
+o un agrietamiento excesivo que haga inviable su sellado puntual como se explica en el apartado 5.
+En caso de que la concentración de radón sea superior
+se recomienda combinar el sellado con otra solución,
+
+Dificultad
+
+1
+
+Coste
+
+1
+
+como las basadas en la reducción del radón antes de
+que penetre en los locales habitables descritas en
+la Solución B1, Solución B2 y Solución B3 o la ventilación de los propios locales habitables descrita en
+la Solución C1.
+Su efectividad podrá verse afectada si existen elementos de paso que conecten los locales situados
+bajo y sobre el cerramiento, como puedan ser trampillas y puertas de sótano o de garajes. En este caso
+será necesario que la puerta sea poco permeable al
+aire según lo detallado en la Solución A3.
+Para comprobar si la efectividad de la solución es
+adecuada, se recomienda medir la concentración de
+radón alcanzada dentro de los locales habitables tras
+la intervención.
+
+4. DIFICULTAD DE INSTALACIÓN
+Es una solución sencilla que no requiere un grado de
+especialización alto en su implementación.
+
+5. CÓMO SE CONSIGUE
+Esta solución consistirá en sellar los puntos críticos
+más comunes (Figura 1) en donde los cerramientos
+presenten alguna discontinuidad y supongan un riesgo de paso de radón, como son las grietas y fisuras,
+las juntas de dilatación y los encuentros con elementos pasantes, pilares y fachadas.
+
+Los sellantes que se utilicen tendrán un coeficiente de
+difusión del radón similar al de una barrera de tipo lámina.
+
+Solución A2 • Sellado de fisuras, grietas, encuentros y juntas
+
+1
+2
+3
+
+1
+
+3
+
+2
+
+4
+
+5
+
+4
+
+5
+
+grieta
+junta de dilatación
+encuentro con elemento pasante
+encuentro con pilar
+encuentro con fachada
+
+Figura 1 - Puntos críticos más comunes
+
+a) Grietas y fisuras
+
+ta el movimiento diferencial entre las dos estructuras
+(Figura 3).
+
+Para el sellado de una grieta se podrá inyectar un sellante flexible (Figura 2). Para realizar un trabajo más
+cuidadoso se podrá ensanchar la grieta con la ayuda
+de un mazo y un cincel e introducir un elemento de
+fondo de junta elástico previo al sellante. Siempre se
+eliminarán las impurezas que puedan haber quedado
+en la junta antes de aplicar el sellante.
+
+2
+
+1
+
+2
+
+1
+2
+
+fondo de junta
+sellante
+
+2
+
+1
+
+1
+2
+
+fondo de junta
+sellante
+
+Figura 3 – Sellado de una junta de dilatación de una solera
+
+Figura 2 - Sellado de una grieta centrada (arriba) y ensanchándola
+(abajo)
+
+c) Encuentros con elementos pasantes
+En el caso de una solera microfisurada se podrán sellar las fisuras con un tratamiento superficial: membrana, producto líquido, etc. En este caso se recomienda
+colocar además una capa de protección.
+
+b) Juntas de dilatación
+Para el sellado de una junta de dilatación se podrá
+introducir un elemento de fondo de junta elástico y
+posteriormente aplicar un sellante flexible que permi-
+
+Los elementos pasantes más comunes son las conducciones para abastecimiento y evacuación de
+aguas.
+Se sellarán los encuentros con un sellante flexible.
+La mejor solución será rodear los elementos pasantes en el encuentro con piezas de refuerzo, preferiblemente prefabricadas, y sellar: el encuentro entre
+el refuerzo y el cerramiento, y el encuentro entre el
+refuerzo y el elemento pasante (Figuras 4 y 5).
+
+A2
+
+2
+2
+
+Solución A2 • Sellado de fisuras, grietas, encuentros y juntas
+
+e) Encuentros con fachadas
+
+2
+1
+
+El encuentro con una fachada se podrá sellar retirando el rodapié, introduciendo un elemento de fondo de
+junta elástico y posteriormente inyectando un sellante
+flexible que permita el movimiento diferencial entre
+las dos estructuras (Figura 7).
+1
+2
+
+	pieza de refuerzo
+prefabricado
+sellante
+
+Figura 4 - Encuentro del cerramiento con un elemento pasante vertical
+resuelto con una pieza de refuerzo prefabricada
+
+Si el rodapié no se puede retirar se podrá inyectar
+el material sellante, aunque esta solución es menos
+eficaz.
+
+2
+1
+2
+
+1
+1
+2
+
+pieza de refuerzo
+prefabricado
+sellante
+
+Figura 5 - Encuentro del cerramiento con un elemento pasante horizontal
+resuelto con una pieza de refuerzo prefabricada
+
+2
+
+d) Encuentro con pilares
+Los pilares más comunes suelen ser de hormigón armado o metálicos. En estos casos el radón que pueda
+penetrar a través de ellos se considera despreciable,
+puesto que el coeficiente de difusión del radón en el
+hormigón y en el metal es reducido. Sin embargo, es
+importante limitar el transporte de radón que se pueda producir en el encuentro de los pilares con el cerramiento.
+Por ello, se dispondrán láminas de refuerzo en el encuentro (Figura 6), preferiblemente prefabricadas, y
+se sellará su extremo superior con el pilar e inferior
+con el cerramiento.
+
+1
+2
+
+fondo de junta
+sellante
+
+Figura 7 - Sellado del encuentro de una solera con una fachada retirando el rodapié (arriba) y sin retirarlo (abajo)
+
+6. COSTE
+El coste se considera bajo en relación al resto de soluciones de protección, puesto que se trata de una
+solución basada en la reparación puntual de un elemento existente.
+
+Figura 6 - Encuentro del cerramiento con un pilar
+
+A2
+
+3
+3
+
+Solución A2 • Sellado de fisuras, grietas, encuentros y juntas
+
+Este documento ha sido elaborado por el Instituto de ciencias
+de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+de la Dirección General de Agenda Urbana y Arquitectura del
+Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+Esta ficha forma parte de una serie de documentos englobados
+en una misma publicación, cuyo objetivo es constituir una herramienta de ayuda para el diseño de soluciones de protección
+frente al radón:
+■
+
+Guía de rehabilitación frente al radón
+
+Fichas de soluciones:
+A: De aislamiento del edificio
+■
+■
+■
+■
+■
+
+Solución A1. Barrera frente al radón
+Solución A1-1. Barrera frente al radón. Encuentros
+Solución A2. Sellado de fisuras, grietas, encuentros y juntas
+Solución A3. Puertas estancas
+Solución A4. Creación de sobrepresión
+
+B: De reducción del radón antes de que penetre en los locales
+a proteger
+■
+■
+■
+
+Solución B1. Ventilación del espacio de contención: cámara de aire
+Solución B2. Ventilación del espacio de contención: locales no habitables
+Solución B3. Despresurización del terreno
+
+C: De reducción del radón tras penetrar en los locales a proteger
+■
+
+Solución C1. Ventilación de los locales habitables
+
+El IETcc, perteneciente al Consejo Superior de Investigaciones
+Científicas (CSIC), es el centro de investigación en edificación
+de referencia en España. La Unidad de Calidad en la Construcción del IETcc asesora al MITMA en la elaboración del Código
+Técnico de la Edificación que, desde el año 2019, cuenta con la
+sección HS6 Protección frente a la exposición al radón.
+Dirección y Coordinación:
+Ministerio de Transportes, Movilidad y Agenda Urbana
+Isabel Marcos Anasagasti
+Raquel Lara Campos
+Eduardo González de Prado
+Instituto de ciencias de la construcción Eduardo Torroja CSIC
+Pilar Linares Alemparte
+Autoras:
+Pilar Linares Alemparte
+Sonia García Ortega
+Colaboradoras:
+Virginia Sánchez Ramos
+Karina Angélica García Pardo
+Edita:
+Centro de Publicaciones Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda Urbana©
+Entidad colaboradora:
+Consejo Superior de Investigaciones Científicas · CSIC
+Ministerio de Ciencia e Innovación
+Catálogo de publicaciones de la Administración General
+
+del Estado: publicacionesoficiales.boe.es
+Centro virtual de publicaciones del Ministerio de Transpor
+tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+
+Fichas de ejemplos:
+■
+■
+■
+■
+
+Ejemplo A1+B3. Barrera frente al radón + despresurización
+con red de tubos
+Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B3. Sellado + despresurización con red de tubos
+Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+
+Página web del Código Técnico de la Edificación:
+www.codigotecnico.org
+
+ 
+
+Maquetación y diseño gráfico:
+Lapizmente. Estrategia • Diseño Gráfico
+
+Publicación completa:
+ISBN: 978-84-498-1045-9
+NIPO: 796-20-136-5
+
+Los contenidos o ideas recogidas en este documento pertenecen a
+sus autores. Este documento está basado en el conocimiento disponible en el momento de su publicación. No se aceptará por las instituciones ni los autores implicados responsabilidad de ningún tipo por el
+uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+y no deben interpretarse como detalles constructivos.
+
+1ª edición: septiembre 2020
+Edición actual: septiembre 2020
+
+Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
+
+A2
+
+4
+4
+
+

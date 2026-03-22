@@ -1,0 +1,12198 @@
+Este documento recoge el segundo ejemplo
+práctico de una serie que muestra la aplicación
+del DBHE con el orden lógico que requiere la
+elaboración de un proyecto de edificación,
+presentando las casuísticas más habituales y
+barriendo distintos usos edificatorios. Se ha
+realizado bajo la supervisión de la Dirección
+General de Agenda Urbana y Arquitectura del
+Ministerio de Transportes, Movilidad y Agenda
+Urbana.
+
+Catálogo de publicaciones de la
+Administración General del Estado:
+http://publicacionesoficiales.boe.es
+
+Dirección y coordinación:
+Ministerio de Transportes, Movilidad y Agenda
+Urbana:
+Isabel Marcos Anasagasti
+Raquel Lara Campos
+Raúl Valiño López
+
+Edita:
+Centro de Publicaciones
+Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda
+Urbana ©
+
+Instituto de Ciencias de la Construcción
+Eduardo Torroja
+Rafael Villar Burke
+Marta Sorribes Gil
+Daniel Jiménez González
+Manuel Rodríguez Pérez - Doctor arquitecto,
+profesor del departamento de construcción de
+la Escuela Técnica Superior de Arquitectura de
+Madrid (UPM)
+
+Centro virtual de publicaciones del
+Ministerio de Transportes, Movilidad y Agenda
+Urbana:
+www.mitma.gob.es
+
+NIPO: 796-21-039-8
+
+Entidad colaboradora:
+Este texto se ha elaborado con la participación
+del CSCAE – Consejo Superior de los Colegios
+de Arquitectos de España
+
+Autores:
+Manuel Rodríguez Pérez - Doctor arquitecto,
+profesor del departamento de construcción de
+la Escuela Técnica Superior de Arquitectura de
+Madrid (UPM)
+Violeta Rodríguez González - Arquitecta
+
+Ilustración:
+Violeta Rodríguez González - Arquitecta
+Manuel Rodríguez Pérez - Doctor arquitecto,
+profesor del departamento de construcción de
+la Escuela Técnica Superior de Arquitectura de
+Madrid (UPM)
+
+Está permitida la reproducción, parcial o total,
+del presente documento, siempre que esté
+destinado al ejercicio profesional de los
+técnicos del sector. Por el contrario, debe contar
+con aprobación por escrito cuando esté
+destinado a fines editoriales en cualquier
+soporte impreso o electrónico.
+
+Abril 2021
+
+F1
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+pág.3
+
+pág.4
+
+F1
+
+ÍNDICE
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+ÍNDICE
+SECCIÓN 1: DESCRIPCIÓN DEL EJEMPLO. TOMA DE DATOS. ................................................................................ 6
+A.
+
+DATOS GENERALES Y PROGRAMA FUNCIONAL ......................................................................................... 7
+1.
+Información general .................................................................................................................................... 7
+2.
+
+Programa funcional ..................................................................................................................................... 8
+B.
+ARQUITECTURA Y DEFINICIÓN GEOMÉTRICA ........................................................................................... 12
+1.
+Planos: Situación y orientación. Plantas. Secciones. Alzados ................................................................. 12
+2.
+
+Imagen. Volumetría ................................................................................................................................... 17
+C. DEFINICIÓN CONSTRUCTIVA ...................................................................................................................... 18
+1.
+Composición de los cerramientos. Opacos y huecos .............................................................................. 18
+2.
+
+Modelo de puentes térmicos empleados según catálogo DA DB-HE / 3 ................................................ 28
+SISTEMAS DE ACONDICIONAMIENTO Y PREPARACIÓN DE ACS ............................................................. 33
+
+1.
+2.
+3.
+
+Acondicionamiento de invierno ................................................................................................................. 35
+Acondicionamiento de verano .................................................................................................................. 36
+Producción de ACS ................................................................................................................................... 37
+
+D.
+
+4.
+Ventilación híbrida ..................................................................................................................................... 39
+SECCIÓN 2. CUMPLIMIENTO DE LAS EXIGENCIAS ................................................................................................. 40
+HE1.CONDICIONES PARA EL CONTROL DE LA DEMANDA ENERGÉTICA ........................................................ 40
+1.
+Preparación de datos previos a la comprobación .................................................................................... 44
+2.
+Condiciones de la envolvente térmica ...................................................................................................... 53
+3.
+Limitación de descompensaciones .......................................................................................................... 69
+4.
+Limitación de condensaciones de la envolvente térmica ......................................................................... 70
+HE2. CONDICIONES DE LAS INSTALACIONES TÉRMICAS ................................................................................. 71
+HE3.CONDICIONES DE LAS INSTALACIONES DE ILUMINACIÓN ....................................................................... 73
+HE4.CONTRIBUCIÓN MÍNIMA DE ENERGÍA RENOVABLE PARA CUBRIR LA DEMANDA DE AGUA CALIENTE
+SANITARIA .............................................................................................................................................................. 74
+1.
+Preparación de datos previos a la comprobación .................................................................................... 74
+2.
+Contribución renovable mínima para demanda de ACS y/o climatización de piscina ............................ 76
+HE5.GENERACIÓN MÍNIMA DE ENERGÍA ELÉCTRICA ........................................................................................ 81
+HE0.LIMITACIÓN DEL CONSUMO ENERGÉTICO ................................................................................................. 82
+1.
+2.
+3.
+
+Preparación de datos previos a la comprobación .................................................................................... 82
+Consumo de energía primaria no renovable ............................................................................................ 82
+Consumo de energía primaria total........................................................................................................... 83
+
+4.
+Horas fuera de consigna ........................................................................................................................... 83
+5.
+Resultados ................................................................................................................................................ 83
+RESUMEN DEL CUMPLIMIENTO DE LOS INDICADORES DE CADA SECCIÓN .................................................. 85
+1.
+Tablas resumen de todos los requisitos. Comentarios ............................................................................ 85
+SECCIÓN 3. AYUDAS .................................................................................................................................................. 87
+1.
+1.
+2.
+
+INDICACIONES PARA EL LEVANTAMIENTO EN HULC ............................................................................... 87
+Datos generales, administrativos y previos .............................................................................................. 87
+Base de datos ........................................................................................................................................... 88
+
+3.
+4.
+5.
+
+Construcción del modelo .......................................................................................................................... 89
+Incorporación de sistemas ...................................................................................................................... 100
+Comentarios sobre la simulación............................................................................................................ 102
+
+pág.5
+
+F1
+
+DESCRIPCIÓN
+
+DAT
+
+PROGR
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+DESCRIP
+SECCIÓN 1: DESCRIPCIÓN DEL EJEMPLO. TOMA DE DATOS.
+A Datos generales y programa funcional
+B Arquitectura: Definición geométrica
+C Definición constructiva
+D Sistemas de acondicionamiento y ACS
+E Indicaciones para el levantamiento en HULC
+
+El ejemplo que se desarrolla a continuación consiste en una vivienda unifamiliar adosada formando
+hilera, en este caso de 7 unidades. La vivienda analizada es una de las intermedias con el fin de
+aprovechar como ejemplo la variedad de contactos que se producen en sus cerramientos y particiones.
+Las características formales, constructivas y sistemas de acondicionamiento de la vivienda se describen
+en los apartados siguientes.
+En cuanto a la geometría y composición espacial del edificio, y al igual que en el “Ejemplo 0, Vivienda
+unifamiliar mínima” partiremos de unas condiciones de entorno teóricas y que normalmente en un
+proyecto real, serán consecuencia de las propias características físicas del lugar, así como de las
+determinaciones urbanísticas establecidas en las ordenanzas municipales. Principalmente, estas
+determinaciones urbanísticas, regulan parámetros tales como la edificabilidad, retranqueos en parcela,
+altura de cornisa, altura de cumbrera, etc.
+El objetivo de este Ejemplo 1 Vivienda unifamiliar adosada, es el estudio del cumplimiento de los
+diferentes indicadores, condiciones, valores límite y procedimientos en cada una de las exigencias,
+partiendo de la configuración teórica que se establece para este proyecto. En algunos apartados se hará
+referencia al estudio de variantes y alternativas posibles que se han desarrollado en profundidad en el
+“Ejemplo 0, Vivienda Unifamiliar Mínima”.
+El modelo de estudio de esta vivienda ha sido reproducido en la HERRAMIENTA UNIFICADA LIDER
+CALENER (HULC1) y nos servirnos de los resultados obtenidos en diferentes apartados de esta ficha.
+La versión utilizada de la Herramienta Unificada para verificación del DB-HE 2019 es la 2.0.2203.1160
+de 26 de abril.
+
+1
+
+En el capítulo de Ayudas de este documento, figura un apartado completo de recomendaciones y criterios generales de
+aplicación para el levantamiento del modelo en la HERRAMIENTA UNIFICADA LIDER-CALENER (HULC)
+pág.6
+
+F1
+
+DESCRIPCIÓN
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+PROGR
+
+ADOSADA
+
+DAT
+A. DATOS GENERALES Y PROGRAMA FUNCIONAL
+1.
+
+Información general
+
+2. Programa funcional
+A continuación, se detallan los datos de contexto necesarios para realizar la comprobación del
+cumplimiento de las diferentes exigencias de cada sección. También son los que precisamos para poder
+levantar el modelo del edificio en la Herramienta Unificada Lider-Calener (HULC).
+
+INFO
+GENERAL
+1. Información general
+En este apartado se especifican los datos referidos a su ubicación, tipo de proyecto, alcance de la
+intervención, etc.
+
+1. Tipo de proyecto o intervención
+
+Edificio nuevo
+
+2. Uso
+
+Residencial privado
+
+HE 1. 1 ämbito de aplicación
+
+3. Localidad
+
+Jaén
+
+4. Altitud de proyecto (m)
+
+575
+
+5. Zona climática
+
+C4
+
+Tabla a-Anejo B
+
+1. Tipo de edificio
+
+Vivienda unifamiliar adosada
+
+Para este edificio, la consideración es de obra nueva y se ha situado en un clima normativo “C4” que
+requerirá soluciones compatibles con un mayor rigor climático de verano, pero donde los inviernos
+presentarán también solicitaciones de cierta importancia. El proyecto se sitúa en la ciudad de Jaén y con
+una altitud de proyecto de 575 m sobre el nivel del mar.
+Tal y como se señalaba en el “Ejemplo 0, Vivienda unifamiliar mínima”, en este caso se trata también de
+una localización y proyecto virtuales, dando respuesta a unas exigencias normativas para ese clima
+concreto. En consecuencia, es muy probable que el proyecto no satisfaga otros aspectos relevantes,
+como son la total coherencia formal con el entorno, la integración de las técnicas constructivas propias
+del lugar, etc. Tampoco se ha hecho una consideración económica estricta de las soluciones
+propuestas, aunque si se ha intentado acercar los niveles de aislamiento, calidad de carpinterías y
+sistemas de acondicionamiento a un cumplimiento ajustado. Como se ha dicho, a la hora de componer
+el modelo, se han priorizado los aspectos que facilitan una mejor comprensión de los procedimientos
+normativos que es el objeto principal de esta guía.
+
+pág.7
+
+F1
+
+DESCRIPCIÓN
+
+DAT
+
+PROGR
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+PROGR
+2. Programa funcional
+La vivienda se organiza en cuatro plantas, una bajo rasante con dos niveles diferentes y cuatro en
+superficie con el siguiente programa funcional:
+- P01. Planta sótano de servicios, situada en cota – 2,96 m y dedicada a cuartos técnicos y
+trastero, además del espacio que ocupa la escalera de acceso.
+-
+
+P02. Cámara sanitaria. Situada en cota – 0,96 m. No es una planta propiamente dicha. Se trata
+de un nivel intermedio entre plantas que, en este caso, ocupa la cámara sanitaria bajo las zonas
+de planta baja que no se encuentran sobre el sótano descrito en el párrafo anterior. Se dispone
+este espacio para evitar el contacto directo de la planta baja (P03) con el terreno.
+
+-
+
+P03. Planta baja en cota ±0 con el siguiente programa:
+▪ Zaguán de acceso
+▪ Zona ajardinada delantera
+▪ Garaje cerrado con capacidad para una plaza de aparcamiento
+▪ Hall de entrada
+▪ Cocina
+▪ Aseo
+▪ Salón comedor
+▪ Núcleo de escalera
+▪ Porche trasero cerrado por tres lados y cubierto
+▪ Zona ajardinada trasera
+
+-
+
+P04. Planta primera. Situada en cota + 3,15 m y en la que se distribuyen los siguientes espacios:
+▪ Núcleo de escalera
+▪ Distribuidor
+▪ Dormitorio principal
+▪ Cuarto de baño dentro del dormitorio principal
+▪ Terraza del dormitorio principal
+▪ Dormitorio 2
+▪ Dormitorio 3
+▪ Cuarto de baño común de planta
+
+-
+
+P05. Planta ático. Situada en cota + 6,10 m y de acceso a la azotea con el siguiente programa:
+▪ Núcleo de escalera
+▪ Espacio polivalente abierto
+▪ Azotea o terraza solárium
+
+-
+
+P06. Bajocubierta. Situada en cota + 8,96 m. Tampoco se trata de una planta propiamente
+dicha, pues consiste en un espacio de transición entre el interior ocupado y el espacio exterior.
+Este espacio bajo la cubierta inclinada y de reducidas dimensiones, se destinará parcialmente
+al posible alojamiento de equipos relacionados con la instalación de colectores solares térmicos
+y/o con los equipos de refrigeración.
+
+-
+
+Cubiertas del edificio: Se resuelven de la siguiente forma:
+▪ Cubierta plana transitable que cubre parcialmente la planta de dormitorios. Esta
+azotea tiene su acceso desde la planta P05.
+pág.8
+
+F1
+
+DESCRIPCIÓN
+
+DAT
+
+PROGR
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+▪ Cubierta inclinada en el volumen de transición descrito de la planta P06. Esta cubierta
+tiene una inclinación de 13º y sirve como soporte de los colectores solares térmicos
+previstos para la contribución renovable en la preparación de ACS.
+De cara a la simulación del modelo, cada planta se ha organizado en diferentes espacios pensando en
+la simplificación necesaria de cara al levantamiento en la HERRAMIENTA UNIFICADA LIDER CALENER.
+El criterio empleado ha sido en lo posible, recurrir al espacio único por planta y este criterio se ha podido
+mantener en casi todas las plantas ya que se prevé un comportamiento homogéneo de los locales y los
+sistemas de acondicionamiento previstos son los mismos para todos ellos. Tan solo la planta baja ha
+sido necesario dividirla en dos espacios. El resumen de la configuración es el siguiente:
+P01. SÓTANO. Uso técnico y trastero
+- P01 E01. Espacio NO HABITABLE, pero que se incluye dentro de la envolvente térmica.
+P02. CÁMARA SANITARIA.
+- P02 E01. Espacio NO HABITABLE y no incluido dentro de la envolvente térmica.
+P03. PLANTA BAJA. Vivienda y garaje
+- P03 E01. Espacio destinado a garaje y que tendrá la consideración de NO HABITABLE y exterior
+a la envolvente térmica.
+- P03 E02. Reúne todos los espacios acondicionados de la planta y todos ellos se consideran
+interiores a la envolvente térmica.
+P04. PLANTA DE DORMITORIOS
+- P04 E01. Dormitorios. Reúne todos los locales acondicionados de esta planta y todos ellos se
+incluyen dentro de la envolvente térmica.
+P05. ZONA DE ESTAR Y ESTUDIO
+- P05 E01. Ático. Espacio único acondicionado y dentro de la envolvente térmica.
+P06. BAJOCUBIERTA. Uso técnico.
+- P06 E01. Bajocubierta. Espacio de transición y uso técnico, se considera NO HABITABLE y exterior
+a la envolvente térmica.
+RESUMEN DE ESPACIOS POR PLANTA
+Planta
+
+ESPACIOS
+
+Tipo de espacio
+
+Superficie
+No habitable (m 2 )
+
+Superficie útil
+acondicionada (m 2 )
+
+Superficie total
+construida (m 2 )
+
+Altura de espacios Altura equivalente
+(m)
+(m)
+
+Volumen total
+construido (m 3 )
+
+P01. SÓTANO. Uso técnico y trastero
+P01 E01
+NO HABITABLE
+Totales de planta
+
+26,07
+26,07
+
+26,07
+26,07
+
+2,96
+
+77,17
+77,17
+
+P02. CÁMARA SANITARIA
+P02 E01
+NO HABITABLE
+Totales de planta
+
+41,63
+41,63
+
+41,63
+41,63
+
+0,96
+
+39,96
+39,96
+
+49,72
+49,72
+
+18,97
+49,72
+68,69
+
+3,14
+3,14
+
+59,57
+156,12
+215,69
+
+P04. PLANTA DE DORMITORIOS
+P04 E01
+ACONDICIONADO
+Totales de planta
+
+67,7
+67,7
+
+67,7
+67,7
+
+2,96
+
+200,39
+200,39
+
+P05. ZONA DE ESTAR Y ESTUDIO
+P05 E01
+ACONDICIONADO
+Totales de planta
+
+26,1
+26,1
+
+26,1
+26,1
+
+2,86
+
+74,65
+74,65
+
+P03. PLANTA BAJA. Vivienda y garaje
+P03 E01
+NO HABITABLE
+P03 E02
+ACONDICIONADO
+Totales de planta
+
+18,97
+18,97
+
+P06. BAJOCUBIERTA. Uso técnico
+P06 E01
+NO HABITABLE
+Totales de planta
+
+26,4
+26,4
+
+TOTALES DEL EDIFICIO
+
+113,07
+
+26,4
+26,4
+143,52
+
+256,59
+
+0,90
+
+23,76
+23,76
+631,62
+
+.
+En los siguientes esquemas en planta y sección, se describe gráficamente la localización y
+caracterización de cada uno de los espacios dentro de cada planta.
+
+pág.9
+
+F1
+
+DESCRIPCIÓN
+
+DAT
+
+PROGR
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+NO HABITABLE
+
+A
+
+A´
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+NO HABITABLE
+
+NO HABITABLE
+
+SECCIÓN ESTE-OESTE ( A-A´)
+
+P01 E01
+
+P01.PLANTA SÓTANO (-2,96)
+
+P02 E01
+
+P02.CÁMARA SANITARIA (-0,95)
+
+P04 E01
+P03 E02
+
+P03 E01
+
+P03.PLANTA BAJA (±0)
+
+P04.PLANTA PRIMERA (+3,14)
+
+P05 E01
+
+P05.PLANTA SEGUNDA (+6,09)
+
+NO HABITABLE
+
+ACONDICIONADO
+
+P06 E01
+
+P06.BAJOCUBIERTA (+8,96)
+
+pág.10
+
+F1
+
+DESCRIPCIÓN
+
+DAT
+
+PROGR
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+B
+
+NO HABITABLE
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+NO HABITABLE
+
+ACONDICIONADO
+
+NO HABITABLE
+
+SECCIÓN NORTE-SUR
+
+B´
+
+pág.11
+
+F1
+
+DESCRIPCIÓN
+
+ARQ
+
+PLANOS
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+ARQ
+B. ARQUITECTURA Y DEFINICIÓN GEOMÉTRICA
+1.
+2.
+
+Planos: Situación y orientación. Plantas. Secciones. Alzados
+Imágenes. Volumetría
+
+PLANOS
+1. Planos: Situación y orientación. Plantas. Secciones. Alzados
+
+Alzado sur
+
+Alzado norte
+
+Planta del consjunto
+
+Plano de situación general, alzados y posición de la unidad que se va a estudiar.
+pág.12
+
+F1
+
+DESCRIPCIÓN
+
+ARQ
+
+PLANOS
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Sótano de servicios
+21,06 m2
+
+Cámara sanitaria
+
+P01. Planta sótano y P02. Cámara sanitaria.
+
+Salón comedor
+24,5 m2
+
+Cocina
+10,86 m2
+
+Acceso
+2,59 m2 Aseo
+3,36 m2
+
+Garaje
+18,50 m2
+
+P03. Planta baja.
+pág.13
+
+F1
+
+DESCRIPCIÓN
+
+ARQ
+
+Dormitorio 3
+10,05 m2
+
+Baño común
+4,47 m2
+
+PLANOS
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Dormitorio 2
+11,41 m2
+
+Distribuidor
+5,99 m2
+
+Baño dormitorio principal
+7,99 m2
+
+Dormitorio principal
+16,34 m2
+
+P04. Planta primera. Dormitorios.
+
+Salón estudio
+21,77 m2
+
+P05. Planta ático y acceso a terraza
+pág.14
+
+F1
+
+DESCRIPCIÓN
+
+ARQ
+
+PLANOS
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Espacio bajo cubierta
+
+P06. Espacio bajocubierta de instalaciones
+
+Cubierta plana
+
+Cubierta inclinada
+
+Colectores
+solares térmicos
+
+Plano de cubiertas
+
+pág.15
+
+F1
+
+DESCRIPCIÓN
+
+Alzado sur
+
+Medianera oeste
+
+ARQ
+
+PLANOS
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Alzado norte
+
+Medianera este
+
+Alzados de la unidad que se estudia
+
+La posición de la edificación en la parcela es de orientación pura Norte – Sur. El acceso a las viviendas
+se produce por la fachada norte y en la sur, en planta baja y desde el salón de la vivienda, existe una
+salida a la zona ajardinada privada. La volumetría es sencilla, si bien se ha pretendido que disponga de
+la mayor variedad posible en el contacto y soluciones de sus cerramientos, con el fin de manejar
+diferentes opciones en función de su composición y relación entre espacios y de estos con el espacio
+exterior o terreno.
+
+pág.16
+
+F1
+
+DESCRIPCIÓN
+
+ARQ
+
+IMAGEN
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+IMAGEN
+2. Imagen. Volumetría
+
+Fachada norte
+
+Fachada sur
+pág.17
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+CERR
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+CONST
+C. DEFINICIÓN CONSTRUCTIVA
+1.
+2.
+
+Composición de los cerramientos. Opacos y huecos
+Modelo de puentes térmicos empleados según catálogo DA DB-HE / 3
+
+En los siguientes apartados se describen y caracterizan todos los cerramientos que componen la
+envolvente y particiones del edificio. Así mismo, se ordenan las soluciones de puentes térmicos
+empleados tomando como referencia el catálogo de soluciones que figura en el documento de ayuda
+DA DB-HE / 3 Puentes térmicos. Nuevamente indicar aquí, que esta relación de soluciones constructivas
+es la misma que se empleará en el levantamiento del modelo con la Herramienta Unificada Lider-Calener.
+
+CERR
+1. Composición de los cerramientos. Opacos y huecos
+Constructivamente la hilera de viviendas se organiza mediante muros medianeros de hormigón armado
+que delimitan cada unidad y que se emplean como elementos portantes en cada planta. Estos serán los
+elementos resistentes principales y se trasdosarán a ambos lados en cada vivienda. De manera general,
+dicho trasdosado se realizará mediante perfilería metálica, aislamiento térmico-acústico y doble hoja de
+panel de yeso laminado o alicatado, dependiendo del acabado que se precise en cada espacio.
+El procedimiento de cálculo detallado de las transmitancias de cada cerramiento se puede consultar en
+el DA DB-HE / 1 Cálculo de parámetros característicos de la envolvente. Las transmitancias reflejadas
+incluyen las resistencias superficiales del aire (Rse y Rsi). En la sección de ayudas del volumen (I) “Ejemplo
+0, Vivienda unifamiliar mínima” de esta guía se aplica dicho cálculo para varios ejemplos de cerramientos.
+El resumen de los parámetros y detalles referidos a las soluciones constructivas empleadas en el edificio,
+incluidos sus puentes térmicos, se describen a continuación.
+Cerramientos opacos
+M EXT YS
+
+M URO EX TERIOR ACABADO INTERIOR YESO
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m)
+
+capas
+
+Cond. λ (W/m·K )
+
+1 Mortero de cemento
+
+0,03
+
+0,550
+
+2 1/2 pie LP métrico o catalán
+
+0,115
+
+0,991
+
+3 Mortero de cemento
+
+0,01
+
+0,55
+
+4 Lana mineral
+
+0,1
+
+0,031
+
+5 Cámara de aire liger. ventilada vertical
+
+0,02
+
+0,18
+
+6 Placa de yeso laminado
+
+0,015
+
+0,250
+
+7 Placa de yeso laminado
+
+0,015
+0,305
+
+0,250
+
+Tot al
+
+TRANSM ITANCIA
+
+1
+2
+3
+4
+5
+6
+
+7
+
+2
+
+0,26 W/ m K
+
+pág.18
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+CERR
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+M EXT AL
+
+M URO EX TERIOR ACABADO INTERIOR ALICATADO
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Mortero de cemento
+
+0,03
+
+0,550
+
+2 1/2 pie LP métrico o catalán
+
+0,115
+
+0,991
+
+3 Mortero de cemento
+
+0,01
+
+0,55
+
+4 Cámara de aire liger. ventilada vertical
+
+0,02
+
+0,18
+
+1
+2
+
+0,1
+
+0,031
+
+3
+
+6 Placa de yeso laminado
+
+0,015
+
+0,250
+
+4
+
+7 Mortero de cemento
+
+0,005
+
+0,55
+
+0,01
+0,305
+
+1,300
+
+5 Lana mineral
+
+8 Azulejo cerámico
+Tot al
+
+5
+6
+8 7
+
+2
+
+0,27 W/m K
+
+TRANSM ITANCIA
+
+M EXT-NH
+
+M URO EX TERIOR CON NO HABITABLE
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Mortero de cemento
+
+0,02
+
+0,550
+
+2 1/2 pie LP métrico o catalán
+
+0,115
+
+0,667
+
+3 Cámara de aire liger. ventilada vertical
+
+0,05
+
+0,085
+
+4 Placa de yeso laminado
+
+0,015
+
+0,250
+
+5 Placa de yeso laminado
+
+0,015
+0,215
+
+0,250
+
+Tot al
+
+1 1
+
+2
+2
+
+3
+
+3
+4
+
+5
+
+4
+2
+
+1,7 W/m K
+
+TRANSM ITANCIA
+
+MURO CAM SANIT
+
+M URO DE CÁM ARA SANITARIA
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 1 pie LP métrico o catalán
+
+0,24
+Tot al
+
+0,667
+
+0,24
+
+1
+
+TRANSM ITANCIA
+
+1,89 W/M 2k
+
+pág.19
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+ADOSADA
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+1 Mortero de cemento
+
+0,01
+
+0,550
+
+2 Hormigón armado
+
+0,25
+
+2,300
+
+3 Lana mineral
+
+0,1
+
+0,031
+
+4 Cámara de aire liger. ventilada vertical
+
+0,02
+
+0,085
+
+5 Placa de yeso laminado
+
+0,015
+
+0,250
+
+6 Placa de yeso laminado
+
+0,015
+0,410
+
+0,250
+
+Tot al
+
+1
+
+2
+
+3
+4
+5
+
+TRANSM ITANCIA
+
+VIVIENDA UNIFAMILIAR
+
+M EXT PRT YS
+
+M URO EX TERIOR PORTANTE ACABADO INTERIOR YESO
+
+capas
+
+CERR
+
+6
+
+2
+
+0,27 W/m K
+
+M EXT PRT NH
+
+M URO EX TERIOR PORTANTE CON NO HABITABLE
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Hormigón armado
+
+0,25
+
+2,300
+
+2 Mortero de cemento
+
+0,01
+
+0,550
+
+3 Cámara de aire liger. ventilada vertical
+
+0,05
+
+0,085
+
+0,015
+0,325
+
+0,250
+
+4 Placa de yeso laminado
+Tot al
+
+1
+
+2
+3
+4
+
+TRANSM ITANCIA
+
+2
+
+2,24 W/m K
+
+M NH-TRR
+
+M URO NO HABITABLE CON TERRENO
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+
+0,170
+
+1 Cloruro de polivinilo PVC
+
+0,01
+
+2 Betún fieltro o lámina
+
+0,01
+
+0,23
+
+3 1/2 pie LP métrico o catalán
+
+0,115
+
+0,667
+
+4 Mortero de cemento
+
+0,01
+
+0,550
+
+5 Lana mineral
+
+0,1
+
+0,031
+
+6 Cámara de aire liger. ventilada vertical
+
+0,02
+
+0,085
+
+4
+
+7 Placa de yeso laminado
+
+0,015
+
+0,250
+
+5
+
+0,015
+0,295
+
+0,250
+
+8 Placa de yeso laminado
+Tot al
+TRANSM ITANCIA*
+
+2
+
+1
+
+3
+
+6
+7
+
+8
+
+2
+
+0,26 W/m K
+( * ) 0,25 W/m K
+2
+
+* Transmitancia corregida por contacto con el terreno
+
+pág.20
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Placa de yeso laminado
+
+0,015
+
+0,250
+
+1
+
+2 Placa de yeso laminado
+
+0,015
+
+0,250
+
+3
+
+3 Lana mineral
+
+0,05
+
+0,031
+
+4 Hormigón armado
+
+0,25
+
+2,300
+
+5 Lana mineral
+
+0,05
+
+0,031
+
+6 Placa de yeso laminado
+
+0,015
+
+0,250
+
+0,015
+0,410
+
+0,250
+
+7 Placa de yeso laminado
+Tot al
+
+2
+
+4
+
+5
+6
+2
+
+0,27 W/m K
+
+7
+
+MED AL
+
+M EDIANERA ACABADO ALICATADO
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Placa de yeso laminado
+
+0,015
+
+0,250
+
+2 Placa de yeso laminado
+
+0,015
+
+0,250
+
+3 Lana mineral
+
+0,05
+
+0,031
+
+4 Hormigón armado
+
+0,25
+
+2,300
+
+5 Lana mineral
+
+0,05
+
+0,031
+
+6 Placa de yeso laminado
+
+0,015
+
+0,250
+
+7 Mortero de cemento
+
+0,005
+
+0,550
+
+8 Azulejo cerámico
+
+0,01
+0,410
+
+1,300
+
+Tot al
+
+1
+
+2
+
+3
+
+4
+
+5
+6 7
+8
+
+2
+
+0,27 W/m K
+
+MED AC-NH
+
+M EDIANERA CONTATCO CON NO HABITABLE (GARAJE)
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Placa de yeso laminado
+
+0,015
+
+0,250
+
+2 Placa de yeso laminado
+
+0,015
+
+0,250
+
+3 Lana mineral
+
+0,04
+
+0,031
+
+4 1/2 pie LP métrico o catalán
+
+0,115
+
+0,667
+
+5 Lana mineral
+
+0,04
+
+0,031
+
+6 Placa de yeso laminado
+
+0,015
+
+0,250
+
+0,015
+0,255
+
+0,250
+
+7 Placa de yeso laminado
+Tot al
+
+TRANSM ITANCIA
+
+ADOSADA
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+
+TRANSM ITANCIA
+
+VIVIENDA UNIFAMILIAR
+
+MED YS
+
+M EDIANERA ACABADO YESO
+
+TRANSM ITANCIA
+
+CERR
+
+1
+
+2
+
+3
+
+4
+
+5
+6
+
+7
+
+2
+
+0,32 W/m K
+
+pág.21
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+MED NH-NH
+
+M EDIANERA ENTRE NO HABITABLES
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Placa de yeso laminado
+
+0,015
+
+0,250
+
+2 Placa de yeso laminado
+
+0,015
+
+0,250
+
+3 Lana mineral
+
+0,04
+
+0,031
+
+4 Cámara de aire sin ventilar vertical
+
+0,02
+
+0,17
+
+5 Hormigón armado
+
+0,25
+
+2,300
+
+6 Cámara de aire sin ventilar vertical
+
+0,02
+
+0,17
+
+7 Lana mineral
+
+0,04
+
+0,031
+
+8 Placa de yeso laminado
+
+0,015
+
+0,250
+
+9 Placa de yeso laminado
+
+0,015
+0,430
+
+0,250
+
+Tot al
+
+1
+
+2
+
+3
+4
+
+5
+
+6
+7
+8
+
+2
+0,3 W/m K
+
+TRANSM ITANCIA
+
+CERR
+
+9
+
+TAB INT
+
+TABIQUE INTERIOR
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Placa de yeso laminado
+
+0,011
+
+0,250
+
+2 Placa de yeso laminado
+
+0,011
+
+0,250
+
+3 MW Lana mineral
+
+0,04
+
+0,041
+
+4 Placa de yeso laminado
+
+0,011
+
+0,250
+
+1
+
+5 Placa de yeso laminado
+
+0,011
+0,084
+
+0,250
+
+3
+4
+
+Tot al
+
+2
+5
+
+2
+
+0,76 W/m K
+
+TRANSM ITANCIA
+
+FOR INT
+
+FOR J ADO INTER IOR ENTR E PLANTAS (ACOND-ACOND)
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Plaqueta o baldosa cerámica
+
+0,01
+
+1,000
+
+2 Mortero de cemento
+
+0,02
+
+0,550
+
+3 Mortero de cemento de difusión
+
+0,05
+
+0,550
+
+4 EPS Poliestireno Expandido
+
+0,015
+
+0,029
+
+5 FU entrevigado cerámico
+
+0,30
+
+0,846
+
+6 Cámara lig. ventilada horizontal
+
+0,05
+
+0,080
+
+0,015
+0,460
+
+0,250
+
+7 Placa de yeso laminado
+Tot al
+
+2
+
+1
+
+3
+4
+
+5
+
+6
+
+TRANSM ITANCIA
+
+2
+
+0,74 W/m K
+
+7
+
+pág.22
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+FOR NH-NH
+
+FOR J ADO INTER IOR ENTR E NO HAB ITAB LES (S ÓT A N O- GA RA JE )
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+1
+
+espesor (m) Cond. λ (W/m·K )
+
+capas
+
+CERR
+
+1 Plaqueta de gres
+
+0,01
+
+2,300
+
+2 Mortero de cemento
+
+0,045
+
+0,550
+
+3 XPS Expandido (λ:0,034 (W/m·K)
+
+0,04
+
+0,034
+
+4 Forjado Entrevigado EPS mecanizado
+
+0,3
+
+0,256
+
+5 Cámara de aire sin ventilar horiz.
+
+0,1
+
+0,18
+
+0,015
+0,510
+
+0,250
+
+6 Placa de yeso laminado
+Tot al
+
+2
+3
+
+4
+
+5
+
+TRANSM ITANCIA*
+
+2
+
+0,36 W/m K
+
+6
+
+2
+( * ) 0,35 W/m K
+
+* Corregida por contacto con N.H.
+
+FOR ACOND-EXT
+
+FORJADO ACONDICIONADO CON AIRE EX TERIOR
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Plaqueta de gres
+
+0,01
+
+2,300
+
+2 Mortero de cemento
+
+0,02
+
+0,550
+
+3 Mortero de cemento
+
+0,05
+
+0,550
+
+4 EPS Poliestireno Expandido
+
+0,015
+
+0,029
+
+5 FU entrevigado cerámico
+
+0,30
+
+0,846
+
+6 Lana mineral
+
+0,08
+
+0,031
+
+7 Paneles de fibra con conglomerante
+
+0,02
+
+0,120
+
+Tot al
+
+0,495
+
+2
+
+1
+
+3
+4
+
+5
+
+6
+
+TRANSM ITANCIA
+
+2
+
+7
+
+0,25 W/m K
+
+FOR ACOND-NH
+
+FORJADO ACONDICIONADO CON NO HABITABLE
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Plaqueta de gres
+
+0,01
+
+2,300
+
+2 Mortero de cemento
+
+0,02
+
+0,550
+
+3 Mortero de cemento
+
+0,05
+
+0,550
+
+4 EPS Poliestireno Expandido
+
+0,015
+
+0,029
+
+5 FU entrevigado cerámico
+
+0,30
+
+0,846
+
+6 Lana mineral
+
+0,05
+
+0,031
+
+7 Placa de yeso laminado
+
+0,015
+
+0,250
+
+Tot al
+
+1
+2
+3
+4
+
+5
+
+0,46
+6
+
+TRANSM ITANCIA
+
+2
+
+0,35 W/m K
+
+7
+
+( * ) 0,35 W/m K
+2
+
+* Corregida por contacto con N.H.
+pág.23
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+CERR
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+FOR BJ
+
+FORJADO BAJOCUBIERTA
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Mortero de cemento
+
+0,05
+
+0,550
+
+2 FU entrevigado cerámico
+
+0,21
+
+0,840
+
+3 Lana mineral
+
+0,08
+
+0,031
+
+4 Placa de yeso laminado
+
+0,015
+
+0,250
+
+Tot al
+
+1
+
+0,356
+
+2
+
+3
+4
+
+TRANSM ITANCIA
+
+2
+
+0,32 W/m K
+( * ) 0,24 W/m K
+2
+
+* Corregida por contacto con N.H.
+
+FOR CAM SANIT
+
+FORJADO CON CÁM ARA SANITARIA
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Plaqueta de gres
+
+0,01
+
+1,000
+
+2 Mortero de cemento
+
+0,02
+
+0,550
+
+3 Mortero de cemento
+
+0,05
+
+0,550
+
+4 EPS Poliestireno Expandido
+
+0,015
+
+0,038
+
+5 Hormigón armado
+
+0,12
+
+2,300
+
+6 XPS Expandido
+
+0,08
+
+0,038
+
+7 Hormigón armado
+
+0,1
+
+2,300
+
+8 Cloruro de polivinilo PVC
+
+0,02
+
+0,170
+
+Tot al
+
+0,415
+
+2
+
+1
+
+3
+4
+5
+
+6
+
+7
+8
+
+TRANSM ITANCIA
+
+2
+
+0,33 W/m K
+
+SOL TRR
+
+SOLERA NO HABITABLE CON TERRENO
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+
+0,01
+
+2,300
+
+2 Mortero de cemento
+
+0,04
+
+0,550
+
+3 XPS Expandido
+
+0,04
+
+0,034
+
+4 Hormigón en masa
+
+0,12
+
+2,300
+
+5 Lámina PVC
+
+0,005
+
+0,170
+
+0,15
+
+2,000
+
+1 Plaqueta de gres
+
+6 Arena y grava
+Tot al
+
+0,365
+
+1
+2
+3
+
+4
+
+5
+
+6
+
+TRANSM ITANCIA
+
+2
+
+0,62 W/m K
+( * ) 0,59 W/m K
+2
+
+* Transmitancia corregida por contacto con el terreno
+pág.24
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+SOLERA C. SANIT CON TERRENO
+
+SOL TRR
+
+CERR
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Mortero de cemento
+
+0,04
+
+0,550
+
+2 Arena y grava
+
+0,15
+
+2,000
+
+Tot al
+
+0,19
+
+1
+
+2
+
+2
+
+2,8 W/m K
+
+TRANSM ITANCIA
+
+CUB PL EXT-NH
+
+CUBIERTA PLANA EX TERIOR-NO HABITABLE
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Plaqueta o baldosa de gres
+
+0,01
+
+2,300
+
+2 Mortero de cemento
+
+0,04
+
+0,550
+
+3 Betún fieltro o lámina
+
+0,005
+
+0,230
+
+4 Betún fieltro o lámina
+
+0,005
+
+0,230
+
+5 Mortero de cemento
+
+0,05
+
+0,550
+
+6 Forjado Entrevigado EPS mecanizado
+
+0,3
+
+0,256
+
+7 Lana mineral
+
+0,05
+
+0,031
+
+0,015
+
+0,250
+
+8 Placa de yeso laminado
+Tot al
+
+1
+2
+3
+
+4
+
+5
+
+6
+
+0,475
+7
+
+TRANSM ITANCIA
+
+8
+
+2
+
+0,31 W/m K
+
+CUB IN EXT-ACON
+
+CUBIERTA PLANA EX TERIOR-ACONDICIONADO
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Plaqueta o baldosa cerámica
+
+0,01
+
+1,000
+
+1
+2
+
+2 Mortero de cemento
+
+0,04
+
+0,550
+
+5
+
+3 Betún fieltro o lámina
+
+0,005
+
+0,230
+
+6
+
+4 Betún fieltro o lámina
+
+0,005
+
+0,230
+
+5 Mortero de cemento
+
+0,04
+
+0,550
+
+6 XPS Expandido
+
+0,04
+
+0,034
+
+7 Forjado entrevigado cerámico
+
+0,3
+
+0,840
+
+8 Cámara de aire ligeramente ventilada
+
+0,05
+
+9 Lana mineral
+
+0,05
+
+0,031
+
+10 Placa de yeso laminado
+
+0,015
+
+0,250
+
+Tot al
+TRANSM ITANCIA
+
+0,555
+0,23 W/m K
+2
+
+3
+
+4
+
+7
+
+8
+9
+10
+
+pág.25
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+CUBIERTA INCLINADA EX TERIOR-NO HABITABLE
+
+CUB IN EXT-ACON
+
+VIVIENDA UNIFAMILIAR
+
+CERR
+
+ADOSADA
+
+SECCIÓN CONSTRUCTIVA
+
+COMPOSICIÓN DEL CERRAMIENTO
+espesor (m) Cond. λ (W/m·K )
+
+capas
+1 Plaqueta o baldosa cerámica
+
+0,01
+
+1,000
+
+2 Mortero de cemento
+
+0,04
+
+0,550
+
+3 Betún fieltro o lámina
+
+0,005
+
+0,230
+
+4 Betún fieltro o lámina
+
+0,005
+
+0,230
+
+5 Mortero de cemento
+
+0,04
+
+0,550
+
+1
+2
+3
+4
+5
+
+6 XPS Expandido
+
+0,04
+
+0,034
+
+6
+
+7 Forjado entrevigado cerámico
+
+0,21
+
+0,840
+
+Tot al
+
+0,350
+
+7
+
+TRANSM ITANCIA
+
+2
+
+0,34 W/m K
+
+Huecos
+
+N
+
+CONFIGURACIÓN HUECOS EN FACHADA NORTE
+
+La posición relativa de las carpinterías en el muro es alineada a su cara interior
+VIDRIO
+MARCO
+Tipo de vidrio
+Doble bajo emisivo < 0,03
+Material
+4-16 Argón-44.2
+Composición
+Rotura pte. térmico
+Factor solar
+0,65
+Color carpintería
+Transmitancia térmica
+1,0 W/m2K
+Absortividad
+Trasmirancia témica
+Porcentaje marco
+
+PVC
+Gris oscuro
+0,7
+1,3 W/m2K
+25 % del hueco
+
+Protecciones móviles
+
+Elemento
+Color
+ggl;sh,wi
+
+Persianas exteriores
+Del mismo color gris de la carpintería
+0,08
+
+CONFIGURACIÓN HUECOS FACHADA SUR, ESTE Y OESTE
+
+Permeabilidad al aire
+
+9 m3/h·m2
+
+UHUECO
+
+1,13 W/m 2 ·K
+
+Clase 3
+
+S/O/E
+
+La posición relativa de las carpinterías en el muro es alineada a su cara interior
+VIDRIO
+MARCO
+Tipo de vidrio
+
+Doble bajo emisivo < 0,03
+
+Composición
+
+4-16 Argón-44,2
+
+Factor solar
+
+0,58
+
+Transmitancia térmica
+
+1,0 W/m2K
+
+Material
+Rotura pte. térmico
+Color carpintería
+Absortividad
+Trasmirancia témica
+Porcentaje marco
+
+PVC
+Gris oscuro
+0,7
+1,5 W/m2K
+25 % del hueco
+
+Protecciones móviles
+
+Elemento
+Color
+ggl;sh,wi
+
+Persianas exteriores
+Del mismo color gris de la carpintería
+0,08
+
+Permeabilidad al aire
+
+9 m3/h·m2
+
+UHUECO
+
+1,13 W/m 2 ·K
+
+Clase 3
+
+pág.26
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+CONFIGURACIÓN HUECO PUERTA ACCESO
+
+CERR
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+PTA
+
+La posición relativa de las carpintería en el muro es alineada a su cara interior
+VIDRIO
+MARCO
+Tipo de vidrio
+
+-
+
+Composición
+
+-
+
+Factor solar
+
+-
+
+Transmitancia térmica
+
+-
+
+W/m2K
+
+Material
+Madera densidad media alta
+Rotura pte. térmico
+Color carpintería
+Gris oscuro
+Absortividad
+0,7
+Trasmirancia témica
+2,2 W/m2K
+Porcentaje marco
+100 % del hueco
+
+Protecciones móviles
+
+Elemento
+
+-
+
+Color
+
+-
+
+ggl;sh,wi
+
+Permeabilidad al aire
+UHUECO
+
+60 m3/h·m2
+2,20 W/m 2 ·K
+
+pág.27
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+PTES
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+PTES
+2. Modelo de puentes térmicos empleados según catálogo DA DB-HE / 3
+
+JAM BAS EN HUECOS DE FACHADA
+CON CONTINUIDAD ENTRE AISLAMIENTO DE FACHADA Y LA CARPINTERÍA (Grupo 1)
+TABLA ASIMILABLE DA DB-HE/3
+
+TRANSIM TANCIA TÉRM ICA LINEAL
+
+Ψ
+
+0,02 W/mK
+
+DINTELES Y CAPIALZADOS EN HUECOS DE FACHADA
+Capialzados de PVC o madera con aislamiento (Grupo 1)
+TABLA ASIMILABLE DA DB-HE/3
+
+TRANSIM TANCIA TÉRM ICA LINEAL
+
+Ψ
+
+0,02 W/mK
+
+pág.28
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+PTES
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+DINTELES EN PUERTA DE ENTRADA
+CON CONTINUIDAD ENTRE AISLAMIENTO DE FACHADA Y LA CARPINTERÍA (Grupo 1)
+TABLA ASIMILABLE DA DB-HE/3
+
+TRANSIM TANCIA TÉRM ICA LINEAL
+
+Ψ
+
+0,02 W/mK
+
+DINTELES Y CAPIALZADOS EN HUECOS DE FACHADA
+Capialzados de PVC o madera con aislamiento (Grupo 1)
+TABLA ASIMILABLE DA DB-HE/3
+
+TRANSIM TANCIA TÉRM ICA LINEAL
+
+Ψ
+
+0,02 W/mK
+
+ALFÉIZARES EN LUCERNARIOS DE CUBIERTA
+CON CONTINUIDAD ENTRE AISLAMIENTO DE FACHADA Y LA CARPINTERÍA (GRUPO 1)
+TABLA ASIMILABLE DA DB-HE/3
+
+TRANSIM TANCIA TÉRM ICA LINEAL
+
+Ψ
+
+0,08 W/mK
+
+pág.29
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+PTES
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+FRENTES DE FORJADO
+CON CONTINUIDAD DEL AISLAMIENTO DE FACHADA (GRUPO 1) *
+TABLA ASIMILABLE DA DB-HE/3
+
+TRANSIM TANCIA TÉRM ICA LINEAL
+
+Ψ
+
+0,16 W/mK
+
+* Sobre la longitud total de puentes térmicos de frente de forjado se estima un 65% con solución en continuidad del
+aislamiento, asimilable al esquema que se representa
+
+FRENTES DE FORJADO
+SIN CONTINUIDAD DEL AISLAMIENTO DE FACHADA (GRUPO 2) *
+TABLA ASIMILABLE DA DB-HE/3
+
+TRANSIM TANCIA TÉRM ICA LINEAL
+
+Ψ
+
+1,07 W/mK
+
+* Sobre la longitud total de puentes térmicos de frente de forjado se estima un 35% con solución sin continuidad del
+aislamiento, asimilable al esquema que se representa
+
+FORJADOS INFERIORES EN CONTCATO CON EL AIRE EX TERIOR
+CON CONTINUIDAD ENTRE EL AISLAMIENTO DE FACHADA Y EL FORJADO (GRUPO 1)
+TABLA ASIMILABLE DA DB-HE/3
+
+TRANSIM TANCIA TÉRM ICA LINEAL
+
+Ψe
+
+0,21 W/mK
+
+pág.30
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+PTES
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+CUBIERTAS PLANAS
+CON CONTINUIDAD ENTRE EL AISLAMIENTO DE FACHADA Y EL DE CUBIERTA (GRUPO 1)*
+TABLA ASIMILABLE DA DB-HE/3
+
+TRANSIM TANCIA TÉRM ICA LINEAL
+
+Ψ
+
+0,23 W/mK
+
+* Sobre la longitud total de puentes térmicos de frente de forjado se estima un 52% con solución en continuidad del
+aislamiento, asimilable al esquema que se representa
+
+CUBIERTAS PLANAS (i nt errup ci ón d e cub i ert a con p art i ci ón i nt eri or)
+SIN CONTINUIDAD ENTRE EL AISLAMIENTO DE FACHADA Y EL DE CUBIERTA (GRUPO 2)*
+TABLA ASIMILABLE DA DB-HE/3
+
+TRANSIM TANCIA TÉRM ICA LINEAL
+
+Ψ
+
+0,9 W/mK
+
+* Sobre la longitud total de puentes térmicos de frente de forjado se estima un 48% con solución en continuidad del
+aislamiento, asimilable al esquema que se representa
+
+ESQUINAS
+SALIENTES (AL EXTERIOR) (Grupo 1)
+TABLA ASIMILABLE DA DB-HE/3
+
+TRANSIM TANCIA TÉRM ICA LINEAL
+
+Ψe
+
+0,06 W/mK
+
+pág.31
+
+F1
+
+DESCRIPCIÓN
+
+CONST
+
+PTES
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+ESQUINAS
+ENTRANTES (AL EXTERIOR) (Grupo 2)
+TABLA ASIMILABLE DA DB-HE/3
+
+TRANSIM TANCIA TÉRM ICA LINEAL
+
+Ψe
+
+-0,08 W/mK
+
+pág.32
+
+F1
+
+DESCRIPCIÓN
+
+SIST
+
+INTRO
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+SIST
+D. SISTEMAS DE ACONDICIONAMIENTO Y PREPARACIÓN DE ACS
+1.
+2.
+3.
+4.
+
+Acondicionamiento de invierno
+Acondicionamiento de verano
+Producción de ACS
+Ventilación híbrida
+
+Atendiendo a las consideraciones climáticas de la zona en las que teóricamente se encuentra la vivienda,
+así como a las opciones más adecuadas en cuanto a las fuentes de energía final a utilizar, se proponen
+los sistemas que se describen a continuación.
+Se ha previsto un sistema mixto de calefacción-ACS dotado de una caldera en cada vivienda. Es decir,
+se trata de un sistema centralizado individual2. La producción de energía térmica se realiza mediante una
+caldera de condensación modulante y el combustible empleado es gas natural.
+La distribución de energía térmica a los espacios, para el sistema de calefacción, se realiza mediante
+circuitos de agua (ida – retorno) a baja temperatura (la impulsión en el circuito de ida está prevista a un
+máximo de 50ºC y el retorno a 30ºC). En consecuencia, las unidades terminales más apropiadas al
+sistema de producción y distribución previsto son las superficies radiantes. En este caso, se ha optado
+por una solución de suelo radiante.
+Respecto al ACS y tal y como se ha dicho, se plantea un sistema centralizado individual (por vivienda)
+con un acumulador de energía solar en cada vivienda de 150 l del que tomará el agua la caldera para
+completar una preparación instantánea del agua caliente de servicio.
+En principio, considerando las condiciones climáticas de la zona C4 en la que se ubica el edificio, se ha
+previsto un sistema activo de refrigeración. Dicho sistema consiste en equipos autónomos de expansión
+directa multizona con dos unidades exteriores y seis unidades terminales interiores. Nuevamente se trata
+de un sistema centralizado individual.
+Por último, se ha previsto un sistema de ventilación híbrido, que cumple con las características y
+requisitos que se recogen en el documento básico de salubridad HS 3 “Calidad del aire interior”.
+Aplicando dicha exigencia, se realizan las admisiones naturales a través de aireadores situados en las
+
+2
+
+De manera simplificada se pueden clasificar los sistemas de producción de energía térmica, atendiendo a su escala y tamaño,
+de la siguiente forma:
+Sistemas unitarios: son aquellos en los que la producción de la energía térmica necesaria se produce y entrega en cada
+uno de los locales a acondicionar. Por ejemplo, los sistemas de radiadores eléctricos colocados en cada uno de los
+locales que necesitan ser calefactados.
+Sistemas centralizados: son aquellos que disponen de un local específico para la producción de la energía térmica
+necesaria y desde el que se distribuye a los diferentes locales que la demandan. Entre ellos:
+o
+Sistemas centralizados individuales: todos los locales a los que llega la energía térmica pertenecen a la misma
+unidad (vivienda, oficina, local comercial, etc.). Por ejemplo, los sistemas de calderas individuales para una
+sola vivienda en las que desde uno de sus locales se distribuye al resto de locales de la vivienda y solo de
+esa vivienda.
+o
+Sistemas centralizados colectivos: desde el local de producción la energía térmica demandada se distribuye
+a diferentes locales de varias unidades. Por ejemplo, los edificios de vivienda colectiva con caldera
+centralizada para todas las viviendas del edificio, o los casos de “district heating” que producen energía
+térmica para varios edificios pudiendo llegar incluso a la escala de barrio o superior.
+pág.33
+
+F1
+
+DESCRIPCIÓN
+
+SIST
+
+INTRO
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+carpinterías de los huecos de los “locales secos”, es decir, dormitorios, salones y zonas de estar. Las
+extracciones se realizan por tiro térmico o de forma mecánica (según las condiciones exteriores) desde
+los cuartos húmedos de la vivienda, es decir, cocinas, baños y aseos. No se han previsto en principio
+recuperadores de calor para esta instalación.
+El número de extractores previsto responde a la disposición de los cuartos húmedos realizándose la
+extracción agrupada mediante un extractor por planta.
+
+pág.34
+
+F1
+
+DESCRIPCIÓN
+
+SIST
+
+CALEF
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+CALOR
+1. Acondicionamiento de invierno
+Considerando las condiciones del clima en el que nos encontramos (en este caso zona climática C4),
+las exigencias de refrigeración serán en principio más importantes que las propias de calefacción. Se
+propone un sistema de “calefacción por agua3” y que como se ha dicho, forma parte de un sistema mixto
+de calefacción-ACS compartiendo entre ambos el equipo de producción convencional. Dicha
+producción, se realiza mediante caldera de condensación de gas natural. La distribución de la energía
+térmica se realiza mediante un circuito de agua (ida-retorno), que impulsa el agua como máximo a 50ºC.
+Como elementos terminales de emisión, se emplean los suelos de la vivienda en los locales
+acondicionados.
+Estas y otras características de la instalación de calefacción, se resume en el siguiente cuadro:
+
+SISTEM A DE CALEFACCIÓN
+
+DISTRIBUCIÓN DE LA EMISIÓN EN LOS LOCALES
+
+Forma parte de un sistema mixto de producción para
+calefacción y ACS mediante caldera individual.
+
+Pl ant a b aja
+P03 E02
+total planta
+
+Sup. emisión (m2)
+29,00
+
+Potencia (W)
+2.755
+
+29,00
+
+2.755
+
+PRODUCCIÓN
+Caldera individual de condensación modulante
+Potencia térmica nominal
+
+25 KW
+
+Pl ant a d ormi t ori os
+
+Rendimiento P.(50/30)(sobe PCI):
+
+38,50
+
+2.503
+
+total planta
+
+38,50
+
+2.503
+
+15,75
+
+1.496
+
+total planta
+
+15,75
+
+1.496
+
+Tot al es
+
+83,25
+
+6.754
+
+P04 E01
+
+Combustible empleado: gas natural (red urbana)
+109 %
+Pl ant a át i co
+TRANSPORTE DE ENERGÍA A LOS ESPACIOS
+Circuito de agua con
+temperatura de impulsión a
+temperatura de retorno a
+
+P05 E01
+
+50 ºC
+30 ºC
+
+EMISORES EN LOS ESPACIOS
+Suelo radiante. Potencia media de emisión:
+95 W/m2
+Planta baja (P03):
+Planta dormitorios (P04):
+
+65 W/m2
+
+Planta ático (P05):
+
+95 W/m2
+
+(*) Las superficies recogidas en la tabla no son estrictamente útiles
+interiores de las estancias de cada espacio, sino que se trata de las
+supercie útiles de emisión, descontando las franjas perimetrales, las
+huellas de tabiquería, mobiliario permanente, etc.
+La densidad de potencia que se indica para cada planta se refiere a la
+potencia máxima nominal entregada por los emisores (suelo radiante)
+Las plantas P01, P02 y P06 no tienen espacios acondicionados y por
+tanto no disponen de unidades terminales de calefacción.
+
+“Calefacción por agua”: pertenece a los sistemas de climatización toda agua, es decir, que emplea el agua como fluido
+caloportador o de transporte de la energía térmica a los espacios que se quieren acondicionar. En este caso los emisores o
+unidades terminales suelen ser radiadores, superficies radiantes o fancoils.
+3
+
+pág.35
+
+F1
+
+DESCRIPCIÓN
+
+SIST
+
+FRÍO
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+FRÍO
+2. Acondicionamiento de verano
+
+Se ha previsto para la refrigeración de los espacios acondicionados un sistema “todo refrigerante 4”.
+Dicho sistema consistirá en equipos autónomos de expansión directa tipo “Split” condensados por aire.
+Las unidades exteriores se alojarán en el espacio bajocubierta que dispondrá, al menos en su frente de
+mayor altura, de una rejilla (1,5 m de altura x 3,30 m de ancho) de contacto con el exterior para disipar
+la energía extraída de los locales, manteniendo así además la integración arquitectónica de los equipos
+del sistema en el edificio.
+Las unidades interiores serán del tipo “horizontal de techo”, integradas en el falso techo del acceso a
+cada espacio acondicionado realizando horizontalmente la impulsión del aire tratado.
+El resto de las características del sistema se detallan en el siguiente cuadro:
+
+POTENCIA TÉRMICA DE UNIDADES INTERIORES
+
+SISTEM A DE REFRIGERACIÓN
+
+SISTEMA 1
+
+PRODUCCIÓN
+Equipo de expansión directa solo frío (2)
+Uni d ad 1
+Potencia refrigeración nominal
+Fuente de energía:
+Consumo refrigeración nominal:
+
+U.Terminal (W) U.Terminal (KW)
+
+Pl ant a b aja
+P03 E02
+
+4,9 KW
+electricidad
+0,92 KW
+
+total planta
+Pl ant a át i co
+
+Potencia refrigeración nominal
+Fuente de energía:
+Consumo refrigeración nominal:
+
+total planta
+3,9 KW
+electricidad
+0,76 KW
+
+1.750
+
+1,75
+
+1.750
+
+1,75
+
+SISTEMA 2
+Pl ant a d ormi t ori os
+
+U.Terminal (W) U.Terminal (KW)
+
+2.750
+
+2,75
+
+total planta
+
+2.750
+
+2,75
+
+Tot al es
+
+7.500
+
+7,50
+
+P04 E01
+TRANSPORTE DE ENERGÍA A LOS ESPACIOS
+
+3,00
+3,00
+
+U.Terminal (W) U.Terminal (KW)
+
+P05 E01
+Uni d ad 2
+
+3.000
+3.000
+
+Circuito de sustancia refrigerante
+UNIDADES TERMINALES EN LOS ESPACIOS
+Tipo horizontal de techo en la entrada de los
+espacios acondicionados
+
+4
+
+Sistema de climatización que transporta la energía térmica a los locales mediante circuitos de refrigerante.
+pág.36
+
+F1
+
+DESCRIPCIÓN
+
+SIST
+
+ACS
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+ACS
+3. Producción de ACS
+El sistema de preparación de ACS se vincula en la parte de producción al ya descrito de calefacción, es
+decir, emplea como equipo convencional, la caldera prevista de condensación modulante quemando
+gas natural. La instalación incorpora un acumulador solar individual en cada vivienda de 150 litros y
+según demanda los caudales requeridos pasan a la caldera que realiza, si es necesario, una preparación
+final instantánea hasta la temperatura de servicio.
+La contribución renovable en la preparación del ACS se realiza mediante colectores solares planos. En
+virtud de lo establecido en la exigencia HE 4 de contribución mínima mediante fuentes renovables en la
+producción de ACS, se admite cualquier fuente de energía renovable producida en el propio edificio o
+su entorno próximo. En concreto en el apartado 2 Caracterización de la exigencia, el texto dice:
+“Los edificios satisfarán sus necesidades de ACS y de climatización de piscina cubierta empleando en gran
+medida energía procedente de fuentes renovables o procesos de cogeneración renovables; bien generada
+en el propio edificio o bien a través de la conexión a un sistema urbano de calefacción”
+
+En el apartado 3 de cuantificación de dicha exigencia punto 3.1 1) se concreta lo siguiente:
+“La contribución mínima de energía procedente de fuentes renovables cubrirá al menos el 70% de la demanda
+energética anual para ACS y para climatización de piscina, obtenida a partir de los valores mensuales, e
+incluyendo las pérdidas térmicas por distribución, acumulación y recirculación. Esta contribución mínima
+podrá reducirse al 60% cuando la demanda de ACS sea inferior a 5000 l/d.
+Se considerará únicamente la aportación renovable de la energía con origen in situ o en las proximidades del
+edificio, o procedente de biomasa sólida.”
+
+En el cuadro resumen de la instalación que se incluye en la página siguiente, se especifican los valores
+de demanda de ACS que, en cualquier caso, será inferior a 5.000 litros al día por lo que la contribución
+exigible será del 60 % de la demanda anual, incluyendo las pérdidas térmicas por distribución,
+acumulación y recirculación. En el apartado correspondiente, y en estas condiciones, veremos cuál es
+la exigencia de cumplimiento para este edificio, cuál es la aportación renovable del sistema propuesto y
+si se alcanza, o no, el porcentaje de contribución.
+Como se ha dicho, cada vivienda dispone de una caldera de apoyo individual que garantiza que el agua
+alcanza la temperatura de utilización prevista y un circuito de distribución interior con recirculación (si se
+superan los 15 m de distancia entre la preparación y el punto más alejado) para suministrar el agua
+caliente sanitaria a todos los puntos de consumo de la vivienda.
+El resto de los datos y características principales de la instalación figuran en el siguiente cuadro:
+
+pág.37
+
+F1
+
+DESCRIPCIÓN
+
+SIST
+
+PRODUCCIÓN Y PREPARACIÓN DE ACS
+Sistema de producción convencional mediante
+
+DEMANDA DE ACS
+
+caldera compartida con el sistema de calefacción. La
+
+Prog rama d e l a vi vi end a
+
+contribución renovable mediante colectores solares
+
+Dormitorios
+
+planos y preparación final instantanea en la caldera.
+
+Ocupantes
+
+PRODUCCIÓN SISTEMA CONVENCIONAL
+
+ACS
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+3
+
+Necesidades de ACS
+
+5
+28 l/p·día
+
+Demanda diaria de ACS
+
+140 l/día
+
+(*)
+
+Características de la caldera
+Caldera individual de condensación modulante
+Potencia térmica: 25 KW
+Combustible empleado: gas natural
+Rendimiento a carga parcial: 109 %
+Prep araci ón y d i st ri b uci ón
+Tª de distribución
+
+Instantánea
+50 ºC
+
+Tª de utilización
+
+45 ºC
+
+Tipo de preparación final:
+
+SIST. DE APOYO MEDIANTE RENOVABLES
+Colector solar plano de las siguientes características:
+2
+1,3 m
+Superfice instalada:
+Angulo de inclinación
+
+15 º
+
+Est i maci ón d e p erd i d as
+Estimación de perdidas por
+producción, distribución y
+recirculación (10%)
+
+14 l/día
+
+Tot al Demand a d e ACS
+
+154 l /d í a
+
+(*) En el anejo F (Tabla a) del DB HE, se fijan las ocupaciones mínimas
+en función del número de dormitorios. En este caso para 3
+dormitorios la ocupación mínima sería de 4 ocupantes. No obstante se
+ha optado en nuestro ejemplo por realizar los cálculos con una
+ocupación de 5 personas que se acerca más a la prevista en
+proyecto.
+
+donde:
+h rendimiento instantáneo del colector
+
+Ecuación de rendimiento del
+colector empleado, solo curva lineal
+y prescindiendo de la curva de
+segundo nivel (cuadrática)
+
+T m temperatura media del agua en el colector (ºC)
+T a temperatura de cálculo del aire, (ºC)
+IS intensidad radiación solar incidente en colector (W/m2)
+
+Acumulación en circuito solar:
+
+150 litros
+
+Área de la envolvente de depósito:
+
+1,82 m2
+
+U de la envolvente del depósito
+
+0,50 W/m2"K
+
+C. perdidas en acumulador (U·A):
+
+0,91 W/ºC
+
+pág.38
+
+F1
+
+DESCRIPCIÓN
+
+SIST
+
+VENT
+O
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+VENT
+4. Ventilación híbrida
+
+La instalación de ventilación que se ha considerado para la vivienda consiste en un sistema híbrido5, es
+decir, con admisión natural a través de los cerramientos de los “locales secos” y extracción del aire por
+tiro térmico desde los cuartos húmedos de la vivienda hasta cubierta. Solo en el caso de que el flujo de
+aire de extracción no sea suficiente se emplean medios mecánicos para la expulsión del aire desde los
+“locales húmedos”. Esta situación se puede producir cuando las condiciones ambientales de presión y
+temperatura no permiten el ascenso del aire de manera natural por tiro térmico. La entrada de aire exterior
+se transfiere desde los locales secos (salón – comedor, dormitorios) hacia los locales húmedos a través
+de las holguras de las puertas, suponiendo una sección de paso suficiente para los caudales de
+transferencia necesarios en cada caso. Todo ello de acuerdo con lo establecido en el DB HS3, Calidad
+del aire interior.
+El resto de las características de esta instalación se definen en el siguiente cuadro resumen:
+
+INSTALACIÓN DE VENTILACIÓN HÍBRIDA
+Sistema híbrido con admisión natural a través de los cerramientos de los locales “secos” y extracción natural cuando las
+condiciones ambientales lo permiten y mecánica cuando esas condiciones no se producen y es necesario impulsar el aire de
+manera forzada desde los “locales húmedos” hasta cubierta. El número de dormitorios es de 3, por lo que aplicando la tabla
+2,1 del DB HS3 los caudales mínimos de ventilación (l/s) son los siguientes:
+
+CAUDAL DE ADMISIÓN
+
+CAUDAL DE EXTRACCIÓN
+
+Local es secos
+
+Local es húmed os
+
+Dormitorio principal
+
+8 l/s
+
+Cocina
+
+8 l/s
+
+Dormitorio 2
+
+4 l/s
+
+Aseo pl. baja
+
+Dormitorio 3
+
+4 l/s
+
+Aseo 1 pl. bajocubierta
+
+8 l/s
+8 l/s
+
+Salón - comedor
+
+10 l/s
+
+Aseo 2 pl. bajocubierta
+
+Zona de estar bajocubierta
+
+10 l/s
+
+Tot al
+
+36 l /s
+
+CAUDAL DE REFERENCIA EQUILIBRADO
+36 l /s
+3
+129,6 m /h
+
+8 l/s
+
+Total
+
+32 l/s
+
+Caud al mí ni mo ext rac.
+
+EQUIPOS PREVISTOS
+Equipo
+U.
+2
+
+Extractor multitubo
+
+33 l /s
+
+Potencia (W)
+5
+
+Q max. (m3/h)
+75
+
+De cara a la simulación en la HERRAMIENTA UNIFICADA LIDER CALENER, se ha considerado el caso
+más desfavorable desde el punto de vista del consumo energético y que consistiría en el funcionamiento
+permanente de la extracción mecánica.
+
+5
+
+Ventilación híbrida: ventilación en la que, cuando las condiciones de presión y temperatura ambientales son favorables, la
+renovación del aire se produce como en la ventilación natural y, cuando son desfavorables, como en la ventilación con extracción
+mecánica.
+pág.39
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+INTR
+O
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+CUMPLE
+SECCIÓN 2. CUMPLIMIENTO DE LAS EXIGENCIAS
+HE1
+
+Condiciones para el control de la demanda energética
+
+HE2
+
+Condiciones de las instalaciones térmicas
+
+HE3
+
+Condiciones de las instalaciones de iluminación
+
+HE4
+
+Contribución mínima de energía renovable para cubrir la demanda de agua caliente sanitaria
+
+HE5
+
+Generación mínima de energía eléctrica
+
+HE0
+
+Limitación del consumo energético.
+
+RES
+
+Resumen del cumplimiento de todos los indicadores de cada sección
+
+A continuación, se realiza la comprobación del cumplimiento de cada exigencia y en cada una de ellas
+de los valores límite e indicadores que resultan de aplicación a este ejemplo. Esta comprobación se
+realiza considerando las condiciones geométricas y constructivas y las características de los sistemas
+de acondicionamiento que se han descrito en los apartados anteriores.
+En paralelo, se ha simulado el modelo en HULC tal y como se detalla en el capítulo de AYUDAS. Los
+resultados obtenidos, figuran como referencia en algunos apartados del cumplimiento.
+
+HE1
+HE1.CONDICIONES PARA EL CONTROL DE LA DEMANDA ENERGÉTICA
+1.
+2.
+3.
+4.
+5.
+
+Preparación de datos previos a la comprobación
+Condiciones de la envolvente térmica
+Limitación de descompensaciones
+Limitación de condensaciones de la envolvente térmica
+Comentarios
+
+Esta exigencia se encarga del control sobre el comportamiento de la envolvente y las particiones
+interiores que separan unidades del mismo o diferente uso. La estructura de esta sección es la siguiente:
+1.
+
+Condiciones de la envolvente térmica. En este apartado, se fijan diferentes valores límite que
+persiguen una calidad mínima de la envolvente térmica del edificio. A su vez, este apartado se
+divide en tres bloques, cada uno encargado del control de un aspecto concreto de la envolvente
+térmica:
+-
+
+Transmitancia de la envolvente térmica.
+Se limitan las transferencias de energía por conducción a través de la envolvente del
+edificio. Por una parte, se fijan valores límite de transmitancia térmica (U lim) para cada
+pág.40
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+INTR
+O
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+elemento que compone dicha envolvente térmica. Además, se fija un valor límite para
+la transmitancia media ponderada por superficie de la envolvente térmica. Para el
+cálculo simplificado de este indicador se consideran exclusivamente las superficies de
+la envolvente en contacto con el exterior o terreno. Los valores límite de este parámetro
+dependerán de la compacidad del edificio calculada en función del trazado de la
+envolvente térmica y computando en este caso, exclusivamente las superficies en
+contacto con el exterior o terreno.
+
+2.
+
+-
+
+Control solar de la envolvente térmica.
+En este apartado, se fija un valor límite bajo las condiciones de exposición del mes de
+julio en la localidad de proyecto, para la radiación incidente que penetra en el edificio
+con todas sus protecciones móviles activadas.
+
+-
+
+Permeabilidad al aire de la envolvente térmica.
+Se establecen dos indicadores encargados de limitar los flujos de aire incontrolados a
+través de la envolvente. Uno específico para los huecos y otro global para el conjunto
+de la envolvente térmica (opacos y huecos).
+
+Limitación de descompensaciones entre unidades del mismo uso, o de usos diferentes.
+Se establecen valores límite de transmitancia (Ulim) para todas las particiones interiores que
+separan unidades del mismo uso o unidades de diferente uso entre ellas y unidades de uso con
+las zonas comunes del edificio.
+
+3. Limitación de condensaciones (intersticiales) en la envolvente térmica
+Se trata de justificar la inexistencia de dichas condensaciones o en el caso de existir, se ha de
+justificar que no producirán una merma significativa en las prestaciones térmicas del elemento
+de la envolvente afectado o supongan un riesgo de degradación o pérdida de su vida útil.
+En primer lugar, se describe de forma completa la posición, geometría y composición de cada uno de
+los elementos de la envolvente térmica del edificio.
+La caracterización de la envolvente térmica que necesitamos para realizar la comprobación completa de
+esta exigencia requiere de los siguientes datos:
+▪
+
+Definición geométrica de la envolvente:
+- Superficie de los cerramientos.
+Respecto a la superficie de los diferentes cerramientos, su medición no plantea una
+especial complejidad y queda reflejada en las tablas. La altura de los cerramientos es
+la misma de la planta a la que pertenece y se realiza midiendo la distancia entre el suelo
+terminado de la planta inferior al suelo terminado de la planta inmediatamente superior.
+La superficie total de un cerramiento la componen su parte opaca más la de los huecos
+si los hubiera. Posteriormente se realiza el desglose entre opacos y huecos.
+
+▪
+
+Composición de la envolvente:
+- Transmitancia térmica [U]6 de cada elemento o cerramiento perteneciente a la
+envolvente o a las particiones interiores que separan unidades de uso y de estas con
+zonas comunes del edificio. Se obtiene a partir de las características y composición de
+los cerramientos. Valor de [U] expresado en W/m2·K.
+Normalmente los cerramientos opacos ya pertenezcan a la envolvente o a particiones
+interiores, estarán compuestos de varias “hojas” y diferentes materiales. El cálculo de
+
+6
+
+flujo de calor, en régimen estacionario, para un área y diferencia de temperaturas unitarias de los medios situados a cada lado
+del elemento que se considera.
+pág.41
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+INTR
+O
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+la transmitancia de estos elementos se describe detalladamente en el documento de
+ayuda DA DB-HE / 1. Cálculo de parámetros característicos de la envolvente. También
+en el primer volumen de esta guía y en el apartado de ayudas, se incorpora un resumen
+y varios ejemplos de cálculo.
+Respecto a la transmitancia en huecos, igualmente se desarrolla la metodología de
+cálculo en el documento de ayuda DA DB-HE / 1. Cálculo de parámetros característicos
+de la envolvente.
+
+▪
+
+-
+
+Transmitancia térmica lineal7 en puentes térmicos. [Ψ, (W/m·K)]
+Respecto a la transmitancia térmica lineal, la metodología de cálculo se desarrolla en el
+documento de ayuda DA DB-HE / 3 Puentes térmicos. En este mismo documento se
+incluye un catálogo que recoge los valores aproximados de la transmitancia térmica
+lineal [Ψ] para las soluciones constructivas más comunes. Los valores de este catálogo
+son los que se han aplicado a las diferentes soluciones constructivas del ejemplo que
+se está evaluando, así como en la simulación realizada en la Herramienta Unificada
+Lider-Calener.
+
+-
+
+Permeabilidad al paso de aire de la envolvente térmica. Como se ha explicado
+anteriormente, afecta tanto a los huecos como al conjunto de la envolvente térmica del
+edificio.
+• La permeabilidad de los huecos se caracteriza mediante ensayo y una presión
+diferencial de 100 Pa expresada en [m3/h·m2].
+• Para el cálculo de la permeabilidad del conjunto de la envolvente térmica, el DB
+HE, en su Anejo H Determinación de la permeabilidad al aire del edificio, establece
+los métodos para obtener el valor de la relación del cambio de aire a 50 Pa, [n50]
+expresado en [h-1]. Lo veremos más adelante.
+
+Volumen que encierra la E.T.
+Respecto al cálculo del volumen encerrado dentro de la envolvente térmica, debemos precisar
+dos definiciones que matizan el concepto según el caso y el parámetro a evaluar. Estas dos
+definiciones de volúmenes a considerar son las siguientes:
+-
+
+Volumen encerrado en la E.T. (empleado por ejemplo para el cálculo de la compacidad).
+El que encierra en su totalidad la envolvente térmica, incluyendo volumen de forjados y
+de cubierta.
+
+-
+
+Volumen de “aire interior” que recoge el volumen “útil” de los espacios, es decir,
+descontando del volumen total el espacio que ocupan los forjados y la cubierta. Lo
+utilizaremos en el cálculo de la permeabilidad al aire del conjunto de la envolvente
+térmica [n50].
+
+En este apartado, referido al volumen del edificio y sus espacios, debemos hacer una
+puntualización más sobre la que ya hemos hecho alguna referencia con anterioridad. Cuando
+calculamos el volumen encerrado en el espacio bajocubierta y pensando en la simulación que
+en paralelo estamos realizando en HULC, hablamos de “volumen equivalente”. En este caso,
+nos estamos refiriendo al que encierra un prisma recto de la misma planta que el bajocubierta
+de nuestro ejemplo y de altura (equivalente) la necesaria para que su volumen sea idéntico al
+7
+
+flujo de calor, en régimen estacionario, para una longitud y diferencia de temperaturas unitarias de los medios situados a cada
+lado del puente térmico que se considera.
+pág.42
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+INTR
+O
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+que encierra la cubierta original de planos inclinados. Su trazado se detalla en el gráfico
+siguiente:
+
+Volúmen equivalente de bajocubierta
+
+SIMULACIÓN EN HULC
+
+▪
+
+Compacidad.
+Establece la relación entre el volumen encerrado por la envolvente térmica y la superficie de esta
+(V/A) (m3/m2 = m). Se trata de una característica esencial de la “forma” del edificio. Si tenemos
+en cuenta que los flujos de calor entre el interior del edificio y el exterior se produce a través de
+su piel, esta relación es determinante a la hora de evaluar su comportamiento. Su inverso es el
+“índice de forma” (A/V) (m2/m3 = m-1).
+La compacidad se define en el Anejo A Terminología de la siguiente forma:
+Compacidad (V/A): Relación entre el volumen encerrado por la envolvente térmica (V) del edificio
+(o parte del edificio) y la suma de las superficies de intercambio térmico con el aire exterior o el
+terreno de dicha envolvente térmica (A = ΣAi). Se expresa en m³/m².
+Por tanto, para el cálculo de la compacidad, se excluye el cómputo del área de los cerramientos y
+de las particiones interiores en contacto con otros edificios o con espacios adyacentes exteriores
+a la envolvente térmica.
+
+Por tanto, el área computable de la envolvente térmica es exclusivamente la que está en contacto
+con el aire exterior o el terreno.
+Respecto al volumen, es el que encierra la envolvente térmica en su totalidad. Incluyendo
+forjados interiores y cubiertas, pero no cerramientos verticales.
+Con este criterio se definirá su valor que será determinante en el cálculo y aplicación de varios
+indicadores de la exigencia de Condiciones para el control de la demanda energética DB HE 1.
+
+pág.43
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+DAT
+1. Preparación de datos previos a la comprobación
+Definición de la Envolvente Térmica (E.T.)
+El concepto de envolvente térmica se define en el Anejo C. Consideraciones para la definición de la
+envolvente térmica de la siguiente forma:
+La envolvente térmica está compuesta por todos los cerramientos y particiones interiores, incluyendo sus
+puentes térmicos, que delimitan todos los espacios habitables del edificio o parte del edificio. No obstante,
+a criterio del proyectista:
+a) podrá incluirse alguno o la totalidad de los espacios no habitables.
+……….
+b) podrán excluirse espacios tales como:
+i) espacios habitables que vayan a permanecer no acondicionados durante toda la vida del edificio,
+tales como escaleras, ascensores o, pasillos no acondicionados,
+ii) espacios muy ventilados, con una ventilación permanente de, al menos, 10 dm3/s por m2 de área
+útil de dicho espacio,
+iii) espacios con grandes aberturas permanentes al exterior, de al menos 0,003 m2 por m2 de área
+útil de dicho espacio.
+
+Existen pues, diferentes posibilidades de configuración de la envolvente para este edificio. Atendiendo
+a la caracterización de los diferentes espacios y a su inclusión o no dentro de la envolvente térmica, se
+podrán obtener diferentes valores de referencia en la comprobación de los valores límite. Algunas de las
+opciones y repercusiones más inmediatas son las siguientes:
+- por ejemplo, incluimos todos los espacios del sótano dentro de la envolvente y
+sus cerramientos son límite de ella, necesariamente la transmitancia de los
+cerramientos que pertenecen a la envolvente térmica de esta planta deberán
+cumplir los valores límite (Ulim) de la tabla 3.1.1.a-HE1.
+- De igual forma sucede con el espacio en planta baja destinado a garaje.
+- También tendremos esta opción con el espacio no habitable situado en el
+bajocubierta pensado en principio, para alojar instalaciones.
+De todas las opciones posibles se va a evaluar la configuración que se describe más abajo y que en
+principio parece ser una de las más razonables. Esta opción deja fuera de dicha envolvente térmica la
+cámara sanitaria existente bajo rasante, el garaje de planta baja y el espacio no habitable de
+instalaciones en el bajocubierta.
+Con el resultado de comprobación de cada parámetro se harán los comentarios oportunos respecto a
+las posibles alternativas en configuraciones diferentes, modificación de otras variables, etc.
+CONFIGURACIÓN DE ESTUDIO
+La configuración que como punto de partida se estudia es la siguiente:
+- TRAZADO DE LA ENVOLVENTE TÉRMICA: la envolvente térmica incluye:
+▪ Todos los espacios de servicio de planta sótano excepto la cámara sanitaria
+bajo el salón de planta baja que se considera exterior a la envolvente.
+▪ Todos los espacios acondicionados de la planta baja. Es decir, se excluye el
+espacio no habitable destinado a garaje.
+
+pág.44
+
+F1
+
+CUMPLIMIENTO
+▪
+▪
+
+HE1
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Todos los espacios acondicionados de la planta primera destinada
+principalmente a dormitorios.
+La planta segunda, ático con salida a la azotea del edificio.
+
+El espacio bajocubierta como ya se comentado se excluye del trazado de la envolvente. En
+consecuencia, el trazado de la envolvente de manera gráfica resulta de la siguiente forma:
+ENVOLVENTE TÉRMICA
+
+NO HABITABLE
+
+NO HABITABLE
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+NO HABITABLE
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+NO HABITABLE
+
+NO HABITABLE
+
+NO HABITABLE
+
+Trazado de la envolvente térmica
+
+Una vez trazado el desarrollo de la envolvente térmica, podemos definir su superficie y el volumen
+encerrado y así obtener el valor de compacidad para este modelo. Este cálculo se incorpora en las tablas
+que se han definido al respecto más adelante en el texto. Respecto al volumen a considerar, debemos
+recordar aquí que ha de ser el que definíamos como “volumen encerrado en la E.T.”. Se representa
+gráficamente a continuación en el esquema de las secciones longitudinal y transversal de la vivienda:
+VOLÚMEN TOTAL DE LA ET PARA COMPACIDAD
+
+Sección norte-sur
+
+Sección este-oeste
+
+pág.45
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Por otra parte, y a efectos del cálculo de la permeabilidad global del edificio se ha de considerar el que
+hemos llamado “volumen de aire interior”. Es decir, descontando el volumen que ocupan los forjados
+de división horizontal, así como la cubierta del edificio. Se representa gráficamente en el siguiente
+esquema:
+VOLÚMEN DE "AIRE INTERIOR"
+
+Sección norte-sur
+
+Sección este-oeste
+
+En las tablas de caracterización de la envolvente aparecerán en cada caso con esta nomenclatura de
+“volumen encerrado en la ET” y “volumen de aire interior”.
+Caracterización de la envolvente térmica
+En primer lugar, es necesario identificar cada uno de los elementos de la envolvente térmica, para ello,
+se les ha asignado un código que responde al siguiente criterio:
+
+Una segunda cuestión importante, como se comentaba en apartados anteriores, es identificar la
+posición exacta dentro de la E.T. de cada uno de estos elementos. En los siguientes gráficos 3D y plantas
+del edificio, se sitúan y referencian cada uno de dichos componentes de la envolvente térmica del
+edificio.
+Posteriormente y mediante tablas, se relacionan y caracterizan todos los elementos de dicha envolvente
+térmica tal y como ha sido definida. La caracterización incluye todos los parámetros que vamos a
+necesitar para el cálculo de cada indicador en la justificación del cumplimiento. Las tablas están
+pág.46
+
+CUMPLIMIENTO
+
+HE1
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+organizadas por plantas. Dichas plantas, están numeradas y nombradas de abajo hacia arriba tal y como
+se van creando en la herramienta HULC.
+P01.PLANTA SÓTANO (-2,96)
+
+S1-1
+
+Suelos planta 1
+
+M1-S1
+
+M1-E1
+
+M1-O1
+
+F1
+
+M1-N1
+
+Muros planta 1
+
+F1-3.1
+
+F1-3.2
+Elementos de la envolvente en contacto
+con el aire exterior o terreno
+Techos planta 1
+
+Elementos de la envolvente en contacto
+con otro espacio
+
+pág.47
+
+CUMPLIMIENTO
+
+HE1
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+P03.PLANTA BAJA (±0)
+
+F3-2
+
+Suelos planta 3
+
+M3-S2
+M3-O5
+
+M3-E1
+M3-E2
+M3-E3
+M3-E4
+
+M3-S1
+M3-N3
+
+F1
+
+M3-O1
+
+M3-O4
+M3-O3
+M3-O2
+M3-N4
+
+M3-N1
+
+Muros planta 3
+
+F3-4.3
+
+F3-4.2
+F3-4.1
+
+Techos planta 3
+
+Elementos de la envolvente en contacto
+con el aire exterior o terreno
+Elementos de la envolvente en contacto
+con otro espacio
+
+pág.48
+
+CUMPLIMIENTO
+
+HE1
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+P04.PLANTA PRIMERA (+3,14)
+
+M4-S1
+
+M4-E1
+M4-E2
+
+M4-O1
+
+F1
+
+M4-N1
+
+M4-N2
+
+Muros planta 4
+
+C4-5
+
+Techos planta 4
+
+Elementos de la envolvente en contacto
+con el aire exterior o terreno
+Elementos de la envolvente en contacto
+con otro espacio
+
+pág.49
+
+CUMPLIMIENTO
+
+HE1
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+P05.PLANTA SEGUNDA (+6,09)
+
+M5-S1
+
+M5-E1
+
+M5-O1
+
+F1
+
+M5-N1
+
+Muros planta 5
+
+C5-6
+
+Elementos de la envolvente en contacto
+con el aire exterior o terreno
+
+Techos planta 5
+
+Elementos de la envolvente en contacto
+con otro espacio
+
+pág.50
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+VIVIENDA UNIFAMILIAR
+
+DAT
+
+ADOSADA
+
+En las siguientes tablas, se detallan las características de la envolvente térmica: superficie y
+caracterización geométrica de sus componentes, volumen encerrado, etc. Con esos valores, se obtiene
+por último el de la compacidad del edificio con los criterios de partida que ya se han expuesto en los
+apartados anteriores.
+
+NO HABITABLE
+
+NO HABITABLE
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+NO HABITABLE
+
+ACONDICIONADO
+
+NO HABITABLE
+
+GEOM ETRÍA Y COM PACIDAD
+
+ACONDICIONADO
+
+En rojo se resaltan los
+contactos de la
+envolvente térmica con
+el exterior o terreno
+
+Acondicionados:P.2 Salvo garaje, P.4
+ocupac. completa P.5 ocupac. completa
+N.H.:Sótano, cámara sanitaria y garaje
+Envolvente térmica según esquema
+
+I D E N T I FI C A
+P L A N T A S E S P A C I OS
+C I ÓN
+
+TIPO DE
+ESPACIO
+
+¿  a E T ? Sup.Planta Sup.ÚTIL
+
+ ET=1
+ ET=0
+
+dentr o ET dentr o ET
+( m 2)
+( m 2)
+
+Altur a
+planta y
+espacio s
+( m)
+
+Vo lumen
+
+2,96
+
+77,17
+
+ ET
+3
+
+(m )
+
+ACONDICIONADO
+
+NO HABITABLE
+
+ACONDICIONADO
+
+NO HABITABLE
+
+Vo lumen,
+Altur a libr e de "air e
+planta
+inter io r " ϵ
+( m)
+ET ( m 3 )
+
+P01
+P01 E01
+
+Sótano
+
+NO HABIT.
+
+1
+
+26,07
+
+26,07
+
+26,07
+
+26,07
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+49,72
+
+0,00
+49,72
+
+49,72
+
+49,72
+
+67,70
+
+67,70
+
+67,70
+
+67,70
+
+26,10
+
+26,10
+
+26,10
+
+26,10
+
+0,00
+
+0,00
+
+TOTALES PLANTA 06
+
+0,00
+
+0,00
+
+0,00
+
+0,00
+
+TOTALES EDIFICIO
+
+169,59
+
+169,59
+
+508,32
+
+426,23
+
+TOTALES PLANTA 01
+
+2,49
+
+77,17
+
+64,78
+64,78
+
+P02
+P02 E01
+
+C.sanitaria
+
+NO HABIT.
+
+0
+
+TOTALES PLANTA 02
+
+0,96
+
+0,00
+
+0,96
+
+0,00
+
+0,00
+0,00
+
+P03
+P03 E01
+P03 E02
+
+P.baja
+P.baja
+
+NO HABIT.
+ACOND
+
+0
+1
+
+TOTALES PLANTA 03
+
+3,14
+3,14
+
+0,00
+156,12
+
+2,68
+2,68
+
+156,12
+
+0,00
+133,25
+133,25
+
+P04
+P04 E01
+
+P.primera
+
+ACOND
+
+1
+
+TOTALES PLANTA 04
+
+2,96
+
+200,39
+
+2,41
+
+200,39
+
+162,82
+162,82
+
+P05
+P05 E01
+
+P.ático
+
+ACOND
+
+1
+
+TOTALES PLANTA 05
+
+2,86
+
+74,65
+
+2,51
+
+74,65
+
+65,38
+65,38
+
+P06
+P06 E01
+
+P.bajocub.
+
+NO HABIT.
+
+0
+
+0,90
+
+0,00
+
+0,90
+
+0,00
+
+(*) HULC convierte el espacio del bajocubierta en un espacio de volumen equivalente dentro de un prisma de cubierta plana. Esta es la altura equivalente de
+dicho prisma medida desde el suelo terminado de esa planta a la cara exterior de la cubierta plana virtual
+
+pág.51
+
+F1
+
+CUMPLIMIENTO
+Código de
+cerramiento
+
+Tipo de
+Contacto
+
+PLANTA SÓTANO P01
+M1.N1
+TERRENO
+M1.N2
+TERRENO
+M1.N3
+TERRENO
+M1.N4
+TERRENO
+S1.1
+F1-3.1
+F1-3.2
+
+TERRENO
+EXTERIOR
+NH
+
+Descripción
+
+Ancho
+(m)
+
+M, FACHADA
+M, FACHADA
+M, FACHADA
+M, FACHADA
+SUELO
+TECHO
+TECHO
+
+2,05
+
+HE1
+Largo
+(m)
+
+Alto
+(m)
+
+Sup. Total
+Cerramiento
+(incluidos
+huecos)
+(m 2 )
+
+3,3
+7,9
+3,3
+7,9
+
+2,96
+2,96
+2,96
+2
+
+9,77
+23,38
+9,77
+15,80
+26,06
+10,06
+6,77
+
+3,3
+
+TOTALES PLANTA 01
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Sup. E.T.
+(m 2 )
+
+COMPUT
+COMPAC (*)
+SI=1
+NO=0
+
+1
+1
+1
+1
+
+9,77
+23,38
+9,77
+15,80
+
+1
+1
+1
+1
+
+9,77
+23,38
+9,77
+15,80
+
+1
+1
+1
+
+26,06
+10,06
+6,77
+
+1
+1
+0
+
+26,06
+10,06
+0,00
+
+¿  a ET?
+
+ ET=1
+ ET=0
+
+101,61
+
+101,61
+
+S. COMPUT.
+COMPACIDAD
+(m 2 )
+
+94,84
+
+PLANTA CÁMARA SANITARIA. P02
+La planta 02 correspondiente al nivel de cámara sanitaria, no se incluye dentro de la envolvente térmica por lo que no se detallan en la tabla las
+características de sus cerramientos.
+PLANTA BAJA. P03
+M3.N1
+EXTERIOR
+M3.N2
+EXTERIOR
+M3.N3
+EXTERIOR
+M3.N4
+NH
+M3.N5
+NH
+M3.O1
+M3.O2
+M3.S1
+M3.O3
+M3.S3
+M3.E1
+M3.E2
+M3.E3
+M3.E4
+
+OTRO ESPAC.
+OTRO ESPAC.
+
+OTRO ESPAC.
+OTRO ESPAC.
+OTRO ESPAC.
+
+M, FACHADA
+M, FACHADA
+M, FACHADA
+MEDIANERÍA
+MEDIANERÍA
+MEDIANERÍA
+MEDIANERÍA
+M, FACHADA
+M, FACHADA
+M, FACHADA
+M, FACHADA
+MEDIANERÍA
+MEDIANERÍA
+MEDIANERÍA
+
+F3.2
+
+NH
+
+SUELO
+
+EXTERIOR
+EXTERIOR
+EXTERIOR
+EXTERIOR
+
+3,62
+1
+1,08
+1
+3,25
+1,04
+1,85
+3,3
+3,05
+5,25
+3,05
+2,07
+1,3
+1,75
+
+3,14
+3,14
+3,14
+3,14
+3,14
+3,14
+3,14
+3,14
+3,14
+3,14
+3,14
+3,14
+3,14
+3,14
+
+varias dimensiones
+
+TOTALES PLANTA 03
+
+F3-4.1
+F3-4.2
+F3-4.3
+C4-5
+
+M, FACHADA
+M, FACHADA
+OTRO ESPAC. MEDIANERÍA
+EXTERIOR M, FACHADA
+OTRO ESPAC. MEDIANERÍA
+OTRO ESPAC. MEDIANERÍA
+EXTERIOR
+OTRO ESPAC
+
+EXTERIOR
+EXTERIOR
+
+2,42
+6,14
+8
+8,57
+3,05
+4,95
+
+2,96
+2,96
+2,96
+2,96
+2,96
+2,96
+
+SUELO
+SUELO
+SUELO
+CUBIERTA
+
+TOTALES PLANTA 04
+PLANTA ÁTICO. P05
+M5.N1
+EXTERIOR
+M5.O1
+EXTERIOR
+M5.S1
+EXTERIOR
+M5.E1
+EXTERIOR
+C5-6
+
+NH
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+11,37
+3,14
+3,39
+3,14
+10,21
+3,27
+5,81
+10,36
+9,58
+16,49
+9,58
+6,50
+4,08
+5,50
+
+1
+1
+1
+0
+0
+0
+0
+1
+1
+1
+1
+0
+0
+0
+
+11,37
+3,14
+3,39
+0,00
+0,00
+0,00
+0,00
+10,36
+9,58
+16,49
+9,58
+0,00
+0,00
+0,00
+
+40,13
+
+1
+
+40,13
+
+0
+
+0,00
+
+142,53
+
+PLANTA PRIMERA. P04
+M4.N1
+EXTERIOR
+M4.N2
+EXTERIOR
+M4.O1
+M4.S1
+M4.E1
+M4.E2
+
+11,37
+3,14
+3,39
+3,14
+10,21
+3,27
+5,81
+10,36
+9,58
+16,49
+9,58
+6,50
+4,08
+5,50
+
+142,53
+
+7,16
+18,17
+23,68
+25,37
+9,03
+14,65
+
+1
+1
+1
+1
+1
+1
+
+7,16
+18,17
+23,68
+25,37
+9,028
+14,65
+
+1
+1
+0
+1
+0
+0
+
+7,16
+18,17
+0,00
+25,37
+0,00
+0,00
+
+1,65
+6,30
+10,06
+41,64
+
+1
+1
+1
+1
+
+1,65
+6,3
+10,06
+41,64
+
+1
+0
+1
+1
+
+1,65
+0,00
+10,06
+41,64
+
+157,71
+
+M, FACHADA
+M, FACHADA
+M, FACHADA
+M, FACHADA
+
+3,3
+7,9
+3,3
+7,9
+
+TECHO
+
+TOTALES PLANTA 05
+
+2,86
+2,86
+2,86
+2,86
+
+63,90
+
+157,71
+
+104,05
+
+9,44
+22,59
+9,44
+22,59
+
+1
+1
+1
+1
+
+9,438
+22,59
+9,44
+22,59
+
+1
+1
+1
+1
+
+9,44
+22,59
+9,44
+22,59
+
+26,06
+
+1
+
+26,06
+
+0
+
+0,00
+
+90,12
+
+90,12
+
+64,06
+
+PLANTA BAJOCUBIERTA. P06
+La planta 06 correspondiente al nivel de bajocubierta, no se incluye dentro de la envolvente térmica por lo que no se detallan en la tabla las características de sus
+cerramientos.
+
+TOTALES EDIFICIO
+VOLUMEN TOTAL ENCERRADO EN LA
+ENVOLVENTE Y OBTENIDO EN LA TABLA
+ANTERIOR (m3)
+
+491,97
+
+508,32
+
+COMPACIDAD DEL MODELO SEGÚN
+CTE* CON ESTA CONFIGURACIÓN
+
+491,97
+
+326,86
+
+508,32/326,86 = 1,555
+
+1,56
+
+(*) Relación entre el volumen encerrado por la envolvente térmica (V) del edificio (o partedel edificio) y la suma de las superficies de intercambio térmico con el aire
+exterior o el terreno de dicha envolvente térmica (A = Σ Ai). Se expresa en m³/m²
+
+pág.52
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+VIVIENDA UNIFAMILIAR
+
+ET-U
+
+ADOSADA
+
+ET
+2. Condiciones de la envolvente térmica
+En este apartado, se van a comprobar un total de 5 requisitos que afectan a la envolvente térmica del
+edificio y que le son de aplicación por su uso (residencial privado) y alcance de la intervención (proyecto
+de obra nueva).
+
+REFERIDOS A LA TRANSMITANCIA TÉRMICA
+1. LÍMITE EN LA TRANSMITANCIA DE CADA ELEMENTO DE LA ENVOLVENTE TÉRMICA
+Tabla 3.1.1.a - HE1
+
+DATOS PREVIOS
+* Zona climát ica d e invierno
+
+C
+
+* Transmit ancia t érmica d e cad a element o d e la ET (W/m 2 ·K)
+
+U
+
+La transmitancia térmica (U) de cada elemento perteneciente a la envolvente térmica no superará los
+valores límite (Ulim) de la tabla 3.1.1.a-HE1:
+
+TIPO DE CERRAMIENTO
+
+α
+
+A
+
+B
+
+C
+
+D
+
+E
+
+Muros y suelos en contacto con el aire exterior (US, UM)
+Cubiertas en contacto con el aire exterior (UC)
+Muros, suelos y cubiertas en contacto con espacios no habitables o con el
+terreno (UT) Medianerías o particiones interiores pertenecientes a la envolvente
+térmica (UMD)
+Huecos (conjunto de marco, vidrio y, en su caso, cajón de persiana) (UH)*
+Puertas con superficie semitransparente igual o inferior al 50%
+
+0,8
+0,55
+
+0,7
+0,5
+
+0,56
+0,44
+
+0,49
+0,4
+
+0,41
+0,35
+
+0,37
+0,33
+
+0,9
+
+0,8
+
+0,75
+
+0,7
+
+0,65
+
+0,59
+
+3,2
+
+2,7
+
+2,3
+
+2,1
+
+1,8
+
+1,8
+
+5,7
+
+Tabla 3.1.1.a - HE1 Valores límite de transmitancia térmica, Ulim [W/m²K]
+
+Nuestro edificio, está situado en la zona climática de invierno “C”, y es esta la columna que se ha
+resaltado sobre la tabla de valores límite que se han de cumplir.
+A partir de las soluciones que se han descrito en el apartado de definición constructiva y composición
+de cerramientos, se ha elaborado una tabla que compara uno a uno cada elemento de la envolvente
+térmica con el valor límite de aplicación en función del tipo de elemento del que se trate y de sus
+“contactos”.
+Con el fin de que la tabla no tenga un tamaño excesivo y sea más manejable, se han incluido en ella
+exclusivamente los cerramientos y componentes que pertenecen a la envolvente térmica y no el total de
+cerramientos del edificio.
+
+pág.53
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+VIVIENDA UNIFAMILIAR
+
+ET-U
+
+ADOSADA
+
+NO HABITABLE
+
+NO HABITABLE
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+TRANSMITANCIA TÉRMICA DE LOS COMPONENTES DE LA ENVOLVENTE TÉRMICA
+ACONDICIONADO
+
+Acondicionados:P.3 Salvo garaje, P.4. completa y P.5 completa
+N.H.:Sótano, cámara sanitaria, garaje y bajocubierta
+Envolvente térmica según esquema
+
+NO HABITABLE
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+NO HABITABLE
+
+ACONDICIONADO
+
+NO HABITABLE
+
+NO HABITABLE
+
+Có digo de
+cer r amiento
+
+Tipo de
+Co ntacto
+
+PLANTA SÓTANO P01
+M1.N1
+TERRENO
+M1.N2
+TERRENO
+M1.N3
+TERRENO
+M1.N4
+TERRENO
+S1.1
+F1-3.1
+F1-3.2
+
+Descr ipció n
+
+Ancho
+(m)
+
+M. SÓTANO
+M. SÓTANO
+M. SÓTANO
+M. SÓTANO
+
+TERRENO
+EXTERIOR
+NH
+
+Lar go
+(m)
+
+Alto
+(m)
+
+Sup. To tal
+Cer r amiento
+(m 2 )
+
+¿  a ET?
+
+ ET=1
+ ET=0
+
+Sup. Par te
+OPACA ET
+(m 2 )
+
+Sup.
+HUECO
+ET (m 2 )
+
+3,3
+7,9
+3,3
+7,9
+
+2,96
+2,96
+2,96
+2
+
+9,77
+23,38
+9,77
+15,80
+
+1
+1
+1
+1
+
+9,77
+23,38
+9,77
+15,80
+
+26,06
+10,06
+6,77
+
+1
+1
+1
+
+26,06
+10,06
+6,77
+
+SUELO
+CUBIERTA
+TECHO
+
+U lim
+
+Sup. E.T.
+
+U
+
+(m )
+
+2
+
+W/ m K
+
+W/ m K
+
+-
+
+9,77
+23,38
+9,77
+15,80
+
+0,25
+0,22*
+0,25
+0,25
+
+0,70
+0,70
+0,70
+0,70
+
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+
+-
+
+26,06
+10,06
+6,77
+
+0,59
+0,31
+0,35
+
+0,70
+0,40
+0,70
+
+CUMPLE
+CUMPLE
+CUMPLE
+
+2
+
+2
+
+TOTALES PLANTA 01
+101,61
+101,61
+0,00
+101,61
+* Este cerramiento además de con el terreno, tiene un contacto parcial con la cámara sanitaria que se encuentra bajo la planta baja
+
+Cumplimiento
+Valo res limite
+
+CUM PLE
+
+PLANTA CÁMARA SANITARIA. P02
+La planta 02 correspondiente al nivel de cámara sanitaria, no se incluye dentro de la envolvente térmica por lo que no se detallan en la tabla las características de sus cerramientos.
+PLANTA BAJA. P03
+M3.N1
+EXTERIOR
+H3-N1
+EXTERIOR
+M3.N2
+EXTERIOR
+M3.N3
+EXTERIOR
+H3-N3
+EXTERIOR
+M3.N4
+NH
+M3.N5
+NH
+M3.O1
+M3.O2
+M3.S1
+M3.O3
+H3-O3
+M3.S3
+H3-S3
+M3.E1
+M3.E2
+M3.E3
+M3.E4
+
+OTRO ESPAC.
+OTRO ESPAC.
+
+OTRO ESPAC.
+OTRO ESPAC.
+OTRO ESPAC.
+
+M. FACHADA
+VENTANA
+M. FACHADA
+M. FACHADA
+PUERTA
+MEDIANERÍA
+MEDIANERÍA
+MEDIANERÍA
+MEDIANERÍA
+M. FACHADA
+M. FACHADA
+VENTANA
+M. FACHADA
+VENTANA
+M. FACHADA
+MEDIANERÍA
+MEDIANERÍA
+MEDIANERÍA
+
+F3.2
+
+NH
+
+SUELO
+
+EXTERIOR
+EXTERIOR
+EXTERIOR
+EXTERIOR
+EXTERIOR
+EXTERIOR
+
+3,62
+2,25
+1
+1,08
+1,06
+1
+3,25
+1,04
+1,85
+3,3
+3,05
+1,22
+2,68
+
+5,25
+5,25
+3,05
+2,07
+1,3
+1,75
+
+3,14
+1,4
+3,14
+3,14
+2,2
+3,14
+3,14
+3,14
+3,14
+3,14
+3,14
+2,68
+3,14
+3,14
+3,14
+3,14
+3,14
+
+varias dimensiones
+
+TOTALES PLANTA 03
+
+F3-4.1
+F3-4.2
+F3-4.3
+C4-5
+
+M. FACHADA
+VENTANA
+M. FACHADA
+VENTANA
+OTRO ESPAC. MEDIANERÍA
+EXTERIOR M. FACHADA
+EXTERIOR
+VENTANA
+EXTERIOR
+VENTANA
+OTRO ESPAC. MEDIANERÍA
+OTRO ESPAC. MEDIANERÍA
+EXTERIOR
+
+2,42
+1,5
+6,14
+2,13
+8
+8,57
+3,28
+1,26
+3,05
+4,95
+
+2,96
+0,84
+2,96
+2,5
+2,96
+2,96
+2,5
+2,5
+2,96
+2,96
+
+SUELO
+SUELO
+SUELO
+CUBIERTA
+
+OTRO ESPAC
+
+EXTERIOR
+EXTERIOR
+
+TOTALES PLANTA 04
+PLANTA ÁTICO. P05
+M5.N1
+EXTERIOR
+M5.O1
+EXTERIOR
+M5.S1
+EXTERIOR
+H5.S1
+EXTERIOR
+M5.E1
+EXTERIOR
+H5.E1
+EXTERIOR
+C5-6
+
+1
+
+3,14
+
+1
+
+3,39
+
+1
+
+3,14
+10,21
+3,27
+5,81
+10,36
+
+1
+1
+1
+1
+1
+
+9,58
+
+1
+
+16,49
+
+1
+
+9,58
+6,50
+4,08
+5,50
+
+1
+1
+1
+1
+
+40,13
+
+1
+
+142,53
+
+PLANTA PRIMERA. P04
+M4.N1
+EXTERIOR
+H4-N1
+EXTERIOR
+M4.N2
+EXTERIOR
+H4-N2
+EXTERIOR
+M4.O1
+M4.S1
+H4.S1
+H4.S2
+M4.E1
+M4.E2
+
+11,37
+
+NH
+
+TOTALES PLANTA 05
+
+TECHO
+
+3,3
+7,9
+3,3
+3,28
+7,9
+1,31
+
+2,86
+2,86
+2,86
+2,5
+2,86
+2,2
+
+9,58
+6,50
+4,08
+5,50
+
+3,15
+2,33
+3,27
+14,07
+-
+
+8,22
+3,15
+3,14
+1,06
+2,33
+3,14
+10,21
+3,27
+5,81
+10,36
+6,31
+3,27
+2,42
+14,07
+9,58
+6,50
+4,08
+5,50
+
+0,27
+1,13
+0,27
+0,26
+2,20
+0,32
+0,32
+0,27
+0,27
+0,26
+0,27
+1,13
+0,26
+1,13
+0,27
+0,27
+0,27
+0,27
+
+0,49
+2,10
+0,49
+0,49
+5,70
+0,70
+0,70
+0,70
+0,70
+0,70
+0,70
+2,10
+0,70
+2,10
+0,70
+0,70
+0,70
+0,70
+
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+
+40,13
+
+-
+
+40,13
+
+0,33
+
+0,70
+
+CUMPLE
+
+119,70
+
+22,82
+
+142,53
+
+1,26
+5,33
+8,2
+3,15
+-
+
+5,90
+1,26
+12,85
+5,33
+23,68
+14,02
+8,20
+3,15
+9,03
+14,65
+
+0,27
+1,13
+0,26
+1,13
+0,27
+0,26
+1,13
+1,13
+0,27
+0,27
+
+0,49
+2,10
+0,49
+2,10
+0,70
+0,49
+2,10
+2,10
+0,70
+0,70
+
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+
+0,25
+0,33
+0,25
+0,23
+
+0,49
+0,70
+0,49
+0,40
+
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+
+CUM PLE
+
+7,16
+
+1
+
+18,17
+
+1
+
+23,68
+
+1
+
+25,37
+
+1
+
+9,03
+14,65
+
+1
+1
+
+5,90
+12,85
+23,68
+14,02
+9,03
+14,65
+
+1,65
+6,30
+10,06
+41,64
+
+1
+1
+1
+1
+
+1,65
+6,30
+10,06
+41,64
+
+-
+
+1,65
+6,3
+10,06
+41,64
+
+139,78
+
+17,94
+
+157,71
+
+9,44
+22,59
+1,24
+19,71
+-
+
+8,2
+2,88
+
+9,44
+22,59
+1,24
+8,20
+19,71
+2,88
+
+0,26
+0,27
+0,26
+1,13
+0,27
+1,13
+
+0,49
+0,49
+0,49
+2,10
+0,49
+2,10
+
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+CUMPLE
+
+26,06
+
+-
+
+26,06
+
+0,32
+
+0,70
+
+CUMPLE
+
+79,04
+
+11,08
+
+90,12
+
+157,71
+
+M. FACHADA
+M. FACHADA
+M. FACHADA
+VENTANA
+M. FACHADA
+VENTANA
+
+8,22
+3,14
+1,06
+3,14
+10,21
+3,27
+5,81
+10,36
+6,31
+2,42
+
+9,44
+22,59
+
+1
+1
+
+9,44
+
+1
+
+22,59
+
+1
+
+26,06
+
+1
+
+90,12
+
+CUM PLE
+
+CUM PLE
+
+PLANTA BAJOCUBIERTA. P06
+La planta 06 correspondiente al nivel de bajocubierta, no se incluye dentro de la envolvente térmica por lo que no se detallan en la tabla las características de sus cerramientos.
+
+TOTALES EDIFICIO
+
+491,97
+
+440,14
+
+51,84
+
+491,98
+
+CUMPLE
+
+pág.54
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+ET-K
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+En la configuración que se ha definido, la envolvente térmica incluye los cerramientos horizontales que
+separan el espacio acondicionado de la planta ático respecto al bajocubierta NO HABITABLE. También
+se incluyen los cerramientos verticales que separan los espacios acondicionados de la planta baja del
+espacio NO HABITABLE destinado a garaje.
+El valor límite que se fija en la Tabla 3.1.1.a - HE1 Valores límite de transmitancia térmica, establece que
+las medianeras y particiones interiores pertenecientes a la envolvente térmica para la zona climática de
+invierno “C”, no han de superar una transmitancia límite de 0,70 W/m²K.
+
+2. LÍMITE DEL COEFICIENTE GLOBAL DE TRANSMISIÓN DE CALOR (K) A TRAVÉS DE LA E.T.
+Tabla 3.1.1.b - HE1 para uso residencial privado
+
+DATOS PREVIOS
+* Zona climát ica d e invierno
+
+C
+
+* Comp acid ad d el ed ificio seg ún la config uración eleg id a (V/A) (m 3 /m 2 )
+* Coeficient e g lob al d e t ransmisión d e calor a t ravés d e la ET (W/m 2 ·K)
+
+K
+
+Coeficiente global de transmisión de calor (a través de la envolvente térmica del edificio) [K]: Valor medio
+del coeficiente de transmisión de calor para la superficie de intercambio térmico de la envolvente (Aint).
+Hay que recordar que se considera área de intercambio, exclusivamente la superficie de la envolvente
+en contacto con el aire exterior o terreno. Se excluyen expresamente los contactos con otros espacios.
+Se expresa en W/m2K.
+
+K= ΣxHx / Aint
+donde:
+Hx: corresponde al coeficiente de transferencia de calor del elemento x perteneciente a la envolvente térmica (incluyendo
+sus puentes térmicos). Se incluyen aquellos elementos en contacto con el terreno, con el ambiente exterior, y se excluyen
+aquellos en contacto con otros edificios u otros espacios adyacentes;
+Aint: es el área de intercambio de la envolvente térmica obtenida como suma de los distintos componentes considerados
+en la transmisión de calor. Excluye, por tanto, las áreas de elementos de la envolvente térmica en contacto con edificios
+o espacios adyacentes exteriores a la envolvente térmica.
+
+De forma simplificada, puede calcularse este parámetro a partir de las transmitancias térmicas y
+superficies de los elementos de la envolvente térmica y de un factor de ajuste:
+K= Σx btr,x [ Σi Ax,i Ux,i + Σk lx,k ψx,k + Σj xx,j ] / Σx Σi btr,x Ax,i
+donde:
+btr,x es el factor de ajuste para los elementos de la envolvente. Su valor es “1” excepto para elementos en contacto con edificios
+o espacios adyacentes exteriores a la envolvente térmica, donde toma el valor “0”;
+
+Ax,i es el área de intercambio del elemento de la envolvente térmica considerado;
+Ux,i es el valor de la transmitancia térmica del elemento de la envolvente térmica considerado;
+En el Documento de Apoyo DB-HE/1 Cálculo de parámetros característicos de la envolvente térmica y en las normas
+UNE-EN ISO relacionadas se dispone de valores orientativos de transmitancia térmica de los diferentes elementos de
+la envolvente térmica.
+La transmitancia térmica aplicable a los elementos en contacto con el terreno incluye no sólo la transmitancia intrínseca
+del elemento sino también el efecto del terreno.
+Ver también en la sección 3 de AYUDAS diferentes ejemplos de cálculo.
+
+lx,k es la longitud del puente térmico considerado;
+ψx,k es el valor de la transmitancia térmica lineal del puente térmico considerado;
+xx,j es la transmitancia puntual del puente térmico considerado.
+pág.55
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+VIVIENDA UNIFAMILIAR
+
+ET-K
+
+ADOSADA
+
+El edificio de estudio en todas sus variantes es de uso residencial privado. El coeficiente global de
+transmisión de calor a través de la envolvente térmica (K) del edificio, o parte de este, con uso residencial
+privado, no superará el valor límite (Klim) obtenido de la tabla 3.1.1.b-HE1:
+Zona climát ica d e invierno
+
+Tab la 3.1.1.b - HE1 Valor límit e K l i m
+[W/m² K] p ara uso resid encial
+p rivad o
+
+Comp acid ad
+V/A [m³ /m 2 ]
+
+α
+
+A
+
+B
+
+C
+
+D
+
+E
+
+V/A ≤ 1
+
+0,67
+
+0,60
+
+0,58
+
+0,53
+
+0,48
+
+0,43
+
+V/A ≥ 4
+
+0,86
+
+0,80
+
+0,77
+
+0,72
+
+0,67
+
+0,62
+
+V/A ≤ 1
+
+1,00
+
+0,87
+
+0,83
+
+0,73
+
+0,63
+
+0,54
+
+V/A ≥ 4
+
+1,07
+
+0,94
+
+0,9
+
+0,81
+
+0,70
+
+0,62
+
+Edificios nuevos y
+ampliaciones
+Cambios de uso.
+Reformas en las que se
+renueve más del 25% de la
+superficie total de la
+
+Los valores límite de las compacidades intermedias (1<V/A<4) se obtienen por interpolación.
+
+El edificio de nuestro ejemplo se encuentra situado en la zona climática de invierno “C” y su compacidad
+es de 1,56. Para valores de compacidad entre 1 y 4, qué es nuestro caso de estudio, habrá que interpolar
+el valor límite entre 0,53 y 0,72 W/m2·K proporcionalmente a la compacidad. Se trata de una proporción
+lineal y además de analíticamente, se puede obtener una aproximación del valor de forma gráfica:
+
+2
+
+Transmitancia límite Ulim [W/m ·K]
+
+0,72
+0,71
+0,7
+0,69
+0,68
+0,67
+0,66
+0,65
+0,64
+0,63
+0,62
+0,61
+0,6
+0,59
+0,58
+0,57
+0,56
+0,55
+0,54
+0,53
+
+1
+
+1,1
+
+1,2
+
+1,3
+
+1,4
+
+1,5
+
+1,555
+1,6 1,7
+
+1,8
+
+1,9
+
+2
+
+2,1
+
+2,2
+
+2,3
+
+2,4
+
+2,5
+
+2,6
+
+2,7
+
+2,8
+
+2,9
+
+3
+
+3,1
+
+3,2
+
+3,3
+
+3,4
+
+3,5
+
+3,6
+
+3,7
+
+3,8
+
+3,9
+
+4
+
+Compacidad [m]
+
+El valor límite obtenido redondeando el segundo decimal es de 0,56 W/m2·K.
+En la siguiente tabla se relaciona (se resaltan mediante sombreado) todos los elementos de la envolvente
+afectados por este indicador (los de contacto con el aire exterior o terreno) caracterizando su
+transmitancia térmica y coeficiente de transmisión térmica lineal para puentes térmicos. A partir de
+dichos valores, las superficies de cada elemento y longitudes de los puentes térmicos, se obtendrá el
+coeficiente global de transmisión de calor (K) y se comparará con el valor límite fijado en la tabla 3.1.1.bHE1 y que por interpolación hemos fijado en 0,56 W/m2·K.
+Respecto a los puentes térmicos, solo se han considerado los lineales y se han descartado en el cálculo,
+los posibles puentes térmicos puntuales existentes en el edificio. Hay que recordar aquí además que
+estructuralmente el edificio apoya sus forjados en pantallas de hormigón armado por lo que no existen
+pilares en la envolvente.
+pág.56
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+ET-K
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+NO HABITABLE
+NO HABITABLE
+
+ACONDICIONADO
+ACONDICIONADO
+
+NO HABITABLE
+
+ACONDICIONADO
+
+NO HABITABLE
+
+Có digo del
+elemento
+
+En rojo se resaltan los
+contactos de la envolvente
+térmica con el exterior o
+terreno
+
+Acondicionados:P.3 Salvo garaje, P.4. completa y P.5
+completa
+N.H.:Sótano, cámara sanitaria, garaje y bajocubierta
+Envolvente térmica según esquema
+
+ACONDICIONADO
+
+Tipo de
+Co ntacto
+
+Descr ipció n
+
+Co ntacto
+Sup. E.T. en
+¿  a ET? EXTER IOR o
+co ntacto
+TER R ENO
+Sup. Par te
+Sup.
+EXTER IOR o
+ ET=1
+2
+2
+( btr ,x)
+OPACA ( m ) HUECO ( m )
+TER R ENO
+ ET=0
+
+SI=1
+N0=0
+
+PLANTA SÓTANO P01
+M1.N1
+TERRENO
+
+ACONDICIONADO
+
+NO HABITABLE
+
+ACONDICIONADO
+
+NO HABITABLE
+
+U
+2
+
+W/ m K
+
+( m 2)
+
+Opacos Huecos
+U · Área U · Área
+W/ K
+
+M. SÓTANO
+
+1
+
+1
+
+9,77
+
+-
+
+9,77
+
+0,25
+
+2,44
+
+M1.N2
+
+TERRENO
+
+M. SÓTANO
+
+1
+
+1
+
+23,38
+
+-
+
+23,38
+
+0,22
+
+5,14
+
+M1.N3
+
+TERRENO
+
+M. SÓTANO
+
+1
+
+1
+
+9,77
+
+-
+
+9,77
+
+0,25
+
+2,44
+
+M1.N4
+
+TERRENO
+
+M. SÓTANO
+
+1
+
+1
+
+15,80
+
+-
+
+15,80
+
+0,25
+
+3,95
+
+S1.1
+F1-3.1
+F1-3.2
+
+TERRENO
+EXTERIOR
+NH
+
+SUELO
+TECHO
+TECHO
+
+1
+1
+1
+
+1
+1
+0
+
+26,06
+10,06
+-
+
+-
+
+26,06
+10,06
+-
+
+0,59
+0,31
+0,36
+
+15,38
+3,12
+
+94,84
+
+0,00
+
+94,84
+
+TOTALES PLANTA 01
+
+32,47
+
+W/ K
+
+0,00
+
+PLANTA CÁMARA SANITARIA. P02
+La planta 02 correspondiente al nivel de cámara sanitaria, no se incluye dentro de la envolvente térmica por lo que no se detallan en la tabla las
+características de sus cerramientos.
+PLANTA BAJA. P03
+M3.N1
+EXTERIOR
+H3-N1
+EXTERIOR
+
+M, FACHADA
+VENTANA
+
+1
+
+1
+1
+
+8,2168
+-
+
+3,15
+
+8,22
+3,15
+
+0,27
+1,13
+
+2,22
+3,56
+
+M3.N2
+
+EXTERIOR
+
+M, FACHADA
+
+1
+
+1
+
+3,14
+
+-
+
+3,14
+
+0,27
+
+0,85
+
+M3.N3
+H3-N3
+
+EXTERIOR
+EXTERIOR
+
+M, FACHADA
+PUERTA
+
+1
+
+1
+1
+
+1,0592
+-
+
+2,332
+
+1,06
+2,33
+
+0,26
+2,2
+
+0,28
+
+M3.N4
+
+NH
+
+MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+0,32
+
+-
+
+M3.N5
+
+NH
+
+MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+0,32
+
+-
+
+M3.O1
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+0,27
+
+-
+
+M3.O2
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+0,27
+
+M3.S1
+
+EXTERIOR
+
+M, FACHADA
+
+1
+
+1
+
+10,362
+
+-
+
+10,36
+
+0,26
+
+2,69
+
+M3.O3
+H3-O3
+
+EXTERIOR
+EXTERIOR
+
+M, FACHADA
+VENTANA
+
+1
+
+1
+1
+
+6,3074
+-
+
+3,2696
+
+6,31
+3,27
+
+0,27
+1,13
+
+1,70
+
+M3.S3
+H3-S3
+
+EXTERIOR
+EXTERIOR
+
+M, FACHADA
+VENTANA
+
+1
+
+1
+1
+
+2,42
+-
+
+14,07
+
+2,42
+14,07
+
+0,26
+1,13
+
+0,63
+
+M3.E1
+
+EXTERIOR
+
+M, FACHADA
+
+1
+
+1
+
+9,577
+
+-
+
+9,58
+
+0,27
+
+2,59
+
+M3.E2
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+0,27
+
+-
+
+M3.E3
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+0,27
+
+-
+
+M3.E4
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+0,27
+
+-
+
+1
+
+0
+
+-
+
+-
+
+-
+
+0,33
+
+-
+
+41,08
+
+22,82
+
+63,91
+
+1
+
+5,90
+-
+
+1,26
+
+5,90
+1,26
+
+0,27
+1,13
+
+1,59
+
+5,33
+
+12,85
+5,33
+
+0,26
+1,13
+
+3,34
+
+F3.2
+
+NH
+
+SUELO
+
+TOTALES PLANTA 03
+PLANTA PRIMERA. P04
+M4.N1
+EXTERIOR
+H4-N1
+EXTERIOR
+
+M, FACHADA
+VENTANA
+
+1
+
+EXTERIOR
+EXTERIOR
+
+M, FACHADA
+VENTANA
+
+1
+
+1
+
+12,85
+-
+
+M4.O1
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+0
+
+0,27
+
+M4.S1
+H4.S1
+H4.S2
+
+EXTERIOR
+EXTERIOR
+EXTERIOR
+
+M, FACHADA
+VENTANA
+VENTANA
+
+1
+
+1
+
+14,02
+-
+
+8,20
+3,15
+
+14,02
+8,20
+3,15
+
+0,26
+1,13
+1,13
+
+M4.E1
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+0
+
+0,27
+
+M4.E2
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+0
+
+0,27
+
+F3-4.1
+F3-4.2
+F3-4.3
+C4-5
+
+EXTERIOR
+
+1
+1
+1
+1
+
+1
+0
+1
+1
+
+1,65
+10,06
+41,64
+
+-
+
+1,65
+0
+10,06
+41,64
+
+0,26
+0,33
+0,26
+0,23
+
+86,12
+
+17,94
+
+104,05
+
+OTRO ESPAC
+
+EXTERIOR
+EXTERIOR
+
+TOTALES PLANTA 04
+
+-
+
+3,69
+15,90
+
+10,96
+
+M4.N2
+H4-N2
+
+SUELO
+SUELO
+SUELO
+CUBIERTA
+
+5,13
+
+28,28
+
+1,42
+6,02
+3,64
+9,27
+3,56
+0,43
+2,62
+9,58
+21,20
+
+20,27
+
+pág.57
+
+F1
+
+CUMPLIMIENTO
+PLANTA ÁTICO. P05
+M5.N1
+EXTERIOR
+
+HE1
+
+ET-K
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+M, FACHADA
+
+1
+
+1
+
+9,44
+
+-
+
+9,44
+
+0,26
+
+2,45
+
+M5.O1
+
+EXTERIOR
+
+M, FACHADA
+
+1
+
+1
+
+22,59
+
+-
+
+22,59
+
+0,27
+
+6,10
+
+M5.S1
+H5.S1
+
+EXTERIOR
+EXTERIOR
+
+M, FACHADA
+VENTANA
+
+1
+
+1,24
+-
+
+8,2
+
+1,24
+8,20
+
+0,26
+1,13
+
+0,32
+
+M5.E1
+H5.E1
+
+EXTERIOR
+EXTERIOR
+
+M, FACHADA
+VENTANA
+
+1
+
+1
+
+19,71
+-
+
+2,88
+
+19,71
+2,88
+
+0,27
+1,13
+
+5,32
+
+C5-6
+
+NH
+
+TECHO
+
+1
+
+0
+
+-
+
+-
+
+-
+
+0,32
+
+TOTALES PLANTA 05
+
+52,98
+
+11,08
+
+64,06
+
+14,20
+
+12,52
+
+TOTALES EDIFICIO
+
+275,02
+
+51,84
+
+326,87
+
+78,83
+
+61,07
+
+1
+
+3,26
+-
+
+P U E N T E S
+Defi ni ci ón
+
+T É R M I C O S
+Ψ
+Long i t ud
+T. lineal
+L(m)
+W/m·K
+
+9,27
+
+ΨxL
+W/K
+
+Frente forjado
+
+0,17
+
+57,36
+
+9,75
+
+Unión cubierta.
+
+0,547
+
+33,00
+
+18,05
+
+Esquinas convexa forjado
+
+0,139
+
+19,02
+
+2,64
+
+Esquinas concava cerram.
+
+-0,08
+
+9,42
+
+-0,75
+
+Esquinas convexa cerram.
+
+0,06
+
+20,86
+
+1,25
+
+Unión solera pared ext
+
+0,20
+
+22,40
+
+4,48
+
+Perímetro de HUECOS
+
+0,029
+
+88,88
+
+2,58
+
+DATOS PREVIOS
+COMPACIDAD DEL EDIFICIO:
+
+1,56
+
+CÁLCULO
+
+Pilares
+
+1,2
+
+TOTALES EDIFICIO
+
+1
+
+1,20
+
+251,94
+
+39,20
+
+K= Σx Hx / Aint = Σx btr,x [ Σi Ax,i Ux,i + Σk lx k ψx, k + Σj xx, j ] / Σx Σi
+btr,x Ax,i
+K=(78,83+61,07+39,20)/326,87 =
+
+0,5479
+
+C O M P R O B A C I Ó N
+
+K lim
+
+[K] W/m 2 ·K
+EDIFICIO
+
+W/m 2 ·K
+
+Cump l i mi ent o
+Val ores l i mi te
+
+0,55
+
+0,56
+
+CUMPLE
+
+K
+
+Consideraciones respecto al cumplimiento de esta configuración
+La superficie computable en el cálculo del valor de [K] afecta exclusivamente a la que está en contacto
+con el aire exterior o el terreno. En la configuración que se ha propuesto solo se produce contacto con
+el exterior a través de la cubierta plana (azotea) y de las fachadas, excluyendo los cerramientos de
+separación con el volumen del garaje. Quedan también fuera del cálculo los cerramientos horizontales
+que nos separan del espacio técnico en el bajocubierta y de la cámara sanitaria en la parte inferior del
+salón de planta baja, ambos por contacto con “otros espacios”. Hay que recordar aquí que la cubierta
+inclinada no pertenece a la envolvente térmica. Los contactos con el terreno se producen exclusivamente
+en los cerramientos (horizontales y verticales) de la planta sótano.
+Hemos aplicado el procedimiento simplificado mediante la expresión,
+K= Σx btr,x [ Σi Ax,i Ux,i + Σk lx,k ψx,k + Σj xx,j ] / Σx Σi btr,x Ax,i
+Respecto al resultado obtenido se pueden hacer los siguientes comentarios:
+-
+
+El valor de [K] calculado 0,55 W/m2·K, está bastante ajustado respecto al valor límite que es
+de 0,56 W/m2·K. Partiendo de unas soluciones de puentes térmicos ya bastante eficientes, se
+pueden plantear mejoras en el aislamiento de las superficies opacas que supondrán, además,
+una mejora indirecta en las soluciones de los puentes térmicos. En todo caso el margen de
+mejora en este apartado es limitado teniendo en cuenta que la superficie de opacos es de
+275,02 m2 y aporta al numerador de la expresión de cálculo 78,83 W/K, es decir, una
+transmitancia media en los cerramientos opacos de 0,286 W/m2·K. Si reducimos esa
+transmitancia media a valores próximos a 0,20 W/m2·K obtendríamos un valor de [K] en torno
+a 0,46 W/m2·K.
+pág.58
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+ET-K
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Realizando además el ajuste sobre los valores de transmitancia térmica lineal de los puentes
+térmicos debido a la mejora de la transmitancia de todos los cerramientos implicados, el
+resultado estimado sería el siguiente:
+
+Có digo del
+elemento
+
+Tipo de
+Co ntacto
+
+¿  a ET?
+Descr ipció n
+
+ ET=1
+ ET=0
+
+Co ntacto
+Sup. E.T. en
+EXTER IOR o
+co ntacto
+TER R ENO
+Sup. Par te
+Sup.
+EXTER IOR o
+( btr ,x)
+OPACA ( m 2 ) HUECO ( m 2 )
+TER R ENO
+SI=1
+( m 2)
+
+U ( media)
+W/ m 2 K
+
+Opacos Huecos
+U · Área U · Área
+W/ K
+
+W/ K
+
+N0=0
+
+Estimación de valores para OPACOS
+Estimación de valores para HUECOS
+
+275,02
+
+TOTALES EDIFICIO
+
+275,02
+
+275,02
+51,84
+
+51,84
+
+326,86
+
+0,20
+1,178
+
+55,00
+61,07
+55,00
+
+61,07
+
+P U E N T E S
+Defi ni ci ón
+
+T É R M I C O S
+Ψ
+Long i t ud
+T. lineal
+L(m)
+W/m·K
+
+51,84
+
+Ψx L
+W/K
+
+Frente forjado
+
+0,154
+
+57,36
+
+8,83
+
+Unión cubierta.
+
+0,513
+
+33,00
+
+16,93
+
+Esquinas convexa forjado
+
+0,146
+
+19,02
+
+2,78
+
+Esquinas concava cerram.
+
+-0,057
+
+9,42
+
+-0,54
+
+Esquinas convexa cerram.
+
+0,037
+
+20,86
+
+0,77
+
+Unión solera pared ext
+
+0,14
+
+22,40
+
+3,07
+
+Perímetro de HUECOS
+
+0,023
+
+88,88
+
+2,04
+
+DATOS PREVIOS
+COMPACIDAD DEL EDIFICIO:
+
+1,56
+
+CÁLCULO
+K= Σx Hx / Aint = Σx btr,x [ Σi Ax,i Ux,i + Σk lx k ψx, k + Σj xx, j ] / Σx Σi
+btr,x Ax,i
+K=(55,00+61,07+38,57)/326,87 =
+
+Pilares
+
+1,2
+
+TOTALES EDIFICIO
+
+-
+
+1
+
+1,20
+
+251,94
+
+35,09
+
+0,4625
+
+C O M P R O B A C I Ó N
+
+K lim
+
+K
+
+[K] W/m 2 ·K
+EDIFICIO
+
+W/m 2 ·K
+
+Cump l i mi ent o
+Va l ores l i mi te
+
+0,46
+
+0,56
+
+CUMPLE
+
+Por otra parte, podríamos todavía reducir las transmitancias de los huecos. Con los valores de
+la propuesta inicial (vidrios de transmitancia de 1 W/m2K y marco de 1,30 W/m2K) y
+considerando la transmitancia del hueco de la puerta de acceso de 2,20 W/m2K tenemos un
+valor medio de transmitancia para los huecos de 1,178 W/m2K con una superficie total de 51,84
+m2. Se podría optar por incorporar vidrios triples con transmitancia en torno a 0,50 W/m2K que
+nos acercaría a un valor medio de transmitancia de los huecos de 0,75 W/m2K. Si
+consideramos esta modificación combinada con la anterior, el resultado sería el siguiente:
+
+Có digo del
+elemento
+
+Tipo de
+Co ntacto
+
+Descr ipció n
+
+Co ntacto
+Sup. E.T. en
+¿  a ET? EXTER IOR o
+co ntacto
+TER R ENO
+Sup. Par te
+Sup.
+ ET=1
+EXTER
+IOR o
+( btr ,x)
+OPACA ( m 2 ) HUECO ( m 2 )
+TER R ENO
+ ET=0
+SI=1
+2
+(m )
+
+U ( media)
+W/ m 2 K
+
+Opacos Huecos
+U · Área U · Área
+W/ K
+
+W/ K
+
+N0=0
+
+Estimación de valores para OPACOS
+Estimación de valores para HUECOS
+
+275,02
+
+TOTALES EDIFICIO
+
+275,02
+
+275,02
+51,84
+
+51,84
+
+326,86
+
+0,20
+0,75
+
+55,00
+38,88
+55,00
+
+38,88
+
+P U E N T E S
+Defi ni c i ón
+
+T É R M I C O S
+Ψ
+Long i t ud
+T. lineal
+L(m)
+
+51,84
+
+Ψx L
+W/K
+
+Frente forjado
+
+0,154
+
+57,36
+
+8,83
+
+Unión cubierta.
+
+0,513
+
+33,00
+
+16,93
+
+Esquinas convexa forjado
+
+0,146
+
+19,02
+
+2,78
+
+Esquinas concava cerram.
+
+-0,057
+
+9,42
+
+-0,54
+
+Esquinas convexa cerram.
+
+0,037
+
+20,86
+
+0,77
+
+Unión solera pared ext
+
+0,14
+
+22,40
+
+3,07
+
+Perímetro de HUECOS
+
+0,023
+
+88,88
+
+2,04
+
+DATOS PREVIOS
+COMPACIDAD DEL EDIFICIO:
+
+1,56
+
+CÁLCULO
+K= Σx Hx / Aint = Σx btr,x [ Σi Ax,i Ux,i + Σk lx k ψx, k + Σj xx, j ] / Σx Σi
+btr,x Ax,i
+K=(55,00+38,88+35,09)/326,86 =
+
+Pilares
+TOTALES EDIFICIO
+
+1,2
+
+1
+
+1,20
+
+251,94
+
+35,09
+
+0,3946
+
+C O M P R O B A C I Ó N
+
+K lim
+
+[K] W/m 2 ·K
+EDIFICIO
+
+W/m 2 ·K
+
+Cump l i mi ent o
+Va l ores l i mi te
+
+0,39
+
+0,56
+
+CUMPLE
+
+K
+
+pág.59
+
+F1
+
+CUMPLIMIENTO
+
+-
+
+HE1
+
+ET-K
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Respecto a posibles cambios en la configuración de la envolvente, existe una modificación
+posible y que consiste en la inclusión del pequeño espacio no habitable del bajocubierta
+técnico. En primer lugar, indicar que no tendría sentido incorporar dentro de la envolvente
+térmica un espacio con las superficies de aberturas permanentes al exterior como las que
+requiere este bajocubierta por alojar las unidades exteriores de los equipos de frío. La opción
+más viable será recolocar estas unidades exteriores y liberar este espacio, en ese caso,
+supone la incorporación de más superficie opaca que con un nivel de aislamiento medio (entre
+0,20-0,30 W/m2K) mejorará el valor de transmitancia media de la E.T. De hecho, simplemente
+dando continuidad al aislamiento de la fachada en este espacio, se consigue un valor de [K]
+próximo a 0,51 W/m2K. No obstante, esta incorporación produce el efecto contrario en el
+indicador [n50] que veremos más adelante y que en edificios pequeños como este, con un
+factor de forma no muy favorable, puede presentar ciertas dificultades para el cumplimiento.
+Se recomienda revisar el estudio que a este respecto se realiza en la primera entrega de esta
+guía, “Ejemplo 0 vivienda unifamiliar mínima”.
+
+Resultados obtenidos de la Herramienta HULC con esta opción.
+
+-
+
+Existe una última vía de mejora en este apartado, y es la posibilidad de realizar el cálculo de
+[K] de manera completa y no simplificada, considerando por tanto, los factores de ajuste reales
+btr,x (según el DA DB-HE/1 Cálculo de parámetros característicos de la envolvente) para los
+elementos en contacto con otros espacios adyacentes exteriores como son el bajocubierta o
+la cámara sanitaria en planta baja. En el apartado 2.1.3 Particiones interiores en contacto con
+espacios no habitables del citado documento se desarrolla el método de cálculo de la
+transmitancia U [W/m2·K] de los diferentes casos de particiones interiores en contacto con un
+espacio no habitable que a su vez esté en contacto con el exterior.
+En la entrega inicial de esta Guía, en la “ficha 0: vivienda mínima”, se desarrollan varios
+ejemplos de cálculo de este tipo de elementos en el apartado de ayudas.
+
+pág.60
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+ET- qsol;jul
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+REFERIDOS AL CONTROL SOLAR DE LA ENVOLVENTE TÉRMICA
+1. CONTROL SOLAR (qsol;jul)
+Tabla 3.1.2-HE1 Valor límite del parámetro de control solar, qsol;jul,lim [kWh/m²·mes]
+
+DATOS PREVIOS
+* Ganancias solares en julio (KWh/m2) de huecos con protecciones móviles activadas
+* Área útil de los espacios inclidos dentro de la ET del edificio (m 2 )
+
+A út i l
+
+El parámetro de control solar (qsol;jul), es la relación entre las ganancias solares para el mes de julio
+(Qsol;jul) a través de los huecos pertenecientes a la envolvente térmica con sus protecciones solares
+móviles activadas, y la superficie útil de los espacios habitables incluidos dentro de la envolvente térmica
+(Autil).
+En el caso de edificios nuevos como el de nuestro ejemplo, el parámetro de control solar (qsol;jul)
+calculado, no superará el valor límite de la tabla 3.1.2-HE1 considerando además el uso del edificio (en
+nuestro caso residencial privado):
+USO
+
+qsol;jul
+
+Residencial privado
+
+2,00
+
+Otros usos
+
+4,00
+
+Tabla 3.1.2-HE1 Valor límite del parámetro de control solar, qsol;jul,lim [kWh/m²·mes]
+
+Para obtener las ganancias por radiación solar que se producen a través de los huecos necesitamos
+conocer:
+1. La radiación incidente sobre el hueco en el periodo de estudio (julio). Estos valores los podemos
+obtener a través de la simulación mediante HULC o aproximarlos mediante los valores de
+referencia de las tablas 20 y 21 del apartado “2.3 Irradiación solar media acumulada en el mes
+de julio” del DA DB-HE/1 Cálculo de parámetros característicos de la envolvente.
+2. Las obstrucciones y protecciones fijas y móviles de las que dispone cada hueco y que limitan
+el acceso de la radiación solar al interior del edificio durante el período que queremos analizar.
+Es decir, la transmitancia de energía solar de los huecos. Para ello necesitamos a su vez
+disponer de los siguientes datos:
+- La transmitancia solar del vidrio (dependerá de la composición y propiedades del
+vidrio),
+- Los obstáculos o elementos de sombra fijos que limitan el acceso solar del hueco,
+- Los elementos de sombra móviles previstos que se puedan activar como elementos de
+protección estacional de los huecos de la envolvente.
+El método de cálculo detallado de estos parámetros lo podemos consultar también en el DA DB-HE / 1.
+Cálculo de parámetros característicos de la envolvente.
+Para justificar el cumplimiento de este requisito se desarrolla más adelante una tabla detallada. En esta
+tabla se emplea la terminología que se define a continuación:
+
+g_gl;wi
+Es la transmitancia total de energía solar del vidrio sin los dispositivos de sombra activos. Se expresa habitualmente
+como la relación en tanto por uno entre la radiación incidente y la que finalmente atraviesa el vidrio. Es un dato que
+normalmente nos facilitará el fabricante del vidrio. Se obtiene a partir del valor de la transmitancia total de energía
+pág.61
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+ET- qsol;jul
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+solar a incidencia normal, ggl;n y un factor de corrección por dispersión del vidrio, F w = 0,90. (ggl;wi= Fw ·ggl;n). (Tabla
+B.22 del Anexo B de la UNE-EN ISO 52016-1)
+
+g_gl;sh,wi
+Es la transmitancia total de energía solar del acristalamiento con los dispositivos de sombra móvil activos. Sus
+valores los podemos obtener en la “Tabla 12 Transmitancia total de energía solar de huecos para distintos
+dispositivos de sombra móvil (ggl;sh,wi)”del DB-HE / 1. Cálculo de parámetros característicos de la envolvente.
+
+F_gl;sh,obst
+Es el factor de sombra del hueco o lucernario por obstáculos externos al hueco (voladizos, aletas laterales,
+retranqueos, obstáculos remotos, etc.). Se puede obtener de las tablas 16 a 19 del DA DB-HE / 1. Cálculo de
+parámetros característicos de la envolvente. En caso de que no se justifique adecuadamente, el valor de F sh,obst se
+debe considerar igual a la unidad.
+
+La consideración del factor de sombra debido a la vegetación podrá ser tenida en cuenta o no por el
+proyectista, siendo necesaria una evaluación diferenciada en función de la geometría del elemento y su
+follaje (hoja perenne o caduca). En nuestro caso no se ha tenido en cuenta la presencia de ningún
+elemento vegetal de protección exterior en el entorno del edificio.
+Como protección móvil de los huecos de nuestro ejemplo, se utiliza el recurso más habitual en edificios
+de uso residencial privado de estas características y que es la incorporación de persianas por el exterior.
+En este caso se han considerado de color oscuro (gris oscuro) al igual que las carpinterías previstas en
+los huecos. Para obtener el valor del g_gl;sh,wi que se utilizará en el cálculo, recurrimos a la “Tabla 12
+Transmitancia total de energía solar de huecos para distintos dispositivos de sombra móvil (ggl;sh,wi)”del
+DB-HE / 1. Cálculo de parámetros característicos de la envolvente. La selección de dicho valor se hace
+en función de la protección móvil prevista, el tipo de vidrio del hueco, la disposición de la protección (por
+el interior o exterior) y su color. En nuestro caso, persianas oscuras por el exterior, este valor es de 0,08
+y se muestra su selección en la siguiente imagen de la tabla de referencia:
+
+Los cálculos del factor de sombra del hueco por obstáculos externos (Fgl;sh,obst) y la radiación solar global
+en el plano del vidrio sin obstáculos (KW·h/m2) se obtienen a través de la simulación de HULC. Las
+ganancias son parámetros que conviene calcular mediante simulación térmica. Los valores de la
+radiación solar global en el plano del vidrio sin obstáculos se han obtenido del archivo
+pág.62
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+ET- qsol;jul
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+KyGananciasSolares.txt que genera HULC en el cálculo. Como ya se ha dicho, estos valores se pueden
+obtener también de las tablas 20 y 21 del apartado “2.3 Irradiación solar media acumulada en el mes de
+julio” del DA DB-HE/1 Cálculo de parámetros característicos de la envolvente.
+A continuación, se incluye la tabla de comprobación del cumplimiento de este requisito:
+NO HABITABLE
+
+CONTROL SOLAR DE LA ENVOLVENTE qsol;jul
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+NO HABITABLE
+
+Acondicionados:P.3 Salvo garaje, P.4. completa y P.5 completa
+N.H.:Sótano, cámara sanitaria, garaje y bajocubierta
+Envolvente térmica según esquema
+
+ACONDICIONADO
+
+NO HABITABLE
+
+Có digo
+del
+elemento
+
+Descri p ci ón
+
+ORI E N T A C I ÓN
+
+Sup.
+HUECO
+( m 2)
+
+Frac c ión
+de marc o
+e n tanto
+por uno
+
+S upe rfic i
+e vidrio
+
+g gl ; wi
+
+F gl ; sh ,o bst
+
+g gl ; sh ,wi
+
+R adiació n
+Ganancia
+acumulada TOTAL de
+plano v idr io
+J ulio en
+H s ol ;j ul
+cada hueco
+( K Wh)
+( K Wh/ m 2 )
+
+PLANTA SÓTANO P01
+La planta 01 correspondiente al nivel de sótano no incluye ningún hueco por lo que no se detalla en la tabla.
+TOTALES PLANTA 01
+
+0,00
+
+PLANTA CÁMARA SANITARIA. P02
+La planta 02 correspondiente al nivel de cámara sanitaria no pertenece al interior de la envolvente térmica.
+TOTALES PLANTA 02
+PLANTA BAJA. P03
+H3-N1
+VENTANA TIPO NORTE
+H3-N3 PUERTA ACCESO NORTE
+H3-O3
+VENTANA TIPO SUR
+H3-S3
+VENTANA TIPO SUR
+
+0,00
+
+NORTE
+NORTE
+OESTE
+SUR
+
+TOTALES PLANTA 03
+PLANTA PRIMERA. P04
+H4-N1
+VENTANA TIPO NORTE
+H4-N2
+VENTANA TIPO NORTE
+H4.S1
+VENTANA TIPO SUR
+H4.S2
+VENTANA TIPO SUR
+
+TOTALES PLANTA 05
+
+0,25
+1,00
+0,25
+0,25
+
+22,82
+
+NORTE
+NORTE
+SUR
+SUR
+
+TOTALES PLANTA 04
+PLANTA ÁTICO. P05
+H5.S1
+VENTANA TIPO SUR
+H5.E1
+VENTANA TIPO SUR (*)
+
+3,15
+2,33
+3,27
+14,07
+
+1,26
+5,33
+8,20
+3,15
+
+8,20
+2,88
+
+0,65
+0,75
+0,58
+0,58
+
+0,85
+0,77
+0,36
+0,88
+
+0,08
+1
+0,08
+0,08
+
+62,07
+62,07
+131,11
+93,34
+
+15,37
+
+0,25
+0,25
+0,25
+0,25
+
+17,94
+
+SUR
+ESTE
+
+2,36
+0,00
+2,45
+10,55
+
+0,95
+3,99
+6,15
+2,36
+
+88,57
+
+0,58
+0,58
+
+0,83
+0,88
+
+0,08
+0,08
+
+62,07
+62,07
+
+0,58
+0,58
+
+0,55
+0,29
+
+0,08
+0,08
+
+93,34
+93,34
+
+13,45
+
+0,25
+0,25
+
+11,08
+
+6,15
+2,16
+
+9,97
+0,00
+9,26
+69,34
+
+3,89
+17,45
+25,26
+5,12
+51,72
+
+0,58
+0,58
+
+0,53
+0,71
+
+0,08
+0,08
+
+93,34
+
+121,23
+
+8,31
+
+24,34
+14,88
+39,22
+
+PLANTA BAJOCUBIERTA. P06
+La planta 02 correspondiente al nivel bajocubierta no incluye ningún hueco por lo que no se detalla en la tabla.
+TOTALES PLANTA 06
+TOTALES EDIFICIO
+
+0,00
+51,84
+
+DATOS PREVIOS
+ÁREA ÚTIL DEL EDIFICIO (m 2 )
+
+37,13
+
+179,52
+C O M P R O B A C I Ó N
+
+q sol;jul
+
+143,49
+
+CÁLCULO
+
+q so l ; j u l q s o l; jul, lim
+EDIFICIO
+CTE
+
+Cump l i mi ent o
+Val ores l i mi te
+
+qsol= Qsol;jul / Autil = Σk Fsh;obst x ggl;sh;wi x (1-FF) x Aw;p x Hsol;jul) /Autil
+q sol=179,52/143,49= 1,2510
+
+1,25
+
+2,00
+
+CUMPLE
+
+(*)
+
+Este hueco se trata de una puerta pero a efectos de cálculo se ha considerado con la permeabilidad de una ventana por suponerse marco estanco
+en todo el perímetro.
+
+pág.63
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+VIVIENDA UNIFAMILIAR
+
+ET-Q100
+
+ADOSADA
+
+REFERIDOS AL CONTROL DE LA PERMEABILIDAD AL AIRE DE LA ET
+Las soluciones constructivas y condiciones de ejecución de los elementos de la envolvente térmica
+asegurarán una adecuada estanqueidad al paso del aire. Particularmente, se cuidarán los encuentros
+entre huecos y opacos, puntos de paso a través de la envolvente térmica y puertas de paso a espacios
+no acondicionados.
+Hemos de garantizar, por tanto, la estanqueidad suficiente al paso del aire en la envolvente térmica del
+edificio, tanto en la parte hueca de sus cerramientos como en la parte opaca. Para ello se han de cumplir
+los siguientes requisitos.
+1. PERMEABILIDAD AL AIRE (Q100) DE LOS HUECOS QUE PERTENECEN A LA ET
+Tabla 3.1.3.a-HE1 Valor límite de permeabilidad al aire de huecos de la envolvente térmica, Q100,lim [m3 /h·m2]
+
+DATOS PREVIOS
+* Zona climát ica d e invierno
+
+C
+
+* Permeab ilid ad d e los huecos med id a con sob rep resión d e 100 Pa Q 1 0 0
+
+La permeabilidad de todos los huecos pertenecientes a la envolvente térmica no superará los valores
+límite de la siguiente tabla:
+
+Tabla 3.1.3.a-HE1 Valor límite de
+permeabilidad al aire de huecos
+de la envolvente térmica,
+Q100,lim [m3/h·m2]
+
+Permeabilidad al aire de
+huecos (Q 100, lim )*
+
+Zona climát ica d e invierno
+α
+
+A
+
+B
+
+C
+
+D
+
+E
+
+≤ 27
+
+≤ 27
+
+≤ 27
+
+≤9
+
+≤9
+
+≤9
+
+* La permeabilidad indicada es la medida con una sobrepresión de 100Pa, Q100.
+Los valores de permeabilidad establecidos se corresponden con los que definen la clase 2 (≤27 m 3/h·m2) y clase 3 (≤9m3/h·m2)
+de la UNE-EN 12207:2017. La permeabilidad del hueco se obtendrá teniendo en cuenta, en su caso, el cajón de persiana.
+
+Sobre la tabla se sombrea la columna correspondiente a la zona climática de invierno (“C”) en la que se
+sitúa el edificio. Los valores considerados en nuestro caso de estudio se corresponden en todos los
+huecos con una clase de estanqueidad 3 y límite de permeabilidad según ensayo normalizado de 9
+m3/h·m2.
+En consecuencia, el cuadro de justificación del cumplimiento será el siguiente:
+
+DESCRIPCIÓN HUECOS
+
+Clase de la carpintería
+
+Per meabilidad al air e de
+hueco s (Q 100 ) [m 3 / h·m 2 ]
+
+Valo r límite
+(Q 100, l i m )
+[m3/ h·m2]
+
+C UM P LIM IE N T O
+
+Ventanas tipo NORTE
+
+Clase 3
+
+9
+
+≤9
+
+CUMPLE
+
+Ventanas tipo SUR y RESTO
+
+Clase 3
+
+9
+
+≤9
+
+CUMPLE
+
+pág.64
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+ET-n50
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+2. RELACIÓN DEL CAMBIO DE AIRE CON UNA PRESION DIFERENCIAL DE 50 Pa ( n 50 )
+Tabla 3.1.3.b-HE1 Valor límite de la relación del cambio de aire con una presión de 50 Pa
+
+DATOS PREVIOS
+* Compacidad del edificio según la configuración elegida (V/A) (m 3 /m 2 )
+
+n 50
+
+* Cálculo de la permeabilidad al aire del edificio
+
+Relación del cambio de aire: relación entre el flujo de aire a través de la envolvente térmica del edificio y
+su volumen de “aire interior” o volumen “útil” tal y como se ha definido en el apartado INTRO de esta
+sección del cumplimiento de la HE 1. En el ámbito de este DB HE se emplea el valor obtenido para una
+presión diferencial a través de la envolvente de 50 Pa, [n50].
+En edificios nuevos de uso residencial privado, con una superficie útil total superior a 120 m2, la relación
+del cambio de aire con una presión diferencial de 50 Pa [n50], no superará el valor límite de la tabla
+3.1.3.b HE1.
+Compacidad V/A [m3/m2]
+
+n50
+
+V/A ≤ 2
+
+6,00
+
+V/A ≥ 4
+
+3,00
+
+Los valores límite de las compacidades intermedias
+(2<V/A>4) se obtienen por interpolación
+
+Los valores límite que debemos cumplir dependen de la compacidad del edificio. Dicha compacidad ya
+se ha calculado para nuestro edificio en los apartados anteriores y es de 1,56. Al ser menor que 2, el
+valor límite que se ha de cumplir del [n50] será 6.
+En cuanto a la superficie útil del edificio como requisito para la aplicación o no de este indicador, en
+nuestro caso es de 143,52 m2 > 120 m2 y por tanto, es de aplicación su cumplimiento.
+Para justificar dicho cumplimiento en el “Anejo H Determinación de la permeabilidad al aire del edificio”
+se proponen dos vías posibles:
+1. Determinación mediante ensayo. El valor de la relación del cambio de aire a 50 Pa, [n 50], puede
+obtenerse mediante ensayo realizado según el método B de la norma UNE-EN 13829:2002
+Determinación de la estanqueidad al aire en edificios (de próxima revisión). Método de
+presurización por medio de ventilador.
+2. Determinación mediante valores de referencia. El valor de la relación del cambio de aire a 50
+Pa, [n50], puede calcularse, a partir de la siguiente expresión:
+n50 = 0,629 · (Co · Ao + Ch · Ah) / V
+donde:
+n50 es el valor de la relación del cambio de aire a 50Pa;
+V es el volumen interno (de “aire interior” en las tablas) de la envolvente térmica, en [m3];
+Co coeficiente de caudal de aire de la parte opaca de la E.T., expresada a 100 Pa, en [m3/h·m2], obtenido de la tabla a-Anejo H.
+(16 m3/h·m2 para edificios nuevos o existentes con permeabilidad mejorada y 29 m3/h·m2 para edificios existentes)
+Ao (*) es la superficie de la parte opaca de la envolvente térmica, en [m2];
+Ch es la permeabilidad de los huecos de la envolvente térmica, expresada a 100 Pa, en [m3 /h·m2], según su valor de ensayo;
+Ah es la superficie de los huecos de la envolvente térmica, en [m²].
+(*) El área de opacos está referida a la superficie de intercambio de aire con el exterior, por lo que, a diferencia del cálculo de K,
+tampoco se incluyen aquí las superficies en contacto con el terreno, y solamente se consideran las que están en contacto con el
+aire exterior.
+pág.65
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+VIVIENDA UNIFAMILIAR
+
+ET-n50
+
+ADOSADA
+
+En la siguiente tabla, se recogen todos los parámetros necesarios para el cálculo de este indicador.
+RELACIÓN DEL CAMBIO DE AIRE A 50 Pa [n 50 ]
+
+NO HABITABLE
+
+NO HABITABLE
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+NO HABITABLE
+
+ACONDICIONADO
+
+En rojo se resaltan los
+contactos de la envolvente
+térmica con el AIRE EXTERIOR
+
+Acondicionados:P.3 Salvo garaje, P.4. completa y P.5 completa
+N.H.:Sótano, cámara sanitaria, garaje y bajocubierta
+Envolvente térmica según esquema
+
+ACONDICIONADO
+
+NO HABITABLE
+
+NO HABITABLE
+
+NO HABITABLE
+
+CÁLCULO DE LA PERM EABILIDAD DE LA ENVOLVENTE TÉRM ICA
+Có digo del
+elemento
+
+ACONDICIONADO
+
+Tipo de
+Co ntacto
+
+PLANTA SÓTANO P01
+M1.N1
+TERRENO
+
+¿  a ET?
+D e ta lle
+
+ ET=1
+ ET=0
+
+Co ntacto
+EXTER IOR
+
+Sup. Par te
+2
+
+SI=1
+N0=0
+
+OPACA ( m )
+
+Sup.
+VENTAN
+2
+
+Sup.
+PUER TA
+2
+
+A (m )
+
+(m )
+
+CÁLCULO DEL VOLUM EN DE AIRE INTERIOR
+Per meab
+.
+Per meab
+UNITAR I . TOTAL
+A
+m 3/ h
+3
+2
+m / h·m
+
+ESP A C I
+O
+
+P01 E01
+M. SÓTANO
+
+1
+
+0
+
+-
+
+-
+
+-
+
+-
+
+-
+
+M1.N2
+
+TERRENO
+
+M. SÓTANO
+
+1
+
+0
+
+-
+
+-
+
+-
+
+-
+
+-
+
+M1.N3
+
+TERRENO
+
+M. SÓTANO
+
+1
+
+0
+
+-
+
+-
+
+-
+
+-
+
+-
+
+M1.N4
+
+TERRENO
+
+M. SÓTANO
+
+1
+
+0
+
+-
+
+-
+
+-
+
+-
+
+-
+
+S1.1
+F1-3.1
+F1-3.2
+
+TERRENO
+EXTERIOR
+NH
+
+SUELO
+TECHO
+TECHO
+
+1
+1
+1
+
+0
+1
+0
+
+10,06
+-
+
+-
+
+-
+
+16
+-
+
+160,96
+-
+
+10,06
+
+0,00
+
+0,00
+
+TOTALES PLANTA 01
+
+-
+
+TIPO DE
+ESPACIO
+
+NH
+
+¿ a E T ?
+
+Sup.
+Planta
+
+ ET=1
+dentr o ET
+ ET=0
+2
+(m )
+1
+
+160,96
+
+26,07
+
+Vo lumen
+"air e
+inter io r "
+
+Altur a
+libr e
+planta
+( m)
+
+ϵ ET ( m 3 )
+
+2,485
+
+64,784
+
+26,07
+
+64,78
+
+PLANTA CÁMARA SANITARIA. P02
+La planta 02 correspondiente al nivel de cámara sanitaria, no se incluye en ninguna de las opciones dentro de la envolvente
+térmica por lo que no se detallan en la tabla las características de sus cerramientos.
+TOTALES PLANTA 02
+
+0,00
+
+PLANTA BAJA. P03
+M3.N1
+EXTERIOR M, FACHADA
+H3-N1
+EXTERIOR
+VENTANA
+
+0,00
+
+1
+
+1
+1
+
+8,22
+
+3,15
+
+M3.N2
+
+EXTERIOR M, FACHADA
+
+1
+
+1
+
+3,14
+
+-
+
+M3.N3
+H3-N3
+
+EXTERIOR M, FACHADA
+EXTERIOR
+PUERTA
+
+1
+
+1
+1
+
+1,06
+
+-
+
+0,00
+
+0,00
+
+16
+9,00
+
+2,33
+
+16,00
+
+50,24
+
+16
+60,00
+
+16,96
+139,80
+
+NH
+
+MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+M3.N5
+
+NH
+
+MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+M3.O1
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+M3.O2
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+M3.S1
+
+EXTERIOR M, FACHADA
+
+1
+
+1
+
+10,36
+
+-
+
+16,00
+
+165,76
+
+M3.O3
+H3-O3
+
+EXTERIOR M, FACHADA
+EXTERIOR
+VENTANA
+
+1
+
+1
+1
+
+6,30
+
+3,27
+
+16
+9
+
+100,80
+29,43
+
+M3.S3
+H3-S3
+
+EXTERIOR M, FACHADA
+EXTERIOR
+VENTANA
+
+1
+
+1
+1
+
+2,42
+
+14,07
+
+16
+9
+
+38,72
+126,63
+
+M3.E1
+
+EXTERIOR M, FACHADA
+
+1
+
+1
+
+9,58
+
+-
+
+16
+
+153,23
+
+M3.E2
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+M3.E3
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+M3.E4
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+1
+
+0
+
+-
+
+-
+
+NH
+
+SUELO
+
+TOTALES PLANTA 03
+
+41,08
+
+PLANTA PRIMERA. P04
+M4.N1
+EXTERIOR M, FACHADA
+H4-N1
+EXTERIOR
+VENTANA
+
+20,49
+
+2,33
+
+1
+
+1
+
+5,90
+-
+
+1,26
+
+16
+9,00
+
+94,45
+11,34
+205,59
+47,93
+
+EXTERIOR M, FACHADA
+EXTERIOR
+VENTANA
+
+1
+
+1
+
+12,85
+-
+
+5,33
+
+16
+9,00
+
+M4.O1
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+-
+
+M4.S1
+H4.S1
+H4.S2
+
+EXTERIOR M, FACHADA
+EXTERIOR
+VENTANA
+EXTERIOR
+VENTANA
+
+1
+
+1
+
+14,02
+-
+
+8,20
+3,15
+
+16
+9,00
+9,00
+
+224,28
+73,80
+28,35
+
+M4.E1
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+-
+
+M4.E2
+
+OTRO ESPAC. MEDIANERÍA
+
+1
+
+0
+
+-
+
+-
+
+-
+
+-
+
+EXTERIOR
+
+1
+1
+1
+1
+
+1
+0
+1
+1
+
+1,65
+10,06
+41,64
+
+-
+
+16
+16
+16
+
+26,40
+160,96
+666,24
+
+86,12
+
+17,94
+
+OTRO ESPAC
+
+EXTERIOR
+EXTERIOR
+
+SUELO
+SUELO
+SUELO
+CUBIERTA
+
+TOTALES PLANTA 04
+PLANTA ÁTICO. P05
+M5.N1
+EXTERIOR M, FACHADA
+
+0,00
+
+1
+
+1
+
+9,438
+
+-
+
+16
+
+151,01
+
+EXTERIOR M, FACHADA
+
+1
+
+1
+
+22,59
+
+-
+
+16
+
+361,50
+
+M5.S1
+H5.S1
+
+EXTERIOR M, FACHADA
+EXTERIOR
+VENTANA
+
+1
+
+1
+
+1,24
+-
+
+8,2
+
+16
+9,00
+
+19,81
+73,80
+
+M5.E1
+H5.E1
+
+EXTERIOR M, FACHADA
+EXTERIOR VENTANA (*)
+
+1
+
+1
+
+19,71
+-
+
+2,882
+
+16
+9,00
+
+315,39
+25,94
+
+1
+
+0
+
+-
+
+-
+
+-
+
+52,98
+
+11,08
+
+0,00
+
+947,45
+
+190,24
+
+49,51
+
+2,33
+
+3629,18
+
+NH
+
+TECHO
+
+TOTALES PLANTA 05
+
+TOTALES EDIFICIO
+DATOS PREVIOS
+Tabla a-Anejo H. Valores de referencia del coeficiente
+de caudal de aire para la parte opaca de la
+envolvente térmica, Co [m 3 /h·m2 ] (100 Pa
+Ti p o d e ed i fi ci o
+Nuevo o existente con permeabilidad
+mejorada
+Existente
+
+n 5 0 = 0,629 · (Co · Ao + Ch · Ah) / V
+
+C0
+
+1
+
+P05 E01 ACOND
+
+1
+
+COMPACIDAD
+
+0,00
+2,68
+
+49,72
+
+1539,33
+
+M5.O1
+
+C5-6
+
+P04 E01 ACOND
+
+49,72
+
+133,247
+
+981,44
+
+M4.N2
+H4-N2
+
+F3-4.1
+F3-4.2
+F3-4.3
+C4-5
+
+1
+
+131,52
+28,35
+
+M3.N4
+
+F3.2
+
+0,00
+P03 E02 ACOND
+
+67,70
+
+133,25
+2,405
+
+67,70
+26,07
+
+162,83
+
+162,83
+2,505
+
+65,305
+
+-
+
+1,55
+
+26,07
+
+65,31
+
+169,56
+
+426,16
+
+C O M P R O B A C I Ó N
+
+n50
+
+Permeabilidad al aire prevista en huecos. (m 3 /h·m2). 100 Pa
+Cl ase d e carp i nt erí a
+
+Ch
+
+16
+
+CLASE 3
+
+9
+
+29
+
+PUERTAS
+
+60
+
+n 5 0 = 0,629 · (16 · 190,24 + 9 · 49,51+60·2,33) / 426,16 = 5,3566
+
+n 50
+EDIFICIO
+
+5,4
+
+n 50
+límite
+
+6,00
+
+Cump l i mi ent o
+Va l ores l i mi te
+
+CUMPLE
+
+(*)
+
+Este hueco es en realidad la puerta de acceso a la azotea. A efectos de cálculo se ha considerado con la permeabilidad de una ventana (se le supone marco estanco en todo el perímetro).
+
+pág.66
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+ET-n50
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Consideraciones respecto al cumplimiento de esta configuración
+Como se puede ver, cumplimos el valor límite, aunque no con mucho margen. Conviene hacer aquí
+algunas reflexiones:
+-
+
+En primer lugar, hay que indicar que la incorporación del sótano dentro de la envolvente térmica
+no tiene ningún efecto sobre el valor final calculado, pues todos sus cerramientos están en
+contacto principalmente con el terreno y una pequeña parte con la cámara sanitaria contigua.
+Recordemos una vez más, que solo se consideran en el cálculo los que están en contacto con
+el aire exterior. Esa medida en cambio sí ha tenido un efecto beneficioso sobre el valor de [K]
+pues aporta una gran superficie de opacos (baja transmitancia) y ningún hueco (alta
+transmitancia).
+
+-
+
+Por el contrario, si decidiéramos por razones constructivas, por ejemplo, incorporar el espacio
+técnico del bajocubierta dentro de la envolvente térmica, sí que tendría trascendencia. De
+hecho, haciendo la comprobación en el modelo de HULC, la superficie de cerramientos opacos
+que incorporaríamos en ese caso implicaría que el valor calculado del n50 pasaría a ser de 6,25
+y dejaríamos de cumplir este requisito. Además, empeoramos el valor de K (ya no se cumpliría
+el valor límite) dado que estos cerramientos no estaban previstos como elementos de la
+envolvente térmica por lo que sus transmitancias habrían de ser mejoradas.
+
+Como ya se explicaba en la primera entrega de esta guía Ejemplos (I), los valores de permeabilidad
+exigibles a los huecos en las zonas climáticas de invierno C, D y E hacen que de cara al cumplimiento
+de este indicador y en estos climas, se comporten mejor los huecos que los cerramientos opacos a los
+que con el método de cálculo propuesto, se les supone una permeabilidad mayor. De hecho, si
+mejoramos la clase de carpinterías proyectadas de inicio (clase 3 y permeabilidad de 9 m3/h·m2) e
+incorporamos otras de clase 4, cuyo límite de permeabilidad es de 3 m3/h·m2, los resultados mejoran
+notablemente. Esta opción se recoge en la siguiente imagen, una vez hecho el cálculo del modelo en
+HULC:
+
+pág.67
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+ET-n50
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+En estas nuevas condiciones, el valor del n50 desciende a 4,96 con un mayor margen sobre el valor límite
+lo que haría posible incluso, el incorporar el espacio bajocubierta dentro de la envolvente térmica y
+mantener el cumplimiento de este indicador. Los datos obtenidos con la simulación en HULC son los
+siguientes:
+
+Como ya se ha visto, seguiría siendo necesario en todo caso, mejorar las transmitancias de los
+componentes de la envolvente térmica de este espacio bajocubierta para obtener el cumplimiento del
+coeficiente de transmisión térmica global [K].
+pág.68
+
+F1
+
+CUMPLIMIENTO
+
+HE1
+
+VIVIENDA UNIFAMILIAR
+
+DESC
+
+ADOSADA
+
+DESC
+3. Limitación de descompensaciones
+El edificio que estamos estudiando, forma parte de un conjunto de viviendas adosadas en hilera
+produciéndose, por tanto, contactos laterales entre ellas. Respecto a los cerramientos que separan unas
+viviendas de otras, en principio, se trata de particiones verticales que separan “unidad de uso”8, en este
+caso del mismo uso. No obstante, como estos cerramientos forman parte de la envolvente térmica que
+hemos definido para el edificio, los valores límite que han de cumplir son los de la Tabla 3.1.1.a - HE1
+Valores límite de transmitancia térmica, Ulim [W/m²K]. Esta comprobación ya se ha realizado en el
+apartado correspondiente.
+Si en la definición de la envolvente térmica se hubiera incluido más de una vivienda, las particiones que
+las dividen estarían sujetas al cumplimiento de valores límite de sus transmitancias que se recogen en
+la tabla 3.2-HE1, en función del uso asignado a las distintas unidades de uso que delimiten. Se
+reproduce a continuación dicha tabla sombreando en ella los valores límite que se tendrían que aplicar
+en la zona climática “C” de invierno.
+
+TIPO DE CERRAMIENTO
+
+α
+
+A
+
+B
+
+C
+
+D
+
+E
+
+Entre unidades del mismo uso
+
+Particiones horizontales
+Particiones verticales
+
+1,90
+1,40
+
+1,80
+1,40
+
+1,55
+1,20
+
+1,35
+1,20
+
+1,20
+1,20
+
+1,00
+1,00
+
+Entre unidades de distinto uso
+Entre unidades de uso y zonas comunes
+
+Particiones horizontales y
+verticales
+
+1,35
+
+1,25
+
+1,10
+
+0,95
+
+0,85
+
+0,70
+
+Tabla 3.2 - HE1 Transmitancia térmica límite de particiones interiores, Ulim [W/m²K]
+
+8
+
+Definición incluida en el Anejo A del CTE DB HE. Unidad de uso: edificio o parte de él destinada a un uso específico, en la que
+sus usuarios están vinculados entre sí bien por pertenecer a una misma unidad familiar, empresa, corporación; o bien por formar
+parte de
+un grupo o colectivo que realiza la misma actividad. En el ámbito de este Documento Básico, se consideran unidades de uso
+diferentes, entre otras, las siguientes:
+a) en edificios de vivienda, cada una de las viviendas.
+b) en edificios de otros usos, cada uno de los establecimientos o locales comerciales independientes.
+pág.69
+
+F1
+
+CUMPLIMIENTO
+
+COND
+ENSA
+
+HE1
+
+CONDENSA
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+4. Limitación de condensaciones de la envolvente térmica
+
+A este respecto dentro de la Sección HE 1. Condiciones para el control de la demanda energética, en el
+punto 3.3. Limitación de condensaciones en la envolvente térmica, se establece lo siguiente:
+En el caso de que se produzcan condensaciones intersticiales en la envolvente térmica del
+edificio, estas serán tales que no produzcan una merma significativa en sus prestaciones térmicas
+o supongan un riesgo de degradación o pérdida de su vida útil. En ningún caso, la máxima
+condensación acumulada en cada periodo anual podrá superar la cantidad de evaporación
+posible en el mismo periodo.
+Por tanto, la comprobación a la que se refiere este apartado ha de realizarse exclusivamente para las
+condensaciones intersticiales.
+Esta comprobación no es necesario realizarla para los cerramientos en contacto con el terreno ni para
+aquellos que incorporen barrera de vapor. En el caso de incorporarse dicha barrera de vapor, es
+conveniente recordar que ha de situarse siempre en la cara caliente de dicho cerramiento. En particiones
+interiores en contacto con espacios no habitables en los que se prevea gran producción de humedad,
+se debe colocar la barrera contra el vapor en el lado del cerramiento del espacio no habitable.
+El documento de apoyo DA DB-HE / 2 “Comprobación de limitación de condensaciones superficiales e
+intersticiales en los cerramientos” recoge procedimientos para el cálculo del riesgo de condensaciones
+(tanto superficiales como intersticiales) y puede emplearse para el cálculo y justificación del
+cumplimiento de esta exigencia.
+Por otra parte, en la Sección 3 de AYUDAS del volumen (I) de esta guía, se desarrolla la comprobación
+completa para el MURO EXTERIOR del edificio de ese ejemplo.
+
+pág.70
+
+F1
+
+CUMPLIMIENTO
+
+HE2
+
+RITE
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+HE2
+HE2. CONDICIONES DE LAS INSTALACIONES TÉRMICAS
+Esta exigencia se desarrolla en el vigente Reglamento de Instalaciones Térmicas en los Edificios (RITE)
+y a partir del próximo 1 de julio de 2021 entrará en vigor el Real Decreto 178/2021, de 23 de marzo, por
+el que se modifica el Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de
+Instalaciones Térmicas en los Edificios.
+Respecto al documento en vigor, conviene recordar que la aplicación del RITE afecta a las características
+y condiciones de funcionamiento de las instalaciones térmicas las instalaciones fijas de climatización
+(calefacción, refrigeración y ventilación) y de producción de agua caliente sanitaria, destinadas a atender
+la demanda de bienestar térmico e higiene de las personas.
+En nuestro edificio afecta a los siguientes sistemas y equipos de la vivienda:
+- Sistema de calefacción y producción de ACS
+- Sistema de refrigeración
+- Sistema de ventilación
+Respecto a las exigencias técnicas relativas a la eficiencia energética y que se recogen en el Articulo 12.
+Eficiencia energética, se dice:
+“Las instalaciones térmicas deben diseñarse y calcularse, ejecutarse, mantenerse y utilizarse de tal forma que se
+reduzca el consumo de energía convencional de las instalaciones térmicas y, como consecuencia, las emisiones
+de gases de efecto invernadero y otros contaminantes atmosféricos, mediante la utilización de sistemas
+eficientes energéticamente, de sistemas que permitan la recuperación de energía y la utilización de las energías
+renovables y de las energías residuales”
+
+En concreto, se requiere el cumplimiento de los siguientes requisitos:
+1. Rendimiento energético: los equipos de generación de calor y frío, así como los destinados al
+movimiento y transporte de fluidos, se seleccionarán en orden a conseguir que sus prestaciones,
+en cualquier condición de funcionamiento, estén lo más cercanas posible a su régimen de
+rendimiento máximo.
+2. Distribución de calor y frío: los equipos y las conducciones de las instalaciones térmicas deben
+quedar aislados térmicamente, para conseguir que los fluidos portadores lleguen a las unidades
+terminales con temperaturas próximas a las de salida de los equipos de generación.
+3. Regulación y control: las instalaciones estarán dotadas de los sistemas de regulación y control
+necesarios para que se puedan mantener las condiciones de diseño previstas en los locales
+climatizados, ajustando, al mismo tiempo, los consumos de energía a las variaciones de la
+demanda térmica, así como interrumpir el servicio.
+4. Contabilización de consumos: las instalaciones térmicas deben estar equipadas con sistemas de
+contabilización para que el usuario conozca su consumo de energía, y para permitir el reparto de
+
+pág.71
+
+F1
+
+CUMPLIMIENTO
+
+HE2
+
+RITE
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+los gastos de explotación en función del consumo, entre distintos usuarios, cuando la instalación
+satisfaga la demanda de múltiples consumidores.
+5. Recuperación de energía: las instalaciones térmicas incorporarán subsistemas que permitan el
+ahorro, la recuperación de energía y el aprovechamiento de energías residuales.
+6. Utilización de energías renovables: las instalaciones térmicas aprovecharán las energías
+renovables disponibles, con el objetivo de cubrir con estas energías una parte de las necesidades
+del edificio.
+Para justificar que una instalación cumple dichas exigencias, podrá optarse por una de las siguientes
+opciones:
+a) adoptar soluciones basadas en las Instrucciones técnicas, cuya correcta aplicación en el diseño
+y dimensionado, ejecución, mantenimiento y utilización de la instalación, es suficiente para
+acreditar el cumplimiento de las exigencias; o
+b) adoptar soluciones alternativas, entendidas como aquellas que se apartan parcial o totalmente
+de las Instrucciones técnicas. El proyectista o el director de la instalación, bajo su
+responsabilidad y previa conformidad de la propiedad, pueden adoptar soluciones alternativas,
+siempre que justifiquen documentalmente que la instalación diseñada satisface las exigencias
+del RITE porque sus prestaciones son, al menos, equivalentes a las que se obtendrían por la
+aplicación de las soluciones basadas en las Instrucciones técnicas.
+Dentro de la PARTE II del documento referido a las Instrucciones Técnicas, la IT 1.2 Exigencia de
+eficiencia energética, recoge los requisitos a cumplir en los siguientes apartados:
+-
+
+Justificación del cumplimiento de la exigencia de eficiencia energética en la generación de calor
+y frío (apartado 1.2.4.1)
+
+-
+
+Justificación del cumplimiento de la exigencia de eficiencia energética en las redes de tuberías
+y conductos de calor y frío (apartado 1.2.4.2)
+
+-
+
+Justificación del cumplimiento de la exigencia eficiencia energética de control de las
+instalaciones térmicas en el apartado 1.2.4.3.
+
+-
+
+Justificación del cumplimiento de la exigencia de contabilización de consumos en el apartado
+1. 2.4.4.
+
+-
+
+Justificación del cumplimiento de la exigencia de recuperación de energía en el apartado 1.2.4.5.
+
+-
+
+Justificación del cumplimiento de la exigencia de aprovechamiento de energías renovables en
+el apartado 1.2.4.6.
+
+-
+
+Justificación del cumplimiento de la exigencia de limitación de la utilización de energía
+convencional en el apartado 1.2.4.7.
+
+pág.72
+
+F1
+
+CUMPLIMIENTO
+
+HE3
+
+NO APLICA
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+HE3
+HE3.CONDICIONES DE LAS INSTALACIONES DE ILUMINACIÓN
+
+NO ES DE APLICACIÓN AL USO RESIDENCIAL PRIVADO
+
+Por tratarse nuestro ejemplo de un edificio nuevo y de uso residencial privado, existen diferentes
+exclusiones que afectan a la incorporación o exigencia sobre determinados sistemas. En concreto y en
+lo que afecta a este apartado, en el “DB HE3 Condiciones de las instalaciones de iluminación”, se
+excluyen del ámbito de aplicación las instalaciones interiores de viviendas. Por lo tanto, para nuestro
+edificio, esta instalación no se describe en este apartado por no estar sujeta a ningún requisito dentro
+de la sección HE 3 del Documento Básico de Ahorro de Energía.
+Aunque obvio, convendría reseñar en este punto, que la “no exigencia” de este apartado, no significa
+que no sea muy recomendable el control sobre el rendimiento y consumo de los equipos que componen
+esta instalación. Si bien el consumo en iluminación tiene mayor peso en edificios de uso terciario, cada
+vez es más importante su incidencia también en el residencial privado.
+Una buena concepción de la instalación de iluminación, aprovechando en la mayor medida posible la
+iluminación natural y disponiendo como fuentes de iluminación artificial las de mejor rendimiento,
+contribuirá a un menor gasto energético general en el edificio, también en el uso residencial privado.
+
+pág.73
+
+F1
+
+CUMPLIMIENTO
+
+HE4
+1.
+2.
+3.
+
+HE4
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+HE4.CONTRIBUCIÓN MÍNIMA DE ENERGÍA RENOVABLE PARA CUBRIR LA
+DEMANDA DE AGUA CALIENTE SANITARIA
+
+Preparación de datos previos a la comprobación
+Contribución renovable mínima para ACS y/o climatización de piscina
+Sistemas de medida de energía suministrada
+
+DAT
+1. Preparación de datos previos a la comprobación
+En el ámbito de aplicación definido en el documento básico exigencia “HE 4 Contribución mínima de
+energía renovable para cubrir la demanda de agua caliente sanitaria” se dice lo siguiente:
+1 Ámbito de aplicación
+1 Las condiciones establecidas en este apartado son de aplicación a:
+a) edificios de nueva construcción con una demanda de agua caliente sanitaria (ACS)
+superior a 100 l/d, calculada de acuerdo al Anejo F.
+b) …………………………..
+
+En lo que se refiere a nuestro caso, calculada la demanda según el procedimiento establecido en Anejo
+F Demanda de referencia de ACS, tenemos lo siguiente:
+DEMANDA DE ACS
+Prog rama d e la viviend a
+Dormitorios
+Ocupantes
+
+3
+
+Necesidades de ACS
+
+5
+28 l/p·día
+
+Demanda diaria de ACS
+
+140 l/día
+
+(*)
+
+(*) En el anejo F (Tabla a) del DB HE, se fijan las ocupaciones mínimas en función del número de
+dormitorios. En este caso para 3 dormitorios la ocupación mínima sería de 4 ocupantes. No obstante,
+en nuestro ejemplo se ha optado por considerar una ocupación superior, en concreto, de 5 personas.
+Respecto a la contribución mínima se dice lo siguiente:
+3.1 Contribución renovable mínima para ACS y/o climatización de piscina
+1 La contribución mínima de energía procedente de fuentes renovables cubrirá al menos el 70% de la
+demanda energética anual para ACS y para climatización de piscina, obtenida a partir de los valores
+mensuales, e incluyendo las pérdidas térmicas por distribución, acumulación y recirculación. Esta
+contribución mínima podrá reducirse al 60% cuando la demanda de ACS sea inferior a 5000 l/d.
+Se considerará únicamente la aportación renovable de la energía con origen in situ o en las proximidades
+del edificio, o procedente de biomasa sólida.
+
+pág.74
+
+F1
+
+CUMPLIMIENTO
+
+HE4
+
+VIVIENDA UNIFAMILIAR
+
+DAT
+
+ADOSADA
+
+La contribución renovable en nuestro caso, al ser la demanda inferior a 5000 l/d, será como mínimo del
+60% de la demanda total. En este sentido, faltaría por incorporar a la demanda de este servicio las
+perdidas debidas a la acumulación, la distribución, y la recirculación si fuera exigible (cuando la longitud
+de la tubería de ida al punto de consumo más alejado sea ≥15 m). Para los cálculos realizados hemos
+estimado unas pérdidas de un 10% de la demanda inicial debidas a distribución y recirculación. Las
+pérdidas producidas en la acumulación las calcularemos posteriormente en función del volumen del
+depósito y sus características. En consecuencia, la demanda total de ACS será la siguiente:
+DEMANDA DE ACS
+Prog rama d e l a vi vi end a
+Dormitorios
+Ocupantes
+
+3
+
+Necesidades de ACS
+
+5
+28 l/p·día
+
+Demanda diaria de ACS
+
+140 l/día
+
+(*)
+
+Est i maci ón d e p erd i d as
+Estimación de perdidas
+debidas a distribución y
+recirculación (10%)
+
+14 l/día
+
+Tot al Demand a d e ACS
+
+154 l /d í a
+
+En el edificio ejemplo la fuente renovable elegida es la solar térmica, sus características se han descrito
+en la ficha del apartado dedicado a los sistemas del edificio y se reproduce a continuación:
+
+PRODUCCIÓN Y PREPARACIÓN DE ACS
+Sistema de producción convencional mediante
+
+DEMANDA DE ACS
+
+caldera compartida con el sistema de calefacción. La
+
+Prog rama d e l a vi vi end a
+
+contribución renovable mediante colectores solares
+
+Dormitorios
+
+planos y preparación final instantanea en la caldera.
+
+Ocupantes
+
+PRODUCCIÓN SISTEMA CONVENCIONAL
+
+3
+
+Necesidades de ACS
+
+5
+28 l/p·día
+
+Demanda diaria de ACS
+
+140 l/día
+
+(*)
+
+Características de la caldera
+Caldera individual de condensación modulante
+Potencia térmica: 25 KW
+Combustible empleado: gas natural
+Rendimiento a carga parcial: 109 %
+Prep arac i ón y d i st ri b uc i ón
+Tipo de preparación final:
+Tª de distribución
+
+Instantánea
+50 ºC
+
+Tª de utilización
+
+45 ºC
+
+SIST. DE APOYO MEDIANTE RENOVABLES
+Colector solar plano de las siguientes características:
+2
+Superfice instalada:
+1,3 m
+Angulo de inclinación
+
+15 º
+
+Est i mac i ón d e p erd i d as
+Estimación de perdidas
+debidas a distribución y
+recirculación (10%)
+
+14 l/día
+
+Tot al Demand a d e ACS
+
+154 l /d í a
+
+(*) En el anejo F (Tabla a) del DB HE, se fijan las ocupaciones mínimas
+en función del número de dormitorios. En este caso para 3
+dormitorios la ocupación mínima sería de 4 ocupantes. No obstante se
+ha optado en nuestro ejemplo por realizar los cálculos con una
+ocupación de 5 personas que se acerca más a la prevista en
+proyecto.
+
+donde:
+h rendimiento instantáneo del colector
+
+Ecuación de rendimiento del
+colector empleado, solo curva lineal
+y prescindiendo de la curva de
+segundo nivel (cuadrática)
+
+T m temperatura media del agua en el colector (ºC)
+T a temperatura de cálculo del aire, (ºC)
+IS intensidad radiación solar incidente en colector (W/m2)
+
+Acumulación en circuito solar:
+
+150 litros
+
+Área de la envolvente de depósito:
+
+1,82 m2
+
+U de la envolvente del depósito
+
+0,50 W/m "K
+
+C. perdidas en acumulador (U·A):
+
+0,91 W/ºC
+
+2
+
+pág.75
+
+F1
+
+CUMPLIMIENTO
+
+C.
+RENOV
+
+HE4
+
+C.RENOV
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+2. Contribución renovable mínima en demanda de ACS y/o climatización de
+piscina
+
+A partir de la demanda diaria de ACS (154 l/día) calculada en el apartado anterior, la temperatura del
+agua fría para la altitud de proyecto y la temperatura de preparación (45ºC en nuestro caso), se puede
+obtener la energía total anual necesaria para preparar el volumen de ACS que se demanda en el edificio.
+La altitud de proyecto (575 m) es muy similar a la altitud de referencia de Jaén capital (568 m) por lo que
+los valores mensuales de la temperatura del agua fría en la red pública se podrían tomar directamente
+de la Tabla a-Anejo G. Temperatura diaria media mensual de agua fría (ºC). Si la diferencia de altitud
+fuese sensiblemente diferente (puede ocurrir incluso dentro de un mismo término municipal) se debe
+aplicar el método de cálculo que figura en el Anejo G para localidades distintas de las de la “tabla a” y
+corregir la Tª del agua fría en función de la altitud real de proyecto. En nuestro caso, y pese a que esta
+diferencia es pequeña, mantenemos el cálculo de la temperatura personalizada para la altitud de
+proyecto con el fin de aplicar como ejemplo este método de cálculo.
+Hay que recordar que, tal y como establece el Anejo F, Demanda de referencia de ACS del DB-HE, la
+demanda de referencia en l/d debe incluir la energía que se pierde debida a la acumulación, al transporte
+y a la recirculación y que, en cualquier caso, debe compensar el sistema. Como ya se ha explicado, y a
+falta de datos más precisos para el cálculo de las pérdidas debidas a distribución y recirculación, se ha
+fijado un porcentaje para estimar su valor, en nuestro caso hemos aplicado un 10 %. Las perdidas
+producidas por la acumulación en el depósito las añadimos al final del proceso de forma independiente
+y de una manera algo más precisa.
+Para ello, y partiendo de las características del depósito que figuran en la ficha de la instalación,
+estimamos las pérdidas que se producen mes a mes en el acumulador de la siguiente forma:
+
+𝐐
+
+𝐀 𝐔 ∆𝐓· nº de horas del mes
+
+Donde,
+Q: Pérdidas mensuales de calor producidas en el depósito de acumulación (W·h)
+A: área de la envolvente del depósito (m2)
+U: coeficiente de transmisión térmica de la envolvente del acumulador (W/m2·K)
+∆T: salto térmico entre la temperatura interior del depósito y la temperatura ambiente exterior al mismo (ºC)
+
+Conocidos los dos primeros términos de la expresión, el área (m2) de la envolvente del depósito y su [U]
+en W/m2·K (ambos figuran en la ficha), obtenemos el coeficiente de perdidas (A·U), en nuestro caso:
+Coeficiente de perdidas= 1,82 m2·0,50 W/m2·K = 0,91 W/K
+Este dato, es el que nos solicita HULC en la ficha del depósito cuando lo incorporemos como equipo
+que forma parte de la instalación.
+Respecto al salto térmico, consideraremos una temperatura constante en el interior del depósito de 65º
+C y respecto a la temperatura exterior dependerá de la situación en la que se ubique. En nuestro caso,
+y partiendo del supuesto inicial, se prevé su colocación en el bajocubierta de uso técnico y que presenta
+al menos un frente prácticamente “abierto” por las grandes necesidades de ventilación. En
+consecuencia, hemos partido de la situación más desfavorable que es considerarlo expuesto a las
+condiciones exteriores. Tal y como figura en la tabla de la página siguiente, hemos tomado las
+pág.76
+
+F1
+
+CUMPLIMIENTO
+
+HE4
+
+C.RENOV
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+temperaturas medias mensuales en Jaén, y se han estimado las perdidas medias mensuales. Debemos
+recordar que HULC realiza un cálculo más preciso basado en una simulación horaria anual, en
+consecuencia, habrá pequeñas diferencias en los resultados obtenidos en el cálculo manual y el de
+referencia en HULC.
+Por último, tenemos que recordar que la demanda de referencia de ACS se establece para una
+temperatura de preparación de 60ºC y en nuestro caso, tenemos un sistema previsto con temperaturas
+de preparación de 45ºC, por lo que habrá que realizar una conversión de la demanda tal y como
+establece el artículo 3 del Anejo F para poder realizar correctamente los cálculos.
+El HE4 establece la contribución de renovables en demanda de ACS (no en energía final) y por ello,
+debemos calcular la demanda mensual de energía para ACS que se realiza directamente con la fórmula:
+
+DACS=VACS · Ca · ρa · (60º-Tagua red) [kW·h]
+Una vez obtenida la demanda total anual, se divide por la superficie útil de proyecto y obtenemos la
+demanda final necesaria en KW·h/m2·año. Como ayuda en el cálculo y diseño de esta instalación, se
+puede tomar como referencia la Guía IDAE 022: Guía Técnica de Energía Solar Térmica (edición v1.0.
+Madrid, abril de 2020). El resumen del cálculo de la demanda de ACS para nuestro ejemplo es el
+siguiente:
+m2
+
+SUPERF. DE PROYECTO:
+Vivienda unifamiliar adosada
+
+PREPARACIÓN DE ACS
+DEMANDA
+
+l/d ía
+
+Demanda [D] inicial preparando a 45ºC (*):
+Demanda media [D] equiv. preparando a 60ºC:
+
+154
+103,18
+
+B
+
+ALTITUD
+
+m
+
+Capital de provincia
+De proyecto en parcela
+
+Tª ag ua
+
+568
+575
+
+MES
+
+nº d ías
+
+Tª ambiente
+media mens.
+JAÉN Capital
+(ºC) (**)
+
+(ºC)
+
+V A CS
+eq uiv. a
+60ºC
+(l/mes)
+
+Enero
+
+31
+
+8,7
+
+9,0
+
+0,0066
+
+7
+
+8,9538
+
+3371,15
+
+200,13
+
+38,12
+
+238,25
+
+Febrero
+
+28
+
+9,9
+
+10,0
+
+0,0066
+
+7
+
+9,9538
+
+3019,59
+
+175,75
+
+33,69
+
+209,45
+
+Marzo
+
+31
+
+12
+
+11,0
+
+0,0066
+
+7
+
+10,9538
+
+3313,95
+
+189,03
+
+35,88
+
+224,91
+
+Abril
+
+30
+
+14,3
+
+13,0
+
+0,0033
+
+7
+
+12,9769
+
+3146,26
+
+172,06
+
+33,22
+
+205,28
+
+Mayo
+
+31
+
+18,5
+
+16,0
+
+0,0033
+
+7
+
+15,9769
+
+3147,35
+
+161,14
+
+31,48
+
+192,62
+
+Junio
+
+30
+
+23,1
+
+19,0
+
+0,0033
+
+7
+
+18,9769
+
+2930,71
+
+139,82
+
+27,45
+
+167,28
+
+Julio
+
+31
+
+27,2
+
+21,0
+
+0,0033
+
+7
+
+20,9769
+
+2938,93
+
+133,38
+
+25,59
+
+158,97
+
+Agosto
+
+31
+
+27,1
+
+21,0
+
+0,0033
+
+7
+
+20,9769
+
+2938,93
+
+133,38
+
+25,66
+
+159,04
+
+Septiembre
+
+30
+
+23,6
+
+19,0
+
+0,0033
+
+7
+
+18,9769
+
+2930,71
+
+139,82
+
+27,13
+
+166,95
+
+Octubre
+
+31
+
+17,6
+
+15,0
+
+0,0066
+
+7
+
+14,9538
+
+3184,30
+
+166,82
+
+32,09
+
+198,91
+
+Noviembre
+
+30
+
+12,2
+
+12,0
+
+0,0066
+
+7
+
+11,9538
+
+3177,64
+
+177,56
+
+34,59
+
+212,15
+
+Diciembre
+
+31
+
+8,7
+
+9,0
+
+0,0066
+
+7
+
+8,9538
+
+3371,15
+
+200,13
+
+38,12
+
+238,25
+
+14,55
+
+37.470,68
+
+1.989,04
+
+383,03
+
+2.372,07
+
+16,53
+
+K W·h/ m 2 ·año
+
+Valor es medios y totales:
+
+Tª ag ua
+fría JAÉN
+Cap it al
+(ºC)
+
+143,50
+
+14,58
+
+∆Z
+fría a 575
+(575m- 568m) m.s.n.m.
+
+D A CS mes
+(KW·h)
+
+Perd id as
+Dep ósit o
+ACS
+(KW·h)
+
+TOTAL
+D A CS mes
+(KW·h)
+
+Demanda [D] ACS:
+
+(*) esta demanda incluye un 10% debido a perdidas por distribución y recirculación
+(**) Temperatura ambiente diaria media mensual (ºC) para Jaén. Valores tomados de la Guía IDAE 022: Guía Técnica de Energía Solar Térmica (edición v1.0.
+Madrid, abril de 2020) y a su vez extraídos de la Norma UNE 94003:2007
+Tª agua fría en la altitud de proyecto= Tª agua fría en capital de provincia - B* ∆Z
+B es un coeficiente de valor 0,0066 para los meses de octubre a marzo y 0,0033 para los meses de abril a septiembre
+
+Por otro lado, nuestro sistema de abastecimiento de ACS se compone de una caldera de gas natural
+(que por tratarse de un combustible fósil no contribuye en nada a la demanda renovable) y de unos
+paneles solares térmicos que sí son producción 100% renovable y serán los que contribuyan a ese
+porcentaje de energía renovable para la demanda de ACS. El rendimiento de los colectores solares en
+pág.77
+
+F1
+
+CUMPLIMIENTO
+
+HE4
+
+VIVIENDA UNIFAMILIAR
+
+C.RENOV
+
+ADOSADA
+
+la conversión de demanda a energía final se considera implícitamente de 1.0, por lo que realizando el
+cálculo de la producción de los paneles tendremos directamente los valores de demanda renovable.
+La producción obtenida en los colectores solares térmicos disponibles, con una superficie asignada por
+vivienda de 1,3 m2 y en las condiciones de funcionamiento descritas anteriormente, es la siguiente:
+PRODUCCIÓN EN COLECTORES SOLARES TÉRM ICOS
+1
+
+M ES
+
+Sup erfi ci e
+fact or d e
+cap t aci ón
+E so l
+E so l
+E so l CO R R EG horas d e
+i ncl i naci ón
+nº d í as
+col ect ores Kw·h/m 2 ·d i a Kw·h/m 2 ·mes
+Kw·h/m 2 ·mes sol /mes
+(F i )
+(m 2 )
+
+Is
+
+Tm
+
+Ta
+
+ƞ
+
+E CO L
+(KW·h)
+
+Enero
+
+31
+
+1,3
+
+2,68
+
+83,08
+
+1,19
+
+98,87
+
+195
+
+507,00
+
+45
+
+8,7
+
+0,485
+
+Febrero
+
+28
+
+1,3
+
+3,57
+
+99,96
+
+1,15
+
+114,95
+
+167
+
+688,35
+
+45
+
+9,9
+
+0,561
+
+83,84
+
+Marzo
+
+31
+
+1,3
+
+4,94
+
+153,14
+
+1,11
+
+169,99
+
+251
+
+677,23
+
+45
+
+12,0
+
+0,569
+
+125,83
+
+Abril
+
+30
+
+1,3
+
+6,06
+
+181,80
+
+1,06
+
+192,71
+
+255
+
+755,72
+
+45
+
+14,3
+
+0,599
+
+150,17
+
+Mayo
+
+31
+
+1,3
+
+6,86
+
+212,66
+
+1,03
+
+219,04
+
+360
+
+608,44
+
+45
+
+18,5
+
+0,589
+
+167,60
+
+Junio
+
+30
+
+1,3
+
+7,95
+
+238,50
+
+1,01
+
+240,89
+
+360
+
+669,13
+
+45
+
+23,1
+
+0,629
+
+196,88
+
+Julio
+
+31
+
+1,3
+
+8,12
+
+251,72
+
+1,03
+
+259,27
+
+397
+
+653,08
+
+45
+
+27,2
+
+0,649
+
+218,74
+
+Agosto
+
+31
+
+1,3
+
+7,18
+
+222,58
+
+1,07
+
+238,16
+
+329
+
+723,89
+
+45
+
+27,1
+
+0,658
+
+203,83
+
+Septiembre
+
+30
+
+1,3
+
+5,69
+
+170,70
+
+1,13
+
+192,89
+
+265
+
+727,89
+
+45
+
+23,6
+
+0,641
+
+160,75
+
+Octubre
+
+31
+
+1,3
+
+3,95
+
+122,45
+
+1,19
+
+145,72
+
+155
+
+940,10
+
+45
+
+17,6
+
+0,642
+
+121,61
+
+Noviembre
+
+30
+
+1,3
+
+2,82
+
+84,60
+
+1,23
+
+104,06
+
+232
+
+448,53
+
+45
+
+12,2
+
+0,479
+
+64,80
+
+Diciembre
+
+31
+
+1,3
+
+2,29
+
+70,99
+
+1,22
+
+86,61
+
+176
+
+492,09
+
+45
+
+8,7
+
+0,477
+
+53,66
+
+2063,14
+
+3142
+
+0,581
+
+1610,01
+
+TOTALES
+
+1892,18
+
+62,29
+
+Las fuentes de las que proceden los datos empleados en el cálculo son las siguientes:
+Esol: Atlas de Radiación Solar en España utilizando datos del SAF de Clima de EUMETSAT disponible en la página de la AEMET
+Horas de sol: Instituto Nacional de Estadística (INE)
+Factor de inclinación (Fi): Instalaciones de Energía Solar Térmica. Pliego de Condiciones Técnicas de Instalaciones de Baja
+Temperatura
+Tª ambiente media (Ta): Guía IDAE 022: Guía Técnica de Energía Solar Térmica (edición v1.0) en tabla con datos extraídos de la
+Norma UNE 94003:2007
+
+Estos datos de producción de energía obtenidos en los colectores solares son los que incorporamos en
+la ficha de datos generales (en la pestaña de producción de energía). Activaremos la introducción de
+valores para la producción de energía térmica y los asignamos mes a mes de la siguiente forma:
+
+pág.78
+
+F1
+
+CUMPLIMIENTO
+
+HE4
+
+C.RENOV
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Teniendo en cuenta que la producción de energía en los colectores solares térmicos, a la hora de evaluar
+la contribución renovable, no puede ser superior al consumo del servicio de ACS, hemos de ajustar los
+valores de producción mensual con este criterio. Es decir, en los meses de verano que normalmente
+puede llegar a producirse mayor cantidad de energía que la demanda existente en ese mes, el exceso
+no puede computarse para realizar los cálculos de porcentaje. La producción no puede superar a la
+demanda y por tanto lo que no se pueda utilizar “se perderá” disipándola de la forma que proceda, o
+aprovechándola en otro servicio. En consecuencia, la producción de energía aprovechable para el
+servicio de ACS en colectores solares queda de la siguiente forma:
+PRODUCCIÓN EN COLECTORES SOLARES TÉRM ICOS
+
+nº d í as
+
+D A C S , m es
+(K W·h)
+
+E C O L (K W·h)
+
+EC OL
+co r r eg. Po r
+co nsumo
+(K W·h)
+
+Enero
+
+31
+
+238,25
+
+62,29
+
+62,29
+
+Febrero
+
+28
+
+209,45
+
+83,84
+
+83,84
+
+Marzo
+
+31
+
+224,91
+
+125,83
+
+125,83
+
+Abril
+
+30
+
+205,28
+
+150,17
+
+150,17
+
+Mayo
+
+31
+
+192,62
+
+167,60
+
+167,60
+
+Junio
+
+30
+
+167,28
+
+196,88
+
+167,28
+
+Julio
+
+31
+
+158,97
+
+218,74
+
+158,97
+
+Agosto
+
+31
+
+159,04
+
+203,83
+
+159,04
+
+Septiembre
+
+30
+
+166,95
+
+160,75
+
+160,75
+
+Octubre
+
+31
+
+198,91
+
+121,61
+
+121,61
+
+Noviembre
+
+30
+
+212,15
+
+64,80
+
+64,80
+
+Diciembre
+
+31
+
+238,25
+
+53,66
+
+53,66
+
+TOTALES
+
+365
+
+2.372,1
+
+1.610,0
+
+1475,84
+
+M ES
+
+Este ajuste lo realiza también HULC a partir de los datos que le hemos introducido de producción total
+en los colectores.
+Por último, es necesario establecer cuál es la demanda que resulta satisfecha por la aportación de los
+colectores solares térmicos (100% renovable), se puede estimar dicha contribución renovable de la
+siguiente forma:
+B ALANCE DE LA CONTR IB UCIÓN R ENOVAB LE
+EC OL
+co r r eg. Po r
+E C O L (K W·h)
+co nsumo
+(K W·h)
+
+nº d ías
+
+D A C S , m es
+(K W·h)
+
+Enero
+
+31
+
+238,25
+
+62,29
+
+62,29
+
+26,14
+
+Febrero
+
+28
+
+209,45
+
+83,84
+
+83,84
+
+40,03
+
+Marzo
+
+31
+
+224,91
+
+125,83
+
+125,83
+
+55,95
+
+Abril
+
+30
+
+205,28
+
+150,17
+
+150,17
+
+73,16
+
+Mayo
+
+31
+
+192,62
+
+167,60
+
+167,60
+
+87,01
+
+Junio
+
+30
+
+167,28
+
+196,88
+
+167,28
+
+100,00
+
+Julio
+
+31
+
+158,97
+
+218,74
+
+158,97
+
+100,00
+
+Agosto
+
+31
+
+159,04
+
+203,83
+
+159,04
+
+100,00
+
+Septiembre
+
+30
+
+166,95
+
+160,75
+
+160,75
+
+96,29
+
+Octubre
+
+31
+
+198,91
+
+121,61
+
+121,61
+
+61,14
+
+Noviembre
+
+30
+
+212,15
+
+64,80
+
+64,80
+
+30,54
+
+Diciembre
+
+31
+
+238,25
+
+53,66
+
+53,66
+
+22,52
+
+TOTALES
+
+365
+
+2.372,1
+
+1.610,0
+
+1475,84
+
+62,22
+
+M ES
+
+CONTR IB UCIÓN M EDIA
+
+%
+CONTR IB U
+
+62,22
+
+Como ya se ha comentado, estos valores pueden variar ligeramente en función de algunos de los datos
+de partida que se han utilizado, especialmente en la consideración de las pérdidas del acumulador
+pág.79
+
+F1
+
+CUMPLIMIENTO
+
+HE4
+
+C.RENOV
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+puesto que HULC realiza una simulación horaria mientras que nuestra estimación ha sido más genérica
+y de carácter mensual. Los valores referidos a la radiación incidente sobre el plano horizontal se han
+tomado en este caso del Atlas de Radiación Solar en España, utilizando datos del SAF de Clima de
+EUMETSAT disponible en la página de la AEMET.
+Los valores que se obtienen de la simulación realizada con HULC son los siguientes:
+
+MEDID
+1.
+
+Sistemas de medida de energía suministrada
+
+Los sistemas de medida que se han de incorporar para el control de la energía suministrada en la
+preparación de ACS cumplirán las especificaciones y condiciones que se establecen en el Reglamento
+Instalaciones Térmicas de los Edificios (RITE).
+“Los sistemas de medida de la energía suministrada procedente de fuentes renovables se
+adecuarán al vigente Reglamento de Instalaciones Térmicas en los Edificios (RITE).”
+
+pág.80
+
+F1
+
+CUMPLIMIENTO
+
+HE5
+
+NO APLICA
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+HE5
+HE5.GENERACIÓN MÍNIMA DE ENERGÍA ELÉCTRICA
+
+NO ES DE APLICACIÓN AL RESIDENCIAL PRIVADO
+
+Por tratarse nuestro ejemplo de un edificio nuevo y de uso residencial privado, existen diferentes
+exclusiones que afectan a la incorporación o exigencia sobre determinados sistemas. En concreto y en
+lo que afecta a este apartado, en el “DB HE5 Generación mínima de energía eléctrica”, se excluye de su
+aplicación al uso residencial privado. Por tanto, no es exigible que este edificio incorpore ninguna
+instalación de producción de energía eléctrica procedente de fuentes renovables.
+
+pág.81
+
+F1
+
+CUMPLIMIENTO
+
+HE0
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+HE0
+HE0.LIMITACIÓN DEL CONSUMO ENERGÉTICO
+1.
+2.
+3.
+4.
+5.
+
+Preparación de datos previos a la comprobación
+Consumo de energía primaria no renovable
+Consumo de energía primaria total
+Horas fuera de consigna
+Resultados
+
+DAT
+1. Preparación de datos previos a la comprobación
+Debido a la complejidad de los cálculos que es preciso realizar en este apartado conforme a la
+metodología establecida en la UNE EN-ISO 52000:1, recurrimos a los valores obtenidos mediante
+simulación del modelo en HULC que incorpora el módulo de cálculo CteEPBD que implementa esa
+metodología. Estas simulaciones han sido contrastadas a lo largo de todo el proceso mediante la
+comprobación de los resultados obtenidos en los diferentes cálculos previos.
+Hay que indicar además que los cálculos en HULC de este apartado, se han efectuado desactivando la
+pestaña de sistemas por defecto (Datos generales/opciones generales del edificio), con el fin de conocer
+las horas reales fuera de consigna que se producen con los equipos y potencias previstos inicialmente
+para el acondicionamiento de la vivienda
+
+EPNR
+2. Consumo de energía primaria no renovable
+El consumo de energía primaria no renovable (Cep,nren) de los espacios contenidos en el interior de la
+envolvente térmica del edificio o, en su caso, de la parte del edificio considerada, no superará el valor
+límite (Cep,nren,lim) obtenido de la tabla 3.1.a-HE0 para uso residencial privado (que es nuestro caso):
+CONSUMO DE ENERGÍA PRIMARIA NO RENOVABLE
+
+Tab la 3.1.a - HE0 Valor límit e
+Cep ,nren,lim [kW·h/m2 ·año] p ara
+uso resid encial p rivad o
+
+α
+
+A
+
+B
+
+C
+
+D
+
+E
+
+Ed ificios nuevos y amp liaciones
+
+20
+
+25
+
+28
+
+32
+
+38
+
+43
+
+Camb ios d e uso a resid encial
+p rivad o y reformas
+
+40
+
+50
+
+55
+
+65
+
+70
+
+80
+
+Zona climática de invierno
+
+pág.82
+
+F1
+
+CUMPLIMIENTO
+
+HE0
+
+RESULTADOS
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+EPT
+3. Consumo de energía primaria total
+El consumo de energía primaria total (Cep,tot) de los espacios contenidos en el interior de la envolvente
+térmica del edificio o, en su caso, de la parte del edificio considerada, no superará el valor límite (Cep,tot,lim)
+obtenido de la tabla 3.2.a-HE0 para uso residencial privado como es nuestro caso:
+CONSUMO DE ENERGÍA PRIMARIA TOTAL
+
+Tab la 3.2.a - HE0
+Valor límit e Cep ,t ot ,lim [kW·h/m2
+·año] p ara uso resid encial p rivad o
+
+α
+
+A
+
+B
+
+C
+
+D
+
+E
+
+Ed ificios nuevos y amp liaciones
+
+40
+
+50
+
+56
+
+64
+
+76
+
+86
+
+Camb ios d e uso a resid encial
+p rivad o y reformas
+
+55
+
+75
+
+80
+
+90
+
+105
+
+115
+
+Zona climática de invierno
+
+HORAS
+4. Horas fuera de consigna
+El total de horas fuera de consigna no excederá el 4% del tiempo total de ocupación. En el diseño de los
+sistemas previstos para el acondicionamiento térmico de los espacios, se ha de prever esta
+circunstancia. En un edificio residencial como el nuestro en el que el tiempo de ocupación son las 8760
+horas que tiene el año, los espacios acondicionados del edificio no pueden permanecer más de 350
+horas fuera de las condiciones de confort establecidas.
+
+RESUL
+TADOS
+
+5. Resultados
+
+A continuación, se exponen los valores de consumo para cada uno de los servicios que demanda el
+edificio. La tabla consta de dos partes, en la primera, mediante hoja de cálculo, a partir del consumo de
+energía final obtenido con HULC y aplicando los factores de paso9, se obtienen los consumos de energía
+primaria total (E.P.T.), energía primaria no renovable (E.P.N.R.), y energía primaria renovable (E.P.R.).
+Esto es válido para todos los servicios excepto para ACS.
+
+9
+
+Figuran en el Documento Reconocido del Reglamento de Instalaciones Térmicas en los Edificios (RITE) FACTORES DE EMISIÓN
+DE CO2 y COEFICIENTES DE PASO A ENERGÍA PRIMARIA DE DIFERENTES FUENTES DE ENERGÍA FINAL CONSUMIDAS EN
+EL SECTOR DE EDIFICIOS EN ESPAÑA.
+pág.83
+
+F1
+
+CUMPLIMIENTO
+
+HE0
+
+VIVIENDA UNIFAMILIAR
+
+RESULTADOS
+
+ADOSADA
+
+La segunda parte de cada tabla, referida al cumplimiento de los valores límite, se aplica directamente
+sobre los datos de la ficha que ofrece HULC para la justificación del cumplimiento. Entre la primera y
+segunda tabla de cada grupo, puede haber pequeñas variaciones en los decimales de algunos de los
+valores.
+
+Tabla de factores de paso entre energía final y primaria según vectores energéticos.
+(*) Valor obtenido de la Propuesta de Documento Reconocido: Valores aprobados en Comisión Permanente de Certificación
+Energética de Edificios de 27 de junio de 2013, actualizado al periodo considerado.
+(**) Según cálculo del apartado 5 del documento reconocido que se cita en nota al pie de esta página.
+(***) Basado en el informe “Welltotank Report, versión 4.0” del Joint Research Intitute.
+(****) Valores utilizados, a fecha de redacción del informe, en CALENER, CE3 y CEX según Documento reconocido "Escala de
+calificación energética para edificios existentes"
+
+NO HABITABLE
+
+NO HABITABLE
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+NO HABITABLE
+
+ACONDICIONADO
+
+Acondicionados:P.3 Salvo garaje, P.4. completa y P.5 completa
+N.H.:Sótano, cámara sanitaria, garaje y bajocubierta
+Envolvente térmica según esquema
+
+ACONDICIONADO
+
+NO HABITABLE
+
+SER VICIO
+
+VE C T OR
+E N E RGÉ T I C O
+
+Co nsumo
+facto r de
+paso a E. Pr im. To tal
+K W·h/ m ·año
+2
+2
+E.P.T.
+K W·h/ m ·año
+K W·h/ m ·año
+[D]
+
+2
+
+Co nsumo
+E. Final
+
+NO HABITABLE
+
+ACONDICIONADO
+
+NO HABITABLE
+
+facto r de
+paso a
+E.P.N.R .
+
+Co nsumo
+E. P. NO R ENOV.
+K W·h/ m ·año
+
+K W·h/ m ·año
+
+2
+
+Co nsumo
+E. P. R ENOV.
+2
+
+GAS NATURAL
+
+9,19
+
+7,60
+
+1,195
+
+9,08
+
+1,19
+
+9,04
+
+0,04
+
+REFRIGERACIÓN ELECTRICIDAD
+
+30,17
+
+5,84
+
+2,368
+
+13,83
+
+1,954
+
+11,41
+
+2,42
+
+ACS
+
+GAS NATURAL
+
+16,77
+
+18,35
+
+9,22
+
+10,64
+
+VENTILACIÓN
+
+ELECTRICIDAD
+
+-
+
+0,42
+
+0,82
+
+0,17
+
+30,50
+
+13,27
+
+CALEFACCIÓN
+
+TOTALES
+
+19,86
+2,368
+
+0,99
+
+1,954
+
+43,77
+
+32,21
+
+CUMPLIMIENTO HE0
+CONSUMO ENERGÍA PRIMARIA NO
+RENOVABLE (kWh/m 2año)
+Valor edificio
+
+Valor límite
+
+30,50
+
+32,00
+
+CONSUMO ENERGÍA PRIMARIA TOTAL
+(kWh/m 2año)
+
+Cumplimiento Valor edificio
+CUMPLE
+
+C
+
+43,80
+
+U
+
+Valor límite
+
+Cumplimiento Valor edificio
+CUMPLE
+
+64,00
+
+M
+
+NÚMERO DE HORAS FUERA DE
+CONSIGNA
+
+P
+
+L
+
+213,00
+
+Valor límite
+350
+(4 % anual)
+
+Cumplimiento
+CUMPLE
+
+E
+pág.84
+
+CUMPLIMIENTO
+
+RESM
+
+VIVIENDA UNIFAMILIAR
+
+COMENT
+
+ADOSADA
+
+RESM
+RESUMEN DEL CUMPLIMIENTO DE LOS INDICADORES DE CADA SECCIÓN
+1.
+
+Tablas resumen de todos los requisitos. Comentarios
+
+A continuación, se resumen para cada exigencia el grado de cumplimiento de cada uno de sus requisitos
+y valores límite.
+
+COMENT
+1. Tablas resumen de todos los requisitos. Comentarios
+
+NO HABITABLE
+
+NO HABITABLE
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+ACONDICIONADO
+
+NO HABITABLE
+
+CARACTERÍSTICAS
+GEOMÉTRICAS
+
+HE1
+Valor edifcio
+
+Indicador
+
+Sup. opacos [m2]
+
+276,93
+
+HE2 HE3
+
+Sup. huecos [m ]
+Longitud ptes
+térmicos [m]
+
+51,84
+251,94
+
+0,56
+
+Fracción
+renovable
+demanda ACS
+[%]
+
+169,59
+
+[m2]
+
+K global [W/m K]
+
+0,55
+
+2
+
+CUMPLE
+
+q sol [kWh/m2mes]
+
+1,25
+
+2,00
+
+Q100
+
+9
+
+[m3/hm 2]
+
+≤9
+
+CUMPLE
+
+Sup. útil de cálculo
+[m2]
+
+Volúmen ET [m ]
+3
+
+143,49
+
+508,32
+
+n 50
+
+5,4
+
+[h-1]
+
+CUMPLE
+
+U particiones
+[W/m2K]
+CUMPLEN TODOS
+
+Volumen de "aire
+interior" ϵ ET [m3]
+
+HE5
+
+6,00
+
+Valor del edificio
+62,22%
+63,20% (HULC)
+Valor límite
+60%
+
+HE0
+Valor edifcio Valor límite
+
+Indicador
+
+U cerramientos
+
+CUMPLE
+
+Sup. ET
+
+HE4
+Indicador
+
+[W/m2K]
+
+ACONDICIONADO
+
+NO HABITABLE
+
+Valor límite
+
+CUMPLEN TODOS
+2
+
+NO HABITABLE
+
+NO APLICA
+(por tratarse de uso residencial privado)
+
+ACONDICIONADO
+
+NO APLICA
+(por tratarse de uso residencial privado)
+
+NO HABITABLE
+
+Acondicionados:P.3 Salvo garaje, P.4. completa y P.5 completa
+N.H.:Sótano, cámara sanitaria, garaje y bajocubierta
+Envolvente térmica según esquema
+
+RITE (no se desarrolla en esta guía)
+
+F1
+
+Consumo EP no
+renovable
+
+30,50
+
+32,00
+
+[KWh/m2año]
+CUMPLE
+
+Consumo EP
+total [KWh/m2año]
+
+43,80
+
+64,00
+
+CUMPLE
+
+Nº horas fuera
+de consigna
+
+213,00
+
+350
+
+(máx 4% anual)
+
+CUMPLE
+
+CUMPLE
+
+COMPLETO
+
+COMPLETO
+
+426,23 Condensaciones
+CUMPLEN TODOS
+
+Compacidad [m3/m2] 1,55
+
+COMPLETO
+
+pág.85
+
+F1
+
+CUMPLIMIENTO
+
+RESM
+
+COMENT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Como breve resumen general del estudio realizado de la configuración elegida para el edificio del
+ejemplo, se puede concluir lo siguiente:
+- En cuanto al control de la demanda, HE 1, el cumplimiento de [K] y la relación del cambio de
+aire a 50 Pa, [n50] están muy ligados a la compacidad y la proporción entre superficie opaca y
+de huecos de la envolvente. Para el valor de la transmitancia global resulta más favorable un
+mayor peso de la parte opaca pues de manera general, aporta un valor medio de transmitancia
+más favorable. En cambio, considerando la permeabilidad, la superficie de huecos pueden
+garantizar una mayor estanquidad que el valor admitido de coeficiente de caudal de aire a
+través de las superficies opacas. Entre ambos parámetros habrá que buscar un equilibrio a la
+hora de definir qué espacios no habitables se encuentran dentro y cuales fuera de la
+envolvente. En nuestro caso, y descartado el garaje, este equilibrio se consigue incorporando
+el espacio del sótano (sin huecos) pero no el del bajocubierta pues mejora el valor de [K] pero
+sitúa fuera del cumplimiento el [n50].
+-
+
+En cuanto al control solar de la envolvente térmica, si como es el caso se dispone de una
+protección exterior consistente en persianas convencionales, no se plantea problema en la
+obtención del cumplimiento.
+
+pág.86
+
+F1
+
+AYUDAS
+
+HULC
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+AYUDA
+SECCIÓN 3. AYUDAS
+1 Levantamiento del modelo en HULC
+
+HULC
+1. INDICACIONES PARA EL LEVANTAMIENTO EN HULC
+1.
+2.
+3.
+4.
+5.
+
+Datos generales, administrativos y previos
+Base de datos
+Construcción del modelo
+Incorporación de sistemas
+Comentarios sobre la simulación
+
+Para el levantamiento del edificio en la HERRAMIENTA UNIFICADA LIDER CALENER (HULC) se ha
+empleado la Versión 2.0.2203.1160 de 26 de abril.
+A continuación, se describen los pasos más significativos para la construcción del modelo. No se trata
+de un manual detallado del procedimiento general, sino de la descripción de aquellos pasos que son
+más importantes o presentan alguna singularidad o complejidad especial para este edificio en concreto.
+
+DAT
+1. Datos generales, administrativos y previos
+En este apartado se utilizan los datos que figuran en el capítulo inicial de esta guía, donde se describe
+el edificio y la información de contexto general. Son datos normalmente conocidos y que no requieren
+cálculos previos, salvo en lo que se refiere al caudal de ventilación que se ha de introducir en la pestaña
+de datos generales. En el apartado de sistemas figuran los caudales de cálculo previstos para esta
+instalación.
+
+pág.87
+
+F1
+
+AYUDAS
+
+HULC
+
+DAT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Imagen del levantamiento en HULC. Pantalla y pestaña de datos generales.
+
+BDAT
+2. Base de datos
+Este apartado se refiere a la definición de todos los cerramientos que componen el modelo de estudio.
+Se deben introducir todos los componentes de los cerramientos tal y como aparecen descritos en el
+apartado de definición constructiva. Todos los elementos empleados figuran disponibles en la base de
+datos del programa a excepción de los vidrios y marcos necesarios para componer la solución de los
+huecos y que, en este caso, se recomienda que se creen manualmente con las especificaciones que
+figuran en su ficha. Por último, hemos de asignar a cada componente de la envolvente y particiones, las
+soluciones constructivas que hemos creado. Esto lo haremos en el módulo de opciones.
+
+Imagen del levantamiento en HULC. Pantalla de base de datos constructiva.
+pág.88
+
+F1
+
+AYUDAS
+
+HULC
+
+MODL
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+MODL
+3. Construcción del modelo
+Consideraciones previas
+Es necesario explicar aquí algunas de las recomendaciones que se deben tener en cuenta a la hora de
+levantar el modelo en HULC:
+-
+
+Las plantas son muy sencillas y salvo la planta baja de acceso, se pueden modelar como
+espacio único (igual a planta) en cada una de ellas. Se recomienda utilizar la definición de
+polilíneas en un programa CAD con los criterios ya conocidos e importarlas desde HULC
+generando los diferentes espacios en cada planta. Los esquemas de división de espacios que
+se han empleado son los siguientes:
+
+P01 E01
+
+P02 E01
+
+P03 E02
+
+P03 E01
+
+P01.PLANTA SÓTANO (-2,96)
+
+P04 E01
+
+P04.PLANTA PRIMERA (+3,14)
+
+P02.CÁMARA SANITARIA (-0,95)
+
+P05 E01
+
+P05.PLANTA SEGUNDA (+6,09)
+
+P03.PLANTA BAJA (±0)
+
+P06 E01
+
+P06.BAJOCUBIERTA (+8,96)
+
+-
+
+La altura de planta de la cámara sanitaria es de 0,96 m. Como el espesor del forjado de planta
+baja es de 0,485 m la altura libre de esa cámara sanitaria será de 0,475 m.
+
+-
+
+La altura del sótano es de 2,96 por lo que descontando el espesor de forjado de la planta baja
+(0,475 m) resulta una altura libre de planta de 2,485 metros.
+
+-
+
+La altura de planta baja es de 3,14 metros por lo que descontando el espesor de forjado de la
+planta primera (0,495 m) resulta una altura libre de planta de 2,645 metros.
+
+-
+
+La altura de la planta primera es de 2,96 metros por lo que descontando el espesor de forjado
+de la planta bajocubierta (0,495 m) resulta una altura libre de planta de 2,645 metros.
+
+-
+
+Para el espacio del bajocubierta donde los faldones son inclinados como es nuestro caso,
+debemos indicar al programa la altura equivalente de un prisma de la misma base que nuestra
+pág.89
+
+F1
+
+AYUDAS
+
+HULC
+
+MODL
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+planta y cuyo volumen sea el mismo que el que encierra el bajocubierta (incluidos los espesores
+de la cubierta). El esquema sería el siguiente:
+Volúmen equivalente de bajocubierta
+
+SIMULACIÓN EN HULC
+
+En lo que se refiere al levantamiento del modelo propiamente dicho se realiza importando planta a planta
+las polilíneas de cada uno de sus espacios, generando a continuación los suelos y los cerramientos
+verticales. A continuación, se reproducen los huecos y el resto de las condiciones geométricas descritas
+en el apartado de planos. De manera resumida los pasos a seguir serían por este orden los siguientes:
+Planta sótano.
+- P01 E01.
+Se posiciona en la cota -2,96 y su altura es de 2,96 metros. Sus cerramientos aparecerán
+representados en contacto con el terreno salvo un fragmento de uno de sus cerramientos
+laterales que se encuentra en contacto directo con la cámara sanitaria. Más adelante veremos
+cómo definir este encuentro entre sótano técnico y cámara sanitaria.
+
+Imagen del proceso de levantamiento en HULC de planta sótano
+
+Una vez hemos creado el sótano destinado a trastero y cuarto técnico, hay que tener la
+precaución de definirlo inmediatamente como espacio no habitable y perteneciente a la
+envolvente térmica. Esto lo haremos editando su espacio único, donde además definiremos el
+pág.90
+
+F1
+
+AYUDAS
+
+HULC
+
+MODL
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+nivel de estanqueidad previsto, en este caso 3, según los valores de la tabla 8 del DA DB-HE /
+1. Cálculo de parámetros característicos de la envolvente.
+
+Tabla extraída del DA DB-HE / 1. Cálculo de parámetros característicos de la envolvente.
+
+Cámara sanitaria.
+- P02 E01.
+Se posiciona en la cota -0,96, la altura de planta es de 0,96 metros y sus cerramientos
+aparecerán representados en contacto con el terreno y deberemos corregir el cerramiento lateral
+que está en contacto con la planta sótano convirtiéndolo en medianero. El único espacio de
+esta planta lo definiremos como espacio no habitable y fuera de la envolvente. El nivel de
+estanqueidad con el que se ha definido este espacio es de 4 también según los valores de la
+tabla 8 del DA DB-HE / 1. Cálculo de parámetros característicos de la envolvente. En este caso
+se trata de una cámara sanitaria con un nivel de ventilación elevado y permanente.
+Debemos en primer lugar, levantar esta planta en la cota (-0,96) importando las polilíneas de su
+geometría e indicando “Ninguna” en la opción de planta anterior que nos solicita el programa.
+Crearemos el suelo en contacto con el terreno y al introducir la opción de crear muros, el
+programa levantará todos los cerramientos de la cámara como muros en contacto con el
+terreno, al igual que había ocurrido en la planta sótano.
+
+Imagen del proceso de levantamiento en HULC de planta sótano y cámara sanitaria
+
+Para poder corregir el cerramiento medianero que divide la cámara sanitaria con la planta
+sótano, y que figura como en contacto con el terreno cuando se trata de un elemento medianero,
+debemos eliminar el cerramiento del sótano en contacto con la cámara sanitaria, para
+posteriormente, reconstruirlo manualmente de manera parcial. Este momento del proceso se
+recoge en la imagen siguiente:
+
+pág.91
+
+F1
+
+AYUDAS
+
+HULC
+
+MODL
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Imagen del proceso de levantamiento en HULC de planta sótano y cámara sanitaria
+
+A continuación, cambiamos a la condición de medianera estándar el cerramiento de la cámara
+sanitaria en contacto con el sótano:
+
+Imagen del proceso de levantamiento en HULC de planta sótano y cámara sanitaria
+
+Por último, y apoyándonos en líneas auxiliares 3D (en este caso con origen y extremo en las
+cotas -2,96, -0,96), reconstruimos la parte del cerramiento del sótano que se encuentra en
+contacto con el terreno:
+
+Imagen del proceso de levantamiento en HULC de planta sótano y cámara sanitaria
+
+pág.92
+
+F1
+
+AYUDAS
+
+HULC
+
+MODL
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Planta baja.
+- P03 E01 y P03 E02.
+La planta baja se sitúa en la cota 0,00, su altura es de 3,14 metros y sus cerramientos aparecerán
+representados en contacto con el exterior, salvo en los paños de contacto lateral con las otras
+unidades de la hilera. Estos cerramientos los cambiaremos a la condición de medianeras
+adiabáticas cuando el uso sea idéntico en ambas caras el cerramiento. Si el uso es diferente en
+cada cara del cerramiento por ejemplo vivienda (acondicionado)/garaje (no habitable) lo
+definiremos como medianera estándar.
+Esta planta consta de dos espacios; el primer espacio, E01, corresponde al garaje de la
+vivienda. Este espacio se definirá inmediatamente como espacio no habitable y fuera de la
+envolvente. El nivel de estanqueidad con el que se ha definido este espacio es 4 según valores
+de la tabla 8 del DA DB-HE / 1. Cálculo de parámetros característicos de la envolvente.
+El segundo espacio de la planta baja, el E02, corresponde el resto de los espacios habitables y
+acondicionados de la planta (salón, cocina, aseo, circulaciones y núcleo de escalera).
+Conforme vayamos creando los cerramientos de fachada debemos definir el color de acabado
+que en este caso se trata de un blanco oscuro y de absortividad aproximadamente de 0,60.
+
+Imagen del proceso de levantamiento en HULC de planta baja
+
+El siguiente paso consistirá en la apertura de los huecos y la definición de sus protecciones
+solares. Los huecos los abrimos en la posición y con las dimensiones que figuran en los planos
+del modelo.
+El hueco sur de la zona del salón de la vivienda dispone de protecciones laterales y voladizo en
+forma de visera rodeando los tres elementos el conjunto del hueco. Para reproducir esta
+geometría se pueden utilizar diferentes procedimientos, en este caso, para la visera, editaremos
+el hueco introducido y entraremos en el módulo de salientes y voladizos e introduciremos las
+dimensiones de dicho voladizo:
+
+pág.93
+
+F1
+
+AYUDAS
+
+HULC
+
+MODL
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Imagen del módulo de salientes y voladizos con los datos de la visera del hueco sur en planta baja
+
+Las protecciones laterales se han reproducido como elementos de sombra compartidos por un
+lado con la protección del acceso y por el otro lado incluido en la sombra remota de la vivienda
+adosada por ese lado (ver también imagen final del conjunto):
+
+Planta primera.
+- P04 E01.
+Esta planta se posiciona en la cota +3,14, la altura de planta es de 2,96 metros, sus
+cerramientos aparecerán representados en contacto con el exterior salvo en las zonas
+correspondientes a las medianeras en contacto con las viviendas adosadas según se indica en
+los planos. Se aplica el mismo criterio descrito para la planta anterior.
+pág.94
+
+F1
+
+AYUDAS
+
+HULC
+
+MODL
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Esta planta consta de un único espacio que se definirá como espacio habitable y acondicionado
+y corresponde a los dormitorios, aseos y circulaciones de la primera planta. Conforme vayamos
+creando los cerramientos de fachada debemos definir nuevamente el color de acabado que es
+idéntico que en la planta anterior: blanco oscuro.
+
+Imagen del proceso de levantamiento en HULC de planta primera
+
+Respecto a los huecos, el de mayor tamaño orientado a sur, dispone también de protecciones
+laterales y visera superior. En este caso, se han resuelto los tres elementos desde el módulo de
+salientes y protecciones laterales del hueco. Las dimensiones aplicadas son la siguientes:
+
+Imagen del módulo de salientes y voladizos con los datos de las protecciones del hueco sur en planta primera
+
+pág.95
+
+F1
+
+AYUDAS
+
+HULC
+
+MODL
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Imagen del proceso de levantamiento en HULC de planta primera
+
+Planta segunda.
+- P05 E01.
+La planta baja se posiciona en la cota +6,10, la altura de planta es de 2,86 metros y sus
+cerramientos aparecerán representados en contacto con el exterior en su totalidad.
+Esta planta consta de un único espacio que se definirá como espacio habitable acondicionado
+y corresponde al salón estudio de la casa con acceso a la terraza en cubierta plana.
+Conforme vayamos creando los cerramientos de fachada debemos definir el color de acabado
+blanco oscuro.
+
+Imagen del proceso de levantamiento en HULC de planta segunda
+
+Respecto a los huecos, el orientado a sur, dispone también de protecciones laterales y visera
+superior y se resuelve igual que en la planta anterior. Las dimensiones de estas protecciones
+son la siguientes:
+
+pág.96
+
+F1
+
+AYUDAS
+
+HULC
+
+MODL
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Imagen del módulo de salientes y voladizos con los datos de las protecciones del hueco sur en planta segunda
+
+Imagen del proceso de levantamiento en HULC de planta segunda
+
+Planta bajocubierta.
+- P06 E01.
+Esta planta está constituida por el espacio técnico bajocubierta y se posiciona en la cota +8,96,
+sus cerramientos aparecerán representados en contacto con el exterior en su totalidad. La altura
+equivalente de la planta es de 0,90 m tal y como se ha descrito en el esquema anterior.
+El nivel de estanqueidad con el que se ha definido este espacio es 5 según valores de la tabla
+8 del DA DB-HE / 1. Cálculo de parámetros característicos de la envolvente. En principio todo su
+pág.97
+
+F1
+
+AYUDAS
+
+HULC
+
+MODL
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+frente corto de mayor altura estaría constituido por una gran rejilla de apertura permanente,
+además de otras laterales que garanticen la ventilación cruzada suficiente para alojar las
+unidades exteriores de los equipos de refrigeración.
+Para crear la cubierta inclinada de este espacio debemos insertar una línea auxiliar 3D en la cota
+perteneciente a la cumbrera de la cubierta. A continuación, iremos creando los cerramientos
+exteriores del perimetro.
+
+Imagen del proceso de levantamiento en HULC de planta bajocubierta
+
+Para finalizar el proceso, debemos recrear las sombras arrojadas que las viviendas colindantes generan
+sobre la vivienda del ejemplo. Para ello crearemos una serie de líneas auxiliares 3D en los vértices y
+aristas que definen la volumetría de las viviendas adosadas. Para ello, utilizaremos un plano general del
+conjunto.
+
+pág.98
+
+F1
+
+AYUDAS
+
+HULC
+
+MODL
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+imágenes del proceso de levantamiento en HULC de las sombras auxiliares del modelo
+pág.99
+
+F1
+
+AYUDAS
+
+SIST
+
+HULC
+
+SIST
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+4. Incorporación de sistemas
+
+A la hora de introducir los sistemas se introducen los datos de las fichas que aparecen en la descripción
+de cada uno de los sistemas.
+- Sistema de ventilación
+
+Imagen de la introducción de sistemas en el módulo de CALENER VYP de HULC
+
+-
+
+Sistema mixto de calefacción y ACS
+Reproducimos todas las características del sistema que figuran en la ficha del apartado
+correspondiente de esta guía. Creamos un equipo de producción (Caldera de condensación
+por defecto). A continuación, introducimos las unidades terminales de agua de cada espacio
+acondicionado con las potencias que se asignan en la ficha.
+Para definir la demanda de ACS utilizamos los datos calculados en la ficha de la instalación:
+
+pág.100
+
+F1
+
+AYUDAS
+
+HULC
+
+SIST
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Por último, hemos de introducir los datos de producción de energía térmica en los colectores
+solares del edificio. Para ello accedemos a la ficha de datos generales, en la pestaña de
+producción de energía y activaremos la introducción de valores para la producción de energía
+térmica. A continuación, asignamos dichos valores mes a mes de la siguiente manera:
+
+-
+
+Sistema de frío
+Reproducimos todas las características del sistema que figuran en la ficha del apartado
+correspondiente de esta guía. Crearemos sistemas multizona con autónomos.
+- Sistema 1, que dispone de unidades terminales interiores en la planta baja y la planta
+ático. (P03 E02) (P05 E01).
+
+pág.101
+
+F1
+
+AYUDAS
+-
+
+HULC
+
+COMENT
+
+VIVIENDA UNIFAMILIAR
+
+ADOSADA
+
+Sistema 2, cuyas unidades terminales interiores se encuentran en la planta de
+dormitorios. (P04 E01)
+
+SIMUL
+5. Comentarios sobre la simulación
+Respecto a los datos que se obtienen mediante HULC respecto a los que se han calculado mediante
+hoja de cálculo, decir que son idénticos en la mayoría de los casos. Se presentan pequeñas diferencias
+en aquellos que implican superficies y volúmenes debidos principalmente a pequeñas imprecisiones
+derivadas del reparto de superficies de opacos y huecos en cerramientos o en el cálculo de volúmenes
+por redondeos en decimales.
+Respecto a las condiciones en las que se han realizado los cálculos desde el módulo de sistemas para
+HE0 y HE4, indicar que se han efectuado desactivando la pestaña de sistemas por defecto (Datos
+generales/opciones generales del edificio), con el fin de conocer las horas reales de fuera de consigna
+que se producen con los equipos y potencias previstos inicialmente para el acondicionamiento de la
+vivienda.
+
+pág.102
+
+

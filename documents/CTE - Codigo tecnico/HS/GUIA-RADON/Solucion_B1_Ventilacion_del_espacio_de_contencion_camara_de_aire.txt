@@ -1,0 +1,516 @@
+SOLUCIÓN
+
+VENTILACIÓN DEL ESPACIO DE
+CONTENCIÓN: CÁMARA DE AIRE
+
+B1
+4
+
+Efectividad con concentración
+mayor de 600 Bq/m3
+
+5
+
+Efectividad con concentración
+menor de 600 Bq/m3
+
+1. FINALIDAD
+
+Dificultad(1)
+
+1
+
+Coste(1)
+
+1
+
+3. EFECTIVIDAD
+
+La ventilación de la cámara de aire empleada como
+espacio de contención tiene como finalidad reducir la
+concentración de radón a la que los cerramientos de
+los locales habitables se encuentran expuestos. Se
+basa en favorecer mediante ventilación la expulsión
+del aire con alta concentración de radón de la cámara
+y que no tienda a penetrar en los locales habitables.
+
+La ventilación de la cámara de aire que actúa como
+espacio de contención es una de las soluciones más
+efectivas. No obstante, para que esta efectividad sea
+óptima, se recomienda su empleo junto con otras
+soluciones como la barrera de protección frente al
+radón (Solución A1 y Solución A1.1) o el sellado de
+fisuras, grietas, encuentros y juntas (Solución A2), especialmente para concentraciones de radón medidas
+en los locales habitables superiores a 600 Bq/m3.
+
+El espacio de contención es un espacio situado entre
+el terreno y los locales a proteger que recibe el radón
+proveniente del terreno y que, mediante ventilación
+natural o mecánica, lo expulsa al exterior del edificio
+mitigando el paso de radón al interior de los locales
+habitables. Puede actuar como espacio de contención
+un local no habitable o una cámara de aire.
+
+Su efectividad podrá verse afectada si existen elementos de paso que conecten estas cámaras con locales habitables, como puedan ser trampillas de acceso. En este caso será necesario que las trampillas
+sean poco permeables al aire según lo detallado en
+la Solución A3.
+
+En esta Solución B1 únicamente se trata la ventilación
+de cámaras de aire. La ventilación de los locales no
+habitables utilizados como espacio de contención se
+trata en la Solución B2.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará generalmente cuando el
+edificio ya disponga de una cámara de aire que pueda
+actuar como espacio de contención, por ejemplo, una
+cámara sanitaria.
+Si el edificio no dispone de cámara de aire, podría ser
+viable su colocación dependiendo de factores como
+la altura libre disponible, la superficie útil de la planta,
+la posibilidad de intervenir por el exterior del muro, así
+como de otros condicionantes económicos o técnicos.
+
+Para comprobar si la efectividad de la solución es adecuada, se medirá la concentración de radón alcanzada
+dentro de los locales habitables tras la intervención.
+
+4. DIFICULTAD DE INSTALACIÓN
+En el caso de que el edificio ya disponga de cámara
+de aire, es una solución sencilla que no requiere un
+grado de especialización alto.
+En el caso de que se construya una nueva cámara de
+aire, es una solución que requiere un grado de especialización medio.
+
+5. CÓMO SE CONSIGUE
+En el caso de que el edificio ya disponga de cámara de aire, esta solución consistirá en ventilarla
+(1) Se ha considerado un edificio que dispone de una cámara sanitaria en la
+que se mejora la ventilación natural
+
+Solución B1 • Ventilación del espacio de contención: cámaras de aire
+
+adecuadamente tal y como se describe en este apartado. Previamente se realizará un mantenimiento que
+incluya la limpieza de las aberturas de ventilación existentes y la eliminación de los obstáculos que se hayan
+podido acumular o disponer a lo largo del tiempo.
+
+1
+
+modulos de encofrado perdido
+
+1
+
+En el caso de que el edificio no disponga de cámara de aire, y siempre que sea viable, podrá instalarse
+una cámara de aire continua en toda la superficie del
+cerramiento en contacto con el terreno. Lo más habitual es que esta cámara se sitúe en el plano horizontal
+puesto que el cerramiento en contacto con el terreno
+suele ser un suelo, aunque también podrá realizarse
+verticalmente cuando el cerramiento en contacto con
+el terreno sea el muro de un sótano. En ambos casos,
+la cámara podrá disponerse por el interior del cerramiento si la disposición por el exterior no es viable,
+pudiendo ser su espesor reducido, pero nunca inferior
+a 5 cm.
+
+Figura 2 - Cámara ventilada horizontal interior
+
+1
+
+cámara bufa
+
+1
+
+Según su disposición en relación al cerramiento existente, la cámara de aire podrá ser:
+■
+
+horizontal exterior, constituida por una cámara sanitaria ventilada (Figura 1);
+
+■
+
+horizontal interior, formada con láminas nodulares o
+módulos de encofrado perdido (Figura 2);
+
+■
+
+vertical exterior, construida mediante un elemento
+hueco y poroso (Figura 3), una capa de relleno similar a la de los sistemas de despresurización del
+terreno o una lámina nodular;
+
+■
+
+vertical interior, consistente en una cámara bufa (Figura 4).
+
+Figura 3 - Cámara ventilada vertical exterior
+
+1
+
+cámara bufa
+
+1
+
+Figura 4 - Cámara ventilada vertical interior
+
+Figura 1 - Cámara sanitaria ventilada
+
+La ventilación de la cámara se podrá realizar de forma
+natural o mecánica, con los condicionantes que se recogen a continuación.
+
+B1
+
+2
+2
+
+Solución B1 • Ventilación del espacio de contención: cámaras de aire
+
+a) Ventilación natural
+
+pequeña) o disponerse un conducto periscópico
+(Figura 7) que comunique la cámara con el exterior.
+De entre todas las posibilidades de configuración de
+este conducto se recomiendan las que no atraviesen
+el forjado, para evitar un punto crítico de entrada de
+radón;
+
+La cámara de aire se ventilará practicando las correspondientes aberturas de ventilación (Figura 5).
+
+1
+
+2
+
+Figura 5 - Abertura de ventilación
+
+1
+2
+
+Figura 6 - Distribución de aberturas en planta
+
+1
+
+Se seguirán las indicaciones generales siguientes en
+cuanto a diseño, ubicación y dimensionado:
+■
+
+las aberturas se colocarán distribuidas de forma
+homogénea en todo el perímetro (Figura 6) para
+evitar zonas con aire estancado. Sin embargo, en el
+caso de una cámara horizontal con una superficie
+en planta de menos de 100 m2, las aberturas podrán disponerse en la misma fachada siempre que
+ningún punto de la cámara diste más de 10 m de
+alguna de ellas;
+
+■
+
+el área del conjunto de aberturas será de al menos
+10 cm2 por metro lineal del perímetro de la cámara
+medido en horizontal, aunque para concentraciones de radón superiores a 600 Bq/m3 es muy probable que el área necesaria sea superior;
+
+■
+
+las aberturas se ubicarán por encima de la cota que
+pueda alcanzar la acumulación de nieve, en su caso;
+
+■
+
+cuando la cámara quede a un nivel inferior a la cota
+exterior, podrá realizarse una pequeña excavación
+en el terreno circundante (si la diferencia de cota es
+
+2
+
+1
+2
+
+abertura de ventilación periscópica
+cámara sanitaria
+
+Figura 7 - Conductos periscópicos: sin atravesar (arriba y centro) y
+atravesando el forjado (abajo)
+
+■
+
+cuando se disponga un conducto de extracción
+que lleve el aire desde la cámara hasta el exterior, el
+conducto podrá discurrir por el interior del edificio o
+por el exterior, siendo esta última disposición la más
+recomendable para evitar la entrada de radón en
+el interior del edificio en caso de fugas en el propio
+conducto o en el encuentro con el forjado;
+
+■
+
+si fuese inevitable atravesar el forjado con algún
+conducto, los encuentros con los conductos se tratarán como se indica en la Solución A2 o en la Solución A1.1, según corresponda.
+
+Cuando sea necesario reforzar la ventilación de la cámara se podrá realizar de forma natural disponiendo
+
+B1
+
+3
+3
+
+Solución B1 • Ventilación del espacio de contención: cámaras de aire
+
+más aberturas de ventilación o aumentando la superficie útil de las existentes.
+
+El conducto tendrá uso exclusivo para la ventilación de
+la cámara, no pudiéndose compartir con la extracción de
+aire de locales ni de humo de aparatos de combustión.
+
+Los extractores situados en el exterior del edificio serán
+resistentes a la intemperie o se protegerán con algún
+elemento adicional.
+
+Las aberturas de ventilación más próximas al extractor tendrán que cegarse para favorecer la entrada de
+aire exterior por las aberturas más lejanas y facilitar el
+barrido de toda la cámara.
+
+b) Ventilación mecánica
+Cuando se refuerce la ventilación de forma mecánica
+para mejorar su efectividad, por ejemplo, cuando la
+cámara tenga un espesor pequeño, por regla general se mecanizará solo la extracción disponiendo un
+extractor directamente en alguna de las aberturas de
+ventilación o conectado a un conducto de extracción.
+Si ya se disponía de un sistema mecánico de ventilación, se podrá mejorar la ventilación aumentado los
+caudales de ventilación, optimizando la distribución
+de las aberturas de ventilación, etc.
+En cualquier caso, es recomendable que el extractor se disponga en el exterior del edificio para, por un
+lado, limitar el riesgo de entrada de radón en el interior del edificio en caso de fugas y por otro, proteger
+a los usuarios del ruido. En el caso de que se coloque
+el extractor en el interior del edificio, es preferible que
+se ubique en un espacio no habitable (por ejemplo, la
+propia cámara si es accesible para su mantenimiento) y próximo al exterior, de forma que la longitud del
+conducto desde el extractor hasta el exterior sea lo
+más corta posible.
+
+Cuando se disponga un conducto de extracción (Figura 8), será acorde a lo descrito para conductos en
+el apartado de ventilación natural.
+La expulsión de aire se situará en la cubierta del edificio, aunque podrá emplazarse en la fachada siempre
+y cuando se respete una distancia de al menos 3 m a
+las entradas de aire, puertas, ventanas y zonas donde
+pueda haber personas de forma habitual, como terrazas y balcones.
+
+Podrá ser necesario disponer una derivación o un bypass en el conducto de extracción que permita evacuar
+el agua de condensación y filtración protegiendo el
+extractor de posibles averías.
+
+Podría emplearse un medidor de radón electrónico
+conectado al extractor, de forma que lo active cuando
+las concentraciones de radón superen un nivel determinado, evitando así su funcionamiento continuo y
+prolongando su vida útil.
+
+1
+2
+3
+
+abertura de admisión
+conducto de extracción
+extractor
+
+3
+3
+2
+
+2
+
+1
+
+1
+
+3
+2
+
+Figura 8 - Conducto de extracción con extractor hasta cubierta por el interior del edifico (izda.) y por el exterior (centro), y en fachada (drcha.)
+
+1
+
+B1
+
+4
+4
+
+Solución B1 • Ventilación del espacio de contención: cámaras de aire
+
+6. PUNTOS CRÍTICOS
+Cerramientos con cámara o huecos
+En el caso de que las aberturas de ventilación se practiquen en cerramientos con cámara o huecos, parte
+del aire podría desviarse penetrando por estas zonas del cerramiento, reduciéndose además el caudal
+de ventilación de la cámara. Para evitarlo será necesario disponer un elemento pasante que atraviese el
+cerramiento completamente (Figura 9) y que facilite
+el paso del aire.
+
+Figura 10 - Apertura de hueco de comunicación en obstáculo en la
+cámara de aire
+
+7. COSTE
+El coste puede variar dependiendo del tipo de intervención y de la situación existente. Las intervenciones, de menor a mayor coste asociado, pueden ser:
+■
+
+ventilación natural de cámara sanitaria o cámara de
+aire existente;
+
+■
+
+disposición de una cámara de aire ventilada de forma natural por el interior;
+
+■
+
+disposición de una cámara de aire ventilada de forma natural por el exterior.
+
+En el caso de ventilación mecánica el coste se incrementará al tener que colocar un extractor.
+
+Figura 9 - Abertura de ventilación sin (arriba) y con elemento pasante
+(abajo)
+
+El coste que se ha tenido en cuenta en la gráfica al
+comienzo de esta ficha es el correspondiente a un
+edificio que ya dispone de una cámara sanitaria en la
+que se mejora la ventilación natural.
+
+Obstáculos en la cámara de aire
+Cuando existan diferentes zonas en una cámara de
+aire separadas por muretes de cimentación u otros
+obstáculos que supongan un impedimento al flujo del
+aire de ventilación, será necesaria la apertura de huecos de comunicación en los obstáculos para permitir
+el paso del aire de una zona a otra (Figura 10).
+
+OBSERVACIONES
+Zonas climáticas frías
+Cuando se incremente la ventilación de cámaras de aire en zonas climáticas frías, será recomendable realizar un estudio específico del aislamiento térmico del cerramiento que separa la
+cámara y el local habitable colindante, para evitar
+pérdidas energéticas que aumenten el coste de
+climatización y reduzcan la eficiencia energética
+del edificio.
+
+B1
+
+5
+5
+
+Solución B1 • Ventilación del espacio de contención: cámaras de aire
+
+Este documento ha sido elaborado por el Instituto de ciencias
+de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+de la Dirección General de Agenda Urbana y Arquitectura del
+Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+Esta ficha forma parte de una serie de documentos englobados
+en una misma publicación, cuyo objetivo es constituir una herramienta de ayuda para el diseño de soluciones de protección
+frente al radón:
+■
+
+Guía de rehabilitación frente al radón
+
+Fichas de soluciones:
+A: De aislamiento del edificio
+■
+■
+■
+■
+■
+
+Solución A1. Barrera frente al radón
+Solución A1-1. Barrera frente al radón. Encuentros
+Solución A2. Sellado de fisuras, grietas, encuentros y juntas
+Solución A3. Puertas estancas
+Solución A4. Creación de sobrepresión
+
+B: De reducción del radón antes de que penetre en los locales
+a proteger
+■
+■
+■
+
+Solución B1. Ventilación del espacio de contención: cámara de aire
+Solución B2. Ventilación del espacio de contención: locales no habitables
+Solución B3. Despresurización del terreno
+
+C: De reducción del radón tras penetrar en los locales a proteger
+■
+
+Solución C1. Ventilación de los locales habitables
+
+El IETcc, perteneciente al Consejo Superior de Investigaciones
+Científicas (CSIC), es el centro de investigación en edificación
+de referencia en España. La Unidad de Calidad en la Construcción del IETcc asesora al MITMA en la elaboración del Código
+Técnico de la Edificación que, desde el año 2019, cuenta con la
+sección HS6 Protección frente a la exposición al radón.
+Dirección y Coordinación:
+Ministerio de Transportes, Movilidad y Agenda Urbana
+Isabel Marcos Anasagasti
+Raquel Lara Campos
+Eduardo González de Prado
+Instituto de ciencias de la construcción Eduardo Torroja CSIC
+Pilar Linares Alemparte
+Autoras:
+Pilar Linares Alemparte
+Sonia García Ortega
+Virginia Sánchez Ramos
+Colaboradoras:
+Karina Angélica García Pardo
+Edita:
+Centro de Publicaciones Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda Urbana©
+Entidad colaboradora:
+Consejo Superior de Investigaciones Científicas · CSIC
+Ministerio de Ciencia e Innovación
+Catálogo de publicaciones de la Administración General
+
+del Estado: publicacionesoficiales.boe.es
+Centro virtual de publicaciones del Ministerio de Transpor
+tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+
+Fichas de ejemplos:
+■
+■
+■
+■
+
+Ejemplo A1+B3. Barrera frente al radón + despresurización
+con red de tubos
+Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B3. Sellado + despresurización con red de tubos
+Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+
+Página web del Código Técnico de la Edificación:
+www.codigotecnico.org
+
+ 
+
+Maquetación y diseño gráfico:
+Lapizmente. Estrategia • Diseño Gráfico
+
+Publicación completa:
+ISBN: 978-84-498-1045-9
+NIPO: 796-20-136-5
+
+Los contenidos o ideas recogidas en este documento pertenecen a
+sus autores. Este documento está basado en el conocimiento disponible en el momento de su publicación. No se aceptará por las instituciones ni los autores implicados responsabilidad de ningún tipo por el
+uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+y no deben interpretarse como detalles constructivos.
+
+1ª edición: septiembre 2020
+Edición actual: septiembre 2020
+
+Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
+
+B1
+
+6
+6
+
+

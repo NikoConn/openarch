@@ -1,0 +1,370 @@
+SOLUCIÓN
+
+BARRERA FRENTE AL RADÓN.
+ENCUENTROS
+
+1
+
+2
+
+3
+
+4
+
+5
+
+A1-1
+6
+
+1
+2
+3
+4
+5
+6
+
+La falta de continuidad de la barrera puede reducir su
+eficacia considerablemente. Las causas más comunes de la falta de continuidad son las uniones entre
+láminas, las juntas de dilatación, los encuentros con
+elementos pasantes, pilares, particiones (tabiques) y
+fachadas, y la unión con obras existentes. A continuación se describen algunas soluciones para estos puntos críticos.
+
+Los sellantes que se utilicen tendrán un coeficiente de
+difusión del radón similar al de una barrera tipo lámina.
+
+encuentro entre dos láminas
+encuentro con tabique
+junta de dilatación
+encuentro con elemento pasante
+encuentro con pilar
+encuentro con fachada
+
+B. Juntas de dilatación
+Si la barrera es de tipo lámina
+Será necesario evitar que el movimiento diferencial de
+los dos bordes de la junta de dilatación rompa la lámina. Para ello, la lámina se podrá prolongar dentro de la
+junta dejando una holgura tipo fuelle que permita su
+elongación sin romperse (Figura 2).
+
+1
+
+2
+
+A. Solape entre dos láminas
+Los solapes entre dos láminas se tratarán según lo
+especificado por el fabricante. Generalmente el borde
+de la lámina superior se superpone y sella a la lámina
+inferior (Figura 1).
+
+1
+2
+
+tapajuntas
+fuelle
+
+Figura 2 - Encuentro de la barrera tipo lámina con una junta de dilatación
+
+Si la barrera es un elemento de hormigón
+Se sellará la junta de dilatación según lo descrito en
+la Solución A2.
+
+C. Encuentros con elementos
+pasantes
+Figura 1 – Ejemplo de solape entre dos láminas
+
+Los elementos pasantes más comunes son las conducciones para abastecimiento y evacuación de
+aguas. Habrá que sellar los encuentros con estos
+elementos de forma adecuada.
+
+Solución A1-1 • Barrera frente al radón. Encuentros
+
+Si la barrera es de tipo lámina
+Una solución adecuada podrá ser la de utilizar un pasamuros sellando su encuentro con el elemento pasante y la lámina (Figura 3) (si se va a sustituir el elemento pasante o si se interviene en el muro o suelo) o,
+si esto no es posible, rodear el elemento pasante en el
+encuentro con una pieza de refuerzo, preferiblemente
+prefabricada (Figura 4), y sellar los encuentros con la
+lámina y con el elemento pasante.
+Figura 5 - Encuentro de un muro con un elemento pasante horizontal
+mediante un elemento prefabricado embebido
+
+1
+2
+
+D. Encuentros con pilares
+
+1
+2
+
+pasamuros
+sellante
+
+Figura 3 - Encuentro de la barrera tipo lámina con un elemento pasante
+vertical mediante un pasamuros
+
+Los pilares más comunes suelen ser de hormigón armado o metálicos. En estos casos el radón que pueda
+penetrar a través de ellos se considera despreciable,
+puesto que el coeficiente de difusión del radón en el
+hormigón y en el metal es reducido. Sin embargo, es
+importante limitar el transporte de radón que se pueda
+producir en el encuentro de los pilares con la barrera.
+
+Si la barrera es de tipo lámina
+La lámina se prolongará alrededor de los pilares en su
+base, preferiblemente con láminas de refuerzo prefabricadas (Figura 6), y se sellará su extremo superior
+con el pilar e inferior con la lámina del suelo.
+
+1
+
+2
+1
+2
+
+pieza de refuerzo prefabricado
+sellante
+
+Figura 4 - Encuentro de la barrera tipo lámina con un elemento pasante
+horizontal mediante una pieza de refuerzo prefabricada
+
+En la zona donde exista un elemento pasante será
+preferible que no haya solapes entre distintas piezas
+de la lámina, puesto que dificultarían después el sellado del encuentro.
+
+Figura 6 - Encuentro de la barrera tipo lámina con un pilar
+
+Si la barrera es un elemento de hormigón
+
+Si la barrera es un elemento de hormigón
+
+En este caso las soluciones adecuadas podrán ser
+utilizar un elemento prefabricado embebido en el
+muro o en el suelo (Figura 5) (si se van a sustituir los
+elementos pasantes o si se interviene en el muro o
+suelo) o, si esto no es posible, rodear el elemento pasante en el encuentro con una pieza de refuerzo de
+forma similar a lo descrito en la Solución A2.
+
+Se dispondrán láminas de refuerzo en el encuentro
+de forma similar a lo descrito en la Solución A2.
+
+A1-1 2
+
+Solución A1-1 • Barrera frente al radón. Encuentros
+
+E. Encuentros con particiones
+interiores y fachadas
+En los encuentros de la barrera con particiones interiores y fachadas el radón puede penetrar:
+■
+
+por las irregularidades que se puedan producir en el
+propio encuentro;
+
+■
+
+a través de la partición o fachada si estuviesen compuestas de materiales porosos (por ejemplo, fábrica de piedra, mixta de piedra y ladrillo), si tuviesen
+huecos verticales (Figura 7), si el material de agarre
+no tuviera cohesión, si existieran cámaras de aire o
+si la mampostería fuera en seco.
+
+Para concentraciones superiores a 600 Bq/m3 en los
+locales habitables no se considera adecuada una barrera
+que no sea tipo lámina.
+
+Figura 8 - Encuentro de la barrera tipo lámina con una fachada cuando
+se vaya a ejecutar una nueva hoja interior
+
+Si no es posible disponer la lámina de forma continua bajo las particiones y las fachadas, se sellará la
+unión adecuadamente, de forma que se resistan los
+movimientos diferenciales, pudiendo además utilizarse
+soluciones de refuerzo. Para el sellado, lo más recomendable será encastrar la lámina nueva en la partición o fachada en una roza. Como soluciones de refuerzo podrán ser adecuadas la inyección o introducción
+de un producto barrera en la base de las particiones
+y fachadas, o la disposición de tubos perforados en
+su longitud que creen un sistema de despresurización
+(Figura 9) similar a lo descrito en la Solución B3.
+
+1
+
+1
+
+Figura 7 - Transporte de radón a través de la cámara de la fachada
+
+tubo perforado
+
+Figura 9 - Encuentro de la barrera tipo lámina con una fachada mediante encastrado y tubo perforado
+
+Para evitar este transporte, la lámina será continua bajo
+las particiones interiores y las fachadas, en la medida
+de lo posible, sobre todo en el caso de concentración
+de radón superior a 1200 Bq/m3. Por ejemplo, cuando
+se vaya a ejecutar en la fachada una nueva hoja interior,
+la lámina se llevará hasta la hoja exterior (Figura 8). El
+solape de la lámina de la fachada u hoja interior y la del
+suelo no se realizará en la fachada, sino sobre el suelo,
+para evitar que el muro de la fachada pierda estabilidad a esfuerzos horizontales.
+
+F. Unión con obras existentes
+Si la nueva barrera es de tipo lámina
+Si la parte existente tiene una barrera tipo lámina, la
+solución óptima sería sellar la nueva lámina con la
+existente. Cuando se conserva el cerramiento limítrofe, esto conlleva en la práctica cierta dificultad puesto
+
+A1-1 3
+
+Solución A1-1 • Barrera frente al radón. Encuentros
+
+que implica la demolición de tramos del cerramiento
+y constituye un riesgo de deterioro de la lámina existente. Por ello, la mejor solución será la de encastrar la
+lámina nueva en el cerramiento limítrofe en una roza
+por encima de la lámina existente (Figura 10).
+
+1
+
+2
+
+1
+2
+
+parte existente
+ampliación
+
+Figura 10 - Encuentro de la lámina existente con la nueva mediante roza
+
+Si la parte existente no tiene barrera tipo lámina la solución podrá ser también encastrar la nueva lámina en
+el cerramiento limítrofe de forma similar a la descrita
+anteriormente.
+
+Si la nueva barrera es un elemento de
+hormigón
+Será necesario realizar un cuidadoso sellado del encuentro, para lo que se podrá utilizar un sellante flexible similar al descrito para una junta de dilatación,
+que permita el movimiento diferencial entre las dos
+estructuras.
+
+A1-1 4
+
+Solución A1-1 • Barrera frente al radón. Encuentros
+
+Este documento ha sido elaborado por el Instituto de ciencias
+de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+de la Dirección General de Agenda Urbana y Arquitectura del
+Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+Esta ficha forma parte de una serie de documentos englobados
+en una misma publicación, cuyo objetivo es constituir una herramienta de ayuda para el diseño de soluciones de protección
+frente al radón:
+■
+
+Guía de rehabilitación frente al radón
+
+Fichas de soluciones:
+A: De aislamiento del edificio
+■
+■
+■
+■
+■
+
+Solución A1. Barrera frente al radón
+Solución A1-1. Barrera frente al radón. Encuentros
+Solución A2. Sellado de fisuras, grietas, encuentros y juntas
+Solución A3. Puertas estancas
+Solución A4. Creación de sobrepresión
+
+B: De reducción del radón antes de que penetre en los locales
+a proteger
+■
+■
+■
+
+Solución B1. 
+Ventilación del espacio de contención: cámara de aire
+Solución B2. Ventilación del espacio de contención: locales no habitables
+Solución B3. Despresurización del terreno
+
+C: De reducción del radón tras penetrar en los locales a proteger
+■
+
+Solución C1. Ventilación de los locales habitables
+
+El IETcc, perteneciente al Consejo Superior de Investigaciones
+Científicas (CSIC), es el centro de investigación en edificación
+de referencia en España. La Unidad de Calidad en la Construcción del IETcc asesora al MITMA en la elaboración del Código
+Técnico de la Edificación que, desde el año 2019, cuenta con la
+sección HS6 Protección frente a la exposición al radón.
+Dirección y Coordinación:
+Ministerio de Transportes, Movilidad y Agenda Urbana
+Isabel Marcos Anasagasti
+Raquel Lara Campos
+Eduardo González de Prado
+Instituto de ciencias de la construcción Eduardo Torroja CSIC
+Pilar Linares Alemparte
+Autoras:
+Pilar Linares Alemparte
+Sonia García Ortega
+Colaboradoras:
+Virginia Sánchez Ramos
+Karina Angélica García Pardo
+Edita:
+Centro de Publicaciones Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda Urbana©
+Entidad colaboradora:
+Consejo Superior de Investigaciones Científicas · CSIC
+Ministerio de Ciencia e Innovación
+Catálogo de publicaciones de la Administración General
+
+del Estado: publicacionesoficiales.boe.es
+Centro virtual de publicaciones del Ministerio de Transpor
+tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+
+Fichas de ejemplos:
+■
+■
+■
+■
+
+Ejemplo A1+B3. Barrera frente al radón + despresurización
+con red de tubos
+Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B3. Sellado + despresurización con red de tubos
+Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+
+Página web del Código Técnico de la Edificación:
+www.codigotecnico.org
+
+ 
+
+Maquetación y diseño gráfico:
+Lapizmente. Estrategia • Diseño Gráfico
+
+Publicación completa:
+ISBN: 978-84-498-1045-9
+NIPO: 796-20-136-5
+
+Los contenidos o ideas recogidas en este documento pertenecen a
+sus autores. Este documento está basado en el conocimiento disponible en el momento de su publicación. No se aceptará por las instituciones ni los autores implicados responsabilidad de ningún tipo por el
+uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+y no deben interpretarse como detalles constructivos.
+
+1ª edición: septiembre 2020
+Edición actual: septiembre 2020
+
+Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
+
+A1-1 5
+
+

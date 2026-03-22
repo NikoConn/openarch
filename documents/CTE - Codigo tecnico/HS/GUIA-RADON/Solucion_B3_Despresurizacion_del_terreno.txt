@@ -1,0 +1,543 @@
+SOLUCIÓN
+
+B3
+
+DESPRESURIZACIÓN DEL TERRENO
+
+Efectividad con concentración
+mayor de 600 Bq/m3
+Efectividad con concentración
+menor de 600 Bq/m3
+
+4
+5
+
+Dificultad(1)
+
+5
+
+Coste(1)
+
+5
+
+1. FINALIDAD
+La despresurización del terreno tiene como finalidad
+reducir la concentración de radón a la que los cerramientos del edificio se encuentran expuestos. Se basa
+en producir una depresión en el terreno subyacente o
+colindante al edificio, de forma que se favorezca que
+el aire del terreno que contiene radón sea expulsado
+al exterior y no tienda a penetrar al interior del edificio.
+
+2. CUÁNDO SE UTILIZA
+Esta solución se empleará generalmente cuando la
+permeabilidad del sustrato existente sea lo suficientemente alta para que la efectividad del sistema sea adecuada o cuando sea posible disponer una capa de relleno permeable al aire bajo el cerramiento del edificio.
+
+3. EFECTIVIDAD
+La despresurización del terreno es una de las soluciones más efectivas, aunque será necesario su empleo
+junto con una barrera de protección frente al radón
+(Solución A1 y Solución A1.1) o, si no es posible, al menos junto al sellado de fisuras, grietas, encuentros y
+juntas (Solución A2).
+Para comprobar si la efectividad de la solución es adecuada, se medirá la concentración de radón alcanzada
+dentro de los locales habitables tras la intervención.
+
+4. DIFICULTAD DE INSTALACIÓN
+Es una solución que requiere un grado de especialización muy alto puesto que la garantía de su efectividad
+depende de un adecuado diseño y dimensionado.
+
+La efectividad de esta solución depende en gran
+medida de la permeabilidad del sustrato en contacto
+con el edificio y de la estanqueidad del cerramiento en
+contacto con el terreno. Para que su efectividad sea la
+óptima, la permeabilidad del sustrato y la estanqueidad
+del cerramiento tienen que ser altas.
+
+Una de las mayores dificultades radica en asegurar
+que el radio de acción de la despresurización generada alcance toda la planta o muro a proteger teniendo en cuenta las características del sustrato y la
+presencia de zonas poco permeables y obstáculos al
+flujo del aire como rocas, muretes de cimentación o
+zapatas.
+
+5. CÓMO SE CONSIGUE
+Se dispondrán uno o varios elementos de captación
+bajo la solera o tras los muros de sótano conectados
+a un conducto de extracción comunicado con el exterior que, con la ayuda de un extractor, produzca una
+despresurización que permita la evacuación al ambiente exterior de los gases del terreno. Para que sea
+posible captar y extraer el gas radón, los elementos
+de captación se dispondrán en una capa permeable,
+que podrá ser el propio terreno si tiene una permeabilidad adecuada o, en caso contrario, una capa de
+relleno (Figura 1).
+Cuando no sea viable disponer los elementos de captación bajo la solera se podrán colocar en el perímetro del edificio. En este caso la eficiencia se podrá ver
+mermada significativamente.
+(1) Se ha considerado la disposición de una red de tubos perforados con
+capa de relleno y solera
+
+Solución B3 • Despresurización del terreno
+
+1
+2
+3
+4
+
+capa de relleno
+elemento de captación
+conducto de extracción
+extractor
+
+Figura 1 - Componentes del sistema
+
+1
+2
+
+Un técnico especialista determinará la distribución en
+planta y el número de los elementos de captación basándose en el estudio de la cimentación del edificio y
+la permeabilidad al aire del sustrato.
+Si fuese necesario reforzar la despresurización se dispondrán más elementos de captación o se aumentará la potencia del extractor.
+
+a) Elementos de captación
+Los elementos de captación son elementos con muy
+elevada permeabilidad al aire cuya función es la de
+facilitar la entrada del gas desde el terreno o la capa
+de relleno a su interior y facilitar así su concentración
+y evacuación por el conducto de extracción. Podrán
+consistir en arquetas o tubos.
+
+Figura 2 - Distintos tipos de arqueta: prefabricada (arriba), de obra de
+ladrillo (centro) y realizada con un pequeño vaciado (abajo)
+
+Arquetas
+
+Cuando se emplee un vaciado como elemento de
+captación se evitarán los desprendimientos del terreno o
+de la capa de relleno y cuando se construya la solera se
+protegerá para que se mantenga su volumen libre.
+
+Podrán emplearse (Figura 2):
+■
+
+arquetas prefabricadas, generalmente de materiales plásticos;
+
+Red de tubos perforados
+■
+
+■
+
+arquetas de obra, consistentes en un paralelepípedo con tabiques palomeros de ladrillo perforado,
+apoyado directamente sobre el terreno, y con una
+tapa capaz de aguantar el peso de los elementos
+que se dispongan encima;
+pequeños vaciados realizados en el terreno o en la
+propia capa de relleno.
+
+La red de tubos perforados se podrá colocar mediante excavación (Figura 3) o se podrá introducir o hincar.
+Los tubos pueden ser de distintos materiales según
+su forma de colocación:
+■
+
+mediante excavación: tubos de plástico, goma o
+elementos prefabricados de cerámica, hormigón o
+gres;
+
+B3
+
+2
+2
+
+Solución B3 • Despresurización del terreno
+
+■
+
+1
+
+mediante hincado: tubos resistentes como pueden
+ser tubos de plástico rígidos, de acero con una protección plástica o de acero inoxidable.
+
+1
+2
+3
+
+2
+3
+
+arqueta de ladrillo
+capa de relleno
+conducto de extracción
+
+3
+
+tubo perforado
+capa de relleno
+conducto de extracción
+
+2
+
+3
+
+1
+Figura 4 - Capa de relleno alrededor de arqueta de captación
+
+1
+
+2
+
+c) Conducto de extracción
+La función del conducto de extracción es conducir el
+radón desde los elementos de captación hasta el exterior.
+3
+
+2
+
+Un mismo conducto podrá prestar servicio a varios
+elementos de captación.
+
+1
+
+El conducto podrá discurrir por el interior del edificio
+o por el exterior (Figura 5), siendo esta última disposición la más recomendable para evitar la entrada de
+radón en el interior del edificio en caso de fugas en el
+propio conducto o en el encuentro con el forjado.
+Si fuese inevitable atravesar el forjado, los encuentros
+con los conductos se tratarán como se indica en la
+Solución A2 o en la Solución A1.1, según corresponda.
+
+Figura 3 - Tubo perforado instalado mediante excavación. Sección
+transversal (arriba) y sección longitudinal (abajo)
+
+b) Capa de relleno
+La función de la capa de relleno es facilitar la circulación de los gases a través de ella desde el terreno
+hasta los elementos de captación: arquetas y tubos.
+La capa de relleno es especialmente necesaria cuando la permeabilidad del terreno bajo la solera no es
+elevada.
+Suele estar compuesta por una capa de grava (Figura 4).
+
+La expulsión de aire se situará en la cubierta del edificio, aunque podrá emplazarse en la fachada siempre
+y cuando se respete una distancia de al menos 3 m a
+las entradas de aire, puertas, ventanas y zonas donde
+pueda haber personas de forma habitual, como terrazas y balcones.
+
+El conducto tendrá uso exclusivo para la extracción de
+radón, no pudiéndose compartir con la extracción de aire
+de locales ni de humo de aparatos de combustión.
+
+d) Extractor
+Es recomendable la disposición de una capa separadora
+filtrante que impida la entrada de la grava en los
+elementos de captación, como pueda ser un geotextil.
+
+La función del extractor es aumentar la potencia de
+extracción con respecto a la que se obtendría de
+forma natural, incrementando así el radio de acción
+de la despresurización y la eficiencia del sistema.
+
+B3
+
+3
+3
+
+Solución B3 • Despresurización del terreno
+
+1
+2
+
+conducto de extracción
+extractor
+
+2
+
+2
+1
+
+1
+
+2
+1
+
+Figura 5 - Conducto de extracción a cubierta por el interior del edificio (izda.) y por el exterior (centro) y a fachada (drcha.)
+
+Generalmente, un sistema natural de extracción no
+será capaz de extraer de forma eficiente el radón y,
+por lo tanto, garantizar las concentraciones de radón
+adecuadas.
+Es recomendable que el extractor se disponga en el
+exterior del edificio (Figura 5) para, por un lado, limitar
+el riesgo de entrada de radón en el interior del edificio
+en caso de fugas y por otro, proteger a los usuarios
+del ruido. En el caso de que se coloque el extractor en
+el interior del edificio, es preferible que se ubique en
+un local no habitable (Figura 6) próximo al exterior de
+forma que la longitud del conducto desde el extractor
+hasta el exterior sea lo más corta posible.
+
+Los extractores situados en el exterior del edificio serán
+resistentes a la intemperie o se protegerán con algún
+elemento adicional.
+
+Podría emplearse un medidor de radón electrónico
+conectado al extractor, de forma que lo active cuando
+las concentraciones de radón superen un nivel determinado, evitando así su funcionamiento continuo y
+prolongando su vida útil.
+1
+2
+
+1
+
+extractor
+by-pass
+
+extractor
+
+1
+
+2
+
+1
+Figura 7 - By-pass del extractor en el conducto de extracción
+
+Figura 6 - Extractor en local no habitable
+
+6. PUNTOS CRÍTICOS
+Falta de estanqueidad del cerramiento
+
+Podrá ser necesario disponer en el conducto una
+derivación o un by-pass en el conducto de extracción
+que permita evacuar el agua de condensación y filtración
+protegiendo el extractor de posibles averías (Figura 7).
+
+En el caso de que el cerramiento entre el sustrato y el
+interior del edificio no sea lo suficientemente estanco, la despresurización del terreno podría producir
+distintos efectos no deseados como:
+■
+
+generar una depresión en el interior del edificio potenciando la entrada de radón desde el terreno;
+
+B3
+
+4
+4
+
+Solución B3 • Despresurización del terreno
+
+■
+
+disminuir el radio de acción de la despresurización;
+
+■
+
+extraer el aire climatizado del interior del edificio con
+la consiguiente pérdida energética.
+
+Para evitarlo será indispensable realizar un cuidado
+sellado de fisuras, grietas, encuentros y juntas (Solución A2) y conveniente disponer una barrera frente al
+radón (Solución A1) (Figura 8).
+
+la situación existente. Las intervenciones, de menor a
+mayor coste asociado, pueden ser:
+■
+
+instalación de arquetas de captación, si ya se dispone de capa de relleno o terreno permeable;
+
+■
+
+instalación de tubos perforados mediante excavación, si ya se dispone de capa de relleno o terreno
+suficientemente permeable;
+
+■
+
+instalación de tubos perforados o arquetas mediante excavación, con capa de relleno y solera nuevas;
+
+■
+
+instalación de tubos perforados mediante hincado
+o perforación.
+
+El coste que se ha tenido en cuenta en la gráfica al comienzo de esta ficha es el correspondiente a un sistema de despresurización mediante tubos, habiéndose
+dispuesto capa de relleno y solera nuevas.
+1
+2
+3
+
+1
+
+elemento de captación
+conducto de extracción
+hueco de comunicación
+
+3
+2
+
+Figura 9 - Instalación de elementos de captación (izda.) y apertura de
+huecos (drcha.) en caso de obstáculos
+Figura 8 - Disposición de barrera para un correcto funcionamiento
+
+Obstáculos en el sustrato
+Cuando existan diferentes zonas en el sustrato separadas por muretes de cimentación u otros obstáculos
+que supongan un impedimento al flujo de los gases
+del terreno hacia los elementos de captación (Figura
+9), será necesaria la instalación de elementos de captación en todas las zonas o la apertura de huecos de
+comunicación en los obstáculos para permitir el paso
+de los gases de una zona a otra.
+
+7. COSTE
+El coste, aun siendo relativamente alto debido a la
+complejidad de su ejecución, puede variar sustancialmente dependiendo del tipo de intervención y de
+
+B3
+
+5
+5
+
+Solución B3 • Despresurización del terreno
+
+OBSERVACIONES
+Necesidad de un técnico especialista
+Debido a la complejidad de esta solución, es
+fundamental contar con un técnico especialista
+para que realice un diagnóstico de la situación
+existente y un diseño adecuado de la solución.
+Como ya se ha destacado, la despresurización
+será efectiva solo si alcanza toda la planta o muro
+a proteger. Para ello será necesario un diseño y
+dimensionado adecuado del sistema de acuerdo con el sustrato existente. La situación óptima
+sería que el sustrato fuera permeable al aire y homogéneo en toda la superficie. Sin embargo, en
+la mayoría de los casos los sustratos son poco
+permeables y presentan obstáculos al flujo de
+los gases como rocas, muretes de cimentación
+o zapatas.
+
+B3
+
+6
+6
+
+Solución B3 • Despresurización del terreno
+
+Este documento ha sido elaborado por el Instituto de ciencias
+de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+de la Dirección General de Agenda Urbana y Arquitectura del
+Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRANSPORTES, MOVILIDAD
+Y AGENDA URBANA
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE CIENCIA
+E INNOVACIÓN
+
+SECRETARÍA GENERAL DE
+AGENDA URBANA Y VIVIENDA
+DIRECCIÓN GENERAL DE
+AGENDA URBANA Y ARQUITECTURA
+
+Esta ficha forma parte de una serie de documentos englobados
+en una misma publicación, cuyo objetivo es constituir una herramienta de ayuda para el diseño de soluciones de protección
+frente al radón:
+■
+
+Guía de rehabilitación frente al radón
+
+Fichas de soluciones:
+A: De aislamiento del edificio
+■
+■
+■
+■
+■
+
+Solución A1. Barrera frente al radón
+Solución A1-1. Barrera frente al radón. Encuentros
+Solución A2. Sellado de fisuras, grietas, encuentros y juntas
+Solución A3. Puertas estancas
+Solución A4. Creación de sobrepresión
+
+B: De reducción del radón antes de que penetre en los locales
+a proteger
+■
+■
+■
+
+Solución B1. Ventilación del espacio de contención: cámara de aire
+Solución B2. Ventilación del espacio de contención: locales no habitables
+Solución B3. Despresurización del terreno
+
+C: De reducción del radón tras penetrar en los locales a proteger
+■
+
+Solución C1. Ventilación de los locales habitables
+
+El IETcc, perteneciente al Consejo Superior de Investigaciones
+Científicas (CSIC), es el centro de investigación en edificación
+de referencia en España. La Unidad de Calidad en la Construcción del IETcc asesora al MITMA en la elaboración del Código
+Técnico de la Edificación que, desde el año 2019, cuenta con la
+sección HS6 Protección frente a la exposición al radón.
+Dirección y Coordinación:
+Ministerio de Transportes, Movilidad y Agenda Urbana
+Isabel Marcos Anasagasti
+Raquel Lara Campos
+Eduardo González de Prado
+Instituto de ciencias de la construcción Eduardo Torroja CSIC
+Pilar Linares Alemparte
+Autoras:
+Pilar Linares Alemparte
+Sonia García Ortega
+Virginia Sánchez Ramos
+Colaboradora:
+Karina Angélica García Pardo
+Edita:
+Centro de Publicaciones Secretaría General Técnica
+Ministerio de Transportes, Movilidad y Agenda Urbana©
+Entidad colaboradora:
+Consejo Superior de Investigaciones Científicas · CSIC
+Ministerio de Ciencia e Innovación
+Ministerio de Ciencia e Innovación
+Catálogo de publicaciones de la Administración General
+
+del Estado: publicacionesoficiales.boe.es
+Centro virtual de publicaciones del Ministerio de Transpor
+tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+
+Fichas de ejemplos:
+■
+■
+■
+■
+
+Ejemplo A1+B3. Barrera frente al radón + despresurización
+con red de tubos
+Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+Ejemplo A2+B3. Sellado + despresurización con red de tubos
+Ejemplo A2+C1. Sellado + ventilación mecánica de los locales habitables
+
+Página web del Código Técnico de la Edificación:
+www.codigotecnico.org
+
+ 
+
+Maquetación y diseño gráfico:
+Lapizmente. Estrategia • Diseño Gráfico
+
+Publicación completa:
+ISBN: 978-84-498-1045-9
+NIPO: 796-20-136-5
+
+Los contenidos o ideas recogidas en este documento pertenecen a
+sus autores. Este documento está basado en el conocimiento disponible en el momento de su publicación. No se aceptará por las instituciones ni los autores implicados responsabilidad de ningún tipo por el
+uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+y no deben interpretarse como detalles constructivos.
+
+1ª edición: septiembre 2020
+Edición actual: septiembre 2020
+
+Se permite la reproducción total o parcial del contenido de este documento siempre y cuando se cite la fuente original y a sus autores.
+
+B3
+
+7
+7
+
+

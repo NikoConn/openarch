@@ -1,0 +1,6645 @@
+Guía para la cumplimentación de la parte IV del IEE
+Condiciones básicas de protección frente al ruido
+Versión V.1 Noviembre de 2016
+
+INSTITU
+TO
+EDUAR
+DO
+TOR
+ROJA
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Dirección y coordinación
+Luis Vega Catalán
+Mª Cristina Colomo Fernández
+Eduardo González de Prado
+Dirección General de Arquitectura, Vivienda y Suelo. Ministerio de Fomento
+Mª Teresa Carrascal García
+Instituto de Ciencias de la Construcción Eduardo Torroja. IETcc- CSIC
+Autores
+Mª Teresa Carrascal García
+Amelia Romero Fernández
+Mª Belén Casla Herguedas
+Unidad de Calidad en la Construcción del Instituto de Ciencias de la Construcción Eduardo Torroja IETcc- CSIC
+Se agradece la colaboración de
+
+Belén Delgado Giménez
+Fundación FIDAS
+Alberto Esteban González
+C.T.O. Estudios y proyectos – Gikesa
+Giovanni Muzio
+C.T.O. Estudios y proyectos
+Francisco Labastida Azemar
+Arquitecto, asesor CSCAE
+Pedro F. Nogueira López
+Universidad de A Coruña
+Alejandro Sansegundo Sierra
+Acústica SanSegundo
+
+Esta Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido, nace en el marco del
+convenio de colaboración llevado a cabo entre el Ministerio de Fomento y el Instituto de Ciencias de la Construcción Eduardo Torroja y
+forma parte de la estrategia de este Ministerio de generar una serie de documentos de ayuda que faciliten la aplicación de la normativa
+de la edificación y que en este caso concreto, ofrezca a los técnicos criterios para poder realizar una evaluación del estado inicial de las
+edificaciones en lo referente a las condiciones acústicas de las viviendas existentes y plantear medidas que incrementen su confort
+acústico.
+En la redacción de este documento se ha utilizado algunos de los contenidos y de las figuras de la Guía de aplicación del DB HR
+Protección frente al ruido. Dicha guía puede consultarse en:
+http://www.codigotecnico.org/index.php/menu-documentos-complementarios/menu-guia-aplicacion-db-hr
+
+Se permite la reproducción del contenido total o parcial de esta Guía siempre y cuando se haga citando la fuente original.
+
+2
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Índice
+Objeto de este documento .............................................................................................................................. 3
+Estructura de la parte IV del IEE ..................................................................................................................... 4
+
+IV.0. INTRODUCCIÓN ....................................................................................................................................... 8
+IV.1. DATOS GENERALES DEL EDIFICIO (Según CTE-DB-HR) ................................................................... 9
+IV.2. CONDICIONES DE PROTECCIÓN FRENTE AL RUIDO (Según CTE-DB-HR) ..................................11
+IV.2.1 RUIDO EXTERIOR======............................................................................................................................ 11
+IV.2.2 RUIDO INTERIOR. (Particiones verticales) ............................................................................................................ 14
+IV.2.3 RUIDO INTERIOR. (Particiones horizontales) ........................................................................................................ 19
+IV.2.4 RUIDO INTERIOR (Uniones) ................................................................................................................................. 22
+IV.2.5 RUIDO DE INSTALACIONES/ RECINTOS DE ACTIVIDAD .................................................................................. 24
+
+IV.3. VALORACIÓN DE LAS PRESTACIONES BÁSICAS DE PROTECCIÓN FRENTE AL RUIDO ...........29
+IV.4. RECOMENDACIONES PARA LA MEJORA DE PROTECCIÓN FRENTE AL RUIDO .........................33
+IV.4.1 MEDIDAS DE MEJORA .......................................................................................................................................... 33
+IV.4.2 POTENCIAL DE LAS MEDIDAS DE MEJORA ....................................................................................................... 36
+IV.4.3 INCIDENCIA DE LAS MEDIDAS DE MEJORA SOBRE OTRAS PRESTACIONES. TRANSVERSALIDAD .......... 37
+
+IV.5. PRUEBAS Y COMPROBACIONES REALIZADAS POR EL TÉCNICO ................................................38
+IV.6. OBSERVACIONES ..................................................................................................................................40
+
+Anejo 1. Parte IV del Informe de Evaluación del Edificio ...........................................................................41
+Anejo 2. Valoración del aislamiento acústico de elementos de separación verticales y sus mejoras. 43
+A2.1 Valoración de las prestaciones básicas de protección frente al ruido ....................................................................... 43
+A2.2 Medidas de mejora ................................................................................................................................................... 44
+A2.3 Potencial de las medidas de mejora ......................................................................................................................... 50
+
+Anejo 3. Valoración del aislamiento acústico de elementos de separación horizontales y sus mejoras
+..........................................................................................................................................................................51
+A3.1 Valoración de las prestaciones básicas de protección frente al ruido ....................................................................... 51
+A3.2 Medidas de mejora ................................................................................................................................................... 52
+A3.3 Potencial de las medidas de mejora ......................................................................................................................... 55
+
+3
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Objeto de este documento
+Este documento sirve de ayuda y apoyo para la cumplimentación de la parte IV sobre Condiciones básicas
+de protección frente al ruido del Informe de Evaluación del Edificio o IEE, de carácter voluntario.
+El IEE está regulado según el RDL 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la
+Ley de Suelo y Rehabilitación Urbana.
+Es un documento en el que se acredita la situación en la que se encuentran los edificios al menos en
+relación a los siguientes aspectos:
+− Su estado de conservación.
+− El cumplimiento de la normativa vigente sobre accesibilidad universal.
+− La eficiencia energética.
+No obstante, en el contexto actual en el que las
+
+intervenciones en edificios existentes presentan
+
+habitualmente un importante potencial de mejora en el ámbito de la acústica y en el que las deficientes
+prestaciones acústicas del edificio son uno de los motivos fundamentales de las quejas de los usuarios
+como se pone de manifiesto en las encuestas de condiciones de vida del INE, se ha incorporado al IEE una
+parte IV sobre:
+− Condiciones básicas de protección frente al ruido.
+A diferencia del resto de partes, la parte IV del IEE sobre las Condiciones básicas de protección frente al
+ruido es de carácter voluntario, aun así, esta parte se ofrece para que los técnicos evalúen las condiciones
+acústicas de los edificios de viviendas colectivas y asimilables: hoteles, residencias, etc. como paso previo a
+la posibilidad de realizar propuestas de mejora acústica.
+
+El IEE se divide en cuatro partes correspondientes a cada uno de los aspectos mencionados y la
+información se muestra en forma de hojas de chequeo. Existe una aplicación web disponible para la
+realización del IEE, en https://iee.fomento.gob.es/.
+
+La parte IV del IEE está formada por una introducción y 5 apartados donde se describen las condiciones
+acústicas de protección frente al ruido del edificio. Los apartados IV.1 y IV.2 son apartados descriptivos
+cuyo fin es el de detectar los puntos críticos desde el punto de vista acústico. El resto de los apartados
+están dedicados a la valoración, recomendaciones y pruebas efectuadas en el edificio.
+
+El documento presente sigue la misma estructura que la parte IV del IEE, sus apartados se numeran de
+forma idéntica. En cada apartado se muestra en primer lugar el checklist original de la parte IV del IEE y a
+continuación diversas indicaciones o aclaraciones de ayuda. Esta información puede completarse
+
+4
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+consultando otros documentos de apoyo desarrollados para la aplicación del DB HR, como la Guía de
+Aplicación del DB HR o el Catálogo de Elementos Constructivos del CTE.
+
+Este documento debe leerse conjuntamente con el IEE, que se recoge de forma íntegra en el Anejo 1.
+
+5
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Estructura de la parte IV del IEE
+A continuación se recoge una breve descripción de cada uno de los apartados de la parte IV del IEE:
+IV.0 INTRODUCCIÓN
+IV.1. DATOS GENERALES DEL EDIFICIO (Según CTE-DB-HR)
+Ubicación del edificio y tipo de afección de ruido. Distribución del edificio
+IV.2 CONDICIONES DE PROTECCIÓN FRENTE AL RUIDO (Según CTE-DB-HR)
+Evaluación de diferentes aspectos de la acústica del edificio según el tipo de ruido y el tipo de elementos
+constructivos implicados
+IV.2.1
+
+RUIDO EXTERIOR
+Fachadas y cubiertas del edificio
+
+IV.2.2
+
+RUIDO INTERIOR (Particiones verticales)
+Elementos de separación verticales entre viviendas o con zona común y los tabiques.
+
+IV.2.3
+
+RUIDO INTERIOR (Particiones horizontales)
+Elementos de separación horizontales (forjado, suelo flotante y techo suspendido)
+
+IV.2.4
+
+RUIDO INTERIOR (Uniones)
+Formas de unión entre elementos constructivos.
+
+IV.2.5
+
+RUIDO DE INSTALACIONES / RECINTOS DE ACTIVIDAD
+Recintos de instalaciones y de actividad, equipos y redes de instalaciones.
+
+IV.3 VALORACIÓN FINAL DE LAS PRESTACIONES BÁSICAS DE PROTECCIÓN FRENTE AL RUIDO
+Para cada uno de los apartados estudiados previamente (ruido exterior, ruido interior y ruido de las
+instalaciones) debe establecerse una valoración en términos de “Bueno”, “Razonable”, “Regular” y
+“Deficiente”.
+IV.4 RECOMENDACIONES PARA LA MEJORA DE PROTECCIÓN FRENTE AL RUIDO
+Si el edificio así lo requiere deben proponerse aquellas medidas de mejora de las condiciones acústicas que
+se consideren necesarias.
+IV.4.1
+
+MEDIDAS DE MEJORA
+Descripción de cada una de las medidas de mejora propuestas: descripción técnica, valoración
+económica, etc.
+
+IV.4.2
+
+POTENCIAL DE LAS MEDIDAS DE MEJORA
+
+6
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Para cada una de las medidas de mejora propuestas debe evaluarse el potencial de mejora dentro
+de la prestación acústica correspondiente de las estudiadas en los apartados anteriores.
+IV.4.3
+
+INCIDENCIA DE LAS
+TRANSVERSALIDAD
+
+MEDIDAS
+
+DE
+
+MEJORA
+
+SOBRE
+
+OTRAS
+
+PRESTACIONES.
+
+Debe especificarse si las medidas de mejora propuestas tienen alguna incidencia (positiva o
+negativa) sobre otras prestaciones del edificio. Debe atenderse a la transversalidad entre requisitos.
+IV.5 PRUEBAS Y COMPROBACIONES REALIZADAS POR EL TÉCNICO
+Se especificarán, si procede, las pruebas realizadas por el técnico para realizar la valoración de las
+prestaciones acústicas. Estas prueban pueden comprender desde imágenes tomadas en una inspección
+visual del edificio, recintos y sistemas constructivos en busca de puntos críticos detectables, hasta la
+realización de calas y/o catas, ensayos de aislamiento acústico e incluso la realización de encuestas de
+confort acústico a los usuarios del edificio objeto de la rehabilitación.
+IV.6 OBSERVACIONES
+Se podrán cumplimentar en este apartado todas aquellas consideraciones que resulten de interés para la
+evaluación, valoración y mejora de las condiciones de Protección frente al Ruido del edificio y que completen
+los datos recopilados en los apartados previos.
+
+7
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.0. INTRODUCCIÓN
+IV.0. INTRODUCCIÓN
+El apartado de Protección frente al Ruido (DB HR) del Informe de Evaluación del Edificio (IEE) consiste en una evaluación
+preliminar de las condiciones acústicas de un edificio existente. Si bien el IEE realiza un informe general acerca del
+estado del edificio, el estudio de las prestaciones acústicas no puede generalizarse a nivel de edificio completo pues la
+acústica del edificio no es un problema global sino que va ligado a las características tanto geométricas como
+constructivas de cada vivienda y recinto individual. Las exigencias de aislamiento acústico se establecen sobre recintos
+concretos y dependen del tipo de colindancia que exista con los demás recintos del edificio.
+El IEE plantea una serie de cuestiones desde el punto de vista acústico sobre la distribución de los recintos dentro de la
+vivienda y en relación a otras viviendas, zonas comunes y otros recintos del edificio. Otras cuestiones son relativas a la
+tipología de elementos constructivos, a las deficiencias acústicas que puedan presentar y a las instalaciones del edificio.
+Muchas de estas cuestiones no van a ser detectables en una inspección visual preliminar; sin embargo, son un indicativo
+de aquellos puntos críticos que son determinantes en la acústica de edificios y que pueden y deben tenerse en cuenta
+en una situación futura si se aborda una rehabilitación acústica del edificio o si se acusa un problema existente de ruido,
+ya que pueden utilizarse como guión o lista de chequeo a seguir durante las intervenciones o pueden ser unas
+indicaciones útiles para diagnosticar dicho problema de ruido.
+Para poder realizar una valoración de las prestaciones acústicas de un edificio existente, es fundamental que el técnico
+realice un estudio de cuáles son las vías de transmisión del ruido existentes y localice aquéllas que pueden ser
+dominantes en el comportamiento acústico final de los recintos.
+Por otra parte, existen una serie de pruebas de diagnosis acústica que pueden realizarse al margen de lo indicado en el
+IEE. Por ejemplo, ensayos de aislamiento acústico, cuestionarios de confort acústico, etc.
+En los apartados siguientes se dan una serie de indicaciones que ayudan a cumplimentar los apartados de acústica del
+Informe de Evaluación del Edificio. Esta información puede completarse consultando otros documentos de apoyo
+desarrollados para la aplicación del DB HR como son la Guía de Aplicación del DB HR y el Catálogo de Elementos
+Constructivos del CTE.
+El contenido de “Condiciones básicas de Protección frente al Ruido” del IEE se aplica en el caso de uso residencial
+vivienda.
+
+8
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.1. DATOS GENERALES DEL EDIFICIO (Según CTE-DB-HR)
+(1)
+
+IV.1. DATOS GENERALES DEL EDIFICIO (Según CTE-DB-HR)
+Localización del edificio ❶
+- Tipo de área acústica en la que se ubica el edificio: ❷
+- Índice de ruido día, Ld de la zona o de las fachadas del edificio: ❸
+- Si no está disponible el valor de los mapas de ruido: ❹
+• Indicar el valor del objetivo de calidad acústica según RD 1367/2007: ❺ ______
+• Indicar el valor obtenido de un estudio específico: _________________________
+- El edificio se encuentra en una zona con ruido exterior dominante de aeronaves, tal
+como en la huella acústica de un aeropuerto ❻
+- Existen fachadas de patios de manzana cerrados, patios interiores o fachadas exteriores
+en entornos tranquilos no expuestas directamente al ruido de automóviles, aeronaves, de
+actividades industriales, comerciales o deportivas. ❼
+Distribución de la vivienda ❽❾
+- Los recintos protegidos en el edificio
+• Colindan con otros recintos protegidos de otras viviendas
+• Colindan con recintos habitables de otras viviendas
+• Colindan con recintos de instalaciones o actividad
+• Colindan con un ascensor
+• Colindan con zona común
+- Existen recintos de instalaciones o de actividad en el edificio
+En caso afirmativo:
+• Colindan con recintos habitables
+• Colindan con zonas comunes
+OBSERVACIONES:
+
+(1)
+(2)
+
+(2)
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+ No
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+ NS
+ NS
+ NS
+
+ No
+ No
+
+ Si
+ Si
+
+ NS
+ NS
+
+Los datos reflejados en este apartado son complementarios a los indicados en la Parte “Datos generales del Edificio”
+NS: Se desconoce
+
+❶
+
+administraciones y que están disponibles en el Sistema
+de Información sobre Contaminación Acústica, SICA,
+creado por el RD 1513/2005: http://sicaweb.cedex.es/.
+
+La ubicación del edificio es importante en relación al
+nivel de ruido exterior al que están expuestos los
+recintos protegidos del edificio, que son los que deben
+protegerse del ruido exterior.(Véase apartado 2.1.1 del
+DB HR).
+
+Esta web contiene los mapas de ruidos de
+aglomeraciones urbanas1, grandes ejes viarios,
+ferroviarios y grandes aeropuertos. Para municipios de
+menor tamaño, puede consultarse la página web del
+ayuntamiento, por si existiera mapa de ruido o un
+estudio acústico del área en la que se ubica el edificio.
+
+Esta información sobre ruido ambiental es un indicador
+de la necesidad de aislamiento acústico de las fachadas.
+Para determinar dicho nivel de ruido exterior es
+necesario cumplimentar los puntos que figuran a
+continuación.
+❷
+
+❸
+
+❹
+
+Tipo de área acústica donde está ubicado el edificio.
+Las áreas acústicas están definidas en el RD 1367/2007
+y son áreas urbanizadas a las que se aplican unos
+determinados objetivos de calidad acústica en función
+del uso predominante del suelo. Véase tabla IV.1.1.
+Índice de ruido día, Ld, de la zona donde se ubica el
+edificio. El valor de Ld puede consultarse en los mapas
+estratégicos
+de
+ruido,
+realizados
+por
+las
+
+1
+
+En caso de que el valor Ld no esté disponible, debe
+usarse una de las siguientes dos opciones:
+-
+
+El valor del objetivo de calidad acústica del área
+en el que se encuentra el edificio (Véase ❺)
+
+-
+
+El valor de Ld obtenido tras un estudio específico.
+
+Se consideran aglomeraciones urbanas los núcleos de
+población con más de 100.000 habitantes delimitados por la
+administración.
+
+9
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+❺
+
+cuenta en la valoración del aislamiento acústico de la
+fachada. Véase apartado IV sobre la valoración de las
+condiciones acústicas.
+
+El valor del objetivo de calidad acústica del área en la
+que se encuentra el edificio. Véase tabla IV.1.1
+Tabla IV.1.1. Valores del índice de ruido día en los
+sectores con predominio de uso diferente del uso
+residencial, en los casos en los que no se dispongan de
+datos oficiales provenientes de los mapas de ruido.
+Tipo de área acústica2
+
+E
+
+A
+
+Índice de
+ruido día,
+Ld
+
+Sectores del territorio con predominio de
+suelo de uso sanitario, docente,
+cultural, que requiera una especial
+protección contra la contaminación
+acústica
+
+60
+
+Sectores del territorio con predominio de
+suelo de uso residencial
+
+603
+
+C
+
+Sectores del territorio con predominio de
+suelo de uso recreativo y de
+espectáculos
+
+D
+
+Sectores del territorio con predominio de
+suelo de uso terciario distinto del
+contemplado en C
+
+70
+
+B
+
+Sectores del territorio con predominio de
+suelo de uso industrial
+
+75
+
+F
+
+Sectores del territorio afectados a
+sistemas generales de infraestructuras
+de transporte u otros equipamientos
+públicos que los reclamen
+
+❻
+
+❽
+
+Las cuestiones planteadas en este apartado van
+encaminadas a detectar qué tipo de recintos tiene el
+edificio (protegidos, habitables, etc.) y cuál es la
+distribución de los recintos dentro de la vivienda y en
+relación a otros recintos del edificio susceptibles de
+generar ruido como recintos de instalaciones, actividad,
+zonas comunes, etc.
+El diseño y la distribución del edificio y de la vivienda
+juegan un papel fundamental en el confort acústico final
+ya que una u otra distribución puede resultar más o
+menos favorable acústicamente.
+A continuación se indican algunas situaciones4 que, en
+combinación con un aislamiento acústico pobre, pueden
+dar lugar a insatisfacción y quejas:
+
+73
+
+Sin
+determinar
+
+Predominancia de ruido de aeronaves. Si el nivel de
+ruido indicado se debe a ruido dominante de aeronaves,
+por ejemplo por encontrarse el edificio dentro de la
+huella acústica de un aeropuerto, debe tenerse en
+cuenta en la valoración del aislamiento acústico de la
+fachada, ya que son edificios donde el aislamiento
+acústico de las fachadas es más importante. Véase
+apartado IV sobre la valoración de las condiciones
+acústicas.
+
+❾
+
+-
+
+Recintos habitables, como baños y cocinas,
+colindantes con dormitorios de otras unidades de
+uso.
+
+-
+
+Caja de escalera comunitaria
+dormitorios y estancias.
+
+-
+
+Huecos del ascensor situados al lado de recintos
+protegidos.
+
+-
+
+Recintos de instalaciones o de actividad situados
+al lado de recintos protegidos de viviendas, como
+estancias y dormitorios.
+
+-
+
+Equipos como las unidades exteriores de HVAC
+sin cerramientos o barreras acústicas cercanos a
+ventanas o situados en el interior de patios.
+
+-
+
+Grandes ventanas y balcones enfrente de fuentes
+de ruido como autopistas, vías de tren, etc.
+
+-
+
+Garajes comunitarios y puertas
+situadas debajo de las viviendas.
+
+-
+
+Recintos ruidosos (restaurantes, bares, cafeterías,
+etc.), colindantes con recintos protegidos.
+
+adyacente
+
+a
+
+automáticas
+
+En este apartado, el término “colindante” se refiere a
+colindantes vertical y horizontalmente.
+
+La información sobre las zonas dentro de la huella
+acústica de cada aeropuerto puede encontrarse en el
+Sistema de Información sobre Contaminación Acústica,
+SICA, http://sicaweb.cedex.es/ o en la web de AENA,
+http://www.aena.es/, para los aeropuertos más
+importantes.
+❼
+
+Cuando se verifica esta circunstancia, se considera que
+estas fachadas están expuestas a un índice de ruido
+día, Ld, 10 dB menor que el índice de ruido día de la
+zona en la que se ubica el edificio. Esto debe tenerse en
+
+2
+
+Según la Ley 37/2003 de 17 de noviembre, del Ruido, área
+acústica es aquel ámbito territorial, delimitado por la
+administración competente, que tiene un mismo objetivo de
+calidad acústica.
+3
+Según el DB HR, cuando no se disponga de datos oficiales
+del índice de ruido día, Ld, se aplicará el valor de 60 dBA para
+el tipo de área acústica relativo a sectores de territorio con
+predominio de suelo de uso residencial.
+
+4
+
+Puede consultarse la definición de cada uno de los tipos de
+recintos (“habitable”, “protegido”, “ruidoso”, etc.) en el Anejo A
+del DB HR.
+
+10
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.2. CONDICIONES DE PROTECCIÓN FRENTE AL RUIDO (Según CTE-DB-HR)
+IV.2.1 RUIDO EXTERIOR
+IV.2. CONDICIONES DE PROTECCIÓN FRENTE AL RUIDO (Según CTE-DB-HR) ❶
+IV.2.1. RUIDO EXTERIOR ❷
+ELEMENTOS CONSTRUCTIVOS:
+FACHADAS ❸
+ LIGERAS: Madera, panel sándwich, ventilada ligera, etc.
+2
+ PESADAS: Fachada con al menos una hoja de fábrica u hormigón de al menos 135 kg/m
+CUBIERTAS ❹
+ LIGERAS: Madera, panel sándwich, etc.
+ Dispone de un techo suspendido con material absorbente acústico
+ No  Si
+ NS
+ PESADAS: El soporte resistente es un forjado o losa de hormigón
+VENTANAS Y LUCERNARIOS ❺
+Vidrios
+Sistema de apertura
+ Sencillas
+ Acristalamiento simple
+ Correderas
+ Dobles
+ Acristalamiento doble
+ Abatibles y oscilobatientes
+ Acristalamiento triple
+ Fijo
+ Vidrios laminados
+(3)
+Localización de los tipos de ventanas : ❻
+
+CAPIALZADOS ❼
+- Existen capialzados
+En caso afirmativo, indique:
+• Existen capialzados no prefabricados con tapa interior registrable
+• El capialzado dispone de aislamiento acústico en el interior
+AIREADORES ❽
+- Existen aireadores en las ventanas o en la fachada
+En caso afirmativo, los aireadores disponen de aislamiento acústico
+CARACTERÍSTICAS ADICIONALES ❾
+Se percibe ruido como molesto procedente del exterior
+ESTADO DE CONSERVACION Y DEFICIENCIAS ❿
+- En general:
+• Las fachadas están en buen estado de conservación
+• Las cubiertas están en buen estado de conservación
+• Las ventanas y lucernarios están en buen estado de conservación
+• Los capialzados están en buen estado de conservación
+(4)
+(5)
+Observaciones y localización de deficiencias
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+
+ Si
+ Si
+
+ NS
+ NS
+
+ No
+ No
+
+ Si
+ Si
+
+ NS
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+ NS
+
+OBSERVACIONES: ⓫
+
+3)
+
+La localización de los diferentes tipos de ventanas sólo es relevante en aquellos casos en los que distintas fachadas estén expuestos a niveles de
+ruido exterior (Ld) diferentes y también para localizar las ventanas más desfavorables.
+(4)
+Deben indicarse las deficiencias observadas en los elementos, como por ejemplo:
+• Las carpinterías muestran signos de deterioro, holguras, huecos, fisuras, deformaciones, pérdida de sellado
+• El capialzado está deteriorado o es poco estanco
+• En el capialzado existe excesiva holgura (> 10mm ) al recoger la persiana
+(5)
+No es necesario rellenar si las deficiencias son generalizadas en todo el edificio. Rellénese para destacar alguna deficiencia aislada relevante.
+
+11
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+❶
+
+aislamiento acústico de una cubierta ligera. Véase el
+Catálogo de Elementos Constructivos del CTE.
+
+Este apartado del Informe de Evaluación del Edificio
+recoge todos los datos relativos a los elementos
+constructivos que conforman el edificio. Cada apartado
+se estructura de manera que primero aparecen todos los
+datos relacionados con la descripción de los elementos
+constructivos y a continuación las características de
+conservación y posibles patologías y/o deficiencias que
+puedan presentar y que pueden ser críticas desde el
+punto de vista del aislamiento acústico.
+
+❺
+
+Se tratan los aspectos siguientes:
+-
+
+Ruido exterior (Fachadas y cubiertas);
+
+-
+
+Ruido interior:
+
+❸
+
+Particiones verticales;
+
+•
+
+Particiones horizontales;
+
+•
+
+Uniones.
+
+Deben indicarse los siguientes aspectos relacionados
+con el tipo de ventana y vidrios que predominan en la
+fachada:
+-
+
+Tipo de ventana: Sencillas o doble. Las ventanas
+dobles suelen tener un aislamiento mucho mejor
+que las ventanas sencillas.
+
+De cara a la valoración de las prestaciones básicas de
+protección frente al ruido, apartado IV.3 del IEE, es
+conveniente determinar si las distintas fuentes de ruido
+(exterior, aéreo, impactos, equipos de instalaciones=)
+se perciben como molestas. Esta cuestión trata de
+identificar si alguna de las fuentes es un motivo de
+quejas. Para contestarla puede preguntarse a los
+usuarios o realizar un cuestionario, ya que son los que
+mejor pueden valorar el grado de satisfacción con su
+edificio.
+
+-
+
+Tipo de vidrio de las ventanas: Acristalamiento
+sencillo, doble o triple. Independientemente de
+esta clasificación, debe indicarse si alguna de las
+hojas está formada por vidrios laminados. En
+general, los vidrios dobles en la que una de las
+hojas está formada por vidrios laminados con
+intercalario acústico tienen mejores prestaciones
+que los vidrio dobles y sencillos.
+
+Para la evaluación de la protección del ruido exterior,
+deben inspeccionarse los elementos que forman la
+envolvente del edificio: fachada y cubierta. Es
+importante destacar que esta evaluación debe hacerse
+para la envolvente de los recintos protegidos de los
+edificios, es decir, para los salones, dormitorios,
+comedores, etc., no para los recintos habitables como
+cocinas, baños o pasillos.
+
+-
+
+-
+
+❷
+
+•
+
+Ruido de instalaciones/ Recintos de actividad
+
+Véase el Catálogo de Elementos Constructivos del
+CTE.
+
+❻
+
+El aislamiento acústico de una fachada está limitado por
+el aislamiento de la parte más débil, que suele ser el
+hueco y la caja de persiana.
+Las fachadas construidas con alguna hoja de fábrica
+cuya masa excede de 135 kg/m2 se consideran pesadas
+y tienen un aislamiento acústico mayor que las
+ventanas, de tal forma que el aislamiento global de los
+recintos respecto al exterior está definido por los
+huecos, siendo la influencia de la parte opaca pequeña.
+
+Sistema de apertura: Ventanas correderas,
+abatibles y fijas. Las ventanas correderas suelen
+tener peor aislamiento acústico que las ventanas
+abatibles, oscilobatientes y fijas.
+
+Localización de los diferentes tipos de ventana. Con la
+parte IV del IEE se realiza una valoración general de las
+condiciones acústicas del edificio; con este punto no se
+pretende obtener una descripción pormenorizada de
+cada tipo de ventana existente y su localización, sino de
+detectar aquéllos casos más representativos, con
+especial interés en aquellos que son más desfavorables.
+En general los peores casos son aquéllos en los que los
+recintos protegidos salones, comedores y especialmente
+dormitorios, cuentan con ventanas mayores y están
+expuestos a niveles de ruido superiores.
+Por ejemplo, si en un edificio en una zona expuesta a
+niveles altos de ruido, casi todos los propietarios han
+instalado dobles ventanas, excepto en un par de
+viviendas, debe indicarse cuáles son estos últimos
+casos, que son los más desfavorables.
+
+En cambio, si se trata de una fachada ligera, su
+aislamiento acústico puede ser similar o menor que el de
+las ventanas, en tales casos es importante indicar este
+aspecto en el IEE. Véase apartado 1.3.1.4 de la Guía de
+Aplicación del DB HR.
+
+❹
+
+La ventana, conjuntamente con la caja de persiana
+(Véase ❼), define de manera decisiva el aislamiento
+acústico de la envolvente. El aislamiento acústico de la
+ventana depende del espesor de los vidrios y de
+aspectos que mejoran el grado de estanquidad de la
+misma, como son el sistema de apertura, la existencia
+de juntas de estanquidad en el marco, sellados de
+silicona en los vidrios y los puntos de cierre en la misma.
+El material de la carpintería, así como el tipo de
+tratamiento superficial del vidrio no tiene incidencia en
+las prestaciones acústicas de la ventana.
+
+También debe indicarse en qué porcentaje aparecen los
+diferentes tipos de ventanas, lo que sirve de ayuda para
+valorar las prestaciones del edificio con respecto al ruido
+exterior que se realiza en el apartado IV.3.
+
+Una cubierta que no tenga huecos y sea pesada, es
+decir, cuyo soporte resistente tenga una masa por
+unidad de superficie mayor que 100 kg/m2, como por
+ejemplo, un forjado, no plantea problemas de
+aislamiento acústico. En cambio, si tiene lucernarios, el
+aislamiento acústico global del conjunto está limitado por
+el aislamiento acústico de los mismos.
+
+Además, en caso de que un edificio tenga fachadas
+expuestas a niveles de ruido diferentes, debe indicarse
+qué tipos de ventanas están en cada fachada y en qué
+porcentaje aproximado aparecen por cada fachada
+expuesta a ruidos diferentes.
+
+Cuando se trata de cubiertas ligeras, su aislamiento
+acústico es menor y puede ser similar o menor que el de
+los lucernarios, en tal caso es importante indicar este
+aspecto en el IEE. Véase apartado 1.3.1.4 de la Guía de
+Aplicación del DB HR.
+
+❼
+
+La presencia de un falso techo con un material
+absorbente en la cámara aumenta en gran medida el
+
+12
+
+El principal problemas de los capialzados es su falta de
+estanquidad, ya que son un punto de penetración de
+aire y ruido en el edificio cuando se instalan en la hoja
+interior de la fachada. La transmisión de ruido se
+produce a través de la holgura entre de la caja de
+persiana y la persiana, la guía y la tapa de registro de la
+persiana. Véase figura IV.2.1.
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.2.1.a
+
+❾
+
+Esta información puede obtenerse al preguntar a los
+usuarios del edificio.
+
+❿
+
+Las siguientes deficiencias están relacionadas con la
+pérdida de estanquidad e implican una pérdida del
+aislamiento acústico:
+-
+
+Carpinterías que presentan signos de deterioro
+como holguras, huecos, fisuras, deformaciones,
+pérdidas de sellado.
+
+-
+
+Capialzados deteriorados cuya tapa interior sea
+poco estanca
+
+-
+
+Excesiva holgura (≥10 mm) al recoger la persiana
+(Véase figura un ejemplo en la figura IV.2.2)
+
+IV.2.1.b
+
+Figura IV.2.1. Esquema de capialzado y su aislamiento
+acústico. La figura IV.2.1.a muestra la principal vía de
+penetración del sonido y el aire en los capialzados. La
+figura IV.2.1.b muestra que al disponer de una doble
+ventana, se elimina está vía de transmisión.
+Los capialzados prefabricados presentan mejor
+aislamiento acústico que los ejecutados in situ. Según el
+CEC un capialzado prefabricado sin aislante en el
+tambor tiene un RA,tr de 25 dBA, si cuenta con
+absorbente acústico en el tambor, su RA,tr subiría hasta
+30 dBA. Estos valores limitan el aislamiento acústico de
+las fachadas.
+❽
+
+Figura IV.2.2. Interior de un capialzado. Puede
+verse la holgura excesiva de la persiana.
+
+El aireador es un dispositivo que permite la admisión de
+aire exterior. Hay una amplia variedad de aireadores que
+permiten su integración en el marco de la ventana, el
+capialzado o incluso la fachada.
+
+Cuando las deficiencias de la envolvente están
+localizadas, se indicará los recintos en los que se
+encuentran en el apartado de observaciones.
+
+Desde el punto de vista del aislamiento acústico, lo
+importante es determinar si el aireador tiene aislamiento
+acústico en su interior, generalmente formado por un
+material absorbente acústico. La fricción del aire con las
+fibras del material absorbente acústico al pasar a través
+dl aireador produce una disminución del ruido que
+penetra en la vivienda.
+
+⓫
+
+13
+
+En este apartado puede consignarse cualquier aspecto
+no comentado anteriormente que pueda influir en el
+aislamiento acústico de fachadas y cubiertas.
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.2.1 RUIDO INTERIOR (Particiones verticales)
+IV.2.2. RUIDO INTERIOR (Particiones verticales)
+PARTICIONES VERTICALES:
+ELEMENTOS DE SEPARACIÓN VERTICALES ENTRE VIVIENDAS ❶
+ El elemento de separación vertical entre viviendas es de FÁBRICA: ❷
+ 1 hoja
+ 2 hojas ❺
+Tipo de hojas de fábrica:
+ Sin trasdosar ❸
+ Con absorbente acústico en la
+ Ladrillo perforado o macizo > ½ pie
+cámara
+ Ladrillo perforado o macizo a ½ pie
+ Con trasdosado ❹
+ Con bandas elásticas en la base
+ Ladrillo hueco a ½ pie
+ Por una cara
+ Por ambas caras
+de alguna de las particiones
+ Ladrillo hueco > 7 cm
+ Con material
+ Ladrillo hueco ≤ 7 cm
+ Otros, indicar:_________________
+absorbente acústico
+ Está revestido por un enlucido, enfoscado, alicatado, etc.
+ El elemento de separación vertical entre viviendas es de ENTRAMADO AUTOPORTANTE METÁLICO:❻
+ 1 hoja. Espesor: _______
+ 2 hojas. Espesor: _______
+ Con absorbente acústico en la cámara
+ El elemento de separación vertical entre viviendas es de ENTRAMADO DE MADERA CON RELLENO DE YESONES,
+FÁBRICA, ETC. ❼
+Espesor: _______
+ Está revestido por un enlucido, enfoscado, alicatado, etc.
+ Otros, indicar ________________________________________________________
+ESTADO DE CONSERVACION Y DEFICIENCIAS ❽
+En general, los elementos de separación verticales están en buen estado de conservación
+ No
+ Si
+ NS
+(6)
+Observaciones y localización de deficiencias
+CARACTERÍSTICAS ADICIONALES ❾
+- Existen pilares que conectan dos recintos de distinta vivienda ❿
+En caso afirmativo, están revestidos o forrados
+- Existen instalaciones que conectan dos recintos de distinta vivienda ⓫
+- Existen instalaciones que atraviesan dos recintos de distinta vivienda ⓬
+- Existen huecos o conductos de instalaciones adosados al elemento de separación vertical
+⓭
+
+En caso afirmativo:
+• Se percibe el ruido como molesto en los recintos adyacentes
+• Están revestidos, forrados o sellados
+- Existen tuberías ancladas al elemento de separación vertical ⓮
+TABIQUES ⓯
+ Los tabiques son de FÁBRICA:
+ Con revestimiento (enlucido, enfoscado, alicatado, etc.)
+ Con bandas elásticas en la base
+
+ No
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+ NS
+
+ No
+ No
+
+ Si
+ Si
+
+ NS
+ NS
+
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+
+ Ladrillo perforado o macizo a ½ pie
+ Ladrillo hueco a ½ pie
+ Ladrillo hueco > 7 cm
+ Ladrillo hueco ≤ 7 cm
+ Otros, indicar: ___________________
+
+ Los tabiques son de ENTRAMADO AUTOPORTANTE METÁLICO
+Espesor: _______
+ Los tabiques son de ENTRAMADO DE MADERA CON RELLENO DE YESONES, FÁBRICA, ETC.
+Espesor: _______
+ZONA COMÚN ⓰
+- Las puertas de acceso a la vivienda son acústicamente favorables ⓱
+ No
+- Existe un hall, pasillo o vestíbulo con puerta previo a los recintos protegidos ⓲
+ No
+OBSERVACIONES: ⓳
+
+14
+
+ Si
+ Si
+
+ NS
+ NS
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+(6)
+
+❶
+
+Deben indicarse las deficiencias observadas en los elementos, como por ejemplo:
+• La existencia de fisuras y/o grietas
+• Que el revestimiento (enlucido u otro) o el material absorbente acústico estén deteriorados
+• Que las hojas estén conectadas rígidamente por algún elemento, instalación, etc.
+• Si existen bandas elásticas, que éstas no sobresalgan por los laterales de la partición
+• Si existen rozas, éstas no se encuentran macizadas o retacadas
+• Si existen cajas de mecanismos eléctricos o enchufes, éstos están enfrentados, atraviesan el elemento y son pasantes a ambos lados de
+la partición, etc.
+
+Estas tipologías responden al comportamiento acústico
+de los elementos constructivos.
+
+Debe indicarse el tipo de elementos de separación
+verticales entre viviendas predominantes en el edificio
+La figura IV.2.3 muestra los tipos de elementos de
+separación verticales que están recogidos en el IEE.
+
+a
+
+b
+
+c
+
+d
+e
+f
+Figura IV.2.3. Tipología de particiones del IEE. a) Particiones de una hoja (fábrica de ladrillo, bloque de hormigón, mampuesto,
+sillerías, tapial, adobe, etc. b) De una hoja con trasdosado/s. c) de dos hojas de fábrica. d) particiones de dos hojas de entramado
+metálico autoportante. e) particiones sencillas de entramado autoportante. f) particiones de entramado de madera.
+
+❷
+
+Particiones de fábrica. Se consideran particiones de
+fábrica aquéllas en las que al menos una hoja es de
+fábrica de ladrillo, bloque de hormigón, mampuesto,
+sillería, tapial, adobe, etc.
+
+❸
+
+Particiones de fábrica de una hoja5.
+
+estructura de madera, como en edificios de estructuras
+de hormigón o metálica, los muros portantes de más de
+1 pie de espesor (25 cm), presentan un aislamiento
+acústico a ruido aéreo aceptable, suficiente como para
+no causar molestias graves cuando se trata de una
+actividad vecinal normal. Sin embargo, las particiones de
+una hoja de fábrica más ligeras, especialmente aquéllas
+de ladrillo hueco, presentan un aislamiento acústico
+deficiente, que suele ser agravado por la presencia de
+cajas de mecanismos eléctricos, cajas de registro y
+rozas mal retacadas.
+
+Las particiones de una hoja de fábrica son comunes en
+la construcción tradicional. Ya sea en edificios con
+5
+
+También pueden clasificar aquí los muros compuestos de dos
+hojas de fábrica de ladrillo o sillería con cámara interior rellena
+de hormigón, como los “muros romanos”.
+
+Si se conoce, debe indicarse el tipo de fábrica y espesor
+que compone las particiones de una hoja, ya que su
+
+15
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Al igual que en el caso de las particiones de fábrica,
+debe indicarse si las particiones de entramado son
+sencillas o dobles, es decir, si tienen perfilería sencilla o
+doble.
+
+aislamiento acústico va a depender del tipo de partición
+y especialmente de su masa por unidad de superficie.
+
+❹
+
+De una hoja con trasdosados
+Desde el punto de vista acústico, se consideran
+trasdosados a aquéllos elementos ligeros que instalados
+junto a una partición de una hoja pesada de fábrica o de
+otro material, producen una mejora del aislamiento
+acústico de la partición. Es condición que el trasdosado
+no esté conectado al elemento base o que las
+conexiones sean mínimas. Ejemplos de trasdosados
+son:
+-
+
+El aislamiento de las particiones dobles de entramado
+metálico depende de las conexiones entre cada una de
+las hojas y de si están arriostradas o no.
+Además debe indicarse si los trasdosados tienen un
+material absorbente acústico en la cámara.
+
+❼
+
+Una o varias placas ancladas a una perfilería
+autoportante.
+
+-
+
+Un panel formado por una placa de yeso laminado
+y una capa de un material absorbente acústico
+adherido o anclado mecánicamente al elemento
+base.
+
+-
+
+Una hoja de fábrica ligera con bandas elásticas
+perimetrales.
+
+Este tipo de particiones son las más antiguas,
+generalmente se trata de particiones formadas por un
+entramado de pies derechos y carreras de madera,
+cuyos huecos se rellenan de ladrillo, adobe, yesones,
+etc. Su aislamiento acústico viene determinado por su
+espesor y la masa por unidad de superficie de las
+mismas. Pueden considerarse homogéneas de una hoja
+desde el punto de vista del aislamiento acústico.
+
+❽
+
+Si es posible, indíquese si los trasdosados cuentan con
+un material absorbente acústico en la cámara, por
+ejemplo, una lana mineral, ya que esto aumenta los
+niveles de aislamiento acústico. En este sentido, debe
+recordarse que los materiales aislantes de célula
+cerrada no son absorbentes acústicos.
+
+En cuanto al estado de conservación y deficiencias,
+debe indicarse si éstas son generalizadas o sólo se
+producen en determinados casos puntuales. Si se trata
+de deficiencias que no son detectables a simple vista,
+puede requerir realizar catas o calas, que deben
+hacerse en la medida en que esto sea técnica y
+económicamente viable. Estas son algunas de las
+deficiencias relacionadas con la existencia de huecos en
+las particiones verticales que tienen una incidencia en su
+aislamiento acústico:
+
+De dos hojas
+
+-
+
+La existencia de fisuras y/o grietas, que reducen el
+aislamiento acústico de las particiones.
+
+-
+
+Que el revestimiento (enlucido u otro) o el material
+absorbente acústico estén deteriorados.
+
+-
+
+Que las hojas estén conectadas rígidamente por
+algún elemento, instalación, etc.
+
+-
+
+Si existen bandas elásticas, que éstas no
+sobresalgan por los laterales de la partición.
+
+-
+
+Si existen rozas, que éstas no estén macizadas o
+retacadas. A veces las rozas no retacadas quedan
+ocultas por el falso techo, quedando el elemento
+separador desprotegido. Véase figura IV.2.5
+
+En estos tres casos, la conexión entre el elemento base
+y el trasdosado es mínima o se realiza interponiendo
+elementos elásticos.
+
+❺
+
+Particiones de entramado de madera con relleno de
+yesones, fábrica, etc.
+
+Por lo general, el aislamiento acústico de las particiones
+de dos hojas es mayor que el aislamiento acústico de
+las particiones de una hoja, pero sus prestaciones
+dependen del grado de conexión entre las mismas.
+Lo habitual es que las hojas estén unidas a través del
+forjado y de los demás elementos constructivos, tales
+como otras particiones o la fachada y que estas uniones
+se hagan de forma rígida, es decir, sin interposición de
+bandas elásticas u otro material que aminore la
+transmisión acústica entre las hojas.
+Debe indicarse si tienen bandas elásticas y si hay un
+material absorbente acústico en la cámara. Véase figura
+IV.2.4.
+
+Figura IV.2.4. Particiones de fábrica con y sin bandas.
+Las bandas elásticas limitan la transmisión acústica
+entre las hojas de la partición, resultando el aislamiento
+de la misma mayor que cuando no hay bandas elásticas
+instaladas.
+❻
+
+Figura IV.2.5. Rozas no retacadas, ocultas tras un
+falso techo
+-
+
+Que los elementos de separación verticales no
+sean continuos de suelo a techo y se vean
+interrumpidos por los falsos techos. Véase figura
+IV.2.10.
+
+-
+
+Si se sospecha que existen cajas de mecanismos
+eléctricos o enchufes enfrentados por ambos
+lados de la partición, o que la atraviesen
+
+Particiones de entramado metálico.
+En el caso de las particiones de entramado
+autoportante, se considera que cada una de las
+perfilerías o de las subestructuras es una hoja de la
+partición. Véase figura IV.2.3.f.
+
+16
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+⓬
+
+completamente. Esto es importante en el caso de
+particiones de una hoja o de particiones sencillas
+de entramado, ya que debilita el aislamiento
+acústico de las mismas. Véase figura IV.2.6.
+
+Aunque no es frecuente, en edificios existentes puede
+darse el caso de redes de instalaciones que atraviesen
+el elemento de separación vertical, como por ejemplo las
+redes de calefacción centralizada en edificios donde se
+han segregado varias viviendas. Véase figura IV.2.8.
+
+Figura IV.2.8 Tubería de calefacción atravesando un
+elemento de separación entre dos unidades de uso en
+un edificio existente.
+El caso de la red de saneamiento colgada de cuartos
+húmedos se trata en el apartado de ruido de
+instalaciones.
+
+Figura IV.2.6.Transmisión acústica a través de cajas de
+enchufe enfrentadas
+❾
+
+❿
+
+⓭
+
+En el apartado de características adicionales, se
+recogen aspectos que no pueden considerarse
+deficiencias, pero que pueden debilitar el aislamiento
+acústico de las particiones. Este apartado se refiere a la
+existencia de elementos como pilares, tuberías o cajas
+de instalaciones que conectan espacios a ambos lados
+del elemento de separación o aquellas situaciones que
+pueden causar una transmisión por flancos dominante.
+
+Existen huecos o conductos de instalaciones adosados
+al elemento de separación vertical. Esta afirmación está
+relacionada con la existencia de patinillos de
+instalaciones, conductos de ventilación tipo shunt y de
+bajantes adosadas al elemento de separación vertical.
+El problema de los conductos de ventilación y bajantes
+de cuartos húmedos es que muchas veces se adosan a
+los elementos de separación verticales, a veces
+conectando las hojas de los mismos y sustituyendo
+alguna de ellas, con la consiguiente pérdida de
+aislamiento acústico entre recintos. Otras veces los
+conductos de ventilación son compartidos por dos
+unidades de uso, lo que causa una transmisión aérea
+directa a través de las bocas de admisión. Véase figura
+IV.2.9.
+
+Pilares que conectan los recintos de una vivienda: En
+muchas ocasiones, los pilares están adosados al
+elemento de separación vertical entre viviendas o
+simplemente lo sustituyen. Esto es relevante cuando el
+pilar es ligero, por ejemplo, metálico y el elemento de
+separación vertical tiene dos hojas, ya sean de fábrica o
+de entramado autoportante. En este caso se produce
+una transmisión por flancos a través del pilar, que puede
+minimizarse si el pilar está trasdosado. Véase figura
+IV.2.7.
+
+Desfavorable
+Figura IV.2.7. Transmisiones indirectas a través del pilar
+⓫
+
+Favorable
+
+Figura IV.2.9. Transmisión aérea a través de rejillas que
+comunican con un mismo conducto de ventilación de
+cuartos húmedos. Fuente: Guía de Aplicación del DB
+HR Protección frente al ruido. Véanse fichas ESV01.a.b.Ci,
+ESV02.a.Ci,
+ESV02.b.Ci,
+ESV02.c.Ci,
+ESV03.a.b.Ci de la Guía de Aplicación del DB HR
+Protección frente al ruido.
+
+Esta afirmación se refiere a la transmisión aérea
+indirecta que puede haber entre dos recintos de
+viviendas diferentes que estén conectados por un
+conducto de ventilación o aire acondicionado. Aparte de
+una pérdida de aislamiento acústico, podría haber
+problemas de privacidad y de transmisión de ruido a
+través de los conductos.
+
+En este sentido debe indicarse si se percibe ruido
+procedente de las otras viviendas, lo que puede ser
+molesto y si los conductos están revestidos, lo que evita
+transmisiones por flancos en el caso de elementos de
+separación verticales de dos hojas.
+
+Se excluyen de la evaluación los conductos interiores de
+distribución de aire acondicionado dentro de una misma
+vivienda, como por ejemplo, los de una preinstalación de
+aire acondicionado.
+⓮
+
+17
+
+Existen tuberías ancladas al elemento de separación
+vertical, como por ejemplo bajantes. El flujo del agua en
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+una bajante transmite vibraciones a las particiones que
+finalmente se perciben como ruidos en los recintos
+colindantes. Esta circunstancia es más problemática
+cuanto más ligeras sean las particiones a las que están
+ancladas las tuberías, por ejemplo, ladrillo hueco doble.
+Si esta circunstancia existe en el edificio debe
+especificarse en el apartado Observaciones el grado en
+el que los usuarios están afectados por este motivo.
+⓯
+
+La tabiquería es el conjunto de aquellos elementos
+constructivos que delimitan espacios dentro de una
+vivienda, son elementos de flanco y aseguran la
+privacidad de cada recinto dentro de una vivienda. En la
+parte IV del IEE debe describirse la tabiquería:
+-
+
+Tabiques de fábrica, especificándose si llevan
+bandas elásticas en la base o en el perímetro
+
+-
+
+Tabiques de entramado autoportante
+
+-
+
+Tabiques de entramado de madera con relleno de
+yesones, fábrica, etc.
+
+En todos los casos es conveniente especificar el
+espesor si es conocido.
+⓰
+
+Se evalúan los elementos de separación verticales entre
+viviendas y zonas comunes, tales como las escaleras y
+los ascensores.
+
+⓱
+
+Las puertas con capacidad aislante son puertas pesadas
+y cuentan con juntas de estanquidad en el perímetro,
+incluido en el borde inferior.
+
+⓲
+
+En general, la existencia de un recibidor separado por
+puertas de los recintos protegidos de la vivienda es una
+protección adecuada frente al ruido procedente de las
+zonas comunes.
+
+⓳
+
+En este apartado puede consignarse cualquier aspecto
+no comentado anteriormente que pueda influir en el
+aislamiento acústico de las particiones.
+
+18
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.2.3. RUIDO INTERIOR (Particiones horizontales)
+IV.2.3. RUIDO INTERIOR (Particiones horizontales) ❶
+PARTICIONES HORIZONTALES:
+FORJADO ❷
+Estructura principal
+Forjado (Elementos
+Forjado (Entrevigado):
+(vigas):
+secundarios, viguetas):
+Planta Tipo
+ De madera
+ De madera
+ Tablero
+ Forjado reticular
+ Metálicas
+ Metálicas
+ Revoltón
+ Losa hormigón
+ De hormigón armado  De hormigón armado  Bovedilla cerámica
+ Otro, indicar: ______
+ NS
+ Bovedilla hormigón
+Canto del forjado: _________
+Planta garaje,  De madera
+ De madera
+ Tablero
+ Forjado reticular
+actividad, etc.  Metálicas
+ Metálicas
+ Revoltón
+ Losa hormigón
+ De hormigón armado  De hormigón armado  Bovedilla cerámica
+ Otro, indicar:______
+ Bovedilla hormigón
+ NS
+Canto del forjado: _________
+SUELO FLOTANTE ❸
+- El elemento de separación horizontal dispone de suelo flotante
+ No
+ Si
+ NS
+En caso afirmativo, indique:❹
+ Suelo flotante de mortero
+ Dispone de material aislante a ruido de impactos
+ Solera seca
+ El trazado de algunas instalaciones se ha realizado
+ Tarima flotante
+por el suelo flotante ❺
+TECHO SUSPENDIDO ❻
+- El elemento de separación horizontal dispone de techo suspendido
+ No  Si
+ NS
+En caso afirmativo, indique: ❼
+ Techo de placas de yeso laminado, con cámara de aire
+ Existe material absorbente acústico en la cámara
+ Techo de placas de yeso laminado, anclado al forjado y sin  Existen conductos o instalaciones suspendidas del
+cámara de aire
+forjado
+ Techo de placas de escayola
+ Existen luminarias empotradas
+ESTADO DE CONSERVACION Y DEFICIENCIAS ❽
+En general, los elementos de separación horizontales están en buen estado de conservación  No
+(7)
+Observaciones y localización de deficiencias ❾
+
+CARACTERÍSTICAS ADICIONALES ❿
+- Las instalaciones que discurren por el suelo flotante:
+• Están revestidas por material elástico ⓫
+• Están en contacto directo con el forjado ⓬
+- La cámara de aire del techo suspendido es continua entre viviendas ⓭
+- Las luminarias empotradas están bien selladas ⓮
+OBSERVACIONES: ⓯
+
+(7)
+
+ No
+ No
+ No
+ No
+
+ Si
+
+ NS
+
+ Si
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+ NS
+
+Deben indicarse las deficiencias observadas en los elementos, como por ejemplo:
+• Si el suelo flotante o techo suspendido no están en buen estado
+• El suelo o el techo no cubren toda la superficie de los recintos
+• El material aislante a ruido de impactos no cubre toda la superficie del suelo
+• No se ha dispuesto de una barrera impermeable previa al vertido de mortero en un suelo flotante con aislante hidrófilo o formado de
+paneles sin sellar
+• Las juntas de las placas de yeso laminado no están tratadas, etc.
+• Las instalaciones que discurren por el suelo no se han revestido con un material elástico
+• Las instalaciones conectan simultáneamente el forjado y el suelo flotante
+
+19
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+❸
+❶
+
+Este apartado tiene como objetivo la descripción general
+de los elementos de separación horizontales existentes
+entre viviendas y entre las viviendas y los recintos de
+instalaciones o actividad. El caso específico de los
+cuartos húmedos está recogido en el apartado IV.2.5
+sobre instalaciones.
+Antes de nada conviene tener en consideración las
+siguientes cuestiones: La construcción de los siglos
+pasados hasta aproximadamente 1940, está marcada
+por estructuras de muros de carga sobre los que
+apoyaban forjados unidireccionales de madera o
+bóvedas de ladrillo o piedra. En el caso de los forjados
+de madera, es común encontrar que el entrevigado está
+relleno con yesones o rasillas cerámicas y que previo a
+la colocación del pavimento se ha colocado una o varias
+camas de arena y mortero de agarre. El aislamiento
+acústico a ruido aéreo de este tipo de forjados está en
+relación con el espesor y la masa de las capas de
+relleno instaladas.
+
+Si no existe un suelo flotante, debe indicarse en el
+apartado anterior, forjado, el espesor total del elemento
+de separación vertical formado por el forjado, las capas
+de recrecido y el solado.
+❹
+
+En el primer cuarto del siglo XX, las estructuras de los
+edificios experimentaron una evolución morfológica muy
+significativa. Se empezaron a emplear las estructuras
+reticulares de acero, y es partir de los años 40 cuando
+se extienden las estructuras de pilares y vigas de
+hormigón armado. Los forjados de hormigón son los
+más habituales en este periodo, ya sea con entrevigado
+metálico, como con viguetas de hormigón. El aislamiento
+acústico a ruido aéreo depende de su masa por unidad
+de superficie.
+Independientemente del tipo de forjado considerado, el
+aislamiento acústico a ruido de impactos suele ser
+deficiente, superior a 80 dB. El mejor modo de mejorarlo
+es colocar sobre la cara superior del forjado un elemento
+elástico flexible, como una moqueta, linóleo, tarima
+flotante o instalar un suelo flotante. Los techos también
+pueden mejorar el aislamiento acústico a ruido de
+impactos, aunque no son tan eficaces como los suelos
+flotantes.
+Los elementos de separación horizontales deben
+proveer el suficiente aislamiento acústico a ruido aéreo y
+a ruido de impactos a los recintos protegidos y
+habitables. En este sentido, las cuestiones que
+aparecen en este apartado tratan de determinar cómo
+es el forjado y si existe un suelo flotante o un techo
+suspendido que pueda considerarse aislante acústico.
+
+Se denomina suelo flotante al conjunto formado por una
+capa de material aislante a ruido de impactos, la capa
+de apoyo del solado y el solado. Si se dispone de suelo
+flotante, debe indicarse el tipo de suelo flotante según la
+clasificación morfológica establecida en el Catálogo de
+Elementos Constructivos del Código:
+-
+
+Suelo flotante con capa de mortero.
+
+-
+
+Solera seca, formada por dos o más placas de
+yeso laminado sobre un material aislante acústico
+a ruido de impactos.
+
+-
+
+Tarima flotante.
+
+❺
+
+La eficacia del suelo flotante en la reducción de la
+transmisión del ruido de impactos depende en gran
+medida de que no haya ningún contacto rígido entre el
+suelo y las paredes, pilares, etc. del recinto, esto incluye
+el contacto a través de las instalaciones empotradas en
+el suelo y las paredes. La existencia de instalaciones
+que discurran por el suelo, puede indicar una pérdida de
+aislamiento acústico a ruido de impactos.
+
+❻
+
+En este apartado debe indicarse si los recintos
+protegidos, de forma generalizada6 en todo el edificio,
+disponen de un falso techo suspendido, que pueda
+considerarse que aumente el aislamiento a ruido aéreo,
+es decir, que sea un falso techo continuo que cubra toda
+la superficie del recinto, con las juntas selladas.
+El caso del falso techo de cuartos húmedos se trata en
+el apartado IV.2.5 sobre ruido de instalaciones.
+
+❼
+
+Alguna de las cuestiones que aparecen en este
+apartado no pueden responderse mediante una
+inspección visual, sino que es necesario la realización
+de catas o calas, que podrán realizarse en la medida de
+lo posible.
+❷
+
+La mayoría de los edificios existentes construidos
+anteriormente a 2009 no cuentan con un suelo flotante,
+lo que suele indicar que su aislamiento a ruido de
+impactos es deficiente. Es relevante determinar si existe
+un suelo flotante instalado en los recintos protegidos, ya
+que es un indicativo de si el nivel de aislamiento a ruido
+de impactos está cerca del exigido actualmente.
+
+En este apartado se diferencia entre el forjado de las
+plantas tipo, que separan unidades de uso diferentes, de
+los forjados que limitan con recintos de actividad o
+garaje, ya que serían forjados que deberían tener un
+aislamiento acústico mayor.
+Se debe definir cómo es la estructura principal del
+forjado, los elementos secundarios (viguetas) y el
+entrevigado. Además, si se conoce, debe indicarse el
+canto del forjado.
+
+Se trata de evaluar el aislamiento acústico, por tanto, las
+preguntas están orientadas a definir aquellos elementos
+que pueden influir en el aislamiento acústico, como:
+-
+
+Tipo de placas: Placas de yeso laminado o de
+escayola.
+
+-
+
+Existencia de una cámara de aire.
+
+-
+
+Existencia de material absorbente en la cámara.
+
+-
+
+Circunstancias que afectan a la estanquidad de la
+cámara, como el sellado perimetral del techo o la
+existencia de luminarias empotradas.
+
+-
+
+Existencia de instalaciones que estén colgadas del
+forjado y que puedan conectar forjado y techo o
+que produzcan ruidos.
+
+Otros tipos de techos, como los techos acústicos
+perforados o los paneles de fibras prensadas son
+efectivos para acondicionar recintos, no suelen ser
+comunes en viviendas y por ello, no están recogidos en
+el IEE.
+
+En el caso de que no haya suelo flotante, debe
+especificarse el espesor total del elemento de
+separación horizontal, es decir, el canto del forjado y las
+capas de recrecido (arena, mortero, etc.), incluido el
+solado, dispuestas encima del mismo.
+
+6
+
+Puede que en un edificio haya algunas viviendas que
+dispongan de falso techo en los recintos protegidos y otras
+que no. En este caso dígase en qué viviendas se dispone de
+falso techo.
+
+20
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+❽
+
+-
+
+Si el suelo flotante o techo suspendido no están
+en buen estado, es decir, tengan grietas, fisuras,
+agujeros, etc.
+
+-
+
+Que el suelo o el techo no cubren toda la
+superficie de los recintos. En este apartado se
+trata de determinar si el techo del recinto
+contribuye al mejorar el aislamiento acústico de
+los recintos, en tal caso, algunos diseños de
+techos que sólo cubren parte del recinto, no
+contribuyen a mejorar el aislamiento acústico del
+recinto.
+
+-
+
+Si se realizan catas en el suelo flotante, se detecte
+que el material aislante a ruido de impactos no
+existe, no cubre toda la superficie del suelo o no
+exista una barrera impermeable previa al vertido
+de mortero en un suelo flotante con aislante
+hidrófilo o formado de paneles sin sellar.
+
+-
+
+En caso de que el suelo sea una solera seca, que
+las juntas de las placas de yeso laminado no estén
+tratadas.
+
+-
+
+Las instalaciones que discurren por el suelo no se
+ha revestido con un material elástico
+
+-
+
+Las instalaciones que discurren por el suelo
+conectan simultáneamente el forjado y el suelo
+flotante o conectan el suelo flotante con los
+paramentos que delimitan los recintos.
+
+❾
+
+de las prestaciones de aislamiento acústico a ruido de
+impactos
+
+Deben describirse aquellas características, sean o no
+las deficiencias7, que puedan afectar al aislamiento
+acústico de los recintos, como por ejemplo:
+
+⓭
+
+Figura IV.2.10. En azul transmisión aérea indirecta a
+través de la cámara de aire en el techo de dos
+viviendas. Este tipo de transmisión puede ser habitual
+en la última planta de viviendas con estructura de
+madera en la cubierta, en las que sólo hay un falso
+techo que separa los recintos de la cámara de la
+cubierta.
+
+En cuanto a la localización de las deficiencias, indíquese
+la localización de aquéllos casos más desfavorables. Si
+las deficiencias son generalizadas no es necesario
+especificar su localización.
+Pueden darse otras circunstancias que disminuyen el
+aislamiento acústico del falso techo, pero que no pueden
+ser consideradas deficiencias, como la existencia de
+luminarias empotradas o rejillas de aire acondicionado
+en falsos techos.
+Este apartado recoge información adicional relativa a las
+instalaciones que pueden discurrir en el suelo flotante o
+por la cámara del falso techo en recintos protegidos. El
+caso de las instalaciones que discurren por el suelo o
+techo de cuartos húmedos está recogido en el apartado
+IV.2.5.
+
+⓫
+
+Cuando las instalaciones que discurren por el suelo se
+revisten con un material elástico, se evita el paso de
+vibraciones al suelo.
+Otra circunstancia que puede hacer aumentar el
+aislamiento acústico a ruido de impactos, es la
+existencia de un suelo flotante sobre una capa aislante a
+ruido de impactos.
+
+⓬
+
+⓮
+
+A menos que las luminarias empotradas estén bien
+selladas, las luminarias suponen una perforación en el
+techo que disminuye su aislamiento acústico.
+
+⓯
+
+En este apartado puede consignarse cualquier aspecto
+no comentado anteriormente que pueda influir en el
+aislamiento acústico de los elementos de separación
+horizontales.
+
+Falta de material absorbente acústico en el techo.
+
+❿
+
+Que el techo tenga una cámara de aire que conecte dos
+o más viviendas, provocando una transmisión aérea
+indirecta, como la que puede verse en la figura IV.2.10.
+
+Cuando las instalaciones conectan simultáneamente el
+forjado y el suelo flotante, se produce una disminución
+
+7
+
+Algunas de las características que aquí se describen, no
+pueden ser consideradas deficiencias. Se trata de determinar
+qué suelos y techos pueden aportar un aumento del
+aislamiento acústico de los elementos de separación
+horizontales. Algunos diseños de techos, no aportan una
+mejora de aislamiento acústico, como por ejemplo, aquéllos en
+los que haya un foseado perimetral abierto, los techos
+registrables, aquéllos con perforaciones=etc.
+
+21
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.2.3. RUIDO INTERIOR (Uniones)
+IV.2.4 RUIDO INTERIOR (Uniones) ❶
+- Existe material aislante elástico que evita los contactos rígidos entre los elementos de
+separación verticales y el suelo flotante ❷
+- Encuentro del elemento de separación vertical con la fachada: ❸
+• En el caso de fachadas de doble hoja, la hoja interior de la fachada es continua
+- Encuentro del elemento de separación vertical con el forjado:
+• El elemento de separación vertical llega hasta el forjado superior interrumpiendo el
+techo suspendido si lo hay y evitando que éste sea continuo entre viviendas ❹
+• El elemento de separación vertical independiza el suelo flotante entre recintos de
+distinta vivienda ❺
+• Si el suelo flotante es de mortero, el mortero está en contacto con los elementos
+verticales ❻
+• Existe una conexión rígida entre el rodapié, el acabado del suelo y el elemento de
+separación vertical ❼
+OBSERVACIONES ❽
+
+❶
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+Este apartado tiene como objeto recoger la información
+relativa a las uniones entre elementos constructivos, ya
+que influyen en gran medida en el aislamiento acústico
+entre recintos. Cuando las uniones se diseñan y
+ejecutan de tal manera que se produce el efecto “caja
+dentro de caja”, el aislamiento de los recintos aumenta
+hasta niveles que pueden superar los exigidos en el DB
+HR.
+Las preguntas de este apartado no se pueden contestar
+si no se han realizado catas o se dispone de
+documentación gráfica suficiente sobre las soluciones
+constructivas y sus detalles, hecho que no suele ser
+habitual en el caso de los edificios anteriores a la
+entrada en vigor del DB HR. Sin embargo, son aspectos
+relevantes que influyen en el aislamiento acústico y que
+por tanto, están contenidos en el IEE.
+
+❷
+
+ No
+
+1. Suelo flotante de mortero
+2. Barrera impermeable, necesaria si el material
+aislante a ruido de impactos no es impermeable o si
+las juntas del mismo no están selladas.
+3. Material aislante a ruido de impactos
+4. Forjado
+5. Partición, fachada, pilar, etc.
+
+En el caso de que exista un suelo flotante instalado en
+los recintos, en los encuentros entre el suelo y las
+particiones o pilares debe existir una capa de material
+aislante a ruido de impactos para evitar la transmisión
+de vibraciones desde el suelo a las particiones, pilares,
+etc. Véase figura IV.2.11.
+
+Figura IV.2.11. Detalle de encuentro de un suelo flotante
+con las particiones. Se ha interpuesto una capa de
+material aislante a ruido de impactos entre las
+particiones y la capa de mortero.
+❸
+
+22
+
+En el caso de fachadas de doble hoja y elementos de
+separación verticales de dos hojas, si la hoja interior de
+la fachada es continua y une las dos hojas del elemento
+de separación vertical, se produce una transmisión a
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+ellos. Es un error frecuente de ejecución el no prolongar
+suficientemente las bandas perimetrales, lo que conlleva
+contactos rígidos entre el suelo y las paredes
+perimetrales y una pérdida de las prestaciones de las
+soluciones constructivas. Véase figura IV.2.14.
+
+través de la hoja de fachada que conduce a una pérdida
+de aislamiento acústico. Véase figura IV.2.12.
+
+Desfavorable
+a)
+
+Favorable
+b)
+
+Figura IV.2.12. El aislamiento acústico de la solución a)
+está limitado por la transmisión a través de la hoja
+interior de la fachada que conecta las dos hojas. b)
+Cuando las hojas de los elementos constructivos de
+separación no están conectadas, se limitan las
+transmisiones indirectas y el aislamiento acústico a ruido
+aéreo de la partición es mayor.
+
+Figura IV.2.14. Lámina aislante a ruido de impactos que
+no sobresale en el encuentro con la partición, dando
+lugar a un contacto rígido entre el suelo y las paredes.
+
+Esto también es aplicable a los cerramientos interiores,
+como tabiques o elementos de separación verticales con
+zonas comunes. Si existe una hoja continua que conecta
+las dos hojas de un cerramiento, la mejora de
+aislamiento acústico no será muy grande.
+❹
+
+Es conveniente que el elemento de separación vertical
+llegue hasta el forjado superior interrumpiendo el techo
+suspendido si lo hay y evitando que éste sea continuo
+entre viviendas. Situaciones como la descrita en la figura
+IV.2.10 dan lugar a una transmisión aérea indirecta
+dominante que disminuyen el aislamiento acústico a
+ruido aéreo de los elementos de separación entre
+viviendas.
+
+❺
+
+El suelo flotante debe ser independiente entre recintos
+de distinta vivienda. Cuando el suelo el suelo flotante no
+es independiente entre unidades de uso diferentes, el
+ruido de impactos se transmite de una vivienda a otra a
+través del suelo flotante. Véase figura IV.2.13.
+
+a)
+
+Desfavorable
+
+b) Favorable
+
+Figura IV.2.13. a) Montaje desfavorable. La capa de
+mortero continua entre unidades de uso propicia la
+transmisión de ruido aéreo y de impactos. b) Montaje
+favorable. El corte de la capa de mortero soporte de los
+perfiles, evita la transmisión de ruido aéreo y de
+impactos y resulta en niveles de aislamiento mayores.
+Se ha representado una partición de entramado doble.
+Se consigue el mismo efecto con una partición de dos
+hojas de fábrica.
+❻
+
+Si el suelo flotante es de mortero, debe garantizarse que
+éste y los elementos de separación verticales no sean
+solidarios, evitando cualquier tipo de conexión entre
+
+23
+
+❼
+
+Si el rodapié conecta simultáneamente el acabado del
+suelo y el elemento de separación vertical, se produce
+una transmisión de ruido de impactos.
+
+❽
+
+En este apartado puede consignarse cualquier aspecto
+relativo a las uniones no comentado anteriormente.
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.2.5. RUIDO DE INSTALACIONES/RECINTOS DE ACTIVIDAD
+IV.2.5. RUIDO DE INSTALACIONES/RECINTOS DE ACTIVIDAD ❶
+(8)
+RECINTOS DE INSTALACIONES/ACTIVIDAD colindantes con viviendas: ❷
+- Existen recintos de actividad y/o instalaciones colindantes con viviendas:
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo:
+- Está revestido por un enlucido, enfoscado, alicatado, etc.
+- Hay un tratamiento absorbente en los paramentos del recinto
+- Dispone de trasdosados en las paredes del recinto de instalaciones
+En caso afirmativo:
+• El trasdosado lleva amortiguadores específicos
+- Existe suelo flotante en el recinto de instalaciones
+- Existe un techo suspendido en el recinto de instalaciones
+En caso afirmativo:
+• El falso techo tiene amortiguadores
+• Hay un material absorbente acústico en la cámara
+- Se percibe el ruido como molesto en las viviendas colindantes
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo:
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+
+EQUIPOS DE INSTALACIONES (grupo de presión, calderas, extractores de garaje, climatizadoras, aerotermos, etc.) ❸
+Los equipos están ubicados en:
+ Recintos de instalaciones colindantes con viviendas ❹
+ Zonas exteriores del edificio y próximos a las ventanas de viviendas, por ejemplo en un patio de manzana, en
+cubierta, terrazas, etc. ❺
+En caso afirmativo, indicar si existen pantallas o encapsulados
+ No
+ Si
+ NS
+- Existe un sistema amortiguante y está en buen estado (bancada o amortiguadores)
+ No
+ Si
+ NS
+- La instalación dispone de conectores flexibles o juntas elásticas en las tuberías/conductos
+ No
+ Si
+ NS
+de entrada y salida a los equipos
+- Las tuberías o conductos que salen del equipo están anclados al edificio con abrazaderas
+ No
+ Si
+ NS
+que disponen de un material elástico en su interior.
+- Las holguras entre las tuberías/conductos y los paramentos que atraviesan se han sellado
+ No
+ Si
+ NS
+con material elástico.
+- Se percibe el ruido como molesto en las viviendas colindantes o próximas, en caso de que
+ No
+ Si
+ NS
+el equipo esté en una zona exterior del edificio.
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo:
+(9)
+
+REDES DE INSTALACIONES, que discurran por las viviendas ❻
+Red de saneamiento, que discurra por el interior de viviendas ❼
+- Existe algún codo de bajante encima de algún un recinto protegido, tal como un dormitorio
+o un salón ❽
+- Las bajantes que discurren por las viviendas están revestidas con un tabique, por ejemplo,
+de ladrillo o de yeso laminado… etc. ❾
+- Las bajantes que discurren por las viviendas están forradas con un material absorbente o
+son multicapa ❾
+- Las bajantes y colectores, que discurren adosadas o en el interior de las viviendas,
+disponen de abrazaderas con un material elástico en su interior ❾
+- Se percibe el ruido como molesto en los recintos
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo
+Red de suministro de agua ❿
+- Las tuberías están forradas con material elástico (PU, EPDM, etc.) o son multicapa
+- Se percibe ruido de golpe de ariete
+
+24
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+
+ Si
+ Si
+
+ NS
+ NS
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+- Se percibe el ruido como molesto en los recintos
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo:
+Red de conductos de aire acondicionado ⓫
+- Se percibe un ruido molesto en la difusión de aire a los recintos
+- La unidad interior de aire acondicionado, si existe, está en el falso techo del cuarto
+húmedo ⓬
+Conductos de ventilación ⓭
+- La ventilación de cuartos húmedos se hace mediante conductos de tipo shunt
+En caso afirmativo
+• Se escucha el ruido procedente de las viviendas colindantes, cuando un
+mismo conducto de tipo shunt está compartido por dos viviendas
+• Cuando un mismo conducto de tipo shunt está compartido por dos
+viviendas de la misma planta, cada una de las viviendas acomete a un
+conducto individual de ventilación
+OTRAS INSTALACIONES Y PUNTOS SINGULARES
+Ascensores y montacargas ⓮
+- Los ascensores son colindantes con recintos protegidos, tales como dormitorios o
+salones ⓯
+- Existe cuarto de máquinas
+- La maquinaria está anclada al edificio mediante un sistema amortiguante
+- Las particiones de separación entre la maquinaria y los paramentos están formadas por
+dos hojas o cuentan con un trasdosado ⓰
+- El cuadro de maniobras, que contiene los relés de arranque y parada, está sujeto con
+elementos elásticos o amortiguadores
+- Se aprecia ruido molesto en los recintos colindantes
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo:
+Cuartos húmedos ⓱
+- La red de saneamiento está descolgada del forjado
+En caso afirmativo:
+• Hay lana mineral en la cámara del techo suspendido instalado en el recinto
+colindante inferior
+• El techo tiene todo el perímetro sellado
+• Se ha instalado un material elástico entre las tuberías pasantes y el forjado
+• Existen conectores flexibles entre los aparatos y la red de distribución de
+agua
+- Existe una máquina de aire acondicionado en el interior del falso techo
+- Existen luminarias empotradas en el techo
+- Se percibe el ruido de bajantes, descarga de inodoros, ducha o lavabo como molesto en los
+recintos tales como dormitorios, salones, etc. de otras viviendas
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo:
+Puertas de garaje ⓲
+- Están ancladas a la fachada de recintos protegidos
+En caso afirmativo:
+• Los motores de las puertas están anclados al edificio mediante
+amortiguadores elásticos
+• El marco de la puerta se ancla mediante amortiguadores elásticos.
+• Se percibe ruido de la puerta en las viviendas que están situadas encima o
+al lado de la puerta del garaje
+OBSERVACIONES ⓳
+(8)
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+
+ Si
+ Si
+
+ NS
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+
+ Si
+ Si
+
+ NS
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+
+ Si
+ Si
+
+ NS
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+Se consideran recintos de instalaciones a aquéllos que contienen equipos de instalaciones colectivas del edificio, entendiendo como tales, todo
+equipamiento o instalación susceptible de alterar las condiciones medioambientales de dicho recinto.
+
+25
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+(9)
+
+Quedan excluidas de este apartado las bajantes y tuberías que discurran por zonas comunes, garajes, etc. en edificios de viviendas
+
+❶
+
+de la inspección del edificio, accionar las instalaciones y
+escuchar en los recintos colindantes y /o preguntar a los
+usuarios o propiedad sobre los problemas de ruido
+detectados y el grado en el que estos ruidos interfieren
+en sus actividades cotidianas.
+
+Las instalaciones constituyen un conjunto muy diverso
+de equipos, conductos y tuberías que producen
+simultáneamente ruido aéreo y estructural, siendo éste
+último el que suele transmitirse a recintos alejados de
+los lugares donde se originó. En este sentido, el IEE
+proporciona una evaluación previa que permite detectar
+las principales fuentes de ruido originadas por las
+instalaciones siempre que éstas generen una molestia
+para los usuarios de viviendas, es decir, interfieran en
+sus actividades cotidianas.
+
+❷
+
+Las preguntas de este apartado están orientadas a
+determinar el grado en el que el recinto está
+desolidarizado de la estructura del edificio, es decir, si
+los recintos de instalaciones o de actividad cuentan con
+trasdosados en las particiones, suelo flotante y techos
+suspendido. Estas medidas están orientadas a evitar el
+paso de vibraciones desde las instalaciones a la
+estructura del edificio, es decir, a conseguir el efecto
+caja dentro de caja. Véase Ficha R – INST Recintos de
+instalaciones de la Guía de Aplicación del DB HR.
+
+El apartado de ruido de instalaciones y/o recintos de
+actividad se divide en varias partes:
+-
+
+Recintos de instalaciones y recintos de actividad
+
+-
+
+Ruido de los equipos de instalaciones, tales como
+grupos de presión, calderas, extractores de
+humos, etc. ubicados en recintos de instalaciones
+o en el exterior del edificio. Se realizará la
+evaluación de aquéllos recintos de instalaciones
+colindantes con viviendas o de los equipos
+situados en el exterior que pudieran afectar a
+viviendas próximas;
+
+-
+
+-
+
+Este apartado debe rellenarse en el caso de que existan
+recintos de instalaciones o de actividad colindantes con
+viviendas.
+
+❸
+
+Ruido originado por las redes de conductos y
+tuberías, como la red de fontanería, saneamiento
+o conductos de aire, que circulen por el interior de
+las viviendas;
+
+Este apartado se aplica a los equipos de instalaciones
+centralizadas como grupos de presión, calderas
+comunitarias8, extractores de garaje, climatizadoras, etc.
+o instalaciones individuales que puedan suponer una
+molestia para los usuarios de otras viviendas.
+Por ejemplo, en el IEE se ha incluido el caso de las
+unidades exteriores de aire acondicionado, ya que a
+veces su instalación puede ocasionar problemas a las
+viviendas colindantes, especialmente si están situados
+cerca de ventanas de viviendas colindantes o en patios
+de luces. No se han contemplado las unidades interiores
+de aire acondicionado por tratarse de equipos
+individuales instalados en el interior de las viviendas y
+cuyo mantenimiento corresponde a los usuarios.
+
+Ruido producido por otras instalaciones y puntos
+singulares, como los ascensores, el saneamiento
+de cuartos húmedos y las puertas de garaje.
+
+En la tabla IV.2.5 aparecen algunos puntos críticos que
+pueden afectar a los niveles de ruido originados por las
+instalaciones. La mayoría de las afirmaciones del IEE
+pueden contestarse con una simple inspección visual o
+con la documentación de proyecto, si existiera. Además,
+se han dejado algunas afirmaciones que sólo pueden
+responderse si se realiza una cata o si, por ejemplo, se
+retira el techo suspendido.
+
+En este apartado del informe, se hace referencia a
+aquéllas medidas que evitan que las vibraciones puedan
+transmitirse a la estructura del edificio como
+amortiguadores, bancada de inercia, conectores
+flexibles, etc.
+
+En lo que respecta al ruido proveniente de las
+instalaciones, el IEE incide en aquellos aspectos
+relacionados con el diseño del edificio y el montaje de
+los equipos y redes, no en los aspectos relacionados
+con el dimensionado. Debe tenerse en cuenta que, la
+tabla IV.2.5 sólo permite detectar las fuentes de ruido,
+pero en determinados casos no permite detectar las
+causas de los problemas. Sirva de ejemplo el siguiente:
+los ruidos en la red de distribución de agua pueden
+deberse a factores que aparecen en el IEE, como a la
+ausencia de elementos elásticos de fijación al forjado, o
+también a causas que no aparecen en el IEE y que son
+difíciles de evaluar con una inspección, tales como un
+diseño inadecuado de la red, presión y velocidades
+excesivas=etc. y cuando así sea, con este informe,
+ninguno de estos orígenes puede detectarse. De la
+misma manera, mediante la inspección visual de
+equipos pueden detectarse si hay una bancada o
+amortiguadores, pero si los componentes del equipo
+están desalineados o los amortiguadores no son los
+adecuados, no podrá determinarse el origen de los
+problemas, a menos que se realizara un estudio
+específico de la instalación.
+
+❹
+
+Si están ubicados en un recinto de instalaciones
+colindante a viviendas, deben evaluarse las condiciones
+del recinto de instalaciones según se ha indicado en
+este mismo apartado.
+
+❺
+
+Si están en zonas exteriores, como cubiertas, jardines,
+patios, terrazas, etc. debe cumplimentarse el informe si
+están cerca de ventanas de recintos protegidos que
+pudieran estar afectados por el ruido. En tal caso, debe
+especificarse si cuentan con una pantalla o
+encapsulamiento acústico.
+
+❻
+
+Deben evaluarse las redes que discurran dentro de las
+viviendas o adosadas a las mismas, ya que son las
+susceptibles de ocasionar molestias.
+
+❼
+
+En este apartado debe detectarse si la red de
+saneamiento que discurre por las viviendas produce
+ruidos que pueden afectar a los usuarios en sus
+actividades diarias. Se evalúa únicamente la situación
+de la red de saneamiento que discurre por las viviendas,
+a excepción de la red descolgadas de cuartos húmedos,
+
+8
+
+No se han contemplado las calderas individuales, puesto que
+son equipos individuales dentro de las viviendas y cuyo
+mantenimiento corresponde a los usuarios.
+
+Por otro lado, para detectar el grado de molestia de las
+fuentes de ruido y su gravedad es fundamental, además
+
+26
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+colindantes al hueco del ascensor y por vía sólida
+a través de los anclajes de las guías
+
+que se evalúa en el apartado “Otras instalaciones y
+puntos singulares”.
+-
+
+El ruido producido por las redes de saneamiento puede
+deberse a un anclaje rígido de la red de saneamiento, al
+anclaje de bajantes a elementos ligeros resonantes, falta
+de ventilación en válvulas=etc. El origen de los ruidos
+es difícil de detectar con una inspección visual y en la
+mayoría de los casos es difícil de eliminar.
+❽
+
+Cuando las bajantes se ubican en patinillos, están
+forradas y tienen abrazaderas con material elástico,
+suelen producir poco ruido.
+
+❿
+
+Debe evaluarse si el los ruidos provocados por la red
+son molestos, tales como el ruido de golpe de ariete.
+Los ruidos en la red de suministro de agua pueden
+deberse a diversos factores como a un diseño
+inadecuado de la red, presión y velocidades excesivas,
+válvulas mal fijadas=etc.
+
+⓫
+
+⓬
+
+En el IEE se trata de detectar aquellos puntos que
+pueden indicar que existe una transmisión de ruido a los
+recintos. Las cuestiones que figuran en el IEE son
+válidas tanto ascensores hidráulicos como para
+ascensores eléctricos.
+
+Cuando existen codos en la red de saneamiento
+descolgada que trascurran en recintos protegidos como
+dormitorios y salones. Deben detectarse estas
+situaciones que pueden ser habituales cuando se trata
+de cuartos húmedos que no coinciden en vertical.
+
+❾
+
+Los ruidos en la difusión pueden deberse a varios
+motivos como la transmisión de ruido de los
+ventiladores, la velocidad del aire excesiva o lamas o
+elementos móviles mal fijados. En este caso, detéctese
+si los ruidos son molestos.
+Una de las cuestiones en este apartado es si la unidad
+interior está ubicada en el falso techo del cuarto
+húmedo. Este es un indicativo de que el techo es
+registrable y que probablemente se transmita el ruido de
+la instalación de evacuación de aguas a los recintos
+inferiores.
+
+⓭
+
+Si existen conductos de ventilación individuales
+compartidos entre viviendas situadas en la misma
+planta, suelen suponer un problema para la privacidad
+por la transmisión de ruidos entre viviendas. Véase
+figura IV.2.9.
+
+⓮
+
+Los ruidos provocados por los ascensores pueden
+deberse a varias causas:
+-
+
+-
+
+-
+
+Ruido provocado por la apertura y cierre de
+puertas.
+
+⓯
+
+Debe cumplimentarse este apartado en el caso de que
+los ascensores sean colindantes a recintos protegidos,
+tales como dormitorios y salones.
+
+⓰
+
+Si los paramentos que separan el hueco del ascensor de
+los recintos protegidos están formados por dos hojas de
+fábrica o por una hoja y un trasdosado. Esto indica que
+existe un buen aislamiento acústico entre el conducto
+del ascensor y los recintos.
+
+⓱
+
+Hay varios factores relativamente frecuentes en los
+edificios residenciales que provocan que los ruidos de la
+red de saneamiento de cuartos húmedos se transmitan
+a los recintos colindantes y a través de la estructura del
+edificio. Véase figura IV.2.15:
+-
+
+La red descolgada del forjado
+
+-
+
+Pasos rígidos de la red de las tuberías a través del
+forjado, es decir, no se ha interpuesto un material
+elástico o absorbente entre el forjado y las
+derivaciones individuales o bajantes, lo que tiene
+como resultado la transmisión de vibraciones y
+ruido a los recintos colindantes.
+
+-
+
+El techo del cuarto húmedo inferior no tiene
+suficiente aislamiento acústico, es decir, no tiene
+un material absorbente en la cámara, no está
+sellado perimetralmente, presenta huecos,
+registros, luminarios empotradas, o alberga los
+equipos de aire acondicionado. Véase figura
+IV.2.14.
+
+Ruidos provocados por el motor del ascensor, que
+comprenden:
+
+•
+
+Ruido aéreo
+maquinaria.
+
+•
+
+Vibraciones provocadas por falta de un
+sistema amortiguante o a amortiguadores en
+mal estado o inadecuados. Estos problemas
+se producen independientemente de que el
+ascensor esté ubicado en un cuarto de
+máquinas o la maquinaria esté acoplada al
+contrapeso (ascensor de mochila).
+
+provocado
+
+por
+
+la
+
+propia
+
+Figura IV.2.14. Para que el techo de los cuartos
+húmedos tenga un aislamiento acústico adecuado,
+es necesario que se evite la colocación de
+luminarias empotradas, rejillas que lo perforen.
+
+Ruidos provocados por los relés o cuadro de
+maniobras, situados generalmente en el cuarto de
+máquinas o en la última parada de los ascensores
+de mochila. El ruido es debido al arrancador y las
+vibraciones se transmiten si el cuadro de
+maniobras no está anclado elásticamente a los
+muros a los que está sujeto.
+Ruidos provocados por movimiento de la cabina
+por el hueco, que produce ruidos que se
+transmiten por la vía aérea a los recintos que son
+
+27
+
+-
+
+Los aparatos están anclados a las paredes y suelo
+rígidamente, es decir, sin interponer un elemento
+elástico entre ambos
+
+-
+
+Anclaje de tuberías al forjado y a las paredes con
+abrazaderas que no son elásticas.
+
+-
+
+Conducciones empotradas en particiones de una
+hoja, reduciendo o eliminado su sección,
+disminuyendo el aislamiento acústico del
+paramento y permitiendo el paso de ruido por su
+interior.
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Las cuestiones planteadas en el IEE están orientadas a
+detectar los focos de ruido en los cuartos húmedos: red
+descolgada, falso techo que no tiene un buen
+
+aislamiento acústico por ser registrable, tener luminarias
+empotradas, etc.
+
+Figura IV.2.15. Principales focos de transmisión de ruido en los cuartos húmedos. Sección vertical.
+1
+2
+3
+4
+5
+6
+7
+
+Transmisión del ruido aéreo provocado por el paso del líquido por las tuberías
+Transmisión de ruido estructural provocado por contactos rígidos entre las tuberías y la estructura del edificio debido a que
+los pasos de las tuberías han sido sellados con espumas rígidas o mortero.
+Huecos entre las tuberías y el forjado no sellados, incluso con pérdida del material de entrevigado.
+La ausencia de suelo flotante significa que el aislamiento a ruido de impactos es pobre. El ruido de pisadas, caída de objetos,
+etc. se transmite a la estructura del edificio y a las tuberías.
+Sujeción de las tuberías de forma rígida mediante abrazaderas que no tienen un material elástico.
+Anclaje de las bajantes a elementos ligeros, como tabiques de masa por unidad de superficie inferior a 150 kg/m2, como por
+ejemplo, particiones de ladrillo hueco.
+Falso techo sin material absorbente acústico, poco estanco o sin un sellado perimetral.
+
+Para una correcta ejecución de la red de cuartos húmedos, véase la ficha CH de la Guía de Aplicación del DB HR.
+
+⓲
+
+Debe cumplimentarse el IEE siempre que las puertas de
+garaje estén ancladas a la fachada de recintos
+protegidos, ya estén estos situados al lado o encima de
+las puertas. Es este caso, el ruido suele deberse a las
+vibraciones transmitidas por el motor y a los impactos
+provocados por la puerta, siendo especialmente
+molestos en dormitorios por la noche.
+Las cuestiones que resalta el IEE están orientadas a
+detectar si existe un sistema de amortiguación entre el
+motor, la puerta y los elementos constructivos del
+edificio, como son las fachadas, forjados, etc. Véase
+ficha INST-PG Puertas de garaje de la Guía de
+Aplicación del DB HR Protección frente al ruido.
+
+⓳
+
+En este apartado puede consignarse cualquier aspecto
+relativo al ruido producido por las instalaciones no
+comentado anteriormente.
+
+28
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.3. VALORACIÓN FINAL DE LAS PRESTACIONES BÁSICAS DE PROTECCIÓN FRENTE AL RUIDO
+IV.3. VALORACIÓN FINAL DE LAS PRESTACIONES BÁSICAS DE PROTECCIÓN FRENTE AL RUIDO ❶
+El técnico competente abajo firmante valora que las condiciones acústicas son:
+
+Protección frente al RUIDO EXTERIOR ❷
+
+BUENO
+
+RAZONABLE
+
+REGULAR
+
+DEFICIENTE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Protección contra al RUIDO INTERIOR procedente de
+otras viviendas
+
+- Aislamiento acústico a ruido aéreo
+• Recintos colindantes verticalmente ❸
+• Recintos colindantes horizontalmente ❹
+- Aislamiento acústico a ruido de impactos ❹
+• Recintos colindantes verticalmete
+• Recintos colindantes horizontalmente o con
+una arista horizontal común
+Protección frente al RUIDO DE INSTALACIONES ❺
+OBSERVACIONES ❻
+
+❶
+
+de los edificios. Sin embargo, ante la ausencia de los
+mismos, la parte IV se basa en una inspección que
+intenta detectar cuáles son los sistemas constructivos
+empleados y a partir de ahí, poder deducir sus
+comportamiento acústico, sabiendo que esto siempre va
+a ser una aproximación.
+
+En este apartado, el técnico debe realizar una valoración
+cualitativa de las condiciones acústicas de protección
+frente a:
+-
+
+Ruido procedente del exterior, es decir, fachadas y
+cubiertas.
+
+-
+
+Ruido interior procedente de otras viviendas,
+recintos de instalaciones o de actividad
+(elementos
+de
+separación
+verticales
+y
+horizontales):
+
+-
+
+•
+
+Aéreo, para recintos colindantes vertical y
+horizontalmente.
+
+•
+
+Impactos, para recintos colindantes vertical y
+horizontalmente o con una arista horizontal
+común.
+
+En cuanto a la escala de valoración, Bueno,
+Razonable, Regular y Deficiente, podríamos decir que
+un aislamiento acústico bueno correspondería a un nivel
+de aislamiento acústico superior al establecido en el DB
+HR. Un nivel Razonable sería aquél que se acerca, y los
+niveles Regular y Deficiente son aquéllos que se alejan
+de las exigencias del estándar actual que es el marcado
+por el Código Técnico de la Edificación.
+Como se ha comentado en el apartado 1, las
+condiciones acústicas deben valorarse recinto a recinto,
+sin embargo, el apartado IV del IEE trata de establecer
+una valoración general. No obstante en el apartado de
+observaciones pueden incluirse aquellos casos que se
+aparten de la generalidad del edificio y en los que el
+aislamiento sea más favorable o desfavorable.
+
+Ruido de instalaciones (equipos y redes).
+
+La valoración es cualitativa y se establece en términos
+de “Bueno”, “Razonable”, “Regular” y “Deficiente”. Es el
+técnico el que según su experiencia debe valorar las
+condiciones acústicas y en este sentido, debe decirse
+que dentro de la edificación residencial existe una
+amplia casuística de tipologías edificatorias y de
+soluciones constructivas y no se pueden dictar reglas
+fijas.
+
+Las siguientes indicaciones son orientativas y tienen
+como objetivo establecer una primera valoración de las
+soluciones constructivas:
+❷
+
+El método más adecuado y exacto de conocer el
+aislamiento acústico de los edificios, es la realización de
+ensayos de aislamiento acústico, de esta manera, es
+posible, determinar con exactitud el aislamiento acústico
+
+29
+
+La valoración de la fachada debe hacerse teniendo en
+cuenta el nivel de ruido exterior en el entorno del edificio
+y de las características de los huecos. En este sentido,
+debe darse un tratamiento diferenciado a fachadas que
+estén expuestas a niveles de ruido diferentes, por
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Además, existe la dificultad añadida de identificar los
+elementos constructivos, ya que si no figuran en la
+documentación de proyecto, no se realiza una cata o no
+se conoce el edificio es difícil conocer la composición
+constructiva de los elementos que forman la separación
+entre viviendas. En estos casos, al menos el espesor es
+indicativo del tipo de solución constructiva empleada.
+
+ejemplo, fachadas que den a patios de manzana o
+entornos tranquilos frente a fachadas que den a una vía
+de tráfico rodado.
+De la misma manera debe tenerse en cuenta las
+situaciones en las que existan paños de fachadas donde
+predominen las superficies acristaladas o donde haya
+ventanas diferentes. (Dobles ventanas, ventanas
+correderas, etc.)
+
+La valoración de las prestaciones acústicas es
+cualitativa, a priori no es posible dictar unas reglas de
+valoración, ya que depende del tipo de proyecto y grado
+de molestia, sin embargo, una posible valoración puede
+realizarse según el grado de acercamiento a los niveles
+de aislamiento acústico exigidos en el DB HR
+
+Es importante resaltar que la valoración debe hacerse
+para recintos protegidos, tales como salones y
+dormitorios.
+En el caso del aislamiento acústico de la fachada y
+cubierta, el elemento más importante es el hueco, es
+decir, la ventana o el lucernario. Cuando se calcula el
+aislamiento acústico de una solución mixta, es decir,
+aquélla formada por una parte opaca y un hueco, es el
+elemento débil (normalmente el hueco) el que establece
+el rango de aislamiento de la solución mixta, siendo el
+aislamiento mixto máximo 10 dB mayor que el del
+hueco. La parte opaca de la fachada o cubierta
+contribuye mínimamente al aislamiento acústico de los
+recintos y únicamente tiene una incidencia notable en el
+aislamiento acústico de los recintos, si es ligera (masa
+por unidad de superficie de menor que 135 kg/m2) y el
+edificio está en una zona muy contaminada
+acústicamente (Ld ≥ 70 dB).
+
+Las siguientes indicaciones pretenden dar una
+orientación de cómo evaluar los elementos constructivos
+más comunes en los edificios residenciales existentes
+en España.
+Elementos de separación verticales entre viviendas
+La construcción de los siglos pasados hasta
+aproximadamente 1940, está caracterizada de forma
+general por estructuras de muros de carga de fábrica,
+mampuesto, sillería, tapial, adobe, etc., incluidos
+también los muros de entramado de madera a base de
+pies derechos y carreras que están rellenos de piedra,
+ladrillo, etc.
+En este periodo las particiones suelen tener más de un
+pie de espesor (25 cm) su aislamiento acústico a ruido
+aéreo es aceptable, suficiente como para no causar
+molestias graves cuando se trata de una actividad
+vecinal normal. Es probable que la diferencia de niveles
+estandarizada pondera A, DnT, esté comprendida entre
+45 y 50 dBA.
+
+Analizando las tipologías de ventanas en edificios
+existentes, las antiguas ventanas con vidrio monolítico y
+carpintería de madera o de acero, dieron paso a las
+ventanas correderas de aluminio. Tanto unas como
+otras, suelen presentar problemas de estanquidad
+producidos por el uso y por la pérdida de sellado. La
+existencia de este tipo de ventanas en entornos ruidosos
+es un indicativo de que el aislamiento del edificio frente
+a ruido exterior es regular o deficiente.
+
+En la segunda mitad del siglo XX, hasta 1981, las
+estructuras de los edificios experimentaron una gran
+evolución morfológica. Durante el primer cuarto se
+empiezan a emplear las estructuras reticulares de acero,
+pero es partir de los años 40 cuando se extienden las
+estructuras de pilares y vigas de hormigón armado, en
+los que los muros de fábrica pierden su función portante
+para ser simplemente divisiones que se insertan en la
+estructura del edificio. De esta forma, se aligeran y
+afinan las particiones, con la correspondiente
+disminución de aislamiento acústico. Generalmente, el
+aislamiento acústico, definido como DnT,A , de los
+recintos en los que las particiones son bloque de ladrillo
+hueco de 60 a 110 mm, es inferior a los 40 dBA y puede
+ser considerado como deficiente.
+
+Por el contrario, las dobles ventanas, es decir, la
+instalación de dos ventanas, suponen una mejora del
+aislamiento acústico a ruido aéreo, que podría calificarse
+como bueno.
+La existencia de capialzados realizados in situ supone
+una vía de penetración del aire y del ruido al interior. La
+tapa registrable poco estanca, la ausencia de un
+material absorbente acústico en la cámara y una holgura
+excesiva entre la caja y la persiana, tienen como
+consecuencia un aislamiento acústico deficiente.
+En cuanto al conjunto formado por el capialzado y la
+ventana, ambos deben tener un buen aislamiento
+acústico para que el resultado de aislamiento global de
+la fachada sea bueno. Si la ventana presenta un buen
+comportamiento acústico, pero el capialzado es poco
+estanco, el aislamiento global de la fachada será pobre y
+a la inversa.
+❸
+
+En 1981 se aprueba la primera normativa que establece
+valores mínimos de aislamiento acústico en los edificios:
+la Norma Básica de la Edificación NBE CA 81 sobre
+condiciones acústicas, modificada posteriormente en
+1988.
+Según esta norma, el valor de aislamiento acústico a
+ruido aéreo exigido a las particiones era RA ≥ 45 dBA y
+supuso una mejora ligera del aislamiento acústico de las
+particiones verticales, que para cumplir con la exigencia
+establecida debían tener una masa por unidad de
+superficie de al menos 200 – 250 kg/m2. Habitualmente
+se utilizaban muros de medio pie perforado y enlucido
+por las dos caras, y el tabique de dos hojas de ladrillo
+hueco de 70 mm – 110 mm de espesor cada una, sin
+que fuera habitual la colocación de lana mineral en la
+cámara. El aislamiento acústico de estas soluciones en
+términos de DnT,A, está comprendido entre los 40 y 45
+dBA, y por lo tanto puede ser considerado “regular”.
+
+El objetivo del apartado IV2.2 del IEE es la identificación
+de los elementos de separación verticales entre
+viviendas y las características que influyen en sus
+prestaciones acústicas. A partir de ahí, debe valorarse
+cómo es el aislamiento acústico de los recintos.
+Una vez más, debe repetirse que no pueden dictarse
+unas reglas fijas y que las prestaciones reales de un
+edificio sólo pueden determinarse de forma precisa
+mediante ensayos de aislamiento acústico, sin embargo,
+en este documento se quiere dar una orientación
+basada en el conocimiento de las prestaciones típicas
+de soluciones constructivas más habituales en los
+edificios residenciales existentes.
+
+Las exigencias de la NBE CA88 se establecían en
+términos de aislamiento acústico de la solución
+
+30
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+viviendas y las características que influyen en sus
+prestaciones acústicas. A partir de ahí, debe valorarse
+cómo es el aislamiento acústico de los recintos.
+
+constructiva medido en laboratorio, con lo que unas
+condiciones de ejecución deficientes, reducían aún más
+el aislamiento acústico que realmente se proporcionaba
+a las viviendas.
+
+En el caso de los elementos de separación horizontales,
+la valoración es doble, es decir, debe valorarse su
+aislamiento a ruido aéreo y a ruido de impactos.
+
+En 2009 se publicó el DB HR y lógicamente el
+aislamiento de las soluciones constructivas empleadas
+es el requerido en el DB HR, que se considera “bueno”:
+DnT,A ≥ 50 dBA.
+
+Las siguientes indicaciones pretenden dar una
+orientación de cuáles con las prestaciones de los
+elementos de separación horizontales más comunes en
+los edificios residenciales existentes en España:
+
+En estas indicaciones están basadas en ensayos y en
+cálculos realizados en el Instituto de Ciencias de la
+Construcción Eduardo Torroja y suponen que no existen
+deficiencias, ni elementos como conductos de
+ventilación que supongan una transmisión de ruido
+aérea, ya sea directa o indirecta. También suponen que
+las uniones entre elementos constructivos son rígidas.
+
+La construcción de los siglos pasados hasta
+aproximadamente 1940, se resolvía normalmente con
+estructuras de muros de carga en los que apoyaban
+forjados unidireccionales de madera o bóvedas de
+ladrillo o piedra.
+En el caso de los forjados de madera puede decirse que
+su aislamiento acústico a ruido aéreo depende de las
+capas de relleno que tengan. Es común encontrar que el
+entrevigado está relleno con yesones o rasillas
+cerámicas y que previo a la colocación del pavimento se
+ha colocado una o varias camas de arena y mortero de
+agarre, lo que confiere una mayor masa y por tanto, más
+aislamiento acústico. Además, la existencia de un falso
+techo de escayola o cañizo también influye
+positivamente en su aislamiento acústico.
+
+Como ayuda para la cumplimentación de este punto,
+puede consultarse el Anejo 2 de este documento, donde
+se muestran los niveles de aislamiento acústico
+obtenidos entre recintos separados por elementos
+constructivos típicos de la edificación española.
+Elementos de separación vertical con puertas
+El aislamiento acústico de los elementos de separación
+verticales con puertas que comunican viviendas con
+zonas comunes, están afectados por las características
+de la puerta.
+
+Durante el siglo XX, las estructuras de los edificios
+experimentaron una gran evolución morfológica. En el
+primer cuarto se empiezan a emplear las estructuras
+reticulares de acero, pero es partir de los años 40
+cuando se extienden las estructuras de pilares y vigas
+de hormigón armado, en los que los muros de fábrica
+pierden su función portante. Los forjados de hormigón
+empiezan a ser los más habituales, ya sea con
+entrevigado metálico, como con viguetas de hormigón.
+Encima de los mismos se instalaban una o más capas
+de recrecido de arena, cemento, etc. que servían de
+regularización de la superficie de forjado y de soporte
+del pavimento. El conjunto de forjado estructural y varias
+capas de mortero de recrecido pueden considerarse un
+elemento homogéneo, es decir, un elemento en el que
+su aislamiento acústico puede explicarse debido a su
+masa.
+
+En el DB HR, las puertas que conectan un recinto
+protegido de una unidad de uso con las zonas comunes
+del edificio, deben tener un índice de reducción acústica
+ponderado A de al menos 30 dBA y si las puertas
+conectan recintos habitables de la unidad de uso, tales
+como un hall de entrada o pasillo, con zonas comunes,
+del edificio las puertas deben tener un índice de
+reducción acústica ponderado A de al menos 20 dBA.
+Para que las puertas puedan proveer tal protección
+frente al ruido, es necesario que las puertas sean
+pesadas y que tengan juntas de estanquidad en el
+perímetro, incluido en la parte inferior. La existencia de
+puertas de estas características o la existencia de un
+hall de distribución en la vivienda puede ser considerada
+una protección buena respecto al ruido generado en las
+zonas comunes de los edificios residenciales.
+
+Para ambos casos, forjados de hormigón y forjados
+tradicionales de vigas de madera con varias capas de
+recrecido, el aislamiento acústico a ruido aéreo depende
+fundamentalmente de su masa. De tal forma, que a
+menos que trate de un forjado muy ligero, por ejemplo,
+un forjado de menos de 300 kg/m2, el aislamiento a
+ruido aéreo es “Aceptable”.
+
+Tabiques (particiones dentro de una vivienda)
+Los tabiques tienen la función de resguardar la
+privacidad entre los espacios de una misma unidad de
+uso. En el IEE no se pretende realizar una valoración de
+las condiciones acústicas del interior de cada una de las
+viviendas. Dicha valoración incluiría tabiques, puertas y
+existen muchos diseños en los cuales los tabiques no
+existen o pueden haber sido sustituidos por otros
+elementos como mamparas, vidrios=.etc.
+
+Sin embargo, el aislamiento acústico a ruido de
+impactos en ambos casos es deficiente, debido a la
+inexistencia de un suelo flotante o de una lámina
+elástica, que impida el paso de vibraciones entre el
+solado y la estructura del edificio.
+
+Sin embargo, los tabiques son una vía de transmisión de
+sonido a los recintos colindantes. Algunas de las
+características que figuran a continuación son un
+indicativo de que la transmisión por flancos es limitada.
+Éstas conjuntamente con otras características, como la
+existencia de particiones de dos hojas, suelos flotantes,
+etc. indican que el aislamiento de los recintos es
+adecuado:
+
+❹
+
+-
+
+Existencia de bandas en los encuentros de los
+tabiques de fábrica con forjados y particiones.
+
+-
+
+Tabiques dispuestos encima del suelo flotante
+
+-
+
+Tabiques con un índice de reducción acústica
+ponderado A, RA, de al menos 33 dBA
+
+A pesar de que en el año 1981 se aprueba la primera
+normativa sobre condiciones acústicas, la NBE CA 88,
+las nuevas exigencias no supusieron un cambio
+importante en los elementos de separación horizontales
+empleados. El valor exigido de aislamiento a ruido de
+impactos era poco exigente y su cumplimiento no
+requería emplear materiales aislantes a ruido de
+impactos.
+A partir de 2009, año en el que se aprueba el
+Documento Básico DB HR Protección frente al ruido, las
+edificaciones deben cumplir con los niveles de
+aislamiento especificados en el DB HR, estándar actual
+y que consideraríamos como un aislamiento acústico
+“Bueno”.
+
+El objetivo del apartado IV2.3 del IEE es la identificación
+de los elementos de separación horizontales entre
+
+31
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+En resumen:
+Si en el forjado no existe un suelo flotante, moqueta o
+tarima flotante, es decir, una solución de lámina elástica
+interpuesta entre el solado y la cara superior del
+elemento de separación horizontal donde van a
+producirse las pisadas, impactos=etc. la valoración de
+ruido de impactos debe ser “Regular” o “Deficiente”.
+Para valorar el aislamiento a ruido aéreo de los
+elementos de separación homogéneos, puede evaluarse
+la masa por unidad de superficie del forjado. Cuando
+encima del forjado existan varias capas de recrecido de
+mortero, arena, etc. sin que haya una lámina elástica, la
+masa de estas capas puede sumarse a la masa del
+forjado. Como se ha mencionado anteriormente, para
+elementos constructivos de masa por unidad de
+superficie de al menos de 300 kg/m2, el aislamiento
+acústico es “Aceptable”.
+Como ayuda para la cumplimentación de este punto,
+puede consultarse el Anejo 3 de este documento, donde
+se muestran los niveles de aislamiento acústico
+obtenidos entre recintos separados por elementos
+constructivos típicos de la edificación española.
+❺
+
+-
+
+Cuartos de instalaciones que no tengan un
+aislamiento acústico integral en los que haya
+equipos generadores de ruido y vibraciones y que
+sean colindantes con recintos protegidos.
+
+-
+
+Equipos situados colindantes a recintos protegidos
+que carezcan de un sistema amortiguante, tales
+como amortiguadores o bancada de inercia.
+
+-
+
+Presencia de equipos de instalaciones, tales como
+máquinas de aire acondicionado cerca de
+ventanas, situadas en patios de luces, etc.
+
+-
+
+Cuartos húmedos colindantes con
+protegidos de otras unidades de uso.
+
+-
+
+Codos en la red de saneamiento descolgada que
+trascurran en recintos protegidos como dormitorios
+y salones.
+
+-
+
+Puertas de garaje ancladas de forma rígida a la
+fachada de recintos protegidos,
+
+recintos
+
+Debe tenerse en cuenta que debe valorarse el grado de
+afección de los recintos protegidos y en la valoración de
+ruido de instalaciones es fundamental la opinión de los
+usuarios.
+
+En cuanto al ruido de instalaciones, es prácticamente
+imposible establecer una valoración acústica tras una
+inspección visual. Sin embargo, hay algunas
+características que indican la posible existencia de
+problemas, tales como:
+
+❻
+
+32
+
+En este apartado puede consignarse cualquier aspecto
+no comentado anteriormente que pueda influir en la
+valoración del aislamiento acústico.
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.4. RECOMENDACIONES PARA LA MEJORA DE PROTECCIÓN FRENTE AL RUIDO
+IV.4.1. MEDIDAS DE MEJORA
+IV.4. RECOMENDACIONES PARA LA MEJORA DE PROTECCIÓN FRENTE AL RUIDO ❶
+Como resultado de las valoraciones del edificio realizadas se recomiendas las medidas de mejora siguientes:
+IV.4.1. MEDIDAS DE MEJORA
+IV.4.1.1. Medida de mejora nº 1
+Descripción de la medida: ❷
+
+Análisis técnico de la medida: ❸
+
+Valoración económica:
+
+IV.4.1.2. Medida de mejora nº 2
+Descripción de la medida:
+
+Análisis técnico de la medida:
+
+Valoración económica:
+
+IV.4.1.3. Medida de mejora nº 3
+Descripción de la medida:
+
+Análisis técnico de la medida:
+
+Valoración económica:
+
+IV.4.1.4. Medida de mejora nº 4
+Descripción de la medida:
+
+Análisis técnico de la medida:
+
+Valoración económica:
+
+OBSERVACIONES ❹
+
+33
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+❶
+
+-
+
+Una vez valoradas las condiciones acústicas existentes
+en el edificio, se propondrán medidas de mejora de
+estas condiciones. A continuación se dan unas
+indicaciones del tipo de medidas que pueden adoptarse
+en función de cada uno de los elementos constructivos.
+
+Instalar trasdosados por una o dos caras de las
+particiones, que pueden ser:
+
+•
+
+Trasdosados directos o adheridos, que
+consisten en un panel compuesto por una
+placa de yeso laminado adherida a una capa
+de un material absorbente (por ejemplo: la
+lana mineral).
+
+•
+
+Trasdosados autoportantes, que están
+formados por una o varias placas de yeso
+laminado
+ancladas
+a
+una
+perfilería
+autoportante separada de la hoja de fábrica.
+
+Mejora de las condiciones acústicas a ruido exterior
+Las medidas de mejora para la protección frente al ruido
+exterior vienen condicionadas por el aislamiento de la
+fachada o cubierta, que a su vez, vienen condicionadas
+por el aislamiento de los huecos: ventanas y lucernarios.
+Las actuaciones que contribuyen a mejorar de forma
+sensible el aislamiento acústico de la envolvente del
+edificio son aquellas que se realizan en los huecos de
+fachada. Las actuaciones en el muro de fachada no
+incrementan los valores de aislamiento acústico de la
+fachada a menos que la fachada sea ligera (panel
+sándwich) y se trate de una fachada expuesta a niveles
+de ruido ambiental elevados. Ld ≥ 70 dB.
+
+Se rellena normalmente el espacio que se
+genera entre la fábrica y la placa con material
+absorbente acústico.
+
+Las medidas de mejora más habituales para mejorar el
+aislamiento acústico de la envolvente son cualquiera de
+las siguientes medidas o una combinación de las
+mismas:
+-
+
+•
+
+Sustitución de vidrios monolíticos por vidrios
+dobles
+
+•
+
+Cambio de la ventana por otra de clase de
+permeabilidad al aire elevada, como 3 y 4.
+Empleo de vidrios dobles
+
+•
+
+Sustitución de una partición anterior por un
+nuevo elemento constructivo de separación
+
+Debe ser vigilada tanto la correcta ejecución como el
+diseño y ejecución de las uniones entre los distintos
+elementos. Debe cuidarse la correcta ejecución de las
+uniones de los elementos de separación verticales con
+la fachada, techo y suelo.
+Como ayuda para la cumplimentación de este punto,
+puede consultarse el Anejo 2 de este documento, donde
+se muestran los niveles de aislamiento acústico
+obtenidos entre recintos cuando se realizan diferentes
+intervenciones de mejora en los mismos.
+
+Instalación de una doble ventana
+
+Cajas de persiana:
+
+•
+
+-
+
+Trasdosados cerámicos formados por un
+ladrillo hueco de al menos 50 mm, con
+bandas perimetrales en sus encuentros con
+las particiones, techo y suelo.
+
+Ventanas:
+
+•
+-
+
+•
+
+Colocación de burletes de caucho adhesivos
+en el perímetro de la tapa para conseguir
+minimizar la permeabilidad al aire de las
+cajas de persiana.
+
+•
+
+Sellado perimetral del cajón de persiana.
+
+•
+
+Sustitución de la caja de persiana por una
+prefabricada o monobloque.
+
+•
+
+Sustitución de la caja de persiana, refuerzo
+de la masa de la tapa de registro e
+incorporación de un material absorbente
+acústico.
+
+Mejora de las condiciones acústicas a ruido interior.
+Elementos de separación horizontales
+En general, el mayor problema de los forjados es la
+transmisión de ruido de impactos. Las medidas de
+mejora acústica para ruido de impacto consisten en
+añadir un suelo flotante y/o un techo suspendido. A
+continuación se indican las soluciones más comunes.
+-
+
+Suelos flotantes:
+
+•
+
+Una tarima flotante, compuesta generalmente
+por un laminado de madera y un material
+elástico, como por ejemplo, el PE. Es una
+solución económica que tiene una buena
+reducción del nivel de ruido de impactos,
+pero no se consigue un aumento del
+aislamiento acústico a ruido aéreo.
+
+•
+
+Una solera seca, compuesta por dos o más
+placas de yeso laminado solapadas y
+pegadas entre sí, dispuestas sobre un
+material aislante a ruido de impactos como
+lana mineral. Se trata de una solución seca,
+sin tiempos de secado que tiene un buen
+aislamiento acústico a ruido de impactos y un
+aislamiento acústico pequeños a ruido aéreo.
+Una ventaja es que no incrementa la carga
+de la estructura por su ligereza, siendo
+interesante para la rehabilitación de
+estructuras de madera.
+
+•
+
+Un suelo flotante de mortero, compuesto por
+una capa de mortero de al menos 50 mm,
+dispuesta sobre un material aislante a ruido
+de impactos, como la lana mineral, el
+
+Sistemas de ventilación:
+
+•
+
+Utilizar ventanas con aireadores que incluyan
+aislamiento acústico.
+
+•
+
+Utilizar ventanas con microventilación.
+
+•
+
+Utilizar sistemas de admisión y extracción
+mecánicos.
+
+Mejora de las condiciones acústicas a ruido interior.
+Elementos de separación verticales
+El técnico deberá indicar qué medidas de mejora se
+proponen para mejorar las condiciones acústicas a ruido
+interior. A continuación se indican las más comunes:
+-
+
+La aplicación de capas de yeso o mortero. La
+mejora de aislamiento acústico de esta medida es
+discreta, pero es importante hacerlo antes de
+colocar trasdosados sobre todo si la fábrica está
+deteriorada.
+
+34
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+polietileno o
+elastificado.
+
+el
+
+poliestireno
+
+ejemplo, aumentar el canto del forjado o ejecutar
+una solera de hormigón sobre en aquellos lugares
+donde están situadas las climatizadoras.
+
+expandido
+
+De las tres soluciones mostradas, esta última es la
+que mayor aislamiento acústico a ruido aéreo y a
+ruido de impactos produce.
+-
+
+Anclar los equipos y las redes de conductos en
+elementos pesados de fábrica o en pilares, evitando
+anclarlos en elementos ligeros como particiones de
+ligeras de placas de yeso laminado o ladrillo hueco
+gran formato
+
+-
+
+Aislar los cuartos técnicos mediante trasdosados,
+techos y suelos flotantes, utilizando anclajes
+amortiguadores, especialmente si los cuartos
+técnicos están en contacto con recintos sensibles.
+
+-
+
+Prever los espacios necesarios para las redes de
+conductos y de tuberías, de tal forma que sus
+secciones sean las óptimas.
+
+-
+
+Prever el espacio suficiente para los silenciadores y
+los encapsulamientos de los equipos si fuera
+necesario.
+
+-
+
+Utilizar abrazaderas desolidarizadoras cuando haya
+que anclar las tuberías al edificio.
+
+-
+
+Utilizar grifería de tipo II según la clasificación de la
+UNE EN 200.
+
+Techos suspendidos
+Si además del aislamiento acústico a ruido de
+impactos, se requiere mejorar el aislamiento
+acústico a ruido aéreo, se puede instalar un techo
+suspendido, con material absorbente en la cámara y
+anclajes metálicos. Los techos suspendidos también
+pueden utilizarse para aislar a ruido de impactos,
+pero su eficacia es menor que cualquiera de las
+actuaciones mencionadas anteriormente.
+Como ayuda para la cumplimentación de este punto,
+puede consultarse el Anejo 3 de este documento, donde
+se muestran los niveles de aislamiento acústico
+obtenidos entre recintos cuando se realizan diferentes
+intervenciones de mejora en los mismos.
+
+Ruido de instalaciones
+A pesar de las instalaciones plantean problemáticas muy
+diversas, las siguientes técnicas son válidas para
+conseguir la reducción de ruido y vibraciones de equipos
+y redes:
+-
+
+Ubicar los equipos alejados de recintos sensibles al
+ruido como dormitorios, aulas, despachos, etc.
+
+-
+
+Reducir el ruido emitido por los equipos, eligiendo
+aquéllos equipos con una potencia acústica limitada.
+
+-
+
+Aislar las estructuras de las vibraciones de los
+equipos, una bancada de inercia o amortiguadores
+si los equipos son compactos.
+
+-
+
+-
+
+Puede consultarse el apartado 3.1.2 Fichas de
+instalaciones de la Guía del DB HR Protección frente al
+ruido.
+
+Reforzar la estructura del edificio en aquéllos puntos
+del edificio en los que se localicen los equipos, por
+
+35
+
+❷
+
+En la descripción de la medida, debe incluirse la
+ubicación de las mismas en el edificio
+
+❸
+
+Debe realizarse un análisis técnico de cada medida,
+entendiéndose como tal también la viabilidad técnica,
+urbanística y las condiciones de protección del
+patrimonio, si fuera el caso.
+
+❹
+
+En este apartado puede consignarse cualquier aspecto
+relevante no comentado anteriormente.
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.4.2. POTENCIAL DE LAS MEDIDAS DE MEJORA
+IV.4.2. POTENCIAL DE LAS MEDIDAS DE MEJORA ❶
+Enumerar las medidas de mejora y evaluar el potencial de mejora de cada una de ellas en relación al aspecto acústico
+del edificio al que vayan dirigidas:
+Protección frente al
+ruido exterior
+
+Protección frente al
+ruido interior
+(aéreo)
+
+Protección frente al
+ruido interior
+(impactos)
+
+Protección frente al
+ruido de las
+instalaciones
+
+ALTO
+
+MEDIO
+
+BAJO
+
+ALTO
+
+MEDIO
+
+BAJO
+
+ALTO
+
+MEDIO
+
+BAJO
+
+ALTO
+
+MEDIO
+
+BAJO
+
+Medida de mejora nº 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medida de mejora nº 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medida de mejora nº 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medida de mejora nº 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBSERVACIONES
+
+❶
+
+En este apartado debe especificarse el potencial de las
+medidas de mejora propuestas en el apartado IV.4.1.
+
+cualitativa saltaría un grado, por ejemplo, de “Deficiente”
+a “Regular”.
+
+Como potencial de mejora se entiende el incremento
+aproximado o cualitativo del aislamiento acústico
+obtenido con cada medida.
+
+Un potencial alto hace referencia a un incremento
+sustancial del aislamiento acústico, lo que indica que la
+valoración cualitativa saltaría dos grados, por ejemplo,
+de “Deficiente” a “Buena”.
+
+Un potencial bajo hace referencia a un incremento
+escaso del aislamiento acústico en 1 o 2 dB, es decir, en
+una valoración cualitativa, la situación calificada en
+IV.4.1 no cambiaría de ser “Bueno”, “Razonable”,
+“Regular” y “Deficiente”
+Un potencial medio hace referencia a un incremento
+moderado de las condiciones de protección frente al
+ruido, de 4 ó 5 dB, lo que indicaría que la valoración
+
+Como ayuda para la cumplimentación de este punto,
+pueden consultarse los Anejos 2 y 3 de este documento,
+donde se muestran los niveles de aislamiento acústico
+obtenidos entre recintos cuando se realizan diferentes
+intervenciones de mejora en los mismos.
+
+36
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.4.3.
+
+INCIDENCIA
+
+DE
+
+LAS
+
+MEDIDAS
+
+DE
+
+MEJORA
+
+SOBRE
+
+OTRAS
+
+PRESTACIONES.
+
+TRANSVERSALIDAD
+IV.4.3. INCIDENCIA DE LAS MEDIDAS DE MEJORA SOBRE OTRAS PRESTACIONES. TRANSVERSALIDAD ❶
+IV.4.3.1. Medida de mejora nº 1
+
+IV.4.3.2. Medida de mejora nº 2
+
+IV.4.3.3. Medida de mejora nº 3
+
+IV.4.3.4. Medida de mejora nº 4
+
+OBSERVACIONES
+
+❶
+
+Debe comentarse la incidencia que tienen las medidas
+propuestas en otras prestaciones del edificio, tanto si las
+medidas propuestas para la protección frente al ruido
+son favorables para otras prestaciones, como si no lo
+son.
+Por ejemplo, un caso de cambio de ventanas suele
+conllevar una mejora de las condiciones de protección
+frente al ruido como una mejora de las condiciones
+térmicas y de ahorro de energía.
+
+.
+
+37
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.5. PRUEBAS Y COMPROBACIONES REALIZADAS POR EL TÉCNICO
+IV.5. PRUEBAS Y COMPROBACIONES REALIZADAS POR EL TÉCNICO ❶
+Indicar las pruebas y comprobaciones realizadas para la emisión del presente informe de diagnóstico acústico del
+edificio:
+- Mediciones de aislamiento acústico ❷
+- Calas y/o catas en los elementos constructivos
+- Cuestionarios de confort acústico
+- Otras: ❸
+En caso afirmativo, indicar las pruebas realizadas:
+
+ No
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+ Si
+
+OBSERVACIONES ❹
+
+❶
+
+❷
+
+En el IEE deben adjuntarse todas las pruebas y
+comprobaciones utilizadas para cumplimentar esta parte
+del IEE.
+Entre las pruebas y comprobaciones que puede realizar
+un técnico para valorar las condiciones acústicas de un
+edificio están los ensayos de aislamiento acústico in situ,
+que pueden realizarse en todo tipo de edificaciones, ya
+sean en altura, adosadas, unifamiliares aisladas, etc.
+Estos ensayos están normalizados y su procedimiento
+se
+especifica
+en
+sus
+normativas
+técnicas
+correspondientes.
+
+-
+
+Aislamiento acústico a ruido aéreo (UNE-EN ISO
+16283-1:2014)
+
+-
+
+Aislamiento acústico a ruido de impactos (UNE-EN
+ISO 16283-2:2016)
+
+-
+
+Aislamiento acústico a ruido aéreo de fachadas
+(UNE-EN ISO 16283-3:2016).
+Estos ensayos se realizan entre parejas de recintos (uno
+emisor y otro receptor) o entre el exterior y un recinto
+receptor y lo que caracterizan es el aislamiento acústico
+del cerramiento o partición existente entre ellos, es
+decir, las mediciones se realizan en los recintos
+directamente adyacentes a la pared separadora o en los
+recintos inmediatamente encima o debajo del forjado
+separador.
+
+Los ensayos de aislamiento acústico consisten
+básicamente en emitir un ruido normalizado en el recinto
+emisor o en el exterior y compararlo con el ruido que
+llega al recinto receptor; para ello, en general, se
+requiere la medición de diferentes parámetros: nivel de
+ruido en el recinto emisor, nivel de ruido recibido, ruido
+de fondo y tiempo de reverberación en el recinto
+receptor (para hacer las correcciones oportunas).
+
+Para caracterizar acústicamente paredes separadoras
+normalmente basta con realizar la medida del
+aislamiento a ruido aéreo, recinto a recinto, a cada lado
+de la pared. En el caso de forjados, su caracterización
+acústica es doble (ruido aéreo y ruido de impactos), lo
+que implica dos medidas, el aislamiento a ruido aéreo y
+la transmisión del ruido de impactos. Todos los ensayos
+de aislamiento deben realizarse de acuerdo a las
+normas mencionadas. Los procedimientos de cálculo y
+los informes deberían realizarse conforme a las normas
+UNE-EN ISO 717 y lo establecido en el DB HR del CTE.
+Tanto los ensayos de aislamiento a ruido aéreo como a
+ruido de impactos requieren el acceso a las viviendas a
+cada lado de la partición, ya sea pared, fachada o
+forjado, pues en una de ellas se genera el ruido (recinto
+emisor o exterior) y en el otro se recibe (recinto
+receptor).
+
+Los ensayos de aislamiento acústico que pueden
+realizarse y sus normas de referencia9 son los
+siguientes:
+
+9
+
+Según el DB HR con comentarios, versión junio de 2016,
+cuando se requiera realizar el control de la obra terminada, los
+ensayos de aislamiento acústico a ruido aéreo y de
+aislamiento acústico a ruido de impactos se realizarán
+conforme a lo establecido en las normas las UNE EN ISO 1404 y UNE EN ISO 140-5 para ruido aéreo, en la UNE EN ISO
+140-7 para ruido de impactos. Según lo establecido en el
+apartado III Criterios generales de aplicación del DB HR.
+
+38
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Selección de recintos a ensayar
+Deben aplicarse unos criterios que ayuden a la
+selección de los recintos a ensayar. Esta selección
+dependerá del uso de los recintos y de las colindancias
+que se establezcan entre ellos y también de sus
+características
+geométricas
+y
+sus
+soluciones
+constructivas. En general, se seleccionarán los casos
+más desfavorables o restrictivos para la realización de
+los ensayos.
+Los recintos que se seleccionen como receptores
+deberían ser aquellos más sensibles desde el punto de
+vista de la protección frente al ruido, es decir, los
+recintos protegidos (dormitorios y estancias), pues son
+aquellos en los que es más importante garantizar las
+condiciones de confort acústico.
+
+-
+
+En el caso de aislamiento acústico a ruido aéreo,
+aquellas parejas de recintos en las que la partición
+tenga una superficie común mayor.
+
+-
+
+En el caso de aislamiento acústico a ruido de
+impactos, aquellas parejas de recintos en las que la
+superficie común de forjado sea menor.
+
+-
+
+En el caso de fachadas aquellas con una relación
+superficie de huecos / superficie total más elevada.
+
+❸
+
+Debe especificarse si se han realizado otras pruebas.
+Por ejemplo, en algunas ocasiones, como es el caso del
+ruido producido por los recintos de actividad, recintos de
+instalaciones o las instalaciones comunes del edificio,
+puede ser conveniente realizar otro tipo de
+comprobaciones acústicas más enfocadas a conocer los
+niveles de ruido recibidos en los recintos más
+susceptibles (recintos protegidos), procedente de los
+recintos mencionados o incluso de otras fuentes de
+ruido exteriores. Estas pruebas acústicas podrán ser
+complementarias o no a los ensayos de aislamiento
+acústico.
+
+Debe tenerse en cuenta la colindancia o proximidad
+entre los recintos protegidos y los recintos de actividad
+y/o los recintos de instalaciones, de forma que se
+seleccionen éstos últimos como recintos emisores, al
+margen de que también puedan seleccionarse como
+emisores recintos protegidos que pertenezcan a
+distintas unidades de uso.
+
+El procedimiento de medida y evaluación de los niveles
+de inmisión de ruido viene especificado en distinta
+legislación aplicable (estatal, autonómica o municipal):
+
+En cuanto a las soluciones constructivas se
+seleccionarían aquellos recintos cuyos elementos de
+separación a ensayar ofrezcan un menor aislamiento
+teórico.
+Desde el punto de vista de las características
+geométricas de los recintos deben tenerse en cuenta
+varios criterios:
+-
+
+Los recintos receptores que tengan menor volumen.
+❹
+
+39
+
+-
+
+Real Decreto 1367/2007 por el que se desarrolla la
+Ley 37/2003 del Ruido, en lo referente a zonificación
+acústica, objetivos de calidad y emisiones acústicas.
+
+-
+
+Leyes o decretos
+municipales, etc.
+
+autonómicos,
+
+ordenanzas
+
+En este apartado puede consignarse cualquier aspecto
+relevante no comentado anteriormente.
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+IV.6. OBSERVACIONES
+IV.6. OBSERVACIONES ❶
+
+❶
+
+En el apartado general de observaciones, pueden
+consignarse aquella información no recogida en
+apartados anteriores y que pueda ser relevante.
+
+40
+
+Anejo 1. Parte IV del Informe de Evaluación del Edificio
+Plantilla
+
+41
+
+INFORME DE EVALUACIÓN DEL EDIFICIO.
+
+PARTE IV: CONDICIONES BÁSICAS DE PROTECCIÓN FRENTE AL RUIDO
+USO RESIDENCIAL VIVIENDA:
+IV.0. INTRODUCCIÓN
+El apartado de Protección frente al Ruido (DB HR) del Informe de Evaluación del Edificio (IEE) consiste en una evaluación
+preliminar de las condiciones acústicas de un edificio existente. Si bien el IEE realiza un informe general acerca del
+estado del edificio, el estudio de las prestaciones acústicas no puede generalizarse a nivel de edificio completo pues la
+acústica del edificio no es un problema global sino que va ligado a las características tanto geométricas como
+constructivas de cada vivienda y recinto individual. Las exigencias de aislamiento acústico se establecen sobre recintos
+concretos y dependen del tipo de colindancia que exista con los demás recintos del edificio.
+El IEE plantea una serie de cuestiones desde el punto de vista acústico sobre la distribución de los recintos dentro de la
+vivienda y en relación a otras viviendas, zonas comunes y otros recintos del edificio. Otras cuestiones son relativas a la
+tipología de elementos constructivos, a las deficiencias acústicas que puedan presentar y a las instalaciones del edificio.
+Muchas de estas cuestiones no van a ser detectables en una inspección visual preliminar; sin embargo, son un indicativo
+de aquellos puntos críticos que son determinantes en la acústica de edificios y que pueden y deben tenerse en cuenta
+en una situación futura si se aborda una rehabilitación acústica del edificio o si se acusa un problema existente de ruido,
+ya que pueden utilizarse como guión o lista de chequeo a seguir durante las intervenciones o pueden ser unas
+indicaciones útiles para diagnosticar dicho problema de ruido.
+Para poder realizar una valoración de las prestaciones acústicas de un edificio existente, es fundamental que el técnico
+realice un estudio de cuáles son las vías de transmisión del ruido existentes y localice aquéllas que pueden ser
+dominantes en el comportamiento acústico final de los recintos.
+Por otra parte, existen una serie de pruebas de diagnosis acústica que pueden realizarse al margen de lo indicado en el
+IEE. Por ejemplo, ensayos de aislamiento acústico, cuestionarios de confort acústico, etc.
+En los apartados siguientes se dan una serie de indicaciones que ayudan a cumplimentar los apartados de acústica del
+Informe de Evaluación del Edificio. Esta información puede completarse consultando otros documentos de apoyo
+desarrollados para la aplicación del DB HR como son la Guía de Aplicación del DB HR y la Guía de Rehabilitación.
+El contenido de “Condiciones básicas de Protección frente al Ruido” del IEE se aplica en el caso de uso residencial
+vivienda.
+IV.1. DATOS GENERALES DEL EDIFICIO (Según CTE-DB-HR)(1)
+Localización del edificio
+- Tipo de área acústica en la que se ubica el edificio:
+- Índice de ruido día, Ld de la zona o de las fachadas del edificio:
+- Si no está disponible el valor de los mapas de ruido:
+• Indicar el valor del objetivo de calidad acústica según RD 1367/2007: ___________
+• Indicar el valor obtenido de un estudio específico: ___________________________
+- El edificio se encuentra en una zona con ruido exterior dominante de aeronaves, tal como
+en la huella acústica de un aeropuerto
+- Existen fachadas de patios de manzana cerrados, patios interiores o fachadas exteriores en
+entornos tranquilos no expuestas directamente al ruido de automóviles, aeronaves, de
+actividades industriales, comerciales o deportivas.
+Distribución de la vivienda
+- Los recintos protegidos en el edificio
+• Colindan con otros recintos protegidos de otras viviendas
+• Colindan con recintos habitables de otras viviendas
+• Colindan con recintos de instalaciones o actividad
+• Colindan con un ascensor
+• Colindan con zona común
+- Existen recintos de instalaciones o de actividad en el edificio
+En caso afirmativo:
+• Colindan con recintos habitables
+• Colindan con zonas comunes
+OBSERVACIONES:
+
+(1)
+(2)
+
+ No
+
+ Si
+
+ NS(2)
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+ No
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+ NS
+ NS
+ NS
+
+ No
+ No
+
+ Si
+ Si
+
+ NS
+ NS
+
+Los datos reflejados en este apartado son complementarios a los indicados en la Parte “Datos generales del Edificio”
+NS: Se desconoce
+
+INFORME DE EVALUACIÓN DEL EDIFICIO.
+
+IV.2. CONDICIONES DE PROTECCIÓN FRENTE AL RUIDO (Según CTE-DB-HR)
+IV.2.1. RUIDO EXTERIOR
+ELEMENTOS CONSTRUCTIVOS:
+FACHADAS
+ LIGERAS: Madera, panel sándwich, ventilada ligera, etc.
+ PESADAS: Fachada con al menos una hoja de fábrica u hormigón de al menos 135 kg/m2
+CUBIERTAS
+ LIGERAS: Madera, panel sándwich, etc.
+ Dispone de un techo suspendido con material absorbente acústico
+ No  Si
+ NS
+ PESADAS: El soporte resistente es un forjado o losa de hormigón
+VENTANAS Y LUCERNARIOS
+Vidrios
+Sistema de apertura
+ Sencillas
+ Acristalamiento simple
+ Correderas
+ Dobles
+ Acristalamiento doble
+ Abatibles y oscilobatientes
+ Acristalamiento triple
+ Fijo
+ Vidrios laminados
+Localización de los tipos de ventanas(3):
+
+CAPIALZADOS
+- Existen capialzados
+En caso afirmativo, indique:
+• Existen capialzados no prefabricados con tapa interior registrable
+• El capialzado dispone de aislamiento acústico en el interior
+AIREADORES
+- Existen aireadores en las ventanas o en la fachada
+En caso afirmativo, los aireadores disponen de aislamiento acústico
+CARACTERÍSTICAS ADICIONALES
+Se percibe ruido como molesto procedente del exterior
+ESTADO DE CONSERVACION Y DEFICIENCIAS
+- En general:
+• Las fachadas están en buen estado de conservación
+• Las cubiertas están en buen estado de conservación
+• Las ventanas y lucernarios están en buen estado de conservación
+• Los capialzados están en buen estado de conservación
+Observaciones(4) y localización de deficiencias (5)
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+
+ Si
+ Si
+
+ NS
+ NS
+
+ No
+ No
+
+ Si
+ Si
+
+ NS
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+ NS
+
+OBSERVACIONES:
+
+(3)
+
+La localización de los diferentes tipos de ventanas sólo es relevante en aquellos casos en los que distintas fachadas estén expuestos a niveles de
+ruido exterior (Ld) diferentes y también para localizar las ventanas más desfavorables.
+(4)
+Deben indicarse las deficiencias observadas en los elementos, como por ejemplo:
+• Las carpinterías muestran signos de deterioro, holguras, huecos, fisuras, deformaciones, pérdida de sellado
+• El capialzado está deteriorado o es poco estanco
+• En el capialzado existe excesiva holgura (> 10mm ) al recoger la persiana
+(5)
+No es necesario rellenar si las deficiencias son generalizadas en todo el edificio. Rellénese para destacar alguna deficiencia aislada relevante.
+
+INFORME DE EVALUACIÓN DEL EDIFICIO.
+
+IV.2.2. RUIDO INTERIOR (Particiones verticales)
+PARTICIONES VERTICALES:
+ELEMENTOS DE SEPARACIÓN VERTICALES ENTRE VIVIENDAS
+ El elemento de separación vertical entre viviendas es de FÁBRICA:
+ 1 hoja
+ 2 hojas
+Tipo de hojas de fábrica:
+ Sin trasdosar
+ Con absorbente acústico en la
+ Ladrillo perforado o macizo > ½ pie
+ Con trasdosado
+cámara
+ Ladrillo perforado o macizo a ½ pie
+ Por una cara
+ Con bandas elásticas en la base
+ Ladrillo hueco a ½ pie
+ Por ambas caras
+de alguna de las particiones
+ Ladrillo hueco > 7 cm
+ Con material
+ Ladrillo hueco ≤ 7 cm
+absorbente acústico
+ Otros, indicar:_________________
+ Está revestido por un enlucido, enfoscado, alicatado, etc.
+ El elemento de separación vertical entre viviendas es de ENTRAMADO AUTOPORTANTE METÁLICO:
+ 1 hoja. Espesor: _______
+ 2 hojas. Espesor: _______
+ Con absorbente acústico en la cámara
+ El elemento de separación vertical entre viviendas es de ENTRAMADO DE MADERA CON RELLENO DE YESONES,
+FÁBRICA, ETC.
+Espesor: _______
+ Está revestido por un enlucido, enfoscado, alicatado, etc.
+ Otros, indicar ________________________________________________________
+ESTADO DE CONSERVACION Y DEFICIENCIAS
+En general, los elementos de separación verticales están en buen estado de conservación
+ No
+ Si
+ NS
+Observaciones(6) y localización de deficiencias
+
+CARACTERÍSTICAS ADICIONALES
+- Existen pilares que conectan dos recintos de distinta vivienda
+ No
+ Si
+ NS
+En caso afirmativo, están revestidos o forrados
+ No
+ Si
+ NS
+- Existen instalaciones que conectan dos recintos de distinta vivienda
+ No
+ Si
+ NS
+- Existen instalaciones que atraviesan dos recintos de distinta vivienda
+ No
+ Si
+ NS
+- Existen huecos o conductos de instalaciones adosados al elemento de separación vertical
+ No
+ Si
+ NS
+En caso afirmativo:
+ No
+ Si
+ NS
+• Se percibe el ruido como molesto en los recintos adyacentes
+ No
+ Si
+ NS
+• Están revestidos, forrados o sellados
+ No
+ Si
+ NS
+- Existen tuberías ancladas al elemento de separación vertical
+ No
+ Si
+ NS
+TABIQUES
+ Los tabiques son de FÁBRICA:
+ Con revestimiento (enlucido, enfoscado, alicatado, etc.)
+ Ladrillo perforado o macizo a ½ pie
+ Con bandas elásticas en la base
+ Ladrillo hueco a ½ pie
+ Ladrillo hueco > 7 cm
+ Ladrillo hueco ≤ 7 cm
+ Otros, indicar: ___________________
+ Los tabiques son de ENTRAMADO AUTOPORTANTE METÁLICO
+Espesor: _______
+ Los tabiques son de ENTRAMADO DE MADERA CON RELLENO DE YESONES, FÁBRICA, ETC.
+Espesor: _______
+ZONA COMÚN
+- Las puertas de acceso a la vivienda son acústicamente favorables
+ No
+ Si  NS
+- Existe un hall, pasillo o vestíbulo con puerta previo a los recintos protegidos
+ No
+ Si  NS
+OBSERVACIONES:
+(6)
+
+Deben indicarse las deficiencias observadas en los elementos, como por ejemplo:
+• La existencia de fisuras y/o grietas
+• Que el revestimiento (enlucido u otro) o el material absorbente acústico estén deteriorados
+• Que las hojas estén conectadas rígidamente por algún elemento, instalación, etc.
+• Si existen bandas elásticas, que éstas no sobresalgan por los laterales de la partición
+• Si existen rozas, éstas no se encuentran macizadas o retacadas
+• Si existen cajas de mecanismos eléctricos o enchufes, éstos están enfrentados, atraviesan el elemento y son pasantes a ambos lados de
+la partición, etc.
+
+INFORME DE EVALUACIÓN DEL EDIFICIO.
+
+IV.2.3. RUIDO INTERIOR (Particiones horizontales)
+PARTICIONES HORIZONTALES:
+FORJADO
+Estructura principal
+(vigas):
+Planta Tipo
+ De madera
+ Metálicas
+ De hormigón armado
+
+Forjado (Elementos
+secundarios, viguetas):
+ De madera
+ Metálicas
+ De hormigón armado
+
+Forjado (Entrevigado):
+ Tablero
+ Revoltón
+ Bovedilla cerámica
+ Bovedilla hormigón
+
+ Forjado reticular
+ Losa hormigón
+ Otro, indicar: ______
+ NS
+
+Canto del forjado: _________
+ De madera
+ De madera
+ Tablero
+ Forjado reticular
+ Metálicas
+ Metálicas
+ Revoltón
+ Losa hormigón
+ De hormigón armado  De hormigón armado  Bovedilla cerámica
+ Otro, indicar:______
+ Bovedilla hormigón
+ NS
+Canto del forjado: _________
+SUELO FLOTANTE
+- El elemento de separación horizontal dispone de suelo flotante
+ No
+ Si
+ NS
+En caso afirmativo, indique:
+ Suelo flotante de mortero
+ Dispone de material aislante a ruido de impactos
+ Solera seca
+ El trazado de algunas instalaciones se ha realizado
+ Tarima flotante
+por el suelo flotante
+TECHO SUSPENDIDO
+- El elemento de separación horizontal dispone de techo suspendido
+ No  Si
+ NS
+En caso afirmativo, indique:
+ Techo de placas de yeso laminado, con cámara de aire
+ Existe material absorbente acústico en la cámara
+ Techo de placas de yeso laminado, anclado al forjado y sin  Existen conductos o instalaciones suspendidas del
+cámara de aire
+forjado
+ Techo de placas de escayola
+ Existen luminarias empotradas
+Planta garaje,
+actividad, etc.
+
+ESTADO DE CONSERVACION Y DEFICIENCIAS
+En general, los elementos de separación horizontales están en buen estado de conservación  No
+Observaciones(7) y localización de deficiencias
+
+CARACTERÍSTICAS ADICIONALES
+- Las instalaciones que discurren por el suelo flotante:
+• Están revestidas por material elástico
+• Están en contacto directo con el forjado
+- La cámara de aire del techo suspendido es continua entre viviendas
+- Las luminarias empotradas están bien selladas
+OBSERVACIONES:
+
+(7)
+
+ No
+ No
+ No
+ No
+
+ Si
+
+ NS
+
+ Si
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+ NS
+
+Deben indicarse las deficiencias observadas en los elementos, como por ejemplo:
+• Si el suelo flotante o techo suspendido no están en buen estado
+• El suelo o el techo no cubren toda la superficie de los recintos
+• El material aislante a ruido de impactos no cubre toda la superficie del suelo
+• No se ha dispuesto de una barrera impermeable previa al vertido de mortero en un suelo flotante con aislante hidrófilo o formado de
+paneles sin sellar
+• Las juntas de las placas de yeso laminado no están tratadas, etc.
+• Las instalaciones que discurren por el suelo no se ha revestido con un material elástico
+• Las instalaciones conectan simultáneamente el forjado y el suelo flotante
+
+INFORME DE EVALUACIÓN DEL EDIFICIO.
+IV.2.4 RUIDO INTERIOR (Uniones)
+- Existe material aislante elástico que evita los contactos rígidos entre los elementos de
+separación vertical y el suelo flotante
+- Encuentro del elemento de separación vertical con la fachada:
+• En el caso de fachadas de doble hoja, la hoja interior de la fachada es continua
+- Encuentro del elemento de separación vertical con el forjado:
+• El elemento de separación vertical llega hasta el forjado superior interrumpiendo el
+techo suspendido si lo hay y evitando que éste sea continuo entre viviendas
+• El elemento de separación vertical independiza el suelo flotante entre recintos de
+distinta vivienda
+• Si el suelo flotante es de mortero, el mortero está en contacto con los elementos
+verticales
+• Existe una conexión rígida entre el rodapié, el acabado del suelo y el elemento de
+separación vertical
+OBSERVACIONES
+
+IV.2.5. RUIDO DE INSTALACIONES/RECINTOS DE ACTIVIDAD
+RECINTOS DE INSTALACIONES/ACTIVIDAD(8) colindantes con viviendas:
+- Existen recintos de actividad y/o instalaciones colindantes con viviendas:
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo:
+- Está revestido por un enlucido, enfoscado, alicatado, etc.
+- Hay un tratamiento absorbente en los paramentos del recinto
+- Dispone de trasdosados en las paredes del recinto de instalaciones
+En caso afirmativo:
+• El trasdosado lleva amortiguadores específicos
+- Existe suelo flotante en el recinto de instalaciones
+- Existe un techo suspendido en el recinto de instalaciones
+En caso afirmativo:
+• El falso techo tiene amortiguadores
+• Hay un material absorbente acústico en la cámara
+- Se percibe el ruido como molesto en las viviendas colindantes
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo:
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+
+EQUIPOS DE INSTALACIONES (grupo de presión, calderas, extractores de garaje, climatizadoras, aerotermos, etc.)
+Los equipos están ubicados en:
+ Recintos de instalaciones colindantes con viviendas
+ Zonas exteriores del edificio y próximos a las ventanas de viviendas, por ejemplo en un patio de manzana, en
+cubierta, terrazas, etc.
+En caso afirmativo, indicar si existen pantallas o encapsulados
+ No
+ Si
+ NS
+- Existe un sistema amortiguante y está en buen estado (bancada o amortiguadores)
+ No
+ Si
+ NS
+- La instalación dispone de conectores flexibles o juntas elásticas en las tuberías/conductos
+ No
+ Si
+ NS
+de entrada y salida a los equipos
+- Las tuberías o conductos que salen del equipo están anclados al edificio con abrazaderas
+ No
+ Si
+ NS
+que disponen de un material elástico en su interior.
+- Las holguras entre las tuberías/conductos y los paramentos que atraviesan se han sellado
+ No
+ Si
+ NS
+con material elástico.
+- Se percibe el ruido como molesto en las viviendas colindantes o próximas, en caso de que
+ No
+ Si
+ NS
+el equipo esté en una zona exterior del edificio.
+
+INFORME DE EVALUACIÓN DEL EDIFICIO.
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo:
+
+REDES DE INSTALACIONES, que discurran por las viviendas(9)
+Red de saneamiento, que discurra por el interior de viviendas
+- Existe algún codo de bajante encima de algún un recinto protegido, tal como un dormitorio
+o un salón
+- Las bajantes que discurren por las viviendas están revestidas con un tabique, por ejemplo,
+de ladrillo o de yeso laminado… etc.
+- Las bajantes que discurren por las viviendas están forradas con un material absorbente o
+son multicapa
+- Las bajantes y colectores, que discurren adosadas o en el interior de las viviendas,
+disponen de abrazaderas con un material elástico en su interior
+- Se percibe el ruido como molesto en los recintos
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo
+Red de suministro de agua
+- Las tuberías están forradas con material elástico (PU, EPDM, etc.) o son multicapa
+- Se percibe ruido de golpe de ariete
+- Se percibe el ruido como molesto en los recintos
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo:
+
+Red de conductos de aire acondicionado
+- Se percibe un ruido molesto en la difusión de aire a los recintos
+- La unidad interior de aire acondicionado, si existe, está en el falso techo del cuarto
+húmedo
+Conductos de ventilación
+- La ventilación de cuartos húmedos se hace mediante conductos de tipo shunt
+En caso afirmativo
+• Se escucha el ruido procedente de las viviendas colindantes, cuando un mismo
+conducto de tipo shunt está compartido por dos viviendas
+• Cuando un mismo conducto de tipo shunt está compartido por dos viviendas de la
+misma planta, cada una de las viviendas acomete a un conducto individual de
+ventilación
+OTRAS INSTALACIONES Y PUNTOS SINGULARES
+Ascensores y montacargas
+- Los ascensores son colindantes con recintos protegidos, tales como dormitorios o salones
+- Existe cuarto de máquinas
+- La maquinaria está anclada al edificio mediante un sistema amortiguante
+- Las particiones de separación entre la maquinaria y los paramentos están formadas por
+dos hojas o cuentan con un trasdosado.
+- El cuadro de maniobras, que contiene los relés de arranque y parada, está sujeto con
+elementos elásticos o amortiguadores
+- Se aprecia ruido molesto en los recintos colindantes
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo:
+
+Cuartos húmedos
+- La red de saneamiento está descolgada del forjado
+En caso afirmativo:
+• Hay lana mineral en la cámara del techo suspendido instalado en el recinto
+colindante inferior
+• El techo tiene todo el perímetro sellado
+• Se ha instalado un material elástico entre las tuberías pasantes y el forjado
+• Existen conectores flexibles entre los aparatos y la red de distribución de agua
+- Existe una máquina de aire acondicionado en el interior del falso techo
+- Existen luminarias empotradas en el techo
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+ No
+ No
+ No
+ No
+
+ Si
+ Si
+ Si
+ Si
+ Si
+
+ NS
+ NS
+ NS
+ NS
+ NS
+
+INFORME DE EVALUACIÓN DEL EDIFICIO.
+- Se percibe el ruido de bajantes, descarga de inodoros, ducha o lavabo como molesto en los
+recintos tales como dormitorios, salones, etc. de otras viviendas
+En caso afirmativo, indicar el tipo de recinto y la localización del mismo:
+
+Puertas de garaje
+- Están ancladas a la fachada de recintos protegidos
+En caso afirmativo:
+• Los motores de las puertas están anclados al edificio mediante amortiguadores
+elásticos
+• El marco de la puerta se ancla mediante amortiguadores elásticos.
+• Se percibe ruido de la puerta en las viviendas que están situadas encima o al lado
+de la puerta del garaje
+OBSERVACIONES
+
+(8)
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+ No
+
+ Si
+
+ NS
+
+Se consideran recintos de instalaciones a aquéllos que contienen equipos de instalaciones colectivas del edificio, entendiendo como tales, todo
+equipamiento o instalación susceptible de alterar las condiciones medioambientales de dicho recinto.
+(9)
+Quedan excluidas de este apartado las bajantes y tuberías que discurran por zonas comunes, garajes, etc. en edificios de viviendas
+
+INFORME DE EVALUACIÓN DEL EDIFICIO.
+
+IV.3. VALORACIÓN FINAL DE LAS PRESTACIONES BÁSICAS DE PROTECCIÓN FRENTE AL RUIDO
+El técnico competente abajo firmante valora que las condiciones acústicas son:
+
+Protección frente al RUIDO EXTERIOR
+
+BUENO
+
+RAZONABLE
+
+REGULAR
+
+DEFICIENTE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Protección contra al RUIDO INTERIOR procedente de
+otras viviendas
+- Aislamiento acústico a ruido aéreo
+• Recintos colindantes verticalmente
+• Recintos colindantes horizontalmente
+- Aislamiento acústico a ruido de impactos
+• Recintos colindantes verticalmente
+• Recintos colindantes horizontalmente o con
+una arista horizontal común
+Protección frente al RUIDO DE INSTALACIONES
+OBSERVACIONES
+
+INFORME DE EVALUACIÓN DEL EDIFICIO.
+
+IV.4. RECOMENDACIONES PARA LA MEJORA DE PROTECCIÓN FRENTE AL RUIDO
+Como resultado de las valoraciones del edificio realizadas se recomiendas las medidas de mejora siguientes:
+IV.4.1. MEDIDAS DE MEJORA
+IV.4.1.1. Medida de mejora nº 1
+Descripción de la medida:
+
+Análisis técnico de la medida:
+
+Valoración económica:
+
+IV.4.1.2. Medida de mejora nº 2
+Descripción de la medida:
+
+Análisis técnico de la medida:
+
+Valoración económica:
+
+IV.4.1.3. Medida de mejora nº 3
+Descripción de la medida:
+
+Análisis técnico de la medida:
+
+Valoración económica:
+
+IV.4.1.4. Medida de mejora nº 4
+Descripción de la medida:
+
+Análisis técnico de la medida:
+
+Valoración económica:
+
+OBSERVACIONES
+
+INFORME DE EVALUACIÓN DEL EDIFICIO.
+IV.4.2. POTENCIAL DE LAS MEDIDAS DE MEJORA
+Enumerar las medidas de mejora y evaluar el potencial de mejora de cada una de ellas en relación al aspecto acústico
+del edificio al que vayan dirigidas:
+Protección frente al
+ruido exterior
+
+Protección frente al
+ruido interior
+(aéreo)
+
+Protección frente al
+ruido interior
+(impactos)
+
+Protección frente al
+ruido de las
+instalaciones
+
+ALTO
+
+MEDIO
+
+BAJO
+
+ALTO
+
+MEDIO
+
+BAJO
+
+ALTO
+
+MEDIO
+
+BAJO
+
+ALTO
+
+MEDIO
+
+BAJO
+
+Medida de mejora nº 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medida de mejora nº 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medida de mejora nº 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medida de mejora nº 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBSERVACIONES
+
+IV.4.3. INCIDENCIA DE LAS MEDIDAS DE MEJORA SOBRE OTRAS PRESTACIONES. TRANSVERSALIDAD
+IV.4.3.1. Medida de mejora nº 1
+
+IV.4.3.2. Medida de mejora nº 2
+
+IV.4.3.3. Medida de mejora nº 3
+
+IV.4.3.4. Medida de mejora nº 4
+
+OBSERVACIONES
+
+INFORME DE EVALUACIÓN DEL EDIFICIO.
+IV.5. PRUEBAS Y COMPROBACIONES REALIZADAS POR EL TÉCNICO
+Indicar las pruebas y comprobaciones realizadas para la emisión del presente informe de diagnóstico acústico del
+edificio:
+ No
+ No
+ No
+ No
+
+- Mediciones de aislamiento acústico
+- Calas y/o catas en los elementos constructivos
+- Cuestionarios de confort acústico
+- Otras:
+En caso afirmativo, indicar las pruebas realizadas:
+
+ Si
+ Si
+ Si
+ Si
+
+OBSERVACIONES
+
+IV.6. OBSERVACIONES
+
+En…………………, a.........de.............................de...........
+
+Firmado: El Técnico competente:
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Anejo 2
+Valoración del aislamiento acústico de elementos de separación verticales y sus
+mejoras
+
+El objeto de este anejo es servir de ayuda para la cumplimentación de los apartados IV.3 “Valoración final de las
+prestaciones básicas de protección frente al ruido”, IV.4.1 “Recomendaciones para la mejora de protección frente al
+ruido” y IV. 4.2 “Potencial de las medidas de mejora”.
+Las tablas de este anejo muestran una estimación de los valores de aislamiento acústico a ruido aéreo en el estado
+inicial y tras la realización de diferentes intervenciones. Los valores expresados en las tablas son valores típicos
+obtenidos mediante cálculos y refrendados en algunos casos mediante ensayo de aislamiento acústico en edificios con
+forjados homogéneos de hormigón y sin suelos flotantes.
+En ningún caso se ha tenido en cuenta el posible efecto que, sobre el aislamiento acústico de dos recintos colindantes
+horizontalmente, puede tener una intervención en otros elementos de flanco, como el forjado.
+
+Las intervenciones en los flancos, como instalar un suelo flotante o un techo, refuerzan el aislamiento acústico de los
+elementos de separación verticales. Sin embargo, para hallar la mejora en el aislamiento acústico cuando además de
+las intervenciones citadas se interviene en el forjado, se recomienda realizar un estudio acústico específico.
+
+A2.1 Valoración de las prestaciones básicas de protección frente al ruido
+La tabla A.2.1 muestra una estimación de los niveles de aislamiento acústico en el estado inicial para recintos
+separados por elementos de separación verticales. Los niveles de aislamiento acústico de las diferentes soluciones
+constructivas se muestran graduados por colores, cuya leyenda figura en la tabla A2.2.
+La tabla A2.1, muestra en la primera fila las particiones en su situación inicial. Se trata de elementos de separación
+verticales tradicionales y comunes en edificios existentes. Se indican sus prestaciones iniciales: Valor de masa por
+unidad de superficie, índice de reducción acústica ponderado A, medido en laboratorio, RA, y de forma orientativa se
+indica en colores el aislamiento acústico obtenido in situ de cada una de las soluciones. Estos valores pueden tomarse
+de guía para la cumplimentación del apartado IV.3.
+10
+
+Puede utilizarse esta tabla para elementos constructivos diferentes interpolando
+
+los valores de masa por unidad de
+
+superficie de las soluciones constructivas distintas.
+
+10
+
+Debe recordarse que la ley de masa es logarítmica. Consúltense las expresiones A.16 y A.17 del Anejo A del DB HR Protección
+frente al ruido.
+
+43
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Tabla A2.1. Valoración del aislamiento acústico a ruido aéreo entre recintos colindantes. Elementos de
+separación verticales
+Aislamiento acústico a ruido aéreo
+Elementos de separación existentes
+Valoración del estado inicial
+
+Caracterización inicial
+de los elementos de
+separación
+(apartado IV.3)
+
+(1)
+
+m
+2
+(kg/m )
+(1)
+RA
+(dBA)
+DnT,A
+(dBA)
+
+≥ 284
+
+150
+
+127
+
+89
+
+130
+
+50
+
+42
+
+40
+
+36
+
+44
+
+II
+
+III
+
+IV
+
+IV
+
+III
+
+LEYENDA PARTICIONES:
+LHD:
+Ladrillo hueco doble, 70 mm
+LHT:
+Ladrillo hueco triple, 115 mm
+LP:
+Ladrillo perforado
+
+(1)
+
+Valores mínimos del Catálogo de elementos Constructivos del Código Técnico de la Edificación
+
+Tabla A2.2. Niveles de aislamiento acústico a ruido aéreo y valoración final de las prestaciones
+Color / nivel
+I
+II
+III
+IV
+
+DnT,A
+(dBA)
+≥ 50
+45 – 49
+40-45
+< 40
+
+Valoración final de las prestaciones
+(apartados IV.3 y IV.4.2)
+BUENO
+RAZONABLE
+REGULAR
+DEFICIENTE
+
+Véase el apartado 1.3.1.1 Diferencia entre aislamiento acústico in situ y en laboratorio donde se explica la diferencia
+entre los índices RA y DnT,A, correspondientes al aislamiento acústico a ruido aéreo medido en laboratorio y el medido in
+situ respectivamente.
+
+A2.2 Medidas de mejora
+La tabla A2.3 sirve de ayuda para definir las medidas de mejora posibles en los elementos de separación verticales.
+Muestra los niveles de aislamiento acústico finales que pueden obtenerse tras diferentes intervenciones. Para cada
+intervención, la tabla A2.3 indica con una escala de colores el nivel de aislamiento acústico a ruido aéreo que se
+obtendría in situ en los edificios, expresado como diferencia de niveles estandarizada, DnT,A. Este valor es orientativo, ya
+que el aislamiento acústico entre recintos depende de otros factores, como son los elementos de flanco, sus uniones y
+la ejecución de cada una de las soluciones.
+Cuando se indican dos niveles, el nivel inferior corresponde a valores de aislamiento obtenidos cuando no se ha
+modificado los elementos de flanco y el valor mayor corresponde al valor de aislamiento cuando se ha producido una
+intervención en la fachada o en los tabiques con objeto de limitar las transmisiones indirectas. (Véanse figuras A2.1 a
+A2.4).
+En la columna “Medidas de mejora. Recomendaciones”, aparecen algunas de las intervenciones posibles que pueden
+utilizarse para la definición de las medidas de mejora recomendables y que se enumeran a continuación. Las medidas
+descritas no constituyen una lista exhaustiva, pudiéndose emplear otro tipo de medidas.
+
+44
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+1.
+
+La aplicación de capas de yeso o mortero, que aumenta la estanquidad de las soluciones. En obras de
+fábrica sin revestimiento en sus caras, que presenten agujeros o en las que las llagas o tendeles no estén
+rellenos es recomendable dar una capa de mortero o yeso que aumente su estanquidad.
+
+2.
+
+La inserción de materiales absorbentes en las cámaras. Algunos materiales inyectables en cámara tienen
+un buen coeficiente de absorción acústica. En el caso de soluciones de dos hojas de fábrica con la cámara
+vacía, pueden inyectarse este tipo de materiales, con los cuales no se consigue un aumento significativo del
+aislamiento acústico, pero es una opción si se están valorando otros requisitos, como el aislamiento térmico o
+la protección frente al fuego.
+
+3.
+
+Instalar trasdosados por una o dos caras de las particiones, que pueden ser:
+a.
+
+Trasdosados directos o adheridos. que consisten en un panel compuesto por una placa de yeso
+laminado adherida a una capa de un material absorbente acústico como la lana mineral. Este panel
+suele ir pegado a la pared mediante pelladas de yeso o anclado a una perfilería metálica.
+
+b.
+
+Trasdosados autoportantes. Formados por una o varias placas de yeso laminado ancladas a una
+perfilería autoportante separada de la hoja de fábrica. La perfilería se ancla al techo, suelo y
+11
+
+paramentos, de tal forma que no existe conexión entre la partición existente y el trasdosado . La
+cámara debe rellenarse con un material absorbente acústico. Al no existir conexión entre el
+trasdosado y la hoja de fábrica, este tipo de trasdosado tiene unas mejores prestaciones que el
+trasdosado directo.
+c.
+
+Trasdosados cerámicos. Formados por una fábrica ladrillo hueco de al menos 50 mm, con bandas
+elásticas perimetrales en sus encuentros con las particiones, techo y suelo. El espesor de la cámara
+debe ser al menos 4 cm entre la partición existente y la nueva hoja de fábrica y debe rellenarse con un
+material absorbente acústico.
+
+4.
+
+Sustitución de una partición anterior por un nuevo elemento constructivo de separación
+a.
+
+Dos hojas de ladrillo hueco estándar o gran formato de 7 cm de espesor cada una, apoyadas sobre
+bandas elásticas y cámara de al menos 4 cm de espesor rellena de un material absorbente acústico.
+Espesor total: 20 cm.
+
+b.
+
+Dos hojas de entramado autoportante formada cada una por 2 placas de yeso laminado de al menos
+12,5 mm, ancladas a una perfilería de acero de 48 mm de espesor y material absorbente acústico en
+la cámara. Espesor mínimo: 16,7 cm.
+
+Como puede observarse en la tabla, las actuaciones propuestas mejoran sensiblemente el aislamiento acústico de los
+edificios existentes hasta niveles próximos a los del DB HR.
+
+11
+Dependiendo de la altura y tipo de los perfiles es necesario arriostrarlos a la obra de fábrica. Consulte al fabricante para más
+información.
+
+45
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Tabla A2.3 Aislamiento acústico entre recintos colindantes horizontalmente según el tipo de
+intervención
+Aislamiento acústico a ruido aéreo
+Elementos de separación existentes
+Medidas de mejora. Recomendaciones
+(apartado IV.4.1)
+
+1.
+Aplicación
+revestimiento
+de
+mortero, yeso, etc.1
+
+---
+
+---
+
+---
+
+---
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+II
+
+III
+
+III
+
+IV
+
+-----
+
+II
+
+II
+
+III
+
+IV
+
+III
+
+I
+
+II
+
+II
+
+III
+
+II
+
+N/A
+
+III –I3
+
+III –I3
+
+IV-I3
+
+N/A
+
+N/A
+
+N/A
+
+II – I3
+
+II – I3
+
+II – I3
+
+N/A
+
+N/A
+
+II – I4
+
+II – I4
+
+II – I4
+
+---
+
+2.
+Inyectar un material
+absorbente en la
+cámara
+
+III
+
+3.a
+Trasdosado directo o
+adherido
+
+3.b
+
+Aplicado por
+un lado
+
+Trasdosado
+autoportante 2
+
+Aplicado por
+ambos lados
+
+3.c
+Trasdosado
+cerámico
+
+4.a
+Sustituir o introducir
+una solución nueva:
+Dos hojas de ladrillo
+apoyadas
+sobre
+bandas elásticas
+4.b
+Sustituir o introducir
+una solución nueva:
+Dos
+hojas
+entramado
+autoportante
+
+de
+
+46
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+LEYENDA PARTICIONES:
+AT:
+Absorbente acústico
+B
+Bandas elásticas
+HF1, HF2
+Hoja de fábrica 1, 2, en particiones de dos hojas de fábrica
+HP:
+Hoja principal de fábrica
+LH:
+Ladrillo hueco simple, 40 mm
+LHD:
+Ladrillo hueco doble, 70 mm
+LHT:
+Ladrillo hueco triple, 115 mm
+LP:
+Ladrillo perforado
+RI:
+Revestimiento interior. Guarnecido, enlucido, etc.
+SP:
+Espacio de separación, aproximadamente 1 cm
+YL:
+Placa de yeso laminado
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+N/A
+
+La aplicación de un enyesado o un mortero a una fábrica tiene la función de sellar huecos, fisuras=etc. abiertos en el muro y
+que, por tanto, debilitan su aislamiento acústico. A pesar de que esta actuación no conlleva una mejora sustancial de
+aislamiento acústico, es recomendable siempre que el estado del muro presente desperfectos y en todo caso, es
+recomendable como actuación previa a cualquiera de las que se citan posteriormente en la tabla.
+Niveles obtenidos si no se modifican los elementos de flanco a los que acometen los elementos de separación verticales y los
+trasdosados. Estos niveles pueden mejorarse hasta niveles similares a los del DB HR, nivel I, sustituyendo la tabiquería
+interior existente y la hoja interior de fachada de fábrica por otra de entramado autoportante. Véase figura A2.1
+En los casos en los que se dan dos niveles, el primero de ellos es el nivel que puede alcanzarse cuando se instalan los
+trasdosados cerámicos o se ha sustituido una partición de fábrica y no se ha realizado ninguna modificación en los elementos
+de flanco, especialmente fachada y tabiques. El segundo corresponde al nivel que puede obtenerse en la edificación cuando
+se modifican las uniones con fachada y tabiques. Véase figura A2.2
+En el caso de la actuación 4.b en la que se dan dos niveles. El primero de ellos es el nivel que puede alcanzarse si se
+sustituye o se introduce una partición de entramado autoportante y no se modifican las uniones con la fachada y el tabique
+de fábrica existentes para limitar las transmisiones por flancos. El segundo corresponde al nivel que puede obtenerse en la
+edificación cuando se sustituyen los tabiques y el trasdosado de fachada por elementos de entramado autoportante. Véase
+figura A2.3
+Intervención descartada. Generalmente estas soluciones suelen ser muros portantes, por lo tanto, la sustitución de las
+mismas está descartada.
+
+Las mejoras expresadas en la tabla A2.3 se verifican cuando se adoptan unas determinadas disposiciones constructivas
+referentes a los encuentros entre elementos constructivos. Los siguientes esquemas muestran aspectos relevantes de
+cara a la obtención de dichas mejoras. En ellas, se trata de limitar las transmisiones indirectas a través de la hoja interior
+de la fachada y para ello se muestran las prestaciones que se obtendrían cuando la hoja interior de la fachada conecta
+las dos hojas del elemento de separación vertical y cuando la hoja interior de la fachada se interrumpe en su encuentro
+con los elementos de separación verticales. Esta misma idea es aplicable a los encuentros de los elementos de
+separación verticales con la tabiquería, en los que la tabiquería no debe conectar las hojas de los elementos de
+separación verticales. En determinados casos, es más eficiente instalar un trasdosado y hacer una intervención
+pequeña en los elementos de flanco.
+Para alcanzar dichos niveles de mejora resulta imprescindible una correcta ejecución.. Véase el aparatado 3 de la Guía
+de aplicación del DB HR.
+En estos detalles se han omitido elementos que afectan a otros requisitos como por ejemplo el aislante térmico, la
+barrera de vapor, anclajes=etc. Sólo se han incluido aquellos aspectos que son importantes de cara a las prestaciones
+de aislamiento acústico, que son la hoja interior de fachada, el elemento de separación vertical, la posición de las
+bandas elásticas y los enlucidos. Los detalles que figuran a continuación no constituyen una lista exhaustiva,
+pudiéndose optar por otras.
+
+47
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+1.
+2.
+3.
+4.
+
+40 ≤ DnT,A < 49 dBA
+A2.1.a
+
+Hoja interior de fachada.
+(Existente).
+Hoja exterior de fachada.
+(Existente)
+Partición existente
+Trasdosado de placa de
+yeso laminado
+
+DnT,A ≥ 50 dBA
+A2.1.b
+
+Figura A2.1 Intervención 3.b Trasdosado autoportante aplicado por una cara.
+A2.1.a) Los valores de la tabla A.2.3 se aplican si se ha efectuado un montaje similar al indicado. La flecha roja indica
+las transmisiones indirectas dominantes a través de la hoja interior de fachada, lo que limita el valor final del aislamiento
+acústico.
+A2.1.b) Si se trasdosa la cara interior de la fachada o se sustituye la hoja interior de la misma por trasdosado
+autoportante, los valores de aislamiento acústico aumentan hasta el nivel I.
+
+1.
+2.
+3.
+4.
+37 ≤ DnT,A < 45 dBA
+A2.2.a
+
+Hoja interior de fachada.
+(Existente).
+Hoja exterior de fachada.
+(Existente)
+Partición existente
+Trasdosado de fábrica con
+bandas
+
+DnT,A ≥ 50 dBA
+A2.2.b
+
+Figura A2.2 Intervención 3.c Trasdosado de fábrica con bandas aplicado por una cara. Izquierda. La flecha roja
+indica la transmisión por flancos dominante a través de la hoja interior de la fachada. Siempre que se introduzcan
+bandas elásticas entre elementos cuyo acabado final es un enlucido, en este caso el trasdosado y la fachada, deben
+cuidarse las condiciones de ejecución para desconectar los enlucidos de elementos constructivos diferentes, ya sea
+mediante un corte de los enlucidos, mediante el uso de bandas más largas, como en la imagen, o mediante cualquier
+método similar. Véase Guía de Aplicación del DB HR. Ficha ESV-02.a, b y c.
+
+48
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+45 ≤ DnT,A < 50 dBA
+
+DnT,A ≥ 50 dBA
+
+A2.3.a
+
+A2.3.b
+
+1.
+
+Hoja interior de fachada.
+(Existente).
+
+2.
+
+Hoja exterior de fachada.
+(Existente)
+
+3.
+
+Nueva solución de dos
+hojas de fábrica.
+
+Figura A2.3. Actuación 4.a. Introducir una nueva solución: Dos hojas de fábrica con bandas en los encuentros
+con forjados. Izquierda. La flecha roja indica la transmisión por flancos dominante a través de la hoja interior de la
+fachada. Siempre que se introduzcan bandas elásticas entre elementos cuyo acabado final es un enlucido, (en este
+caso el trasdosado y la fachada), deben cuidarse las condiciones de ejecución para desconectar los enlucidos de
+elementos constructivos diferentes, ya sea mediante un corte de los enlucidos, mediante el uso de bandas más largas,
+como en la imagen, o mediante cualquier método similar. Véase Guía de Aplicación del DB HR. Ficha ESV-02.a, b y c.
+
+45 ≤ DnT,A < 50 dBA
+
+DnT,A ≥ 50 dBA
+
+A2.4.a
+
+A2.4.b
+
+1.
+
+Hoja interior de fachada.
+(Existente).
+
+2.
+
+Hoja exterior de fachada.
+(Existente)
+
+3.
+
+Nuevo elemento de
+separación vertical de
+entramado autoportante
+
+Figura A2.4. Actuación 4.b. Introducir una nueva solución: dos hojas de entramado autoportante. Izquierda. La
+flecha roja indica la transmisión por flancos dominante a través de la hoja interior de la fachada
+
+49
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+A2.3 Potencial de las medidas de mejora
+Para cumplimentar el apartado IV.3 Potencial de las medidas de mejora, debe tenerse en cuenta la mejora en las
+prestaciones acústicas conseguida tras cada medida. En este caso, como se ha descrito en el apartado IV.4.2 de este
+documento, un potencial bajo hace referencia a un incremento escaso del aislamiento acústico en 1 o 2 dBA, es decir,
+en una valoración cualitativa la situación calificada en IV.4.1 no cambiaría de ser “Bueno”, “Razonable”, “Regular” y
+“Deficiente”.
+Un potencial medio hace referencia a un incremento moderado de las condiciones de protección frente al ruido, de 4 ó
+5 dBA, lo que indicaría que la valoración cualitativa saltaría un grado, por ejemplo, de “Deficiente” a “Regular”.
+Un potencial alto hace referencia a un incremento sustancial del aislamiento acústico, lo que indica que la valoración
+cualitativa saltaría dos grados, por ejemplo, de “Deficiente” a “Razonable”.
+
+50
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Anejo 3
+Valoración del aislamiento acústico de elementos de separación horizontales y sus
+mejoras
+El objeto de este anejo es servir de ayuda para la cumplimentación de los apartados IV.3 “Valoración final de las
+prestaciones básicas de protección frente al ruido”, IV.4.1 “Recomendaciones para la mejora de la protección frente al
+ruido” y IV. 4.2 “Potencial de las medidas de mejora”.
+Las tablas de este anejo muestran una estimación de los valores de aislamiento acústico a ruido aéreo y a ruido de
+impactos en el estado inicial y tras la realización de diferentes intervenciones en los elementos de separación verticales
+12
+
+que consten de un forjado homogéneo .
+En el caso de que se trate de forjados que no son homogéneos, tal como los forjados con vigas de madera y revoltón de
+yeso, ladrillo,=etc., las actuaciones en los elementos de separación horizontales pueden ser las mismas que las que se
+citan en el apartado A3.2, sin embargo los niveles de aislamiento acústico de las tablas A3.1 y A3.3 no pueden utilizarse
+como estimación del incremento de aislamiento acústico producido por las mismas.
+
+A3.1 Valoración de las prestaciones básicas de protección frente al ruido
+La tabla A3.1 muestra una estimación de los niveles de aislamiento acústico a ruido aéreo y a ruido de impactos de
+forjados homogéneos. Para entrar en la tabla debe realizarse una estimación de la masa por unidad de superficie del
+forjado. Para ello, puede utilizarse como referencia los valores de masa por unidad de superficie del Catálogo de
+Elementos Constructivos del Código Técnico de la Edificación.
+En las viviendas anteriores a la aprobación del DB HR, los elementos de separación horizontales estaban formados por
+el forjado y varias capas de relleno (arena, mortero) que regularizaban la superficie del forjado y hacían de soporte del
+pavimento. En estos casos, debe sumársele a la masa del forjado, la masa de cada una de las capas que forman el
+elemento de separación horizontal.
+Para cada intervención, la tabla A3.2 indica con una escala de colores los niveles de aislamiento acústico que pueden
+obtenerse en la edificación. Estos valores son orientativos, ya que el aislamiento acústico entre recintos depende de
+otros factores, como son los elementos de flancos, sus uniones y la ejecución de cada una de las soluciones.
+
+Los niveles de aislamiento están expresados como diferencia de niveles estandarizada ponderada A, DnT,A, para ruido
+aéreo y como nivel global de presión de ruido de impactos estandarizado, L’nT,w, que son los mismos índices que
+aparecen en el DB HR.
+
+12
+
+Bajo esta denominación se recogen las losas de hormigón, forjados con elementos aligerantes, ya sean cerámicos, de hormigón o
+de poliestireno y los forjados de chapa colaborante
+
+51
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Tabla A3.1. Valoración del aislamiento acústico a ruido aéreo y de impactos entre recintos colindantes.
+Elementos de separación horizontales
+Aislamiento acústico obtenido según el tipo de intervención
+Masa por unidad de superficie del forjado
+2
+(kg/m )
+
+Valoración del estado inicial:
+
+Caracterización inicial
+de los elementos de
+separación
+horizontales
+
+200-225
+
+225-250
+
+250-275
+
+275-300
+
+300-325
+
+325-350
+
+350-375
+
+375-400
+
+400-425
+
+425-450
+
+DnT,A
+(dBA)
+
+III
+
+III
+
+III
+
+III
+
+III
+
+II
+
+II
+
+II
+
+II
+
+I
+
+L’nT,w
+(dB)
+
+IV
+
+IV
+
+IV
+
+IV
+
+IV
+
+IV
+
+IV
+
+IV
+
+III
+
+III
+
+Tabla A3.2. Niveles de aislamiento acústico a ruido aéreo y de impactos. Valoración final de las prestaciones
+
+Aéreo
+
+Impactos
+
+≥ 50
+
+Valoración final de las
+prestaciones
+(apartados IV.3 y IV.4.2)
+BUENO
+
+I
+
+≤ 65
+
+Valoración final de las
+prestaciones
+(apartados IV.3 y IV.4.2)
+BUENO
+
+II
+
+45 – 49
+
+RAZONABLE
+
+II
+
+70 – 66
+
+RAZONABLE
+
+III
+
+40-45
+
+REGULAR
+
+III
+
+75 – 71
+
+REGULAR
+
+IV
+
+< 40
+
+DEFICIENTE
+
+IV
+
+> 75
+
+DEFICIENTE
+
+DnT,A,
+
+Color/nivel
+
+(dBA)
+
+I
+
+Color/nivel
+
+L’nT,w
+(dB)
+
+A3.2 Medidas de mejora
+La tabla A3.3 muestra una estimación de los niveles de aislamiento acústico a ruido aéreo y a ruido de impactos que
+pueden obtenerse en un recinto tras diferentes intervenciones en los elementos de separación horizontales,
+13
+
+En la columna “Medidas de mejora. Recomendaciones”, se indican algunas de las intervenciones posibles .
+1.
+
+Actuación 1.
+a.
+
+Instalación de tarima flotante, compuesta generalmente por un tablero laminado de madera y un
+material elástico de espesor reducido, como por ejemplo, el PE. Es una solución económica que tiene
+una buena reducción del nivel de ruido de impactos, pero no se consigue un aumento del aislamiento
+acústico a ruido aéreo.
+
+b. Instalación de tarima flotante y techo suspendido, formado por una placa de yeso laminado y material
+absorbente acústico en la cámara.
+2.
+
+Actuación 2
+a.
+
+Instalación de solera seca, compuesta por dos o más placas de yeso laminado solapadas y pegadas
+entre sí, dispuestas sobre un material aislante a ruido de impactos como lana mineral. Se trata de una
+solución seca, sin tiempos de secado que tiene un buen aislamiento acústico a ruido de impactos y un
+aislamiento acústico pequeños a ruido aéreo. No incrementa la carga de la estructura por su ligereza
+
+b. Instalación de solera seca y techo suspendido, formado por una placa de yeso laminado y material
+absorbente acústico en la cámara.
+13
+
+En la mayoría de las intervenciones citadas en la tabla, se han tomado como referencia la instalación de suelos, soleras, tarimas o
+techos suspendidos de prestaciones acústicas pequeñas y con valores conservadores. Sólo en algunos casos, las notas a pie de tabla
+A3.3, especifican las prestaciones que deben tener los suelos flotantes, tarimas, soleras o techos suspendidos, para que la prestación
+final coincida con el nivel especificado en la tabla. Véase como referencia el Catálogo de Elementos Constructivos.
+
+52
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+3.
+
+Actuación 3
+a.
+
+Instalación de suelo flotante de mortero, compuesto por una capa de mortero de al menos 50 mm,
+dispuesta sobre un material aislante a ruido de impactos, como la lana mineral, el polietileno o el
+poliestireno expandido elastificado. Esta solución proporciona un mayor aislamiento acústico a ruido
+de impactos y razonable a ruido aéreo.
+A continuación se citan algunos de los materiales más usados como aislantes a ruido de impactos:
+3
+
+-
+
+Lana mineral, cuya rigidez dinámica comprendida entre los 10 y los 25 MN/m
+
+-
+
+Poliestireno expandido elastificado, cuya rigidez dinámica está alrededor de 30 MN/m
+
+-
+
+Polietileno, ya sea expandido o reticulado, con una rigidez dinámica de 70 MN/m .
+
+3
+
+3
+
+b. Instalación de suelo flotante de mortero y techo suspendido, formado por una placa de yeso laminado
+y material absorbente acústico en la cámara.
+4.
+
+Actuación 4: Instalación de techo suspendido: Compuesto por una o varias placas de yeso laminado ancladas
+al forjado mediante una perfilería y cámara rellena con un material absorbente acústico.
+
+En la fila “Aislamiento acústico obtenido según el tipo de intervención” se indica con un código de colores el nivel
+de aislamiento acústico, tanto a ruido aéreo como a ruido de impactos, de los elementos de separación horizontales
+según su masa por unidad de superficie. Para utilizar la tabla debe evaluarse la masa por unidad de superficie del
+forjado sobre el que se está interviniendo. Para ello, puede utilizarse como referencia los valores de masa por unidad de
+superficie del Catálogo de Elementos Constructivos del Código Técnico de la Edificación.
+La tabla A3.3 no sólo hace referencia a forjados homogéneos, sino también a elementos constructivos homogéneos.
+Una de las intervenciones habituales es la instalación de suelos flotantes encima de un solado o de un recrecido
+existente. En estos casos, para utilizar la tabla, se debe estimar el peso del forjado y el de las capas de mortero, arena,
+solado, etc. que se han instalado encima y sobre las que se va a instalar un suelo flotante. Por el contrario, si se prevé
+la demolición de todas las capas de relleno para instalar el suelo sobre el forjado, entonces el valor de entrada de la
+tabla es el de la masa del forjado únicamente.
+
+53
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+Tabla A3.3 Aislamiento acústico entre recintos colindantes verticalmente según el tipo de intervención
+Aislamiento acústico obtenido según el tipo de intervención
+(1)
+masa por unidad de superficie del forjado
+2
+(kg/m )
+
+Medidas de mejora.
+Recomendaciones
+(apartado IV.4.1)
+1.a Tarima flotante
+
+1.b. Tarima flotante +
+techo suspendido
+
+2.a Solera seca
+
+2.b Solera seca +
+techo suspendido
+
+3.a. Suelo flotante
+
+3.b Suelo flotante +
+techo suspendido
+
+4 Techo suspendido(9)
+
+200-225
+
+225-250
+
+250-275
+
+275-300
+
+300-325
+
+325-350
+
+350-375
+
+375-400
+
+400-425
+
+425-450
+
+DnT,A
+(dBA)
+
+III
+
+III
+
+III
+
+III
+
+III
+
+II
+
+II
+
+II
+
+II
+
+I
+
+L’nT,w
+(dB)
+
+III1
+
+III1
+
+III1
+
+II6
+
+II
+
+II
+
+II
+
+I8
+
+I
+
+I
+
+DnT,A
+(dBA)
+
+II
+
+II
+
+II
+
+II
+
+II
+
+I
+
+I
+
+I
+
+I
+
+I
+
+L’nT,w
+(dB)
+
+II1
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+DnT,A
+(dBA)
+
+III
+
+III
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+I
+
+I
+
+L’nT,w
+(dB)
+
+II2
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+DnT,A
+(dBA)
+
+II
+
+II
+
+II
+
+II
+
+II
+
+I
+
+I
+
+I
+
+I
+
+I
+
+L’nT,w
+(dB)
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+DnT,A
+(dBA)
+
+III
+
+II
+
+II
+
+II
+
+II
+
+II
+
+I7
+
+I
+
+I
+
+I
+
+L’nT,w
+(dB)
+
+II3
+
+II3
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+DnT,A
+(dBA)
+
+II
+
+I4
+
+I5
+
+I
+
+I
+
+L’nT,w
+(dB)
+
+I
+
+I
+
+I
+
+I
+
+DnT,A
+(dBA)
+
+III
+
+II
+
+II
+
+L’nT,w
+(dB)
+
+IV
+
+IV
+
+IV
+
+54
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+II
+
+II
+
+I
+
+I
+
+I
+
+I
+
+I
+
+IV
+
+IV
+
+III
+
+III
+
+III
+
+III
+
+III
+
+I
+
+I
+
+I
+
+Guía para la cumplimentación de la parte IV del IEE. Condiciones básicas de protección frente al ruido
+
+(1)
+
+Niveles de L’nT,w si se instala una tarima sobre una lana mineral de 30 mm
+
+(2)
+
+Niveles obtenidos con una solera seca con una ∆Lw de al menos 20 dB
+
+(3)
+
+Niveles obtenidos con un suelo flotante con una mejora ∆RA=6 dBA, como por ejemplo, un suelo flotante formado por una
+capa de 5 cm
+
+(4)
+
+Se verifican estos niveles siempre que el suelo flotante que se instale tenga un ∆RA ≥ 9 dBA
+
+(5)
+
+Se verifican estos niveles siempre que el suelo flotante que se instale tenga un ∆RA ≥ 5 dBA
+
+(6)
+
+Nivel de L’nT,w obtenido si se instala una tarima con un ∆Lw ≥15 dB
+
+(7)
+
+Nivel de DnT,A obtenido si se instala un suelo flotante con un ∆RA ≥ 5 dBA, como por ejemplo, un suelo flotante de lana mineral
+o de poliestireno elastificado
+
+(8)
+
+Nivel de L’nT,w obtenido si se instala una tarima con un ∆Lw ≥ 15 dB
+
+(9)
+
+Nivel de DnT,A y de L’nT,w obtenidos si se instala techo suspendido con valor de ∆RA ≥ 10 dBA y de ∆Lw comprendido entre 6 y 9
+dB
+
+Los valores de la tabla son orientativos y se han obtenido mediante cálculos, aunque en algunos casos se hayan
+validado con ensayos. Los cálculos de las mejoras con conservadores y se han realizado suponiendo que no se realiza
+ninguna modificación de los elementos de flanco. En la tabla puede verse cuál es el grado de mejora en relación a las
+exigencias establecidas en el DB HR y puede verse que:
+−
+
+La mejor manera de actuar frente al ruido de impactos es la colocación de láminas antiimpacto debajo del
+pavimento. Los niveles obtenidos permiten en la mayoría de los casos la superación de los niveles de
+aislamiento acústico a ruido de impactos del DB HR.
+
+−
+
+Por otro lado, los niveles de aislamiento acústico a ruido aéreo en forjados de hormigón existentes pueden
+estar por debajo de lo exigido, dependiendo de las características de los forjados, la posibilidad de añadir
+recrecidos o techos, etc. Los niveles de aislamiento acústico exigidos en el DB HR pueden alcanzarse si se
+emplean suelos flotantes más aislantes, como son los de mortero.
+
+−
+
+La superación de ambos niveles está condicionada a la buena ejecución de los suelos flotantes y a la correcta
+resolución de todos los encuentros del suelo con paramentos y pilares.
+
+−
+
+Instalar un techo suspendido aporta un buen aumento del aislamiento acústico a ruido aéreo, y una mejora
+menor a ruido de impactos. Aun así, esa opción es adecuada si sólo se puede actuar por debajo de los
+recintos.
+
+A3.3 Potencial de las medidas de mejora
+Para cumplimentar el apartado IV.3 Potencial de las medidas de mejora, debe tenerse en cuenta la mejora en las
+prestaciones acústicas conseguida tras cada medida. En este caso, como se ha descrito en el apartado IV.4.2 de este
+documento, un potencial bajo hace referencia a un incremento escaso del aislamiento acústico en 1 o 2 dB, es decir,
+en una valoración cualitativa la situación calificada en IV.4.1 no cambiaría de ser “Bueno”, “Razonable”, “Regular” y
+“Deficiente”.
+Un potencial medio hace referencia a un incremento moderado de las condiciones de protección frente al ruido, de 4 ó
+5 dB, lo que indicaría que la valoración cualitativa saltaría un grado, por ejemplo, de “Deficiente” a “Regular”.
+Un potencial alto hace referencia a un incremento sustancial del aislamiento acústico, lo que indica que la valoración
+cualitativa saltaría dos grados, por ejemplo, de “Deficiente” a “Razonable”.
+
+55
+
+
