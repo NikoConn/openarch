@@ -825,8 +825,8 @@ Característica
 
 
 Grupo 
-Maciza
-Perforada
+Maciza
+Perforada
 Aligerada
 cerámica hormigón cerámica hormigón
 
@@ -861,7 +861,7 @@ Volumen de huecos (% del bruto) (1)
 
 45
 
-Hueca
+Hueca
 cerámica hormigón
 70
 12,5
@@ -1540,7 +1540,7 @@ Figura 4.3 Pérdida de sección por causa de una roza.
 De acuerdo con SE, la resistencia de cálculo es igual a la característica dividida por el coeficiente
 parcial de seguridad, M, aplicable al caso, según tabla 4.8
 
-Tabla 4.8 Coeficientes parciales de seguridad (M)
+Tabla 4.8 Coeficientes parciales de seguridad (M)
 Categoría de la ejecución
 Situaciones persistentes y transitorias (1)
 A
@@ -4177,7 +4177,8 @@ Tabla G.2 (H)
 0,35
 0,3
 0,25
- 0,2
+
+0,2
 0,15
 0,1
 0,05
@@ -4246,7 +4247,8 @@ Tabla G.3 (I)
 0,35
 0,3
 0,25
- 0,2
+
+0,2
 0,15
 0,1
 0,05

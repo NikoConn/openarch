@@ -3178,7 +3178,7 @@ Para B*  1,2 m:
 D 
 q d  8 N SPT 1 
 
- 3B * 
+ 3B * 
 siendo
 St
 NSPT
@@ -11572,7 +11572,8 @@ cu
 
 Resistencia al corte sin drenaje
 
-Figura F.7. Carga de rotura horizontal del terreno ( = 0)
+Figura F.7. Carga de rotura horizontal del terreno (
+ = 0)
 
 F.2.6 Estimación de asientos en pilotes
 F.2.6.1 Asientos del pilote aislado

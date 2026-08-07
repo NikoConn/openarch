@@ -3195,8 +3195,8 @@ siguientes:
 1
 kr  
 0,76  0,001 rin
-
 t
+
 
 para
 
@@ -4461,8 +4461,8 @@ a4,c (borde no cargado)
 
 Distancia mínima
 Sin pretaladro
-420 kg/m3 < k  500 kg/m3
 k  420 kg/m3
+420 kg/m3 < k  500 kg/m3
 d < 5mm; (5+5cos )d
 (7+8cos )d
 d  5mm; (5+7cos )d
@@ -4615,7 +4615,7 @@ ii)
 
 para clavos de fuste liso:
 
-fax, k  d  tpen
+fax, k  d  tpen
 Fax,Rk  
 fax, k  d  t  fhead, k  dh2
 
@@ -5293,8 +5293,8 @@ ecuación (8.45).
 En uniones realizadas con conectores de anillo de tipo A (madera-madera) o conectores de placa de
 tipo B (acero-madera) según norma UNE-EN 912:2011, y con diámetro no mayor que 200 mm, el valor característico de la capacidad de carga para una fuerza paralela a la fibra, Fv,0,Rk, por conector y
 por plano de cortadura se obtiene de la siguiente expresión:
-1,5
-k k k k (35  d c )
+
+k k k k (35  d1c,5 )
 Fv,0,Rk  min 1 2 3 4
 k 1k 3 h e (31,5  d c )
 

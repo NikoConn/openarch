@@ -744,7 +744,7 @@ SE - 10
 
 Documento Básico SE Seguridad Estructural
 
-Tabla 4.1 Coeficientes parciales de seguridad () para las acciones
+Tabla 4.1 Coeficientes parciales de seguridad () para las acciones
 Tipo de verificación (1)
 
 Resistencia
@@ -808,7 +808,8 @@ Variable
 
 Los coeficientes correspondientes a la verificación de la resistencia del terreno se establecen en el DB-SE-C
 
-Tabla 4.2 Coeficientes de simultaneidad (
+Tabla 4.2 Coeficientes de simultaneidad (
+
 0
 
 Sobrecarga superficial de uso (Categorías según DB-SE-AE)
@@ -827,50 +828,50 @@ Zonas residenciales (Categoría A)
 
 0,7
 
-0,5
+0,5
 
-0,3
+0,3
 
 
 
 Zonas administrativas(Categoría B)
 
-0,7
+0,7
 
-0,5
+0,5
 
-0,3
+0,3
 
 
 
 Zonas destinadas al público (Categoría C)
 
-0,7
+0,7
 
-0,7
+0,7
 
-0,6
+0,6
 
 
 
 Zonas comerciales (Categoría D)
 
-0,7
+0,7
 
-0,7
+0,7
 
-0,6
+0,6
 
 
 
 Zonas de tráfico y de aparcamiento de vehículos ligeros con un peso total
 inferior a 30 kN (Categoría E)
 
-0,7
+0,7
 
-0,7
+0,7
 
-0,6
+0,6
 
 
 
@@ -900,21 +901,21 @@ Nieve
 
 para altitudes > 1000 m
 
-0,7
+0,7
 
-0,5
+0,5
 
-0,2
+0,2
 
 
 
 para altitudes ≤ 1000 m
 
-0,5
+0,5
 
-0,2
+0,2
 
-0
+0
 
 Viento
 

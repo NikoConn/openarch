@@ -2144,8 +2144,8 @@ flexión reducida por la existencia de tensiones normales de torsión de alabeo:
  σ w,Ed 
 Mc,T,Rd = 1 −
  ⋅ Mc,Rd
-f yd 
-
+f yd 
+
 
 (6.16)
 
@@ -8785,7 +8785,7 @@ f yo t o2
 kp 
 
 sen (θ1 ) (1 - 0,81 β)
- γ Mj 
+ γ Mj 
 
 d0
 Nudos en K y N con separación o recubrimiento (solape)
@@ -9150,8 +9150,8 @@ f yo t o2
 
 
 (1 - β) sen (θ1 )  sen (θ1 )
- γ Mj 
 
+ γ Mj 
 
 b0
 Nudos en K y N con separación
@@ -9191,7 +9191,7 @@ t0
 
  γ kn 
 sen (θ1 )  2 b o 
- γ Mj 
+ γ Mj 
 
 b0
 Nudos en K y N con solape*
@@ -9231,7 +9231,7 @@ b2
  1 
 Ni, Rd = f yi t i (2 h i − 4 t i + b ef + b e,ov ) 
 
- γ Mj 
+ γ Mj 
 
 θ2
 t0
@@ -9245,7 +9245,7 @@ b0
  1 
 Ni, Rd = f yi t i (2 h i − 4 t i + b i + b e,ov ) 
 
- γ Mj 
+ γ Mj 
 Multiplicar las resistencias antes citadas por π/4 y sustituir
 b1 y h1 por d1 y sustituir b2 y h2 por d2
 
@@ -9479,7 +9479,7 @@ N1, Rd =
 f yo t w b w  1 
 
 
-sen (θ1 )  γ Mj 
+sen (θ1 )  γ Mj 
 
 Reducción de anchura eficaz
 
@@ -9497,14 +9497,14 @@ Ni, Rd =
 f yo t w b w  1 
 
 
-sen (θ1 )  γ Mj 
+sen (θ1 )  γ Mj 
 
 Red. de anchura eficaz
 
  1 
 N1, Rd = 2 f y1 t i b ef 
 
- γ Mj 
+ γ Mj 
 
 No es necesaria la comprobación de anchura
 efectiva si:
@@ -9523,7 +9523,7 @@ Nudos en K y N con solape (1)
  1 
 
 
-3 sen (θ1 )  γ Mj 
+3 sen (θ1 )  γ Mj 
 f yo A v
 
 25% ≤ λov ≤ 50%
@@ -9534,7 +9534,7 @@ Reducción de anchura eficaz
 λ
 Ni, Rd = f yi t i  ov (2 h i − 4 t i ) + b ef + b e,ov  
 
-  γ Mj 
+  γ Mj 
  50
 50% ≤ λov ≤ 80%
 
@@ -9543,7 +9543,7 @@ Reducción de anchura eficaz
  1 
 Ni, Rd = f yi t i (2 h i − 4 t i + b ef + b e,ov ) 
 
- γ Mj 
+ γ Mj 
 λov ≥ 80%
 
 Reducción de anchura eficaz
@@ -9552,13 +9552,13 @@ Reducción de anchura eficaz
 λ
 Ni, Rd = f yi t i  ov (2 h i − 4 t i ) + b eff + b e,ov  
 
-  γ Mj 
+  γ Mj 
  50
 
  1 
 Ni, Rd = f yi t i (2 h i − 4 t i + b i + b e,ov ) 
 
- γ Mj 
+ γ Mj 
 
 Funciones
 
@@ -10974,7 +10974,7 @@ con la horizontal del alma:
 ∆= el mayor de:  1000 
 
 
- 6mm 
+ 6mm 
 
 Perpendicularidad al eje longitudinal:
 - No acabado para apoyo de contacto total:
@@ -13354,9 +13354,9 @@ Descripción
 k s = 1 +
  
 t t1' 5 + t1,5  t 
- 1 1
- 1 
-2 
+ 1 
+ 1 1
+2 
 
 Con chapa dorsal
 14) Empalme transversal
